@@ -1,0 +1,3522 @@
+[
+  {
+    "name": "Andaman and Nicobar Islands",
+    "slug": "andaman-and-nicobar-islands",
+    "type": "ut",
+    "capital": "Port Blair",
+    "code": "AN",
+    "districtCount": 3,
+    "districts": [
+      {
+        "name": "Nicobar",
+        "slug": "nicobar"
+      },
+      {
+        "name": "North and Middle Andaman",
+        "slug": "north-and-middle-andaman"
+      },
+      {
+        "name": "South Andaman",
+        "slug": "south-andaman"
+      }
+    ]
+  },
+  {
+    "name": "Andhra Pradesh",
+    "slug": "andhra-pradesh",
+    "type": "state",
+    "capital": "Amaravati",
+    "code": "AP",
+    "districtCount": 28,
+    "districts": [
+      {
+        "name": "Alluri Sitharama Raju",
+        "slug": "alluri-sitharama-raju"
+      },
+      {
+        "name": "Anakapalli",
+        "slug": "anakapalli"
+      },
+      {
+        "name": "Ananthapuramu",
+        "slug": "ananthapuramu"
+      },
+      {
+        "name": "Annamayya",
+        "slug": "annamayya"
+      },
+      {
+        "name": "Bapatla",
+        "slug": "bapatla"
+      },
+      {
+        "name": "Chittoor",
+        "slug": "chittoor"
+      },
+      {
+        "name": "Dr. B.R. Ambedkar Konaseema",
+        "slug": "dr-b-r-ambedkar-konaseema"
+      },
+      {
+        "name": "East Godavari",
+        "slug": "east-godavari"
+      },
+      {
+        "name": "Eluru",
+        "slug": "eluru"
+      },
+      {
+        "name": "Guntur",
+        "slug": "guntur"
+      },
+      {
+        "name": "Kakinada",
+        "slug": "kakinada"
+      },
+      {
+        "name": "Krishna",
+        "slug": "krishna"
+      },
+      {
+        "name": "Kurnool",
+        "slug": "kurnool"
+      },
+      {
+        "name": "Markapuram",
+        "slug": "markapuram"
+      },
+      {
+        "name": "Nandyal",
+        "slug": "nandyal"
+      },
+      {
+        "name": "Nellore",
+        "slug": "nellore"
+      },
+      {
+        "name": "NTR",
+        "slug": "ntr"
+      },
+      {
+        "name": "Palnadu",
+        "slug": "palnadu"
+      },
+      {
+        "name": "Parvathipuram Manyam",
+        "slug": "parvathipuram-manyam"
+      },
+      {
+        "name": "Polavaram",
+        "slug": "polavaram"
+      },
+      {
+        "name": "Prakasam",
+        "slug": "prakasam"
+      },
+      {
+        "name": "Sri Sathya Sai",
+        "slug": "sri-sathya-sai"
+      },
+      {
+        "name": "Srikakulam",
+        "slug": "srikakulam"
+      },
+      {
+        "name": "Tirupati",
+        "slug": "tirupati"
+      },
+      {
+        "name": "Visakhapatnam",
+        "slug": "visakhapatnam"
+      },
+      {
+        "name": "Vizianagaram",
+        "slug": "vizianagaram"
+      },
+      {
+        "name": "West Godavari",
+        "slug": "west-godavari"
+      },
+      {
+        "name": "YSR Kadapa",
+        "slug": "ysr-kadapa"
+      }
+    ]
+  },
+  {
+    "name": "Arunachal Pradesh",
+    "slug": "arunachal-pradesh",
+    "type": "state",
+    "capital": "Itanagar",
+    "code": "AR",
+    "districtCount": 27,
+    "districts": [
+      {
+        "name": "Anjaw",
+        "slug": "anjaw"
+      },
+      {
+        "name": "Bichom",
+        "slug": "bichom"
+      },
+      {
+        "name": "Changlang",
+        "slug": "changlang"
+      },
+      {
+        "name": "East Kameng",
+        "slug": "east-kameng"
+      },
+      {
+        "name": "East Siang",
+        "slug": "east-siang"
+      },
+      {
+        "name": "Kamle",
+        "slug": "kamle"
+      },
+      {
+        "name": "Keyi Panyor",
+        "slug": "keyi-panyor"
+      },
+      {
+        "name": "Kra Daadi",
+        "slug": "kra-daadi"
+      },
+      {
+        "name": "Kurung Kumey",
+        "slug": "kurung-kumey"
+      },
+      {
+        "name": "Lepa Rada",
+        "slug": "lepa-rada"
+      },
+      {
+        "name": "Lohit",
+        "slug": "lohit"
+      },
+      {
+        "name": "Longding",
+        "slug": "longding"
+      },
+      {
+        "name": "Lower Dibang Valley",
+        "slug": "lower-dibang-valley"
+      },
+      {
+        "name": "Lower Siang",
+        "slug": "lower-siang"
+      },
+      {
+        "name": "Lower Subansiri",
+        "slug": "lower-subansiri"
+      },
+      {
+        "name": "Namsai",
+        "slug": "namsai"
+      },
+      {
+        "name": "Pakke-Kessang",
+        "slug": "pakke-kessang"
+      },
+      {
+        "name": "Papum Pare",
+        "slug": "papum-pare"
+      },
+      {
+        "name": "Shi Yomi",
+        "slug": "shi-yomi"
+      },
+      {
+        "name": "Siang",
+        "slug": "siang"
+      },
+      {
+        "name": "Tawang",
+        "slug": "tawang"
+      },
+      {
+        "name": "Tirap",
+        "slug": "tirap"
+      },
+      {
+        "name": "Upper Dibang Valley",
+        "slug": "upper-dibang-valley"
+      },
+      {
+        "name": "Upper Siang",
+        "slug": "upper-siang"
+      },
+      {
+        "name": "Upper Subansiri",
+        "slug": "upper-subansiri"
+      },
+      {
+        "name": "West Kameng",
+        "slug": "west-kameng"
+      },
+      {
+        "name": "West Siang",
+        "slug": "west-siang"
+      }
+    ]
+  },
+  {
+    "name": "Assam",
+    "slug": "assam",
+    "type": "state",
+    "capital": "Dispur",
+    "code": "AS",
+    "districtCount": 35,
+    "districts": [
+      {
+        "name": "Bajali",
+        "slug": "bajali"
+      },
+      {
+        "name": "Baksa",
+        "slug": "baksa"
+      },
+      {
+        "name": "Barpeta",
+        "slug": "barpeta"
+      },
+      {
+        "name": "Biswanath",
+        "slug": "biswanath"
+      },
+      {
+        "name": "Bongaigaon",
+        "slug": "bongaigaon"
+      },
+      {
+        "name": "Cachar",
+        "slug": "cachar"
+      },
+      {
+        "name": "Charaideo",
+        "slug": "charaideo"
+      },
+      {
+        "name": "Chirang",
+        "slug": "chirang"
+      },
+      {
+        "name": "Darrang",
+        "slug": "darrang"
+      },
+      {
+        "name": "Dhemaji",
+        "slug": "dhemaji"
+      },
+      {
+        "name": "Dhubri",
+        "slug": "dhubri"
+      },
+      {
+        "name": "Dibrugarh",
+        "slug": "dibrugarh"
+      },
+      {
+        "name": "Dima Hasao",
+        "slug": "dima-hasao"
+      },
+      {
+        "name": "Goalpara",
+        "slug": "goalpara"
+      },
+      {
+        "name": "Golaghat",
+        "slug": "golaghat"
+      },
+      {
+        "name": "Hailakandi",
+        "slug": "hailakandi"
+      },
+      {
+        "name": "Hojai",
+        "slug": "hojai"
+      },
+      {
+        "name": "Jorhat",
+        "slug": "jorhat"
+      },
+      {
+        "name": "Kamrup",
+        "slug": "kamrup"
+      },
+      {
+        "name": "Kamrup Metropolitan",
+        "slug": "kamrup-metropolitan"
+      },
+      {
+        "name": "Karbi Anglong",
+        "slug": "karbi-anglong"
+      },
+      {
+        "name": "Karimganj",
+        "slug": "karimganj"
+      },
+      {
+        "name": "Kokrajhar",
+        "slug": "kokrajhar"
+      },
+      {
+        "name": "Lakhimpur",
+        "slug": "lakhimpur"
+      },
+      {
+        "name": "Majuli",
+        "slug": "majuli"
+      },
+      {
+        "name": "Morigaon",
+        "slug": "morigaon"
+      },
+      {
+        "name": "Nagaon",
+        "slug": "nagaon"
+      },
+      {
+        "name": "Nalbari",
+        "slug": "nalbari"
+      },
+      {
+        "name": "Sivasagar",
+        "slug": "sivasagar"
+      },
+      {
+        "name": "Sonitpur",
+        "slug": "sonitpur"
+      },
+      {
+        "name": "South Salmara-Mankachar",
+        "slug": "south-salmara-mankachar"
+      },
+      {
+        "name": "Tamulpur",
+        "slug": "tamulpur"
+      },
+      {
+        "name": "Tinsukia",
+        "slug": "tinsukia"
+      },
+      {
+        "name": "Udalguri",
+        "slug": "udalguri"
+      },
+      {
+        "name": "West Karbi Anglong",
+        "slug": "west-karbi-anglong"
+      }
+    ]
+  },
+  {
+    "name": "Bihar",
+    "slug": "bihar",
+    "type": "state",
+    "capital": "Patna",
+    "code": "BR",
+    "districtCount": 38,
+    "districts": [
+      {
+        "name": "Araria",
+        "slug": "araria"
+      },
+      {
+        "name": "Arwal",
+        "slug": "arwal"
+      },
+      {
+        "name": "Aurangabad",
+        "slug": "aurangabad"
+      },
+      {
+        "name": "Banka",
+        "slug": "banka"
+      },
+      {
+        "name": "Begusarai",
+        "slug": "begusarai"
+      },
+      {
+        "name": "Bhagalpur",
+        "slug": "bhagalpur"
+      },
+      {
+        "name": "Bhojpur",
+        "slug": "bhojpur"
+      },
+      {
+        "name": "Buxar",
+        "slug": "buxar"
+      },
+      {
+        "name": "Darbhanga",
+        "slug": "darbhanga"
+      },
+      {
+        "name": "East Champaran",
+        "slug": "east-champaran"
+      },
+      {
+        "name": "Gaya",
+        "slug": "gaya"
+      },
+      {
+        "name": "Gopalganj",
+        "slug": "gopalganj"
+      },
+      {
+        "name": "Jamui",
+        "slug": "jamui"
+      },
+      {
+        "name": "Jehanabad",
+        "slug": "jehanabad"
+      },
+      {
+        "name": "Kaimur",
+        "slug": "kaimur"
+      },
+      {
+        "name": "Katihar",
+        "slug": "katihar"
+      },
+      {
+        "name": "Khagaria",
+        "slug": "khagaria"
+      },
+      {
+        "name": "Kishanganj",
+        "slug": "kishanganj"
+      },
+      {
+        "name": "Lakhisarai",
+        "slug": "lakhisarai"
+      },
+      {
+        "name": "Madhepura",
+        "slug": "madhepura"
+      },
+      {
+        "name": "Madhubani",
+        "slug": "madhubani"
+      },
+      {
+        "name": "Munger",
+        "slug": "munger"
+      },
+      {
+        "name": "Muzaffarpur",
+        "slug": "muzaffarpur"
+      },
+      {
+        "name": "Nalanda",
+        "slug": "nalanda"
+      },
+      {
+        "name": "Nawada",
+        "slug": "nawada"
+      },
+      {
+        "name": "Patna",
+        "slug": "patna"
+      },
+      {
+        "name": "Purnia",
+        "slug": "purnia"
+      },
+      {
+        "name": "Rohtas",
+        "slug": "rohtas"
+      },
+      {
+        "name": "Saharsa",
+        "slug": "saharsa"
+      },
+      {
+        "name": "Samastipur",
+        "slug": "samastipur"
+      },
+      {
+        "name": "Saran",
+        "slug": "saran"
+      },
+      {
+        "name": "Sheikhpura",
+        "slug": "sheikhpura"
+      },
+      {
+        "name": "Sheohar",
+        "slug": "sheohar"
+      },
+      {
+        "name": "Sitamarhi",
+        "slug": "sitamarhi"
+      },
+      {
+        "name": "Siwan",
+        "slug": "siwan"
+      },
+      {
+        "name": "Supaul",
+        "slug": "supaul"
+      },
+      {
+        "name": "Vaishali",
+        "slug": "vaishali"
+      },
+      {
+        "name": "West Champaran",
+        "slug": "west-champaran"
+      }
+    ]
+  },
+  {
+    "name": "Chandigarh",
+    "slug": "chandigarh",
+    "type": "ut",
+    "capital": "Chandigarh",
+    "code": "CH",
+    "districtCount": 1,
+    "districts": [
+      {
+        "name": "Chandigarh",
+        "slug": "chandigarh"
+      }
+    ]
+  },
+  {
+    "name": "Chhattisgarh",
+    "slug": "chhattisgarh",
+    "type": "state",
+    "capital": "Raipur",
+    "code": "CG",
+    "districtCount": 33,
+    "districts": [
+      {
+        "name": "Balod",
+        "slug": "balod"
+      },
+      {
+        "name": "Baloda Bazar",
+        "slug": "baloda-bazar"
+      },
+      {
+        "name": "Balrampur-Ramanujganj",
+        "slug": "balrampur-ramanujganj"
+      },
+      {
+        "name": "Bastar",
+        "slug": "bastar"
+      },
+      {
+        "name": "Bemetara",
+        "slug": "bemetara"
+      },
+      {
+        "name": "Bijapur",
+        "slug": "bijapur"
+      },
+      {
+        "name": "Bilaspur",
+        "slug": "bilaspur"
+      },
+      {
+        "name": "Dantewada",
+        "slug": "dantewada"
+      },
+      {
+        "name": "Dhamtari",
+        "slug": "dhamtari"
+      },
+      {
+        "name": "Durg",
+        "slug": "durg"
+      },
+      {
+        "name": "Gariaband",
+        "slug": "gariaband"
+      },
+      {
+        "name": "Gaurela-Pendra-Marwahi",
+        "slug": "gaurela-pendra-marwahi"
+      },
+      {
+        "name": "Janjgir-Champa",
+        "slug": "janjgir-champa"
+      },
+      {
+        "name": "Jashpur",
+        "slug": "jashpur"
+      },
+      {
+        "name": "Kabirdham",
+        "slug": "kabirdham"
+      },
+      {
+        "name": "Kanker",
+        "slug": "kanker"
+      },
+      {
+        "name": "Khairagarh-Chhuikhadan-Gandai",
+        "slug": "khairagarh-chhuikhadan-gandai"
+      },
+      {
+        "name": "Kondagaon",
+        "slug": "kondagaon"
+      },
+      {
+        "name": "Korba",
+        "slug": "korba"
+      },
+      {
+        "name": "Korea",
+        "slug": "korea"
+      },
+      {
+        "name": "Mahasamund",
+        "slug": "mahasamund"
+      },
+      {
+        "name": "Manendragarh-Chirmiri-Bharatpur",
+        "slug": "manendragarh-chirmiri-bharatpur"
+      },
+      {
+        "name": "Mohla-Manpur-Ambagarh Chowki",
+        "slug": "mohla-manpur-ambagarh-chowki"
+      },
+      {
+        "name": "Mungeli",
+        "slug": "mungeli"
+      },
+      {
+        "name": "Narayanpur",
+        "slug": "narayanpur"
+      },
+      {
+        "name": "Raigarh",
+        "slug": "raigarh"
+      },
+      {
+        "name": "Raipur",
+        "slug": "raipur"
+      },
+      {
+        "name": "Rajnandgaon",
+        "slug": "rajnandgaon"
+      },
+      {
+        "name": "Sakti",
+        "slug": "sakti"
+      },
+      {
+        "name": "Sarangarh-Bilaigarh",
+        "slug": "sarangarh-bilaigarh"
+      },
+      {
+        "name": "Sukma",
+        "slug": "sukma"
+      },
+      {
+        "name": "Surajpur",
+        "slug": "surajpur"
+      },
+      {
+        "name": "Surguja",
+        "slug": "surguja"
+      }
+    ]
+  },
+  {
+    "name": "Dadra and Nagar Haveli and Daman and Diu",
+    "slug": "dadra-and-nagar-haveli-and-daman-and-diu",
+    "type": "ut",
+    "capital": "Daman",
+    "code": "DH",
+    "districtCount": 3,
+    "districts": [
+      {
+        "name": "Dadra and Nagar Haveli",
+        "slug": "dadra-and-nagar-haveli"
+      },
+      {
+        "name": "Daman",
+        "slug": "daman"
+      },
+      {
+        "name": "Diu",
+        "slug": "diu"
+      }
+    ]
+  },
+  {
+    "name": "Delhi",
+    "slug": "delhi",
+    "type": "ut",
+    "capital": "New Delhi",
+    "code": "DL",
+    "districtCount": 13,
+    "districts": [
+      {
+        "name": "Central Delhi",
+        "slug": "central-delhi"
+      },
+      {
+        "name": "Central North Delhi",
+        "slug": "central-north-delhi"
+      },
+      {
+        "name": "East Delhi",
+        "slug": "east-delhi"
+      },
+      {
+        "name": "New Delhi",
+        "slug": "new-delhi"
+      },
+      {
+        "name": "North Delhi",
+        "slug": "north-delhi"
+      },
+      {
+        "name": "North East Delhi",
+        "slug": "north-east-delhi"
+      },
+      {
+        "name": "North West Delhi",
+        "slug": "north-west-delhi"
+      },
+      {
+        "name": "Old Delhi",
+        "slug": "old-delhi"
+      },
+      {
+        "name": "Outer North Delhi",
+        "slug": "outer-north-delhi"
+      },
+      {
+        "name": "South Delhi",
+        "slug": "south-delhi"
+      },
+      {
+        "name": "South East Delhi",
+        "slug": "south-east-delhi"
+      },
+      {
+        "name": "South West Delhi",
+        "slug": "south-west-delhi"
+      },
+      {
+        "name": "West Delhi",
+        "slug": "west-delhi"
+      }
+    ]
+  },
+  {
+    "name": "Goa",
+    "slug": "goa",
+    "type": "state",
+    "capital": "Panaji",
+    "code": "GA",
+    "districtCount": 3,
+    "districts": [
+      {
+        "name": "Kushavati",
+        "slug": "kushavati"
+      },
+      {
+        "name": "North Goa",
+        "slug": "north-goa"
+      },
+      {
+        "name": "South Goa",
+        "slug": "south-goa"
+      }
+    ]
+  },
+  {
+    "name": "Gujarat",
+    "slug": "gujarat",
+    "type": "state",
+    "capital": "Gandhinagar",
+    "code": "GJ",
+    "districtCount": 34,
+    "districts": [
+      {
+        "name": "Ahmedabad",
+        "slug": "ahmedabad"
+      },
+      {
+        "name": "Amreli",
+        "slug": "amreli"
+      },
+      {
+        "name": "Anand",
+        "slug": "anand"
+      },
+      {
+        "name": "Aravalli",
+        "slug": "aravalli"
+      },
+      {
+        "name": "Banaskantha",
+        "slug": "banaskantha"
+      },
+      {
+        "name": "Bharuch",
+        "slug": "bharuch"
+      },
+      {
+        "name": "Bhavnagar",
+        "slug": "bhavnagar"
+      },
+      {
+        "name": "Botad",
+        "slug": "botad"
+      },
+      {
+        "name": "Chhota Udaipur",
+        "slug": "chhota-udaipur"
+      },
+      {
+        "name": "Dahod",
+        "slug": "dahod"
+      },
+      {
+        "name": "Dang",
+        "slug": "dang"
+      },
+      {
+        "name": "Devbhumi Dwarka",
+        "slug": "devbhumi-dwarka"
+      },
+      {
+        "name": "Gandhinagar",
+        "slug": "gandhinagar"
+      },
+      {
+        "name": "Gir Somnath",
+        "slug": "gir-somnath"
+      },
+      {
+        "name": "Jamnagar",
+        "slug": "jamnagar"
+      },
+      {
+        "name": "Junagadh",
+        "slug": "junagadh"
+      },
+      {
+        "name": "Kheda",
+        "slug": "kheda"
+      },
+      {
+        "name": "Kutch",
+        "slug": "kutch"
+      },
+      {
+        "name": "Mahisagar",
+        "slug": "mahisagar"
+      },
+      {
+        "name": "Mehsana",
+        "slug": "mehsana"
+      },
+      {
+        "name": "Morbi",
+        "slug": "morbi"
+      },
+      {
+        "name": "Narmada",
+        "slug": "narmada"
+      },
+      {
+        "name": "Navsari",
+        "slug": "navsari"
+      },
+      {
+        "name": "Panchmahal",
+        "slug": "panchmahal"
+      },
+      {
+        "name": "Patan",
+        "slug": "patan"
+      },
+      {
+        "name": "Porbandar",
+        "slug": "porbandar"
+      },
+      {
+        "name": "Rajkot",
+        "slug": "rajkot"
+      },
+      {
+        "name": "Sabarkantha",
+        "slug": "sabarkantha"
+      },
+      {
+        "name": "Surat",
+        "slug": "surat"
+      },
+      {
+        "name": "Surendranagar",
+        "slug": "surendranagar"
+      },
+      {
+        "name": "Tapi",
+        "slug": "tapi"
+      },
+      {
+        "name": "Vadodara",
+        "slug": "vadodara"
+      },
+      {
+        "name": "Valsad",
+        "slug": "valsad"
+      },
+      {
+        "name": "Vav-Tharad",
+        "slug": "vav-tharad"
+      }
+    ]
+  },
+  {
+    "name": "Haryana",
+    "slug": "haryana",
+    "type": "state",
+    "capital": "Chandigarh",
+    "code": "HR",
+    "districtCount": 23,
+    "districts": [
+      {
+        "name": "Ambala",
+        "slug": "ambala"
+      },
+      {
+        "name": "Bhiwani",
+        "slug": "bhiwani"
+      },
+      {
+        "name": "Charkhi Dadri",
+        "slug": "charkhi-dadri"
+      },
+      {
+        "name": "Faridabad",
+        "slug": "faridabad"
+      },
+      {
+        "name": "Fatehabad",
+        "slug": "fatehabad"
+      },
+      {
+        "name": "Gurugram",
+        "slug": "gurugram"
+      },
+      {
+        "name": "Hansi",
+        "slug": "hansi"
+      },
+      {
+        "name": "Hisar",
+        "slug": "hisar"
+      },
+      {
+        "name": "Jhajjar",
+        "slug": "jhajjar"
+      },
+      {
+        "name": "Jind",
+        "slug": "jind"
+      },
+      {
+        "name": "Kaithal",
+        "slug": "kaithal"
+      },
+      {
+        "name": "Karnal",
+        "slug": "karnal"
+      },
+      {
+        "name": "Kurukshetra",
+        "slug": "kurukshetra"
+      },
+      {
+        "name": "Mahendragarh",
+        "slug": "mahendragarh"
+      },
+      {
+        "name": "Nuh",
+        "slug": "nuh"
+      },
+      {
+        "name": "Palwal",
+        "slug": "palwal"
+      },
+      {
+        "name": "Panchkula",
+        "slug": "panchkula"
+      },
+      {
+        "name": "Panipat",
+        "slug": "panipat"
+      },
+      {
+        "name": "Rewari",
+        "slug": "rewari"
+      },
+      {
+        "name": "Rohtak",
+        "slug": "rohtak"
+      },
+      {
+        "name": "Sirsa",
+        "slug": "sirsa"
+      },
+      {
+        "name": "Sonipat",
+        "slug": "sonipat"
+      },
+      {
+        "name": "Yamunanagar",
+        "slug": "yamunanagar"
+      }
+    ]
+  },
+  {
+    "name": "Himachal Pradesh",
+    "slug": "himachal-pradesh",
+    "type": "state",
+    "capital": "Shimla",
+    "code": "HP",
+    "districtCount": 12,
+    "districts": [
+      {
+        "name": "Bilaspur",
+        "slug": "bilaspur"
+      },
+      {
+        "name": "Chamba",
+        "slug": "chamba"
+      },
+      {
+        "name": "Hamirpur",
+        "slug": "hamirpur"
+      },
+      {
+        "name": "Kangra",
+        "slug": "kangra"
+      },
+      {
+        "name": "Kinnaur",
+        "slug": "kinnaur"
+      },
+      {
+        "name": "Kullu",
+        "slug": "kullu"
+      },
+      {
+        "name": "Lahaul and Spiti",
+        "slug": "lahaul-and-spiti"
+      },
+      {
+        "name": "Mandi",
+        "slug": "mandi"
+      },
+      {
+        "name": "Shimla",
+        "slug": "shimla"
+      },
+      {
+        "name": "Sirmaur",
+        "slug": "sirmaur"
+      },
+      {
+        "name": "Solan",
+        "slug": "solan"
+      },
+      {
+        "name": "Una",
+        "slug": "una"
+      }
+    ]
+  },
+  {
+    "name": "Jammu and Kashmir",
+    "slug": "jammu-and-kashmir",
+    "type": "ut",
+    "capital": "Srinagar (summer) / Jammu (winter)",
+    "code": "JK",
+    "districtCount": 20,
+    "districts": [
+      {
+        "name": "Anantnag",
+        "slug": "anantnag"
+      },
+      {
+        "name": "Bandipore",
+        "slug": "bandipore"
+      },
+      {
+        "name": "Baramulla",
+        "slug": "baramulla"
+      },
+      {
+        "name": "Budgam",
+        "slug": "budgam"
+      },
+      {
+        "name": "Doda",
+        "slug": "doda"
+      },
+      {
+        "name": "Ganderbal",
+        "slug": "ganderbal"
+      },
+      {
+        "name": "Jammu",
+        "slug": "jammu"
+      },
+      {
+        "name": "Kathua",
+        "slug": "kathua"
+      },
+      {
+        "name": "Kishtwar",
+        "slug": "kishtwar"
+      },
+      {
+        "name": "Kulgam",
+        "slug": "kulgam"
+      },
+      {
+        "name": "Kupwara",
+        "slug": "kupwara"
+      },
+      {
+        "name": "Poonch",
+        "slug": "poonch"
+      },
+      {
+        "name": "Pulwama",
+        "slug": "pulwama"
+      },
+      {
+        "name": "Rajouri",
+        "slug": "rajouri"
+      },
+      {
+        "name": "Ramban",
+        "slug": "ramban"
+      },
+      {
+        "name": "Reasi",
+        "slug": "reasi"
+      },
+      {
+        "name": "Samba",
+        "slug": "samba"
+      },
+      {
+        "name": "Shopian",
+        "slug": "shopian"
+      },
+      {
+        "name": "Srinagar",
+        "slug": "srinagar"
+      },
+      {
+        "name": "Udhampur",
+        "slug": "udhampur"
+      }
+    ]
+  },
+  {
+    "name": "Jharkhand",
+    "slug": "jharkhand",
+    "type": "state",
+    "capital": "Ranchi",
+    "code": "JH",
+    "districtCount": 24,
+    "districts": [
+      {
+        "name": "Bokaro",
+        "slug": "bokaro"
+      },
+      {
+        "name": "Chatra",
+        "slug": "chatra"
+      },
+      {
+        "name": "Deoghar",
+        "slug": "deoghar"
+      },
+      {
+        "name": "Dhanbad",
+        "slug": "dhanbad"
+      },
+      {
+        "name": "Dumka",
+        "slug": "dumka"
+      },
+      {
+        "name": "East Singhbhum",
+        "slug": "east-singhbhum"
+      },
+      {
+        "name": "Garhwa",
+        "slug": "garhwa"
+      },
+      {
+        "name": "Giridih",
+        "slug": "giridih"
+      },
+      {
+        "name": "Godda",
+        "slug": "godda"
+      },
+      {
+        "name": "Gumla",
+        "slug": "gumla"
+      },
+      {
+        "name": "Hazaribag",
+        "slug": "hazaribag"
+      },
+      {
+        "name": "Jamtara",
+        "slug": "jamtara"
+      },
+      {
+        "name": "Khunti",
+        "slug": "khunti"
+      },
+      {
+        "name": "Koderma",
+        "slug": "koderma"
+      },
+      {
+        "name": "Latehar",
+        "slug": "latehar"
+      },
+      {
+        "name": "Lohardaga",
+        "slug": "lohardaga"
+      },
+      {
+        "name": "Pakur",
+        "slug": "pakur"
+      },
+      {
+        "name": "Palamu",
+        "slug": "palamu"
+      },
+      {
+        "name": "Ramgarh",
+        "slug": "ramgarh"
+      },
+      {
+        "name": "Ranchi",
+        "slug": "ranchi"
+      },
+      {
+        "name": "Sahibganj",
+        "slug": "sahibganj"
+      },
+      {
+        "name": "Seraikela-Kharsawan",
+        "slug": "seraikela-kharsawan"
+      },
+      {
+        "name": "Simdega",
+        "slug": "simdega"
+      },
+      {
+        "name": "West Singhbhum",
+        "slug": "west-singhbhum"
+      }
+    ]
+  },
+  {
+    "name": "Karnataka",
+    "slug": "karnataka",
+    "type": "state",
+    "capital": "Bengaluru",
+    "code": "KA",
+    "districtCount": 31,
+    "districts": [
+      {
+        "name": "Bagalkot",
+        "slug": "bagalkot"
+      },
+      {
+        "name": "Ballari",
+        "slug": "ballari"
+      },
+      {
+        "name": "Belagavi",
+        "slug": "belagavi"
+      },
+      {
+        "name": "Bengaluru Rural",
+        "slug": "bengaluru-rural"
+      },
+      {
+        "name": "Bengaluru Urban",
+        "slug": "bengaluru-urban"
+      },
+      {
+        "name": "Bidar",
+        "slug": "bidar"
+      },
+      {
+        "name": "Chamarajanagar",
+        "slug": "chamarajanagar"
+      },
+      {
+        "name": "Chikkaballapur",
+        "slug": "chikkaballapur"
+      },
+      {
+        "name": "Chikkamagaluru",
+        "slug": "chikkamagaluru"
+      },
+      {
+        "name": "Chitradurga",
+        "slug": "chitradurga"
+      },
+      {
+        "name": "Dakshina Kannada",
+        "slug": "dakshina-kannada"
+      },
+      {
+        "name": "Davanagere",
+        "slug": "davanagere"
+      },
+      {
+        "name": "Dharwad",
+        "slug": "dharwad"
+      },
+      {
+        "name": "Gadag",
+        "slug": "gadag"
+      },
+      {
+        "name": "Hassan",
+        "slug": "hassan"
+      },
+      {
+        "name": "Haveri",
+        "slug": "haveri"
+      },
+      {
+        "name": "Kalaburagi",
+        "slug": "kalaburagi"
+      },
+      {
+        "name": "Kodagu",
+        "slug": "kodagu"
+      },
+      {
+        "name": "Kolar",
+        "slug": "kolar"
+      },
+      {
+        "name": "Koppal",
+        "slug": "koppal"
+      },
+      {
+        "name": "Mandya",
+        "slug": "mandya"
+      },
+      {
+        "name": "Mysuru",
+        "slug": "mysuru"
+      },
+      {
+        "name": "Raichur",
+        "slug": "raichur"
+      },
+      {
+        "name": "Ramanagara",
+        "slug": "ramanagara"
+      },
+      {
+        "name": "Shivamogga",
+        "slug": "shivamogga"
+      },
+      {
+        "name": "Tumakuru",
+        "slug": "tumakuru"
+      },
+      {
+        "name": "Udupi",
+        "slug": "udupi"
+      },
+      {
+        "name": "Uttara Kannada",
+        "slug": "uttara-kannada"
+      },
+      {
+        "name": "Vijayanagara",
+        "slug": "vijayanagara"
+      },
+      {
+        "name": "Vijayapura",
+        "slug": "vijayapura"
+      },
+      {
+        "name": "Yadgir",
+        "slug": "yadgir"
+      }
+    ]
+  },
+  {
+    "name": "Kerala",
+    "slug": "kerala",
+    "type": "state",
+    "capital": "Thiruvananthapuram",
+    "code": "KL",
+    "districtCount": 14,
+    "districts": [
+      {
+        "name": "Alappuzha",
+        "slug": "alappuzha"
+      },
+      {
+        "name": "Ernakulam",
+        "slug": "ernakulam"
+      },
+      {
+        "name": "Idukki",
+        "slug": "idukki"
+      },
+      {
+        "name": "Kannur",
+        "slug": "kannur"
+      },
+      {
+        "name": "Kasaragod",
+        "slug": "kasaragod"
+      },
+      {
+        "name": "Kollam",
+        "slug": "kollam"
+      },
+      {
+        "name": "Kottayam",
+        "slug": "kottayam"
+      },
+      {
+        "name": "Kozhikode",
+        "slug": "kozhikode"
+      },
+      {
+        "name": "Malappuram",
+        "slug": "malappuram"
+      },
+      {
+        "name": "Palakkad",
+        "slug": "palakkad"
+      },
+      {
+        "name": "Pathanamthitta",
+        "slug": "pathanamthitta"
+      },
+      {
+        "name": "Thiruvananthapuram",
+        "slug": "thiruvananthapuram"
+      },
+      {
+        "name": "Thrissur",
+        "slug": "thrissur"
+      },
+      {
+        "name": "Wayanad",
+        "slug": "wayanad"
+      }
+    ]
+  },
+  {
+    "name": "Ladakh",
+    "slug": "ladakh",
+    "type": "ut",
+    "capital": "Leh",
+    "code": "LA",
+    "districtCount": 7,
+    "districts": [
+      {
+        "name": "Changthang",
+        "slug": "changthang"
+      },
+      {
+        "name": "Drass",
+        "slug": "drass"
+      },
+      {
+        "name": "Kargil",
+        "slug": "kargil"
+      },
+      {
+        "name": "Leh",
+        "slug": "leh"
+      },
+      {
+        "name": "Nubra",
+        "slug": "nubra"
+      },
+      {
+        "name": "Sham",
+        "slug": "sham"
+      },
+      {
+        "name": "Zanskar",
+        "slug": "zanskar"
+      }
+    ]
+  },
+  {
+    "name": "Lakshadweep",
+    "slug": "lakshadweep",
+    "type": "ut",
+    "capital": "Kavaratti",
+    "code": "LD",
+    "districtCount": 1,
+    "districts": [
+      {
+        "name": "Lakshadweep",
+        "slug": "lakshadweep"
+      }
+    ]
+  },
+  {
+    "name": "Madhya Pradesh",
+    "slug": "madhya-pradesh",
+    "type": "state",
+    "capital": "Bhopal",
+    "code": "MP",
+    "districtCount": 55,
+    "districts": [
+      {
+        "name": "Agar Malwa",
+        "slug": "agar-malwa"
+      },
+      {
+        "name": "Alirajpur",
+        "slug": "alirajpur"
+      },
+      {
+        "name": "Anuppur",
+        "slug": "anuppur"
+      },
+      {
+        "name": "Ashoknagar",
+        "slug": "ashoknagar"
+      },
+      {
+        "name": "Balaghat",
+        "slug": "balaghat"
+      },
+      {
+        "name": "Barwani",
+        "slug": "barwani"
+      },
+      {
+        "name": "Betul",
+        "slug": "betul"
+      },
+      {
+        "name": "Bhind",
+        "slug": "bhind"
+      },
+      {
+        "name": "Bhopal",
+        "slug": "bhopal"
+      },
+      {
+        "name": "Burhanpur",
+        "slug": "burhanpur"
+      },
+      {
+        "name": "Chhatarpur",
+        "slug": "chhatarpur"
+      },
+      {
+        "name": "Chhindwara",
+        "slug": "chhindwara"
+      },
+      {
+        "name": "Damoh",
+        "slug": "damoh"
+      },
+      {
+        "name": "Datia",
+        "slug": "datia"
+      },
+      {
+        "name": "Dewas",
+        "slug": "dewas"
+      },
+      {
+        "name": "Dhar",
+        "slug": "dhar"
+      },
+      {
+        "name": "Dindori",
+        "slug": "dindori"
+      },
+      {
+        "name": "Guna",
+        "slug": "guna"
+      },
+      {
+        "name": "Gwalior",
+        "slug": "gwalior"
+      },
+      {
+        "name": "Harda",
+        "slug": "harda"
+      },
+      {
+        "name": "Hoshangabad",
+        "slug": "hoshangabad"
+      },
+      {
+        "name": "Indore",
+        "slug": "indore"
+      },
+      {
+        "name": "Jabalpur",
+        "slug": "jabalpur"
+      },
+      {
+        "name": "Jhabua",
+        "slug": "jhabua"
+      },
+      {
+        "name": "Katni",
+        "slug": "katni"
+      },
+      {
+        "name": "Khandwa",
+        "slug": "khandwa"
+      },
+      {
+        "name": "Khargone",
+        "slug": "khargone"
+      },
+      {
+        "name": "Maihar",
+        "slug": "maihar"
+      },
+      {
+        "name": "Mandla",
+        "slug": "mandla"
+      },
+      {
+        "name": "Mandsaur",
+        "slug": "mandsaur"
+      },
+      {
+        "name": "Mauganj",
+        "slug": "mauganj"
+      },
+      {
+        "name": "Morena",
+        "slug": "morena"
+      },
+      {
+        "name": "Narsinghpur",
+        "slug": "narsinghpur"
+      },
+      {
+        "name": "Neemuch",
+        "slug": "neemuch"
+      },
+      {
+        "name": "Niwari",
+        "slug": "niwari"
+      },
+      {
+        "name": "Pandhurna",
+        "slug": "pandhurna"
+      },
+      {
+        "name": "Panna",
+        "slug": "panna"
+      },
+      {
+        "name": "Raisen",
+        "slug": "raisen"
+      },
+      {
+        "name": "Rajgarh",
+        "slug": "rajgarh"
+      },
+      {
+        "name": "Ratlam",
+        "slug": "ratlam"
+      },
+      {
+        "name": "Rewa",
+        "slug": "rewa"
+      },
+      {
+        "name": "Sagar",
+        "slug": "sagar"
+      },
+      {
+        "name": "Satna",
+        "slug": "satna"
+      },
+      {
+        "name": "Sehore",
+        "slug": "sehore"
+      },
+      {
+        "name": "Seoni",
+        "slug": "seoni"
+      },
+      {
+        "name": "Shahdol",
+        "slug": "shahdol"
+      },
+      {
+        "name": "Shajapur",
+        "slug": "shajapur"
+      },
+      {
+        "name": "Sheopur",
+        "slug": "sheopur"
+      },
+      {
+        "name": "Shivpuri",
+        "slug": "shivpuri"
+      },
+      {
+        "name": "Sidhi",
+        "slug": "sidhi"
+      },
+      {
+        "name": "Singrauli",
+        "slug": "singrauli"
+      },
+      {
+        "name": "Tikamgarh",
+        "slug": "tikamgarh"
+      },
+      {
+        "name": "Ujjain",
+        "slug": "ujjain"
+      },
+      {
+        "name": "Umaria",
+        "slug": "umaria"
+      },
+      {
+        "name": "Vidisha",
+        "slug": "vidisha"
+      }
+    ]
+  },
+  {
+    "name": "Maharashtra",
+    "slug": "maharashtra",
+    "type": "state",
+    "capital": "Mumbai",
+    "code": "MH",
+    "districtCount": 36,
+    "districts": [
+      {
+        "name": "Ahmednagar",
+        "slug": "ahmednagar"
+      },
+      {
+        "name": "Akola",
+        "slug": "akola"
+      },
+      {
+        "name": "Amravati",
+        "slug": "amravati"
+      },
+      {
+        "name": "Beed",
+        "slug": "beed"
+      },
+      {
+        "name": "Bhandara",
+        "slug": "bhandara"
+      },
+      {
+        "name": "Buldhana",
+        "slug": "buldhana"
+      },
+      {
+        "name": "Chandrapur",
+        "slug": "chandrapur"
+      },
+      {
+        "name": "Chhatrapati Sambhajinagar",
+        "slug": "chhatrapati-sambhajinagar"
+      },
+      {
+        "name": "Dharashiv",
+        "slug": "dharashiv"
+      },
+      {
+        "name": "Dhule",
+        "slug": "dhule"
+      },
+      {
+        "name": "Gadchiroli",
+        "slug": "gadchiroli"
+      },
+      {
+        "name": "Gondia",
+        "slug": "gondia"
+      },
+      {
+        "name": "Hingoli",
+        "slug": "hingoli"
+      },
+      {
+        "name": "Jalgaon",
+        "slug": "jalgaon"
+      },
+      {
+        "name": "Jalna",
+        "slug": "jalna"
+      },
+      {
+        "name": "Kolhapur",
+        "slug": "kolhapur"
+      },
+      {
+        "name": "Latur",
+        "slug": "latur"
+      },
+      {
+        "name": "Mumbai City",
+        "slug": "mumbai-city"
+      },
+      {
+        "name": "Mumbai Suburban",
+        "slug": "mumbai-suburban"
+      },
+      {
+        "name": "Nagpur",
+        "slug": "nagpur"
+      },
+      {
+        "name": "Nanded",
+        "slug": "nanded"
+      },
+      {
+        "name": "Nandurbar",
+        "slug": "nandurbar"
+      },
+      {
+        "name": "Nashik",
+        "slug": "nashik"
+      },
+      {
+        "name": "Palghar",
+        "slug": "palghar"
+      },
+      {
+        "name": "Parbhani",
+        "slug": "parbhani"
+      },
+      {
+        "name": "Pune",
+        "slug": "pune"
+      },
+      {
+        "name": "Raigad",
+        "slug": "raigad"
+      },
+      {
+        "name": "Ratnagiri",
+        "slug": "ratnagiri"
+      },
+      {
+        "name": "Sangli",
+        "slug": "sangli"
+      },
+      {
+        "name": "Satara",
+        "slug": "satara"
+      },
+      {
+        "name": "Sindhudurg",
+        "slug": "sindhudurg"
+      },
+      {
+        "name": "Solapur",
+        "slug": "solapur"
+      },
+      {
+        "name": "Thane",
+        "slug": "thane"
+      },
+      {
+        "name": "Wardha",
+        "slug": "wardha"
+      },
+      {
+        "name": "Washim",
+        "slug": "washim"
+      },
+      {
+        "name": "Yavatmal",
+        "slug": "yavatmal"
+      }
+    ]
+  },
+  {
+    "name": "Manipur",
+    "slug": "manipur",
+    "type": "state",
+    "capital": "Imphal",
+    "code": "MN",
+    "districtCount": 16,
+    "districts": [
+      {
+        "name": "Bishnupur",
+        "slug": "bishnupur"
+      },
+      {
+        "name": "Chandel",
+        "slug": "chandel"
+      },
+      {
+        "name": "Churachandpur",
+        "slug": "churachandpur"
+      },
+      {
+        "name": "Imphal East",
+        "slug": "imphal-east"
+      },
+      {
+        "name": "Imphal West",
+        "slug": "imphal-west"
+      },
+      {
+        "name": "Jiribam",
+        "slug": "jiribam"
+      },
+      {
+        "name": "Kakching",
+        "slug": "kakching"
+      },
+      {
+        "name": "Kamjong",
+        "slug": "kamjong"
+      },
+      {
+        "name": "Kangpokpi",
+        "slug": "kangpokpi"
+      },
+      {
+        "name": "Noney",
+        "slug": "noney"
+      },
+      {
+        "name": "Pherzawl",
+        "slug": "pherzawl"
+      },
+      {
+        "name": "Senapati",
+        "slug": "senapati"
+      },
+      {
+        "name": "Tamenglong",
+        "slug": "tamenglong"
+      },
+      {
+        "name": "Tengnoupal",
+        "slug": "tengnoupal"
+      },
+      {
+        "name": "Thoubal",
+        "slug": "thoubal"
+      },
+      {
+        "name": "Ukhrul",
+        "slug": "ukhrul"
+      }
+    ]
+  },
+  {
+    "name": "Meghalaya",
+    "slug": "meghalaya",
+    "type": "state",
+    "capital": "Shillong",
+    "code": "ML",
+    "districtCount": 12,
+    "districts": [
+      {
+        "name": "East Garo Hills",
+        "slug": "east-garo-hills"
+      },
+      {
+        "name": "East Jaintia Hills",
+        "slug": "east-jaintia-hills"
+      },
+      {
+        "name": "East Khasi Hills",
+        "slug": "east-khasi-hills"
+      },
+      {
+        "name": "Eastern West Khasi Hills",
+        "slug": "eastern-west-khasi-hills"
+      },
+      {
+        "name": "North Garo Hills",
+        "slug": "north-garo-hills"
+      },
+      {
+        "name": "Ri Bhoi",
+        "slug": "ri-bhoi"
+      },
+      {
+        "name": "South Garo Hills",
+        "slug": "south-garo-hills"
+      },
+      {
+        "name": "South West Garo Hills",
+        "slug": "south-west-garo-hills"
+      },
+      {
+        "name": "South West Khasi Hills",
+        "slug": "south-west-khasi-hills"
+      },
+      {
+        "name": "West Garo Hills",
+        "slug": "west-garo-hills"
+      },
+      {
+        "name": "West Jaintia Hills",
+        "slug": "west-jaintia-hills"
+      },
+      {
+        "name": "West Khasi Hills",
+        "slug": "west-khasi-hills"
+      }
+    ]
+  },
+  {
+    "name": "Mizoram",
+    "slug": "mizoram",
+    "type": "state",
+    "capital": "Aizawl",
+    "code": "MZ",
+    "districtCount": 11,
+    "districts": [
+      {
+        "name": "Aizawl",
+        "slug": "aizawl"
+      },
+      {
+        "name": "Champhai",
+        "slug": "champhai"
+      },
+      {
+        "name": "Hnahthial",
+        "slug": "hnahthial"
+      },
+      {
+        "name": "Khawzawl",
+        "slug": "khawzawl"
+      },
+      {
+        "name": "Kolasib",
+        "slug": "kolasib"
+      },
+      {
+        "name": "Lawngtlai",
+        "slug": "lawngtlai"
+      },
+      {
+        "name": "Lunglei",
+        "slug": "lunglei"
+      },
+      {
+        "name": "Mamit",
+        "slug": "mamit"
+      },
+      {
+        "name": "Saiha",
+        "slug": "saiha"
+      },
+      {
+        "name": "Saitual",
+        "slug": "saitual"
+      },
+      {
+        "name": "Serchhip",
+        "slug": "serchhip"
+      }
+    ]
+  },
+  {
+    "name": "Nagaland",
+    "slug": "nagaland",
+    "type": "state",
+    "capital": "Kohima",
+    "code": "NL",
+    "districtCount": 16,
+    "districts": [
+      {
+        "name": "Chümoukedima",
+        "slug": "ch-moukedima"
+      },
+      {
+        "name": "Dimapur",
+        "slug": "dimapur"
+      },
+      {
+        "name": "Kiphire",
+        "slug": "kiphire"
+      },
+      {
+        "name": "Kohima",
+        "slug": "kohima"
+      },
+      {
+        "name": "Longleng",
+        "slug": "longleng"
+      },
+      {
+        "name": "Mokokchung",
+        "slug": "mokokchung"
+      },
+      {
+        "name": "Mon",
+        "slug": "mon"
+      },
+      {
+        "name": "Niuland",
+        "slug": "niuland"
+      },
+      {
+        "name": "Noklak",
+        "slug": "noklak"
+      },
+      {
+        "name": "Peren",
+        "slug": "peren"
+      },
+      {
+        "name": "Phek",
+        "slug": "phek"
+      },
+      {
+        "name": "Shamator",
+        "slug": "shamator"
+      },
+      {
+        "name": "Tseminyü",
+        "slug": "tseminy"
+      },
+      {
+        "name": "Tuensang",
+        "slug": "tuensang"
+      },
+      {
+        "name": "Wokha",
+        "slug": "wokha"
+      },
+      {
+        "name": "Zunheboto",
+        "slug": "zunheboto"
+      }
+    ]
+  },
+  {
+    "name": "Odisha",
+    "slug": "odisha",
+    "type": "state",
+    "capital": "Bhubaneswar",
+    "code": "OD",
+    "districtCount": 30,
+    "districts": [
+      {
+        "name": "Angul",
+        "slug": "angul"
+      },
+      {
+        "name": "Balangir",
+        "slug": "balangir"
+      },
+      {
+        "name": "Balasore",
+        "slug": "balasore"
+      },
+      {
+        "name": "Bargarh",
+        "slug": "bargarh"
+      },
+      {
+        "name": "Bhadrak",
+        "slug": "bhadrak"
+      },
+      {
+        "name": "Boudh",
+        "slug": "boudh"
+      },
+      {
+        "name": "Cuttack",
+        "slug": "cuttack"
+      },
+      {
+        "name": "Debagarh",
+        "slug": "debagarh"
+      },
+      {
+        "name": "Dhenkanal",
+        "slug": "dhenkanal"
+      },
+      {
+        "name": "Gajapati",
+        "slug": "gajapati"
+      },
+      {
+        "name": "Ganjam",
+        "slug": "ganjam"
+      },
+      {
+        "name": "Jagatsinghpur",
+        "slug": "jagatsinghpur"
+      },
+      {
+        "name": "Jajpur",
+        "slug": "jajpur"
+      },
+      {
+        "name": "Jharsuguda",
+        "slug": "jharsuguda"
+      },
+      {
+        "name": "Kalahandi",
+        "slug": "kalahandi"
+      },
+      {
+        "name": "Kandhamal",
+        "slug": "kandhamal"
+      },
+      {
+        "name": "Kendrapara",
+        "slug": "kendrapara"
+      },
+      {
+        "name": "Kendujhar",
+        "slug": "kendujhar"
+      },
+      {
+        "name": "Khordha",
+        "slug": "khordha"
+      },
+      {
+        "name": "Koraput",
+        "slug": "koraput"
+      },
+      {
+        "name": "Malkangiri",
+        "slug": "malkangiri"
+      },
+      {
+        "name": "Mayurbhanj",
+        "slug": "mayurbhanj"
+      },
+      {
+        "name": "Nabarangpur",
+        "slug": "nabarangpur"
+      },
+      {
+        "name": "Nayagarh",
+        "slug": "nayagarh"
+      },
+      {
+        "name": "Nuapada",
+        "slug": "nuapada"
+      },
+      {
+        "name": "Puri",
+        "slug": "puri"
+      },
+      {
+        "name": "Rayagada",
+        "slug": "rayagada"
+      },
+      {
+        "name": "Sambalpur",
+        "slug": "sambalpur"
+      },
+      {
+        "name": "Subarnapur",
+        "slug": "subarnapur"
+      },
+      {
+        "name": "Sundargarh",
+        "slug": "sundargarh"
+      }
+    ]
+  },
+  {
+    "name": "Puducherry",
+    "slug": "puducherry",
+    "type": "ut",
+    "capital": "Puducherry",
+    "code": "PY",
+    "districtCount": 4,
+    "districts": [
+      {
+        "name": "Karaikal",
+        "slug": "karaikal"
+      },
+      {
+        "name": "Mahe",
+        "slug": "mahe"
+      },
+      {
+        "name": "Puducherry",
+        "slug": "puducherry"
+      },
+      {
+        "name": "Yanam",
+        "slug": "yanam"
+      }
+    ]
+  },
+  {
+    "name": "Punjab",
+    "slug": "punjab",
+    "type": "state",
+    "capital": "Chandigarh",
+    "code": "PB",
+    "districtCount": 23,
+    "districts": [
+      {
+        "name": "Amritsar",
+        "slug": "amritsar"
+      },
+      {
+        "name": "Barnala",
+        "slug": "barnala"
+      },
+      {
+        "name": "Bathinda",
+        "slug": "bathinda"
+      },
+      {
+        "name": "Faridkot",
+        "slug": "faridkot"
+      },
+      {
+        "name": "Fatehgarh Sahib",
+        "slug": "fatehgarh-sahib"
+      },
+      {
+        "name": "Fazilka",
+        "slug": "fazilka"
+      },
+      {
+        "name": "Firozpur",
+        "slug": "firozpur"
+      },
+      {
+        "name": "Gurdaspur",
+        "slug": "gurdaspur"
+      },
+      {
+        "name": "Hoshiarpur",
+        "slug": "hoshiarpur"
+      },
+      {
+        "name": "Jalandhar",
+        "slug": "jalandhar"
+      },
+      {
+        "name": "Kapurthala",
+        "slug": "kapurthala"
+      },
+      {
+        "name": "Ludhiana",
+        "slug": "ludhiana"
+      },
+      {
+        "name": "Malerkotla",
+        "slug": "malerkotla"
+      },
+      {
+        "name": "Mansa",
+        "slug": "mansa"
+      },
+      {
+        "name": "Moga",
+        "slug": "moga"
+      },
+      {
+        "name": "Pathankot",
+        "slug": "pathankot"
+      },
+      {
+        "name": "Patiala",
+        "slug": "patiala"
+      },
+      {
+        "name": "Rupnagar",
+        "slug": "rupnagar"
+      },
+      {
+        "name": "Sahibzada Ajit Singh Nagar",
+        "slug": "sahibzada-ajit-singh-nagar"
+      },
+      {
+        "name": "Sangrur",
+        "slug": "sangrur"
+      },
+      {
+        "name": "Shahid Bhagat Singh Nagar",
+        "slug": "shahid-bhagat-singh-nagar"
+      },
+      {
+        "name": "Sri Muktsar Sahib",
+        "slug": "sri-muktsar-sahib"
+      },
+      {
+        "name": "Tarn Taran",
+        "slug": "tarn-taran"
+      }
+    ]
+  },
+  {
+    "name": "Rajasthan",
+    "slug": "rajasthan",
+    "type": "state",
+    "capital": "Jaipur",
+    "code": "RJ",
+    "districtCount": 41,
+    "districts": [
+      {
+        "name": "Ajmer",
+        "slug": "ajmer"
+      },
+      {
+        "name": "Alwar",
+        "slug": "alwar"
+      },
+      {
+        "name": "Balotra",
+        "slug": "balotra"
+      },
+      {
+        "name": "Banswara",
+        "slug": "banswara"
+      },
+      {
+        "name": "Baran",
+        "slug": "baran"
+      },
+      {
+        "name": "Barmer",
+        "slug": "barmer"
+      },
+      {
+        "name": "Beawar",
+        "slug": "beawar"
+      },
+      {
+        "name": "Bharatpur",
+        "slug": "bharatpur"
+      },
+      {
+        "name": "Bhilwara",
+        "slug": "bhilwara"
+      },
+      {
+        "name": "Bikaner",
+        "slug": "bikaner"
+      },
+      {
+        "name": "Bundi",
+        "slug": "bundi"
+      },
+      {
+        "name": "Chittorgarh",
+        "slug": "chittorgarh"
+      },
+      {
+        "name": "Churu",
+        "slug": "churu"
+      },
+      {
+        "name": "Dausa",
+        "slug": "dausa"
+      },
+      {
+        "name": "Deeg",
+        "slug": "deeg"
+      },
+      {
+        "name": "Dholpur",
+        "slug": "dholpur"
+      },
+      {
+        "name": "Didwana Kuchaman",
+        "slug": "didwana-kuchaman"
+      },
+      {
+        "name": "Dungarpur",
+        "slug": "dungarpur"
+      },
+      {
+        "name": "Hanumangarh",
+        "slug": "hanumangarh"
+      },
+      {
+        "name": "Jaipur",
+        "slug": "jaipur"
+      },
+      {
+        "name": "Jaisalmer",
+        "slug": "jaisalmer"
+      },
+      {
+        "name": "Jalore",
+        "slug": "jalore"
+      },
+      {
+        "name": "Jhalawar",
+        "slug": "jhalawar"
+      },
+      {
+        "name": "Jhunjhunu",
+        "slug": "jhunjhunu"
+      },
+      {
+        "name": "Jodhpur",
+        "slug": "jodhpur"
+      },
+      {
+        "name": "Karauli",
+        "slug": "karauli"
+      },
+      {
+        "name": "Khairthal-Tijara",
+        "slug": "khairthal-tijara"
+      },
+      {
+        "name": "Kota",
+        "slug": "kota"
+      },
+      {
+        "name": "Kotputli-Behror",
+        "slug": "kotputli-behror"
+      },
+      {
+        "name": "Nagaur",
+        "slug": "nagaur"
+      },
+      {
+        "name": "Pali",
+        "slug": "pali"
+      },
+      {
+        "name": "Phalodi",
+        "slug": "phalodi"
+      },
+      {
+        "name": "Pratapgarh",
+        "slug": "pratapgarh"
+      },
+      {
+        "name": "Rajsamand",
+        "slug": "rajsamand"
+      },
+      {
+        "name": "Salumbar",
+        "slug": "salumbar"
+      },
+      {
+        "name": "Sawai Madhopur",
+        "slug": "sawai-madhopur"
+      },
+      {
+        "name": "Sikar",
+        "slug": "sikar"
+      },
+      {
+        "name": "Sirohi",
+        "slug": "sirohi"
+      },
+      {
+        "name": "Sri Ganganagar",
+        "slug": "sri-ganganagar"
+      },
+      {
+        "name": "Tonk",
+        "slug": "tonk"
+      },
+      {
+        "name": "Udaipur",
+        "slug": "udaipur"
+      }
+    ]
+  },
+  {
+    "name": "Sikkim",
+    "slug": "sikkim",
+    "type": "state",
+    "capital": "Gangtok",
+    "code": "SK",
+    "districtCount": 6,
+    "districts": [
+      {
+        "name": "Gangtok",
+        "slug": "gangtok"
+      },
+      {
+        "name": "Gyalshing",
+        "slug": "gyalshing"
+      },
+      {
+        "name": "Mangan",
+        "slug": "mangan"
+      },
+      {
+        "name": "Namchi",
+        "slug": "namchi"
+      },
+      {
+        "name": "Pakyong",
+        "slug": "pakyong"
+      },
+      {
+        "name": "Soreng",
+        "slug": "soreng"
+      }
+    ]
+  },
+  {
+    "name": "Tamil Nadu",
+    "slug": "tamil-nadu",
+    "type": "state",
+    "capital": "Chennai",
+    "code": "TN",
+    "districtCount": 38,
+    "districts": [
+      {
+        "name": "Ariyalur",
+        "slug": "ariyalur"
+      },
+      {
+        "name": "Chengalpattu",
+        "slug": "chengalpattu"
+      },
+      {
+        "name": "Chennai",
+        "slug": "chennai"
+      },
+      {
+        "name": "Coimbatore",
+        "slug": "coimbatore"
+      },
+      {
+        "name": "Cuddalore",
+        "slug": "cuddalore"
+      },
+      {
+        "name": "Dharmapuri",
+        "slug": "dharmapuri"
+      },
+      {
+        "name": "Dindigul",
+        "slug": "dindigul"
+      },
+      {
+        "name": "Erode",
+        "slug": "erode"
+      },
+      {
+        "name": "Kallakurichi",
+        "slug": "kallakurichi"
+      },
+      {
+        "name": "Kanchipuram",
+        "slug": "kanchipuram"
+      },
+      {
+        "name": "Kanyakumari",
+        "slug": "kanyakumari"
+      },
+      {
+        "name": "Karur",
+        "slug": "karur"
+      },
+      {
+        "name": "Krishnagiri",
+        "slug": "krishnagiri"
+      },
+      {
+        "name": "Madurai",
+        "slug": "madurai"
+      },
+      {
+        "name": "Mayiladuthurai",
+        "slug": "mayiladuthurai"
+      },
+      {
+        "name": "Nagapattinam",
+        "slug": "nagapattinam"
+      },
+      {
+        "name": "Namakkal",
+        "slug": "namakkal"
+      },
+      {
+        "name": "Nilgiris",
+        "slug": "nilgiris"
+      },
+      {
+        "name": "Perambalur",
+        "slug": "perambalur"
+      },
+      {
+        "name": "Pudukkottai",
+        "slug": "pudukkottai"
+      },
+      {
+        "name": "Ramanathapuram",
+        "slug": "ramanathapuram"
+      },
+      {
+        "name": "Ranipet",
+        "slug": "ranipet"
+      },
+      {
+        "name": "Salem",
+        "slug": "salem"
+      },
+      {
+        "name": "Sivaganga",
+        "slug": "sivaganga"
+      },
+      {
+        "name": "Tenkasi",
+        "slug": "tenkasi"
+      },
+      {
+        "name": "Thanjavur",
+        "slug": "thanjavur"
+      },
+      {
+        "name": "Theni",
+        "slug": "theni"
+      },
+      {
+        "name": "Thoothukudi",
+        "slug": "thoothukudi"
+      },
+      {
+        "name": "Tiruchirappalli",
+        "slug": "tiruchirappalli"
+      },
+      {
+        "name": "Tirunelveli",
+        "slug": "tirunelveli"
+      },
+      {
+        "name": "Tirupattur",
+        "slug": "tirupattur"
+      },
+      {
+        "name": "Tiruppur",
+        "slug": "tiruppur"
+      },
+      {
+        "name": "Tiruvallur",
+        "slug": "tiruvallur"
+      },
+      {
+        "name": "Tiruvannamalai",
+        "slug": "tiruvannamalai"
+      },
+      {
+        "name": "Tiruvarur",
+        "slug": "tiruvarur"
+      },
+      {
+        "name": "Vellore",
+        "slug": "vellore"
+      },
+      {
+        "name": "Viluppuram",
+        "slug": "viluppuram"
+      },
+      {
+        "name": "Virudhunagar",
+        "slug": "virudhunagar"
+      }
+    ]
+  },
+  {
+    "name": "Telangana",
+    "slug": "telangana",
+    "type": "state",
+    "capital": "Hyderabad",
+    "code": "TG",
+    "districtCount": 33,
+    "districts": [
+      {
+        "name": "Adilabad",
+        "slug": "adilabad"
+      },
+      {
+        "name": "Bhadradri Kothagudem",
+        "slug": "bhadradri-kothagudem"
+      },
+      {
+        "name": "Hanamkonda",
+        "slug": "hanamkonda"
+      },
+      {
+        "name": "Hyderabad",
+        "slug": "hyderabad"
+      },
+      {
+        "name": "Jagtial",
+        "slug": "jagtial"
+      },
+      {
+        "name": "Jangaon",
+        "slug": "jangaon"
+      },
+      {
+        "name": "Jayashankar Bhupalpally",
+        "slug": "jayashankar-bhupalpally"
+      },
+      {
+        "name": "Jogulamba Gadwal",
+        "slug": "jogulamba-gadwal"
+      },
+      {
+        "name": "Kamareddy",
+        "slug": "kamareddy"
+      },
+      {
+        "name": "Karimnagar",
+        "slug": "karimnagar"
+      },
+      {
+        "name": "Khammam",
+        "slug": "khammam"
+      },
+      {
+        "name": "Kumuram Bheem Asifabad",
+        "slug": "kumuram-bheem-asifabad"
+      },
+      {
+        "name": "Mahabubabad",
+        "slug": "mahabubabad"
+      },
+      {
+        "name": "Mahbubnagar",
+        "slug": "mahbubnagar"
+      },
+      {
+        "name": "Mancherial",
+        "slug": "mancherial"
+      },
+      {
+        "name": "Medak",
+        "slug": "medak"
+      },
+      {
+        "name": "Medchal-Malkajgiri",
+        "slug": "medchal-malkajgiri"
+      },
+      {
+        "name": "Mulugu",
+        "slug": "mulugu"
+      },
+      {
+        "name": "Nagarkurnool",
+        "slug": "nagarkurnool"
+      },
+      {
+        "name": "Nalgonda",
+        "slug": "nalgonda"
+      },
+      {
+        "name": "Narayanpet",
+        "slug": "narayanpet"
+      },
+      {
+        "name": "Nirmal",
+        "slug": "nirmal"
+      },
+      {
+        "name": "Nizamabad",
+        "slug": "nizamabad"
+      },
+      {
+        "name": "Peddapalli",
+        "slug": "peddapalli"
+      },
+      {
+        "name": "Rajanna Sircilla",
+        "slug": "rajanna-sircilla"
+      },
+      {
+        "name": "Ranga Reddy",
+        "slug": "ranga-reddy"
+      },
+      {
+        "name": "Sangareddy",
+        "slug": "sangareddy"
+      },
+      {
+        "name": "Siddipet",
+        "slug": "siddipet"
+      },
+      {
+        "name": "Suryapet",
+        "slug": "suryapet"
+      },
+      {
+        "name": "Vikarabad",
+        "slug": "vikarabad"
+      },
+      {
+        "name": "Wanaparthy",
+        "slug": "wanaparthy"
+      },
+      {
+        "name": "Warangal",
+        "slug": "warangal"
+      },
+      {
+        "name": "Yadadri Bhuvanagiri",
+        "slug": "yadadri-bhuvanagiri"
+      }
+    ]
+  },
+  {
+    "name": "Tripura",
+    "slug": "tripura",
+    "type": "state",
+    "capital": "Agartala",
+    "code": "TR",
+    "districtCount": 8,
+    "districts": [
+      {
+        "name": "Dhalai",
+        "slug": "dhalai"
+      },
+      {
+        "name": "Gomati",
+        "slug": "gomati"
+      },
+      {
+        "name": "Khowai",
+        "slug": "khowai"
+      },
+      {
+        "name": "North Tripura",
+        "slug": "north-tripura"
+      },
+      {
+        "name": "Sepahijala",
+        "slug": "sepahijala"
+      },
+      {
+        "name": "South Tripura",
+        "slug": "south-tripura"
+      },
+      {
+        "name": "Unakoti",
+        "slug": "unakoti"
+      },
+      {
+        "name": "West Tripura",
+        "slug": "west-tripura"
+      }
+    ]
+  },
+  {
+    "name": "Uttar Pradesh",
+    "slug": "uttar-pradesh",
+    "type": "state",
+    "capital": "Lucknow",
+    "code": "UP",
+    "districtCount": 75,
+    "districts": [
+      {
+        "name": "Agra",
+        "slug": "agra"
+      },
+      {
+        "name": "Aligarh",
+        "slug": "aligarh"
+      },
+      {
+        "name": "Ambedkar Nagar",
+        "slug": "ambedkar-nagar"
+      },
+      {
+        "name": "Amethi",
+        "slug": "amethi"
+      },
+      {
+        "name": "Amroha",
+        "slug": "amroha"
+      },
+      {
+        "name": "Auraiya",
+        "slug": "auraiya"
+      },
+      {
+        "name": "Ayodhya",
+        "slug": "ayodhya"
+      },
+      {
+        "name": "Azamgarh",
+        "slug": "azamgarh"
+      },
+      {
+        "name": "Bagpat",
+        "slug": "bagpat"
+      },
+      {
+        "name": "Bahraich",
+        "slug": "bahraich"
+      },
+      {
+        "name": "Ballia",
+        "slug": "ballia"
+      },
+      {
+        "name": "Balrampur",
+        "slug": "balrampur"
+      },
+      {
+        "name": "Banda",
+        "slug": "banda"
+      },
+      {
+        "name": "Barabanki",
+        "slug": "barabanki"
+      },
+      {
+        "name": "Bareilly",
+        "slug": "bareilly"
+      },
+      {
+        "name": "Basti",
+        "slug": "basti"
+      },
+      {
+        "name": "Bhadohi",
+        "slug": "bhadohi"
+      },
+      {
+        "name": "Bijnor",
+        "slug": "bijnor"
+      },
+      {
+        "name": "Budaun",
+        "slug": "budaun"
+      },
+      {
+        "name": "Bulandshahr",
+        "slug": "bulandshahr"
+      },
+      {
+        "name": "Chandauli",
+        "slug": "chandauli"
+      },
+      {
+        "name": "Chitrakoot",
+        "slug": "chitrakoot"
+      },
+      {
+        "name": "Deoria",
+        "slug": "deoria"
+      },
+      {
+        "name": "Etah",
+        "slug": "etah"
+      },
+      {
+        "name": "Etawah",
+        "slug": "etawah"
+      },
+      {
+        "name": "Farrukhabad",
+        "slug": "farrukhabad"
+      },
+      {
+        "name": "Fatehpur",
+        "slug": "fatehpur"
+      },
+      {
+        "name": "Firozabad",
+        "slug": "firozabad"
+      },
+      {
+        "name": "Gautam Buddha Nagar",
+        "slug": "gautam-buddha-nagar"
+      },
+      {
+        "name": "Ghaziabad",
+        "slug": "ghaziabad"
+      },
+      {
+        "name": "Ghazipur",
+        "slug": "ghazipur"
+      },
+      {
+        "name": "Gonda",
+        "slug": "gonda"
+      },
+      {
+        "name": "Gorakhpur",
+        "slug": "gorakhpur"
+      },
+      {
+        "name": "Hamirpur",
+        "slug": "hamirpur"
+      },
+      {
+        "name": "Hapur",
+        "slug": "hapur"
+      },
+      {
+        "name": "Hardoi",
+        "slug": "hardoi"
+      },
+      {
+        "name": "Hathras",
+        "slug": "hathras"
+      },
+      {
+        "name": "Jalaun",
+        "slug": "jalaun"
+      },
+      {
+        "name": "Jaunpur",
+        "slug": "jaunpur"
+      },
+      {
+        "name": "Jhansi",
+        "slug": "jhansi"
+      },
+      {
+        "name": "Kannauj",
+        "slug": "kannauj"
+      },
+      {
+        "name": "Kanpur Dehat",
+        "slug": "kanpur-dehat"
+      },
+      {
+        "name": "Kanpur Nagar",
+        "slug": "kanpur-nagar"
+      },
+      {
+        "name": "Kasganj",
+        "slug": "kasganj"
+      },
+      {
+        "name": "Kaushambi",
+        "slug": "kaushambi"
+      },
+      {
+        "name": "Kushinagar",
+        "slug": "kushinagar"
+      },
+      {
+        "name": "Lakhimpur Kheri",
+        "slug": "lakhimpur-kheri"
+      },
+      {
+        "name": "Lalitpur",
+        "slug": "lalitpur"
+      },
+      {
+        "name": "Lucknow",
+        "slug": "lucknow"
+      },
+      {
+        "name": "Maharajganj",
+        "slug": "maharajganj"
+      },
+      {
+        "name": "Mahoba",
+        "slug": "mahoba"
+      },
+      {
+        "name": "Mainpuri",
+        "slug": "mainpuri"
+      },
+      {
+        "name": "Mathura",
+        "slug": "mathura"
+      },
+      {
+        "name": "Mau",
+        "slug": "mau"
+      },
+      {
+        "name": "Meerut",
+        "slug": "meerut"
+      },
+      {
+        "name": "Mirzapur",
+        "slug": "mirzapur"
+      },
+      {
+        "name": "Moradabad",
+        "slug": "moradabad"
+      },
+      {
+        "name": "Muzaffarnagar",
+        "slug": "muzaffarnagar"
+      },
+      {
+        "name": "Pilibhit",
+        "slug": "pilibhit"
+      },
+      {
+        "name": "Pratapgarh",
+        "slug": "pratapgarh"
+      },
+      {
+        "name": "Prayagraj",
+        "slug": "prayagraj"
+      },
+      {
+        "name": "Raebareli",
+        "slug": "raebareli"
+      },
+      {
+        "name": "Rampur",
+        "slug": "rampur"
+      },
+      {
+        "name": "Saharanpur",
+        "slug": "saharanpur"
+      },
+      {
+        "name": "Sambhal",
+        "slug": "sambhal"
+      },
+      {
+        "name": "Sant Kabir Nagar",
+        "slug": "sant-kabir-nagar"
+      },
+      {
+        "name": "Shahjahanpur",
+        "slug": "shahjahanpur"
+      },
+      {
+        "name": "Shamli",
+        "slug": "shamli"
+      },
+      {
+        "name": "Shravasti",
+        "slug": "shravasti"
+      },
+      {
+        "name": "Siddharthnagar",
+        "slug": "siddharthnagar"
+      },
+      {
+        "name": "Sitapur",
+        "slug": "sitapur"
+      },
+      {
+        "name": "Sonbhadra",
+        "slug": "sonbhadra"
+      },
+      {
+        "name": "Sultanpur",
+        "slug": "sultanpur"
+      },
+      {
+        "name": "Unnao",
+        "slug": "unnao"
+      },
+      {
+        "name": "Varanasi",
+        "slug": "varanasi"
+      }
+    ]
+  },
+  {
+    "name": "Uttarakhand",
+    "slug": "uttarakhand",
+    "type": "state",
+    "capital": "Dehradun",
+    "code": "UK",
+    "districtCount": 13,
+    "districts": [
+      {
+        "name": "Almora",
+        "slug": "almora"
+      },
+      {
+        "name": "Bageshwar",
+        "slug": "bageshwar"
+      },
+      {
+        "name": "Chamoli",
+        "slug": "chamoli"
+      },
+      {
+        "name": "Champawat",
+        "slug": "champawat"
+      },
+      {
+        "name": "Dehradun",
+        "slug": "dehradun"
+      },
+      {
+        "name": "Haridwar",
+        "slug": "haridwar"
+      },
+      {
+        "name": "Nainital",
+        "slug": "nainital"
+      },
+      {
+        "name": "Pauri Garhwal",
+        "slug": "pauri-garhwal"
+      },
+      {
+        "name": "Pithoragarh",
+        "slug": "pithoragarh"
+      },
+      {
+        "name": "Rudraprayag",
+        "slug": "rudraprayag"
+      },
+      {
+        "name": "Tehri Garhwal",
+        "slug": "tehri-garhwal"
+      },
+      {
+        "name": "Udham Singh Nagar",
+        "slug": "udham-singh-nagar"
+      },
+      {
+        "name": "Uttarkashi",
+        "slug": "uttarkashi"
+      }
+    ]
+  },
+  {
+    "name": "West Bengal",
+    "slug": "west-bengal",
+    "type": "state",
+    "capital": "Kolkata",
+    "code": "WB",
+    "districtCount": 23,
+    "districts": [
+      {
+        "name": "Alipurduar",
+        "slug": "alipurduar"
+      },
+      {
+        "name": "Bankura",
+        "slug": "bankura"
+      },
+      {
+        "name": "Birbhum",
+        "slug": "birbhum"
+      },
+      {
+        "name": "Cooch Behar",
+        "slug": "cooch-behar"
+      },
+      {
+        "name": "Dakshin Dinajpur",
+        "slug": "dakshin-dinajpur"
+      },
+      {
+        "name": "Darjeeling",
+        "slug": "darjeeling"
+      },
+      {
+        "name": "Hooghly",
+        "slug": "hooghly"
+      },
+      {
+        "name": "Howrah",
+        "slug": "howrah"
+      },
+      {
+        "name": "Jalpaiguri",
+        "slug": "jalpaiguri"
+      },
+      {
+        "name": "Jhargram",
+        "slug": "jhargram"
+      },
+      {
+        "name": "Kalimpong",
+        "slug": "kalimpong"
+      },
+      {
+        "name": "Kolkata",
+        "slug": "kolkata"
+      },
+      {
+        "name": "Malda",
+        "slug": "malda"
+      },
+      {
+        "name": "Murshidabad",
+        "slug": "murshidabad"
+      },
+      {
+        "name": "Nadia",
+        "slug": "nadia"
+      },
+      {
+        "name": "North 24 Parganas",
+        "slug": "north-24-parganas"
+      },
+      {
+        "name": "Paschim Bardhaman",
+        "slug": "paschim-bardhaman"
+      },
+      {
+        "name": "Paschim Medinipur",
+        "slug": "paschim-medinipur"
+      },
+      {
+        "name": "Purba Bardhaman",
+        "slug": "purba-bardhaman"
+      },
+      {
+        "name": "Purba Medinipur",
+        "slug": "purba-medinipur"
+      },
+      {
+        "name": "Purulia",
+        "slug": "purulia"
+      },
+      {
+        "name": "South 24 Parganas",
+        "slug": "south-24-parganas"
+      },
+      {
+        "name": "Uttar Dinajpur",
+        "slug": "uttar-dinajpur"
+      }
+    ]
+  }
+]
