@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --grid-line: rgba(27, 35, 64, 0.06);
+  color-scheme: light;
+}
+
+.dark {
+  --grid-line: rgba(236, 232, 218, 0.07);
+  color-scheme: dark;
+}
+
+@layer base {
+  * {
+    @apply border-rule dark:border-rule-dark;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-paper text-ink dark:bg-night dark:text-ink-invert;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  ::selection {
+    @apply bg-gold-300/60 text-ink;
+  }
+
+  /* Respect reduced-motion preferences: disable the entrance animation. */
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.001ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.001ms !important;
+      scroll-behavior: auto !important;
+    }
+  }
+}
