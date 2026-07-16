@@ -3,6 +3,10 @@ import { notFound } from "next/navigation";
 import { getAllRegionSlugs, getRegionBySlug } from "@/lib/data";
 import { Breadcrumbs } from "@/components/ui/Breadcrumbs";
 import { StateExplorer } from "@/components/directory/StateExplorer";
+import StateTabs from "@/components/state/StateTabs";
+import StateInfo from "@/components/state/StateInfo";
+import StateStats from "@/components/state/StateStats";
+import StateMap from "@/components/state/StateMap";
 import { pluralize } from "@/lib/utils";
 
 interface PageProps {
@@ -49,7 +53,20 @@ export default function StatePage({ params }: PageProps) {
         </p>
       </header>
 
-      <StateExplorer districts={region.districts} stateSlug={region.slug} stateName={region.name} />
+      <StateTabs
+  info={<StateInfo region={region} />}
+  districts={
+    <>
+      <StateStats region={region} />
+      <StateMap region={region} />
+      <StateExplorer
+        districts={region.districts}
+        stateSlug={region.slug}
+        stateName={region.name}
+      />
+    </>
+   }
+/>
     </section>
   );
 }
