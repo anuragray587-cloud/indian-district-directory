@@ -1,4 +1,4 @@
-export default function StateStats() {
+export default function StateStats({ region }: { region: any }) {
   return (
     <div className="grid grid-cols-2 md:grid-cols-4 gap-4 my-6">
       <div className="rounded-lg border p-4 text-center">
