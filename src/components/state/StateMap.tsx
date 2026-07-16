@@ -1,4 +1,4 @@
-export default function StateMap() {
+export default function StateMap({ region }: { region: any }) {
   return (
     <div className="rounded-lg border p-6 my-6">
       <h2 className="text-xl font-semibold mb-4">State Map</h2>
