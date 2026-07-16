@@ -54,7 +54,7 @@ export default function StatePage({ params }: PageProps) {
       </header>
 
       <StateTabs
-  info={<StateInfo region={region} />}
+  info={<StateInfo  />}
   districts={
     <>
       <StateStats region={region} />
