@@ -1,0 +1,76 @@
+{  "state": "Bihar",
+  "district": "Begusarai",
+  "slug": "begusarai",
+  "language": "en",
+  "version": "1.0",
+  "lastUpdated": "",
+  "name": "Begusarai",
+  "slug": "begusarai",
+  "state": "Bihar",
+
+  "basicInformation": {
+    "headquarters": "Begusarai",
+    "established": "1870",
+    "areaKm2": 1918,
+    "population": 2975701,
+    "districtCode": "BGS",
+    "state": "Bihar",
+    "division": "Munger",
+    "subdivision": 5,
+    "anchals": 18,
+    "blocks": 18,
+    "panchayats": 257,
+    "villages": 1229,
+    "towns": 18,
+    "policeStations": 29,
+    "lokSabhaConstituencies": 1,
+    "assemblyConstituencies": 7,
+    "pinCodeRange": "811106 – 851218",
+    "vehicleRegistrationCode": "BR-09",
+    "timeZone": "IST (UTC+05:30)",
+    "elevation": "41 m",
+    "coordinates": {
+    "latitude": "25.42° N",
+    "longitude": "86.13° E"
+  },
+    "officialWebsite": "https://begusarai.nic.in"
+  },
+
+  "history": {},
+
+  "geography": {},
+
+  "demographics": {},
+
+  "administration": {},
+
+  "economy": {},
+
+  "agriculture": {},
+
+  "infrastructure": {},
+
+  "education": {},
+
+  "healthcare": {},
+
+  "culture": {},
+
+  "tourism": {},
+
+  "sports": {},
+
+  "banking": {},
+
+  "governance": {},
+
+  "lawAndOrder": {},
+
+  "environment": {},
+
+  "media": {},
+
+  "rankings": {},
+
+  "miscellaneous": {}
+}

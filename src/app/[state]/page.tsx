@@ -10,15 +10,18 @@ import StateMap from "@/components/state/StateMap";
 import { pluralize } from "@/lib/utils";
 
 interface PageProps {
-  params: { state: string };
+  params: Promise<{
+    state: string;
+  }>;
 }
 
 export function generateStaticParams() {
   return getAllRegionSlugs();
 }
 
-export function generateMetadata({ params }: PageProps): Metadata {
-  const region = getRegionBySlug(params.state);
+export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
+  const { state } = await params;
+  const region = getRegionBySlug(state);
   if (!region) return {};
 
   const kind = region.type === "state" ? "State" : "Union Territory";
@@ -33,8 +36,9 @@ export function generateMetadata({ params }: PageProps): Metadata {
   };
 }
 
-export default function StatePage({ params }: PageProps) {
-  const region = getRegionBySlug(params.state);
+export default async function StatePage({ params }: PageProps) {
+  const { state } = await params;
+const region = getRegionBySlug(state);
   if (!region) notFound();
 
   return (

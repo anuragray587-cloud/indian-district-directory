@@ -2,20 +2,29 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { ArrowLeft, FileClock } from "lucide-react";
-import { getAllDistrictParams, getDistrictBySlug } from "@/lib/data";
+import {
+  getAllDistrictParams,
+  getDistrictBySlug,
+  getDistrictData,
+} from "@/lib/data";
 import { Breadcrumbs } from "@/components/ui/Breadcrumbs";
 import { IndexBadge } from "@/components/ui/IndexBadge";
+import DistrictAccordion from "@/components/district/DistrictAccordion";
 
 interface PageProps {
-  params: { state: string; district: string };
+  params: Promise<{
+    state: string;
+    district: string;
+  }>;
 }
 
 export function generateStaticParams() {
   return getAllDistrictParams();
 }
 
-export function generateMetadata({ params }: PageProps): Metadata {
-  const found = getDistrictBySlug(params.state, params.district);
+export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
+const { state, district: districtSlug } = await params;
+  const found = getDistrictBySlug(state, districtSlug);
   if (!found) return {};
   const { region, district } = found;
 
@@ -30,10 +39,12 @@ export function generateMetadata({ params }: PageProps): Metadata {
   };
 }
 
-export default function DistrictPage({ params }: PageProps) {
-  const found = getDistrictBySlug(params.state, params.district);
-  if (!found) notFound();
-  const { region, district } = found;
+export default async function DistrictPage({ params }: PageProps) {
+const { state, district: districtSlug } = await params;
+const found = getDistrictBySlug(state, districtSlug);
+if (!found) notFound();
+const { region, district } = found;
+const districtData = getDistrictData(state, districtSlug);
 
   return (
     <section className="mx-auto max-w-3xl px-4 py-10 sm:px-6 lg:px-8">
@@ -64,17 +75,7 @@ export default function DistrictPage({ params }: PageProps) {
         </div>
       </header>
 
-      <div className="mt-10 flex flex-col items-center rounded-md border border-dashed border-rule bg-paper-card px-6 py-14 text-center dark:border-rule-dark dark:bg-night-card">
-        <FileClock className="h-7 w-7 text-gold-600 dark:text-gold-400" strokeWidth={1.5} aria-hidden="true" />
-        <h2 className="mt-4 font-serif text-xl font-semibold text-ink dark:text-ink-invert">
-          Content Coming Soon
-        </h2>
-        <p className="mt-2 max-w-md text-sm leading-relaxed text-ink-soft dark:text-ink-invert-soft">
-          This page is reserved for {district.name}&rsquo;s full profile &mdash;
-          geography, administration, population and points of interest. It hasn&rsquo;t
-          been published yet.
-        </p>
-      </div>
+      <DistrictAccordion districtData={districtData} /> 
 
       <Link
         href={`/${region.slug}`}

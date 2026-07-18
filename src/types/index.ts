@@ -5,10 +5,14 @@
  */
 
 export interface District {
-  /** Display name, e.g. "Thiruvananthapuram" */
+  /** Display name */
   name: string;
-  /** URL-safe slug, unique within its parent state/UT, e.g. "thiruvananthapuram" */
+
+  /** URL slug */
   slug: string;
+
+  /** District information (master data) */
+  data?: Record<string, unknown>;
 }
 
 export type RegionType = "state" | "ut";

@@ -1,6 +1,5 @@
 import rawData from "@/data/states.json";
-import type { District, StateOrUT } from "@/types";
-import begusaraiData from "@/data/districts/bihar/begusarai.json"; 
+import type { District, StateOrUT } from "@/types"; 
 
 // The JSON is the single source of truth. Casting once here means every
 // caller elsewhere in the app gets full type safety for free.
@@ -53,15 +52,13 @@ export function getAllDistrictParams(): { state: string; district: string }[] {
 export function getAllRegionSlugs(): { state: string }[] {
   return regions.map((r) => ({ state: r.slug }));
 }
+// District JSON loader
+// TODO: Load district data dynamically.
 type DistrictData = Record<string, unknown>;
-
-export function getDistrictData(
-  state: string,
-  district: string
-): DistrictData | null {
-  if (state === "bihar" && district === "begusarai") {
-    return begusaraiData as DistrictData;
-  }
-
+export function getDistrictData(state: string, district: string) {
+  // Placeholder
+  // अगले step में यही function JSON files
+  // (src/data/districts/<state>/<district>.json)
+  // से data पढ़ेगा.
   return null;
 }
