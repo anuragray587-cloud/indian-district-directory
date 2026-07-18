@@ -30,6 +30,9 @@ type DistrictAccordionProps = {
 export default function DistrictAccordion({
   districtData,
 }: DistrictAccordionProps) {
+if (!districtData) {
+  return <div>District data not available.</div>;
+}
   return (
     <div className="mt-8 space-y-3">
       {sections.map((section, index) => (
