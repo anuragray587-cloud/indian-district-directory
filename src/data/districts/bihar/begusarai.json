@@ -258,7 +258,31 @@
   "krishiVigyanKendra": "Krishi Vigyan Kendra, Begusarai"
 },
 
-  "infrastructure": {},
+  "infrastructure": {
+  "roadNetwork": "Well-connected through national and state highways along with district and rural roads.",
+  "nationalHighways": [
+    "NH-31"
+  ],
+  "stateHighways": [
+    "SH-55"
+  ],
+  "railwayStations": [
+    "Begusarai",
+    "Barauni",
+    "Teghra",
+    "Bachhwara",
+    "Sahebpur Kamal"
+  ],
+  "majorRailwayJunctions": [
+    "Barauni Junction",
+    "Bachhwara Junction"
+  ],
+  "airConnectivity": "The nearest airport is Jay Prakash Narayan International Airport, Patna (about 125 km).",
+  "publicTransport": "Buses, auto-rickshaws, e-rickshaws and taxis are the main modes of public transport.",
+  "electricity": "Most urban and rural areas have electricity connectivity under the state power distribution network.",
+  "waterSupply": "Water supply is provided through municipal systems in urban areas and hand pumps, tube wells and piped water schemes in rural areas.",
+  "internetConnectivity": "4G/5G mobile networks and broadband services are available in most parts of the district."
+},
 
   "education": {},
 

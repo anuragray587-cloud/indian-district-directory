@@ -1023,6 +1023,130 @@ if (!districtData) {
   }).agriculture?.krishiVigyanKendra || "Not available"}
 </div>
   </>
+) : section === "Infrastructure" ? (
+  <>
+    <div>
+  Road Network:{" "}
+  {(districtData as {
+    infrastructure?: {
+      roadNetwork?: string;
+    };
+  }).infrastructure?.roadNetwork || "Not available"}
+</div>
+
+<div>
+  National Highways:{" "}
+  {(districtData as {
+    infrastructure?: {
+      nationalHighways?: string[];
+    };
+  }).infrastructure?.nationalHighways?.length
+    ? (
+        districtData as {
+          infrastructure?: {
+            nationalHighways?: string[];
+          };
+        }
+      ).infrastructure!.nationalHighways!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  State Highways:{" "}
+  {(districtData as {
+    infrastructure?: {
+      stateHighways?: string[];
+    };
+  }).infrastructure?.stateHighways?.length
+    ? (
+        districtData as {
+          infrastructure?: {
+            stateHighways?: string[];
+          };
+        }
+      ).infrastructure!.stateHighways!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Railway Stations:{" "}
+  {(districtData as {
+    infrastructure?: {
+      railwayStations?: string[];
+    };
+  }).infrastructure?.railwayStations?.length
+    ? (
+        districtData as {
+          infrastructure?: {
+            railwayStations?: string[];
+          };
+        }
+      ).infrastructure!.railwayStations!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Major Railway Junctions:{" "}
+  {(districtData as {
+    infrastructure?: {
+      majorRailwayJunctions?: string[];
+    };
+  }).infrastructure?.majorRailwayJunctions?.length
+    ? (
+        districtData as {
+          infrastructure?: {
+            majorRailwayJunctions?: string[];
+          };
+        }
+      ).infrastructure!.majorRailwayJunctions!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Air Connectivity:{" "}
+  {(districtData as {
+    infrastructure?: {
+      airConnectivity?: string;
+    };
+  }).infrastructure?.airConnectivity || "Not available"}
+</div>
+
+<div>
+  Public Transport:{" "}
+  {(districtData as {
+    infrastructure?: {
+      publicTransport?: string;
+    };
+  }).infrastructure?.publicTransport || "Not available"}
+</div>
+
+<div>
+  Electricity:{" "}
+  {(districtData as {
+    infrastructure?: {
+      electricity?: string;
+    };
+  }).infrastructure?.electricity || "Not available"}
+</div>
+
+<div>
+  Water Supply:{" "}
+  {(districtData as {
+    infrastructure?: {
+      waterSupply?: string;
+    };
+  }).infrastructure?.waterSupply || "Not available"}
+</div>
+
+<div>
+  Internet Connectivity:{" "}
+  {(districtData as {
+    infrastructure?: {
+      internetConnectivity?: string;
+    };
+  }).infrastructure?.internetConnectivity || "Not available"}
+</div>
+  </>
 ) : (
   `Information for ${section}`
 )}
