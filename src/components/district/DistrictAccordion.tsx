@@ -256,6 +256,237 @@ if (!districtData) {
   </a>
 </div>
   </>
+) : section === "History" ? (
+  <>
+    <div>
+  Historical Importance:{" "}
+  {(districtData as {
+    history?: {
+      historicalImportance?: string;
+    };
+  }).history?.historicalImportance ?? ""}
+</div>
+<div>
+  Formation History:{" "}
+  {(districtData as {
+    history?: {
+      formationHistory?: string;
+    };
+  }).history?.formationHistory ?? ""}
+</div>
+<div>
+  Freedom Movement:{" "}
+  {(districtData as {
+    history?: {
+      freedomMovement?: string;
+    };
+  }).history?.freedomMovement ?? ""}
+</div>
+<div>
+  Archaeological Importance:{" "}
+  {(districtData as {
+    history?: {
+      archaeologicalImportance?: string;
+    };
+  }).history?.archaeologicalImportance ?? ""}
+</div>
+<div>
+  ASI Protected Monuments:{" "}
+  {(
+    districtData as {
+      history?: {
+        asiProtectedMonuments?: string[];
+      };
+    }
+  ).history?.asiProtectedMonuments?.length
+    ? (
+        districtData as {
+          history?: {
+            asiProtectedMonuments?: string[];
+          };
+        }
+      ).history!.asiProtectedMonuments!.join(", ")
+    : "None"}
+</div>
+<div>
+  Historical Timeline:{" "}
+  {(
+    districtData as {
+      history?: {
+        historicalTimeline?: string[];
+      };
+    }
+  ).history?.historicalTimeline?.length
+    ? (
+        districtData as {
+          history?: {
+            historicalTimeline?: string[];
+          };
+        }
+      ).history!.historicalTimeline!.join(" → ")
+    : "Not available"}
+</div>
+  </>
+) : section === "Geography" ? (
+  <>
+    <div>
+  Location:{" "}
+  {(districtData as {
+    geography?: {
+      location?: string;
+    };
+  }).geography?.location ?? ""}
+</div>
+<div>
+  Boundaries:
+  <ul>
+    <li>
+      North:{" "}
+      {(districtData as {
+        geography?: {
+          boundaries?: {
+            north?: string;
+          };
+        };
+      }).geography?.boundaries?.north ?? ""}
+    </li>
+    <li>
+      South:{" "}
+      {(districtData as {
+        geography?: {
+          boundaries?: {
+            south?: string;
+          };
+        };
+      }).geography?.boundaries?.south ?? ""}
+    </li>
+    <li>
+      East:{" "}
+      {(districtData as {
+        geography?: {
+          boundaries?: {
+            east?: string;
+          };
+        };
+      }).geography?.boundaries?.east ?? ""}
+    </li>
+    <li>
+      West:{" "}
+      {(districtData as {
+        geography?: {
+          boundaries?: {
+            west?: string;
+          };
+        };
+      }).geography?.boundaries?.west ?? ""}
+    </li>
+  </ul>
+</div>
+<div>
+  Area:{" "}
+  {(districtData as {
+    geography?: {
+      area?: string;
+    };
+  }).geography?.area ?? ""}
+</div>
+<div>
+  Elevation:{" "}
+  {(districtData as {
+    geography?: {
+      elevation?: string;
+    };
+  }).geography?.elevation ?? ""}
+</div>
+<div>
+  Climate:{" "}
+  {(districtData as {
+    geography?: {
+      climate?: string;
+    };
+  }).geography?.climate ?? ""}
+</div>
+<div>
+  Rainfall:{" "}
+  {(districtData as {
+    geography?: {
+      rainfall?: string;
+    };
+  }).geography?.rainfall ?? ""}
+</div>
+<div>
+  Rivers:{" "}
+  {(districtData as {
+    geography?: {
+      rivers?: string[];
+    };
+  }).geography?.rivers?.length
+    ? (
+        districtData as {
+          geography?: {
+            rivers?: string[];
+          };
+        }
+      ).geography!.rivers!.join(", ")
+    : "None"}
+</div>
+<div>
+  Hills:{" "}
+  {(districtData as {
+    geography?: {
+      hills?: string[];
+    };
+  }).geography?.hills?.length
+    ? (
+        districtData as {
+          geography?: {
+            hills?: string[];
+          };
+        }
+      ).geography!.hills!.join(", ")
+    : "None"}
+</div>
+<div>
+  Forests:{" "}
+  {(districtData as {
+    geography?: {
+      forests?: string;
+    };
+  }).geography?.forests ?? ""}
+</div>
+<div>
+  Soil Types:{" "}
+  {(districtData as {
+    geography?: {
+      soilTypes?: string[];
+    };
+  }).geography?.soilTypes?.length
+    ? (
+        districtData as {
+          geography?: {
+            soilTypes?: string[];
+          };
+        }
+      ).geography!.soilTypes!.join(", ")
+    : "None"}
+</div>
+<div>
+  Natural Resources:{" "}
+  {(districtData as {
+    geography?: {
+      naturalResources?: string[];
+    };
+  }).geography?.naturalResources?.length
+    ? (
+        districtData as {
+          geography?: {
+            naturalResources?: string[];
+          };
+        }
+      ).geography!.naturalResources!.join(", ")
+    : "None"}
+</div>
+  </>
 ) : (
   `Information for ${section}`
 )}
