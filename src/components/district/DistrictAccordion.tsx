@@ -770,6 +770,111 @@ if (!districtData) {
   </div>
 </>
   </>
+) : section === "Economy" ? (
+  <>
+    <div>
+      GDP:{" "}
+      {(districtData as {
+        economy?: {
+          gdp?: string;
+        };
+      }).economy?.gdp || "Not available"}
+    </div>
+
+    <div>
+      Major Industries:{" "}
+      {(districtData as {
+        economy?: {
+          majorIndustries?: string[];
+        };
+      }).economy?.majorIndustries?.length
+        ? (
+            districtData as {
+              economy?: {
+                majorIndustries?: string[];
+              };
+            }
+          ).economy!.majorIndustries!.join(", ")
+        : "None"}
+    </div>
+
+    <div>
+      Major Crops:{" "}
+      {(districtData as {
+        economy?: {
+          majorCrops?: string[];
+        };
+      }).economy?.majorCrops?.length
+        ? (
+            districtData as {
+              economy?: {
+                majorCrops?: string[];
+              };
+            }
+          ).economy!.majorCrops!.join(", ")
+        : "None"}
+    </div>
+
+    <div>
+      Major Employers:{" "}
+      {(districtData as {
+        economy?: {
+          majorEmployers?: string[];
+        };
+      }).economy?.majorEmployers?.length
+        ? (
+            districtData as {
+              economy?: {
+                majorEmployers?: string[];
+              };
+            }
+          ).economy!.majorEmployers!.join(", ")
+        : "None"}
+    </div>
+
+    <div>
+      Banking:{" "}
+      {(districtData as {
+        economy?: {
+          banking?: string;
+        };
+      }).economy?.banking || "Not available"}
+    </div>
+
+    <div>
+      Industrial Areas:{" "}
+      {(districtData as {
+        economy?: {
+          industrialAreas?: string[];
+        };
+      }).economy?.industrialAreas?.length
+        ? (
+            districtData as {
+              economy?: {
+                industrialAreas?: string[];
+              };
+            }
+          ).economy!.industrialAreas!.join(", ")
+        : "None"}
+    </div>
+
+    <div>
+      Special Economic Features:{" "}
+      {(districtData as {
+        economy?: {
+          specialEconomicFeatures?: string[];
+        };
+      }).economy?.specialEconomicFeatures?.length
+        ? (
+            districtData as {
+              economy?: {
+                specialEconomicFeatures?: string[];
+              };
+            }
+          ).economy!.specialEconomicFeatures!.join(", ")
+        : "None"}
+    </div>
+  </>
 ) : (
   `Information for ${section}`
 )}

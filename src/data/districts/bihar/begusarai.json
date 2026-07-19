@@ -174,7 +174,41 @@
   "lokSabhaConstituency": "Begusarai"
 },
 
-  "economy": {},
+  "economy": {
+  "gdp": "Not officially available",
+  "majorIndustries": [
+    "Barauni Oil Refinery",
+    "Barauni Thermal Power Station",
+    "Fertilizer Production",
+    "Dairy",
+    "Food Processing"
+  ],
+  "majorCrops": [
+    "Paddy",
+    "Wheat",
+    "Maize",
+    "Mustard",
+    "Pulses",
+    "Sugarcane"
+  ],
+  "majorEmployers": [
+    "Indian Oil Corporation Limited (IOCL)",
+    "NTPC",
+    "Bihar Government",
+    "Indian Railways",
+    "Agriculture"
+  ],
+  "banking": "Public and private sector banks, regional rural banks and cooperative banks operate across the district.",
+  "industrialAreas": [
+    "Barauni Industrial Area"
+  ],
+  "specialEconomicFeatures": [
+    "Industrial hub of Bihar",
+    "Major railway junction at Barauni",
+    "Oil refining and fertilizer industries",
+    "Agriculture-based economy"
+  ]
+},
 
   "agriculture": {},
 
