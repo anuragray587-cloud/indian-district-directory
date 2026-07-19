@@ -602,6 +602,174 @@ if (!districtData) {
     : "None"}
 </div>
   </>
+) : section === "Administration" ? (
+  <>
+    <>
+  <div>
+    Administrative Division:{" "}
+    {(districtData as {
+      administration?: {
+        administrativeDivision?: string;
+      };
+    }).administration?.administrativeDivision || "Not available"}
+  </div>
+
+  <div>
+    Subdivisions:{" "}
+    {(districtData as {
+      administration?: {
+        subdivisions?: string[];
+      };
+    }).administration?.subdivisions?.length
+      ? (
+          districtData as {
+            administration?: {
+              subdivisions?: string[];
+            };
+          }
+        ).administration!.subdivisions!.join(", ")
+      : "None"}
+  </div>
+
+  <div>
+    Blocks:{" "}
+    {(districtData as {
+      administration?: {
+        blocks?: string[];
+      };
+    }).administration?.blocks?.length
+      ? (
+          districtData as {
+            administration?: {
+              blocks?: string[];
+            };
+          }
+        ).administration!.blocks!.join(", ")
+      : "None"}
+  </div>
+
+  <div>
+    Circles:{" "}
+    {(districtData as {
+      administration?: {
+        circles?: string[];
+      };
+    }).administration?.circles?.length
+      ? (
+          districtData as {
+            administration?: {
+              circles?: string[];
+            };
+          }
+        ).administration!.circles!.join(", ")
+      : "None"}
+  </div>
+
+  <div>
+    Gram Panchayats:{" "}
+    {(districtData as {
+      administration?: {
+        gramPanchayats?: number;
+      };
+    }).administration?.gramPanchayats ?? "Not available"}
+  </div>
+
+  <div>
+    Villages:{" "}
+    {(districtData as {
+      administration?: {
+        villages?: number;
+      };
+    }).administration?.villages ?? "Not available"}
+  </div>
+
+  <div>
+    Municipal Corporation:{" "}
+    {(districtData as {
+      administration?: {
+        municipalCorporation?: string;
+      };
+    }).administration?.municipalCorporation || "None"}
+  </div>
+
+  <div>
+    Municipalities:{" "}
+    {(districtData as {
+      administration?: {
+        municipalities?: string[];
+      };
+    }).administration?.municipalities?.length
+      ? (
+          districtData as {
+            administration?: {
+              municipalities?: string[];
+            };
+          }
+        ).administration!.municipalities!.join(", ")
+      : "None"}
+  </div>
+
+  <div>
+    Nagar Panchayats:{" "}
+    {(districtData as {
+      administration?: {
+        nagarPanchayats?: string[];
+      };
+    }).administration?.nagarPanchayats?.length
+      ? (
+          districtData as {
+            administration?: {
+              nagarPanchayats?: string[];
+            };
+          }
+        ).administration!.nagarPanchayats!.join(", ")
+      : "None"}
+  </div>
+
+  <div>
+    Police Stations:{" "}
+    {(districtData as {
+      administration?: {
+        policeStations?: string[];
+      };
+    }).administration?.policeStations?.length
+      ? (
+          districtData as {
+            administration?: {
+              policeStations?: string[];
+            };
+          }
+        ).administration!.policeStations!.join(", ")
+      : "None"}
+  </div>
+
+  <div>
+    Assembly Constituencies:{" "}
+    {(districtData as {
+      administration?: {
+        assemblyConstituencies?: string[];
+      };
+    }).administration?.assemblyConstituencies?.length
+      ? (
+          districtData as {
+            administration?: {
+              assemblyConstituencies?: string[];
+            };
+          }
+        ).administration!.assemblyConstituencies!.join(", ")
+      : "None"}
+  </div>
+
+  <div>
+    Lok Sabha Constituency:{" "}
+    {(districtData as {
+      administration?: {
+        lokSabhaConstituency?: string;
+      };
+    }).administration?.lokSabhaConstituency || "Not available"}
+  </div>
+</>
+  </>
 ) : (
   `Information for ${section}`
 )}

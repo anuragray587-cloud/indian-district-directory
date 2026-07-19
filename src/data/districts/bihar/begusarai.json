@@ -100,7 +100,79 @@
   ]
 },
 
-  "administration": {},
+  "administration": {
+  "administrativeDivision": "Munger Division",
+  "subdivisions": [
+    "Begusarai",
+    "Balia",
+    "Bakhri",
+    "Teghra",
+    "Manjhaul"
+  ],
+  "blocks": [
+    "Begusarai",
+    "Bachhwara",
+    "Balia",
+    "Barauni",
+    "Bakhri",
+    "Bhagwanpur",
+    "Birpur",
+    "Cheria Bariarpur",
+    "Chhorahi",
+    "Dandari",
+    "Garhpura",
+    "Khodawandpur",
+    "Mansurchak",
+    "Matihani",
+    "Naokothi",
+    "Sahebpur Kamal",
+    "Samho Akha Kurha",
+    "Teghra"
+  ],
+  "circles": [
+    "Begusarai",
+    "Bachhwara",
+    "Balia",
+    "Barauni",
+    "Bakhri",
+    "Bhagwanpur",
+    "Birpur",
+    "Cheria Bariarpur",
+    "Chhorahi",
+    "Dandari",
+    "Garhpura",
+    "Khodawandpur",
+    "Mansurchak",
+    "Matihani",
+    "Naokothi",
+    "Sahebpur Kamal",
+    "Samho Akha Kurha",
+    "Teghra"
+  ],
+  "gramPanchayats": 257,
+  "villages": 1229,
+  "municipalCorporation": "",
+  "municipalities": [
+    "Begusarai",
+    "Barauni"
+  ],
+  "nagarPanchayats": [
+    "Bakhri",
+    "Balia",
+    "Teghra"
+  ],
+  "policeStations": [],
+  "assemblyConstituencies": [
+    "Cheria Bariarpur",
+    "Bachhwara",
+    "Teghra",
+    "Matihani",
+    "Sahebpur Kamal",
+    "Begusarai",
+    "Bakhri"
+  ],
+  "lokSabhaConstituency": "Begusarai"
+},
 
   "economy": {},
 
