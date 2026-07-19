@@ -487,6 +487,121 @@ if (!districtData) {
     : "None"}
 </div>
   </>
+) : section === "Demographics" ? (
+  <>
+<div>
+  Total Population:{" "}
+  {(districtData as {
+    demographics?: {
+      totalPopulation?: string;
+    };
+  }).demographics?.totalPopulation || "Not available"}
+</div>
+<div>
+  Male Population:{" "}
+  {(districtData as {
+    demographics?: {
+      malePopulation?: string;
+    };
+  }).demographics?.malePopulation || "Not available"}
+</div>
+<div>
+  Female Population:{" "}
+  {(districtData as {
+    demographics?: {
+      femalePopulation?: string;
+    };
+  }).demographics?.femalePopulation || "Not available"}
+</div>
+<div>
+  Sex Ratio:{" "}
+  {(districtData as {
+    demographics?: {
+      sexRatio?: string;
+    };
+  }).demographics?.sexRatio || "Not available"}
+</div>
+<div>
+  Population Density:{" "}
+  {(districtData as {
+    demographics?: {
+      populationDensity?: string;
+    };
+  }).demographics?.populationDensity || "Not available"}
+</div>
+<div>
+  Literacy Rate:{" "}
+  {(districtData as {
+    demographics?: {
+      literacyRate?: string;
+    };
+  }).demographics?.literacyRate || "Not available"}
+</div>
+<div>
+  Male Literacy Rate:{" "}
+  {(districtData as {
+    demographics?: {
+      maleLiteracyRate?: string;
+    };
+  }).demographics?.maleLiteracyRate || "Not available"}
+</div>
+<div>
+  Female Literacy Rate:{" "}
+  {(districtData as {
+    demographics?: {
+      femaleLiteracyRate?: string;
+    };
+  }).demographics?.femaleLiteracyRate || "Not available"}
+</div>
+<div>
+  Urban Population:{" "}
+  {(districtData as {
+    demographics?: {
+      urbanPopulation?: string;
+    };
+  }).demographics?.urbanPopulation || "Not available"}
+</div>
+<div>
+  Rural Population:{" "}
+  {(districtData as {
+    demographics?: {
+      ruralPopulation?: string;
+    };
+  }).demographics?.ruralPopulation || "Not available"}
+</div>
+<div>
+  Religions:{" "}
+  {(districtData as {
+    demographics?: {
+      religions?: string[];
+    };
+  }).demographics?.religions?.length
+    ? (
+        districtData as {
+          demographics?: {
+            religions?: string[];
+          };
+        }
+      ).demographics!.religions!.join(", ")
+    : "None"}
+</div>
+<div>
+  Languages:{" "}
+  {(districtData as {
+    demographics?: {
+      languages?: string[];
+    };
+  }).demographics?.languages?.length
+    ? (
+        districtData as {
+          demographics?: {
+            languages?: string[];
+          };
+        }
+      ).demographics!.languages!.join(", ")
+    : "None"}
+</div>
+  </>
 ) : (
   `Information for ${section}`
 )}

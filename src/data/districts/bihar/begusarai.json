@@ -73,7 +73,32 @@
 ]
 },
 
-  "demographics": {},
+  "demographics": {
+  "totalPopulation": "2,970,541",
+  "malePopulation": "1,560,655",
+  "femalePopulation": "1,409,886",
+  "sexRatio": "904 females per 1000 males",
+  "populationDensity": "1,222 persons/km²",
+  "literacyRate": "63.87%",
+  "maleLiteracyRate": "73.99%",
+  "femaleLiteracyRate": "52.25%",
+  "urbanPopulation": "4.58%",
+  "ruralPopulation": "95.42%",
+  "religions": [
+    "Hinduism",
+    "Islam",
+    "Christianity",
+    "Sikhism",
+    "Jainism",
+    "Buddhism",
+    "Others"
+  ],
+  "languages": [
+    "Hindi",
+    "Maithili",
+    "Urdu"
+  ]
+},
 
   "administration": {},
 
