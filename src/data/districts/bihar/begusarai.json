@@ -284,7 +284,30 @@
   "internetConnectivity": "4G/5G mobile networks and broadband services are available in most parts of the district."
 },
 
-  "education": {},
+  "education": {
+  "literacyRate": "63.87%",
+  "maleLiteracy": "73.04%",
+  "femaleLiteracy": "53.87%",
+  "governmentSchools": "More than 2,000 government schools",
+  "privateSchools": "Several private schools operate across the district",
+  "colleges": [
+    "G.D. College, Begusarai",
+    "R.C.S. College, Manjhaul",
+    "S.B.S.S. College, Begusarai"
+  ],
+  "universities": [],
+  "technicalInstitutes": [
+    "Government Polytechnic, Begusarai",
+    "Government ITI, Begusarai"
+  ],
+  "medicalColleges": [],
+  "notableEducationalInstitutions": [
+    "G.D. College",
+    "R.C.S. College",
+    "Government Polytechnic Begusarai",
+    "Government ITI Begusarai"
+  ]
+},
 
   "healthcare": {},
 

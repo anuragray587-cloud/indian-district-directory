@@ -1147,6 +1147,138 @@ if (!districtData) {
   }).infrastructure?.internetConnectivity || "Not available"}
 </div>
   </>
+) : section === "Education" ? (
+  <>
+    <div>
+  Literacy Rate:{" "}
+  {(districtData as {
+    education?: {
+      literacyRate?: string;
+    };
+  }).education?.literacyRate || "Not available"}
+</div>
+
+<div>
+  Male Literacy:{" "}
+  {(districtData as {
+    education?: {
+      maleLiteracy?: string;
+    };
+  }).education?.maleLiteracy || "Not available"}
+</div>
+
+<div>
+  Female Literacy:{" "}
+  {(districtData as {
+    education?: {
+      femaleLiteracy?: string;
+    };
+  }).education?.femaleLiteracy || "Not available"}
+</div>
+
+<div>
+  Government Schools:{" "}
+  {(districtData as {
+    education?: {
+      governmentSchools?: string;
+    };
+  }).education?.governmentSchools || "Not available"}
+</div>
+
+<div>
+  Private Schools:{" "}
+  {(districtData as {
+    education?: {
+      privateSchools?: string;
+    };
+  }).education?.privateSchools || "Not available"}
+</div>
+
+<div>
+  Colleges:{" "}
+  {(districtData as {
+    education?: {
+      colleges?: string[];
+    };
+  }).education?.colleges?.length
+    ? (
+        districtData as {
+          education?: {
+            colleges?: string[];
+          };
+        }
+      ).education!.colleges!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Universities:{" "}
+  {(districtData as {
+    education?: {
+      universities?: string[];
+    };
+  }).education?.universities?.length
+    ? (
+        districtData as {
+          education?: {
+            universities?: string[];
+          };
+        }
+      ).education!.universities!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Technical Institutes:{" "}
+  {(districtData as {
+    education?: {
+      technicalInstitutes?: string[];
+    };
+  }).education?.technicalInstitutes?.length
+    ? (
+        districtData as {
+          education?: {
+            technicalInstitutes?: string[];
+          };
+        }
+      ).education!.technicalInstitutes!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Medical Colleges:{" "}
+  {(districtData as {
+    education?: {
+      medicalColleges?: string[];
+    };
+  }).education?.medicalColleges?.length
+    ? (
+        districtData as {
+          education?: {
+            medicalColleges?: string[];
+          };
+        }
+      ).education!.medicalColleges!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Notable Educational Institutions:{" "}
+  {(districtData as {
+    education?: {
+      notableEducationalInstitutions?: string[];
+    };
+  }).education?.notableEducationalInstitutions?.length
+    ? (
+        districtData as {
+          education?: {
+            notableEducationalInstitutions?: string[];
+          };
+        }
+      ).education!.notableEducationalInstitutions!.join(", ")
+    : "None"}
+</div>
+  </>
 ) : (
   `Information for ${section}`
 )}
