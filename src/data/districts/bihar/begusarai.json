@@ -210,7 +210,53 @@
   ]
 },
 
-  "agriculture": {},
+  "agriculture": {
+  "majorCrops": [
+    "Paddy",
+    "Wheat",
+    "Maize",
+    "Mustard",
+    "Pulses"
+  ],
+  "cashCrops": [
+    "Sugarcane",
+    "Mustard"
+  ],
+  "fruits": [
+    "Mango",
+    "Banana",
+    "Guava",
+    "Litchi"
+  ],
+  "vegetables": [
+    "Potato",
+    "Onion",
+    "Tomato",
+    "Brinjal",
+    "Cauliflower"
+  ],
+  "irrigationSources": [
+    "Canals",
+    "Tube Wells",
+    "Ponds",
+    "Rivers"
+  ],
+  "livestock": [
+    "Cattle",
+    "Buffalo",
+    "Goat",
+    "Poultry"
+  ],
+  "dairyDevelopment": "Dairy farming is an important source of income, supported by Sudha Dairy and local milk cooperatives.",
+  "fisheries": "Fish farming is practiced in ponds and low-lying water bodies across the district.",
+  "agriculturalMarkets": [
+    "Begusarai",
+    "Barauni",
+    "Teghra",
+    "Bakhri"
+  ],
+  "krishiVigyanKendra": "Krishi Vigyan Kendra, Begusarai"
+},
 
   "infrastructure": {},
 

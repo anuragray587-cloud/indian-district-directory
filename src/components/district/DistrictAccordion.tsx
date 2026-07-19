@@ -875,6 +875,154 @@ if (!districtData) {
         : "None"}
     </div>
   </>
+) : section === "Agriculture & Animal Husbandry" ? (
+  <>
+    <div>
+  Major Crops:{" "}
+  {(districtData as {
+    agriculture?: {
+      majorCrops?: string[];
+    };
+  }).agriculture?.majorCrops?.length
+    ? (
+        districtData as {
+          agriculture?: {
+            majorCrops?: string[];
+          };
+        }
+      ).agriculture!.majorCrops!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Cash Crops:{" "}
+  {(districtData as {
+    agriculture?: {
+      cashCrops?: string[];
+    };
+  }).agriculture?.cashCrops?.length
+    ? (
+        districtData as {
+          agriculture?: {
+            cashCrops?: string[];
+          };
+        }
+      ).agriculture!.cashCrops!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Fruits:{" "}
+  {(districtData as {
+    agriculture?: {
+      fruits?: string[];
+    };
+  }).agriculture?.fruits?.length
+    ? (
+        districtData as {
+          agriculture?: {
+            fruits?: string[];
+          };
+        }
+      ).agriculture!.fruits!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Vegetables:{" "}
+  {(districtData as {
+    agriculture?: {
+      vegetables?: string[];
+    };
+  }).agriculture?.vegetables?.length
+    ? (
+        districtData as {
+          agriculture?: {
+            vegetables?: string[];
+          };
+        }
+      ).agriculture!.vegetables!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Irrigation Sources:{" "}
+  {(districtData as {
+    agriculture?: {
+      irrigationSources?: string[];
+    };
+  }).agriculture?.irrigationSources?.length
+    ? (
+        districtData as {
+          agriculture?: {
+            irrigationSources?: string[];
+          };
+        }
+      ).agriculture!.irrigationSources!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Livestock:{" "}
+  {(districtData as {
+    agriculture?: {
+      livestock?: string[];
+    };
+  }).agriculture?.livestock?.length
+    ? (
+        districtData as {
+          agriculture?: {
+            livestock?: string[];
+          };
+        }
+      ).agriculture!.livestock!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Dairy Development:{" "}
+  {(districtData as {
+    agriculture?: {
+      dairyDevelopment?: string;
+    };
+  }).agriculture?.dairyDevelopment || "Not available"}
+</div>
+
+<div>
+  Fisheries:{" "}
+  {(districtData as {
+    agriculture?: {
+      fisheries?: string;
+    };
+  }).agriculture?.fisheries || "Not available"}
+</div>
+
+<div>
+  Agricultural Markets:{" "}
+  {(districtData as {
+    agriculture?: {
+      agriculturalMarkets?: string[];
+    };
+  }).agriculture?.agriculturalMarkets?.length
+    ? (
+        districtData as {
+          agriculture?: {
+            agriculturalMarkets?: string[];
+          };
+        }
+      ).agriculture!.agriculturalMarkets!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Krishi Vigyan Kendra:{" "}
+  {(districtData as {
+    agriculture?: {
+      krishiVigyanKendra?: string;
+    };
+  }).agriculture?.krishiVigyanKendra || "Not available"}
+</div>
+  </>
 ) : (
   `Information for ${section}`
 )}
