@@ -1279,6 +1279,137 @@ if (!districtData) {
     : "None"}
 </div>
   </>
+) : section === "Healthcare" ? (
+  <>
+    <div>
+  District Hospital:{" "}
+  {(districtData as {
+    healthcare?: {
+      districtHospital?: string;
+    };
+  }).healthcare?.districtHospital || "Not available"}
+</div>
+
+<div>
+  Sub-Divisional Hospitals:{" "}
+  {(districtData as {
+    healthcare?: {
+      subDivisionalHospitals?: string[];
+    };
+  }).healthcare?.subDivisionalHospitals?.length
+    ? (
+        districtData as {
+          healthcare?: {
+            subDivisionalHospitals?: string[];
+          };
+        }
+      ).healthcare!.subDivisionalHospitals!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Community Health Centres:{" "}
+  {(districtData as {
+    healthcare?: {
+      communityHealthCentres?: string[];
+    };
+  }).healthcare?.communityHealthCentres?.length
+    ? (
+        districtData as {
+          healthcare?: {
+            communityHealthCentres?: string[];
+          };
+        }
+      ).healthcare!.communityHealthCentres!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Primary Health Centres:{" "}
+  {(districtData as {
+    healthcare?: {
+      primaryHealthCentres?: string;
+    };
+  }).healthcare?.primaryHealthCentres || "Not available"}
+</div>
+
+<div>
+  Medical Colleges:{" "}
+  {(districtData as {
+    healthcare?: {
+      medicalColleges?: string[];
+    };
+  }).healthcare?.medicalColleges?.length
+    ? (
+        districtData as {
+          healthcare?: {
+            medicalColleges?: string[];
+          };
+        }
+      ).healthcare!.medicalColleges!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Ambulance Services:{" "}
+  {(districtData as {
+    healthcare?: {
+      ambulanceServices?: string;
+    };
+  }).healthcare?.ambulanceServices || "Not available"}
+</div>
+
+<div>
+  Major Health Programs:{" "}
+  {(districtData as {
+    healthcare?: {
+      majorHealthPrograms?: string[];
+    };
+  }).healthcare?.majorHealthPrograms?.length
+    ? (
+        districtData as {
+          healthcare?: {
+            majorHealthPrograms?: string[];
+          };
+        }
+      ).healthcare!.majorHealthPrograms!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Blood Banks:{" "}
+  {(districtData as {
+    healthcare?: {
+      bloodBanks?: string[];
+    };
+  }).healthcare?.bloodBanks?.length
+    ? (
+        districtData as {
+          healthcare?: {
+            bloodBanks?: string[];
+          };
+        }
+      ).healthcare!.bloodBanks!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Notable Hospitals:{" "}
+  {(districtData as {
+    healthcare?: {
+      notableHospitals?: string[];
+    };
+  }).healthcare?.notableHospitals?.length
+    ? (
+        districtData as {
+          healthcare?: {
+            notableHospitals?: string[];
+          };
+        }
+      ).healthcare!.notableHospitals!.join(", ")
+    : "None"}
+</div>
+  </>
 ) : (
   `Information for ${section}`
 )}

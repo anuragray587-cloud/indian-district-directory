@@ -309,7 +309,35 @@
   ]
 },
 
-  "healthcare": {},
+  "healthcare": {
+  "districtHospital": "Sadar Hospital, Begusarai",
+  "subDivisionalHospitals": [
+    "Sub-Divisional Hospital, Teghra",
+    "Sub-Divisional Hospital, Bakhri"
+  ],
+  "communityHealthCentres": [
+    "CHC Ballia",
+    "CHC Cheria Bariarpur",
+    "CHC Sahebpur Kamal"
+  ],
+  "primaryHealthCentres": "Primary Health Centres are available in all community development blocks.",
+  "medicalColleges": [],
+  "ambulanceServices": "102 and 108 ambulance services operate across the district.",
+  "majorHealthPrograms": [
+    "Ayushman Bharat",
+    "Janani Suraksha Yojana",
+    "Universal Immunization Programme",
+    "National Health Mission"
+  ],
+  "bloodBanks": [
+    "Sadar Hospital Blood Bank"
+  ],
+  "notableHospitals": [
+    "Sadar Hospital Begusarai",
+    "Sub-Divisional Hospital Teghra",
+    "Sub-Divisional Hospital Bakhri"
+  ]
+},
 
   "culture": {},
 
