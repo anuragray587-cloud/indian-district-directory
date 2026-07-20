@@ -569,7 +569,41 @@
   "disasterManagement": "The District Disaster Management Authority (DDMA) coordinates flood relief, emergency response and disaster preparedness activities."
 },
 
-  "environment": {},
+  "environment": {
+  "forestCover": "The district has limited forest cover compared to the Bihar average.",
+  "majorForests": [],
+  "protectedAreas": [
+    "Kanwar Lake Bird Sanctuary"
+  ],
+  "wetlands": [
+    "Kanwar (Kabartal) Lake"
+  ],
+  "rivers": [
+    "Ganga",
+    "Burhi Gandak",
+    "Balan"
+  ],
+  "lakes": [
+    "Kanwar (Kabartal) Lake"
+  ],
+  "biodiversity": [
+    "Migratory Birds",
+    "Freshwater Fish",
+    "Wetland Flora and Fauna"
+  ],
+  "environmentalIssues": [
+    "Flooding",
+    "River Bank Erosion",
+    "Water Pollution",
+    "Air Pollution near Industrial Areas"
+  ],
+  "conservationInitiatives": [
+    "Wetland Conservation",
+    "Tree Plantation Drives",
+    "Swachh Bharat Mission",
+    "Wildlife Protection Initiatives"
+  ]
+},
 
   "media": {},
 

@@ -2209,6 +2209,153 @@ if (!districtData) {
   }).lawAndOrder?.disasterManagement || "Not available"}
 </div>
   </>
+) : section === "Environment" ? (
+  <>
+    <div>
+  Forest Cover:{" "}
+  {(districtData as {
+    environment?: {
+      forestCover?: string;
+    };
+  }).environment?.forestCover || "Not available"}
+</div>
+
+<div>
+  Major Forests:{" "}
+  {(districtData as {
+    environment?: {
+      majorForests?: string[];
+    };
+  }).environment?.majorForests?.length
+    ? (
+        districtData as {
+          environment?: {
+            majorForests?: string[];
+          };
+        }
+      ).environment!.majorForests!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Protected Areas:{" "}
+  {(districtData as {
+    environment?: {
+      protectedAreas?: string[];
+    };
+  }).environment?.protectedAreas?.length
+    ? (
+        districtData as {
+          environment?: {
+            protectedAreas?: string[];
+          };
+        }
+      ).environment!.protectedAreas!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Wetlands:{" "}
+  {(districtData as {
+    environment?: {
+      wetlands?: string[];
+    };
+  }).environment?.wetlands?.length
+    ? (
+        districtData as {
+          environment?: {
+            wetlands?: string[];
+          };
+        }
+      ).environment!.wetlands!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Rivers:{" "}
+  {(districtData as {
+    environment?: {
+      rivers?: string[];
+    };
+  }).environment?.rivers?.length
+    ? (
+        districtData as {
+          environment?: {
+            rivers?: string[];
+          };
+        }
+      ).environment!.rivers!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Lakes:{" "}
+  {(districtData as {
+    environment?: {
+      lakes?: string[];
+    };
+  }).environment?.lakes?.length
+    ? (
+        districtData as {
+          environment?: {
+            lakes?: string[];
+          };
+        }
+      ).environment!.lakes!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Biodiversity:{" "}
+  {(districtData as {
+    environment?: {
+      biodiversity?: string[];
+    };
+  }).environment?.biodiversity?.length
+    ? (
+        districtData as {
+          environment?: {
+            biodiversity?: string[];
+          };
+        }
+      ).environment!.biodiversity!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Environmental Issues:{" "}
+  {(districtData as {
+    environment?: {
+      environmentalIssues?: string[];
+    };
+  }).environment?.environmentalIssues?.length
+    ? (
+        districtData as {
+          environment?: {
+            environmentalIssues?: string[];
+          };
+        }
+      ).environment!.environmentalIssues!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Conservation Initiatives:{" "}
+  {(districtData as {
+    environment?: {
+      conservationInitiatives?: string[];
+    };
+  }).environment?.conservationInitiatives?.length
+    ? (
+        districtData as {
+          environment?: {
+            conservationInitiatives?: string[];
+          };
+        }
+      ).environment!.conservationInitiatives!.join(", ")
+    : "None"}
+</div>
+  </>
 ) : (
   `Information for ${section}`
 )}
