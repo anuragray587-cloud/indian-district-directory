@@ -1410,6 +1410,153 @@ if (!districtData) {
     : "None"}
 </div>
   </>
+) : section === "Culture & Heritage" ? (
+  <>
+    <div>
+  Festivals:{" "}
+  {(districtData as {
+    cultureAndHeritage?: {
+      festivals?: string[];
+    };
+  }).cultureAndHeritage?.festivals?.length
+    ? (
+        districtData as {
+          cultureAndHeritage?: {
+            festivals?: string[];
+          };
+        }
+      ).cultureAndHeritage!.festivals!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Languages:{" "}
+  {(districtData as {
+    cultureAndHeritage?: {
+      languages?: string[];
+    };
+  }).cultureAndHeritage?.languages?.length
+    ? (
+        districtData as {
+          cultureAndHeritage?: {
+            languages?: string[];
+          };
+        }
+      ).cultureAndHeritage!.languages!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Folk Dance:{" "}
+  {(districtData as {
+    cultureAndHeritage?: {
+      folkDance?: string[];
+    };
+  }).cultureAndHeritage?.folkDance?.length
+    ? (
+        districtData as {
+          cultureAndHeritage?: {
+            folkDance?: string[];
+          };
+        }
+      ).cultureAndHeritage!.folkDance!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Folk Music:{" "}
+  {(districtData as {
+    cultureAndHeritage?: {
+      folkMusic?: string[];
+    };
+  }).cultureAndHeritage?.folkMusic?.length
+    ? (
+        districtData as {
+          cultureAndHeritage?: {
+            folkMusic?: string[];
+          };
+        }
+      ).cultureAndHeritage!.folkMusic!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Traditional Dress:{" "}
+  {(districtData as {
+    cultureAndHeritage?: {
+      traditionalDress?: string;
+    };
+  }).cultureAndHeritage?.traditionalDress || "Not available"}
+</div>
+
+<div>
+  Cuisine:{" "}
+  {(districtData as {
+    cultureAndHeritage?: {
+      cuisine?: string[];
+    };
+  }).cultureAndHeritage?.cuisine?.length
+    ? (
+        districtData as {
+          cultureAndHeritage?: {
+            cuisine?: string[];
+          };
+        }
+      ).cultureAndHeritage!.cuisine!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Handicrafts:{" "}
+  {(districtData as {
+    cultureAndHeritage?: {
+      handicrafts?: string[];
+    };
+  }).cultureAndHeritage?.handicrafts?.length
+    ? (
+        districtData as {
+          cultureAndHeritage?: {
+            handicrafts?: string[];
+          };
+        }
+      ).cultureAndHeritage!.handicrafts!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Historical Heritage:{" "}
+  {(districtData as {
+    cultureAndHeritage?: {
+      historicalHeritage?: string[];
+    };
+  }).cultureAndHeritage?.historicalHeritage?.length
+    ? (
+        districtData as {
+          cultureAndHeritage?: {
+            historicalHeritage?: string[];
+          };
+        }
+      ).cultureAndHeritage!.historicalHeritage!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Cultural Organizations:{" "}
+  {(districtData as {
+    cultureAndHeritage?: {
+      culturalOrganizations?: string[];
+    };
+  }).cultureAndHeritage?.culturalOrganizations?.length
+    ? (
+        districtData as {
+          cultureAndHeritage?: {
+            culturalOrganizations?: string[];
+          };
+        }
+      ).cultureAndHeritage!.culturalOrganizations!.join(", ")
+    : "None"}
+</div>
+  </>
 ) : (
   `Information for ${section}`
 )}

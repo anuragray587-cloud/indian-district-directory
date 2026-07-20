@@ -339,7 +339,55 @@
   ]
 },
 
-  "culture": {},
+  "cultureAndHeritage": {
+  "festivals": [
+    "Chhath Puja",
+    "Holi",
+    "Diwali",
+    "Durga Puja",
+    "Eid",
+    "Makar Sankranti"
+  ],
+  "languages": [
+    "Hindi",
+    "Maithili",
+    "Angika",
+    "Urdu"
+  ],
+  "folkDance": [
+    "Jat-Jatin",
+    "Jhijhiya",
+    "Domkach"
+  ],
+  "folkMusic": [
+    "Sohar",
+    "Kajri",
+    "Chaita",
+    "Vidyapati Geet"
+  ],
+  "traditionalDress": "Men traditionally wear Dhoti-Kurta or Kurta-Pajama, while women commonly wear Saree or Salwar-Kameez.",
+  "cuisine": [
+    "Litti Chokha",
+    "Sattu Paratha",
+    "Khichdi",
+    "Thekua",
+    "Malpua"
+  ],
+  "handicrafts": [
+    "Bamboo Crafts",
+    "Handloom Products",
+    "Clay Pottery"
+  ],
+  "historicalHeritage": [
+    "Kanwar Lake",
+    "Jaymangla Garh Temple",
+    "Naulagarh"
+  ],
+  "culturalOrganizations": [
+    "Local cultural clubs",
+    "District cultural committees"
+  ]
+},
 
   "tourism": {},
 
