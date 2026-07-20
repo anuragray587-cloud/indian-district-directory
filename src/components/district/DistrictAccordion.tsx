@@ -1557,6 +1557,119 @@ if (!districtData) {
     : "None"}
 </div>
   </>
+) : section === "Tourism & Places of Interest" ? (
+  <>
+    <div>
+  Major Tourist Attractions:{" "}
+  {(districtData as {
+    tourism?: {
+      majorTouristAttractions?: string[];
+    };
+  }).tourism?.majorTouristAttractions?.length
+    ? (
+        districtData as {
+          tourism?: {
+            majorTouristAttractions?: string[];
+          };
+        }
+      ).tourism!.majorTouristAttractions!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Religious Places:{" "}
+  {(districtData as {
+    tourism?: {
+      religiousPlaces?: string[];
+    };
+  }).tourism?.religiousPlaces?.length
+    ? (
+        districtData as {
+          tourism?: {
+            religiousPlaces?: string[];
+          };
+        }
+      ).tourism!.religiousPlaces!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Historical Sites:{" "}
+  {(districtData as {
+    tourism?: {
+      historicalSites?: string[];
+    };
+  }).tourism?.historicalSites?.length
+    ? (
+        districtData as {
+          tourism?: {
+            historicalSites?: string[];
+          };
+        }
+      ).tourism!.historicalSites!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Natural Attractions:{" "}
+  {(districtData as {
+    tourism?: {
+      naturalAttractions?: string[];
+    };
+  }).tourism?.naturalAttractions?.length
+    ? (
+        districtData as {
+          tourism?: {
+            naturalAttractions?: string[];
+          };
+        }
+      ).tourism!.naturalAttractions!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Wildlife Sanctuaries:{" "}
+  {(districtData as {
+    tourism?: {
+      wildlifeSanctuaries?: string[];
+    };
+  }).tourism?.wildlifeSanctuaries?.length
+    ? (
+        districtData as {
+          tourism?: {
+            wildlifeSanctuaries?: string[];
+          };
+        }
+      ).tourism!.wildlifeSanctuaries!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Annual Fairs:{" "}
+  {(districtData as {
+    tourism?: {
+      annualFairs?: string[];
+    };
+  }).tourism?.annualFairs?.length
+    ? (
+        districtData as {
+          tourism?: {
+            annualFairs?: string[];
+          };
+        }
+      ).tourism!.annualFairs!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Best Time to Visit:{" "}
+  {(districtData as {
+    tourism?: {
+      bestTimeToVisit?: string;
+    };
+  }).tourism?.bestTimeToVisit || "Not available"}
+</div>
+  </>
 ) : (
   `Information for ${section}`
 )}

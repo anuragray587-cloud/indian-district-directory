@@ -389,7 +389,39 @@
   ]
 },
 
-  "tourism": {},
+  "tourism": {
+  "majorTouristAttractions": [
+    "Kanwar Lake",
+    "Jaymangla Garh Temple",
+    "Naulagarh"
+  ],
+  "religiousPlaces": [
+    "Jaymangla Garh Temple",
+    "Simaria Ghat"
+  ],
+  "historicalSites": [
+    "Naulagarh",
+    "Barauni"
+  ],
+  "naturalAttractions": [
+    "Kanwar Lake Bird Sanctuary",
+    "Ganga River"
+  ],
+  "wildlifeSanctuaries": [
+    "Kanwar Lake Bird Sanctuary"
+  ],
+  "annualFairs": [
+    "Simaria Kalpvas Mela",
+    "Jaymangla Fair"
+  ],
+  "bestTimeToVisit": "October to March",
+  "nearbyTouristDestinations": [
+    "Patna",
+    "Rajgir",
+    "Nalanda",
+    "Munger"
+  ]
+},
 
   "sports": {},
 
