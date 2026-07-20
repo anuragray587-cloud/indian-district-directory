@@ -1824,6 +1824,145 @@ if (!districtData) {
     : "None"}
 </div>
   </>
+) : section === "Banking & Finance" ? (
+  <>
+    <div>
+  Nationalized Banks:{" "}
+  {(districtData as {
+    bankingAndFinance?: {
+      nationalizedBanks?: string[];
+    };
+  }).bankingAndFinance?.nationalizedBanks?.length
+    ? (
+        districtData as {
+          bankingAndFinance?: {
+            nationalizedBanks?: string[];
+          };
+        }
+      ).bankingAndFinance!.nationalizedBanks!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Private Banks:{" "}
+  {(districtData as {
+    bankingAndFinance?: {
+      privateBanks?: string[];
+    };
+  }).bankingAndFinance?.privateBanks?.length
+    ? (
+        districtData as {
+          bankingAndFinance?: {
+            privateBanks?: string[];
+          };
+        }
+      ).bankingAndFinance!.privateBanks!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Regional Rural Banks:{" "}
+  {(districtData as {
+    bankingAndFinance?: {
+      regionalRuralBanks?: string[];
+    };
+  }).bankingAndFinance?.regionalRuralBanks?.length
+    ? (
+        districtData as {
+          bankingAndFinance?: {
+            regionalRuralBanks?: string[];
+          };
+        }
+      ).bankingAndFinance!.regionalRuralBanks!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Cooperative Banks:{" "}
+  {(districtData as {
+    bankingAndFinance?: {
+      cooperativeBanks?: string[];
+    };
+  }).bankingAndFinance?.cooperativeBanks?.length
+    ? (
+        districtData as {
+          bankingAndFinance?: {
+            cooperativeBanks?: string[];
+          };
+        }
+      ).bankingAndFinance!.cooperativeBanks!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  ATMs:{" "}
+  {(districtData as {
+    bankingAndFinance?: {
+      atms?: string;
+    };
+  }).bankingAndFinance?.atms || "Not available"}
+</div>
+
+<div>
+  Digital Banking:{" "}
+  {(districtData as {
+    bankingAndFinance?: {
+      digitalBanking?: string;
+    };
+  }).bankingAndFinance?.digitalBanking || "Not available"}
+</div>
+
+<div>
+  Microfinance Institutions:{" "}
+  {(districtData as {
+    bankingAndFinance?: {
+      microfinanceInstitutions?: string[];
+    };
+  }).bankingAndFinance?.microfinanceInstitutions?.length
+    ? (
+        districtData as {
+          bankingAndFinance?: {
+            microfinanceInstitutions?: string[];
+          };
+        }
+      ).bankingAndFinance!.microfinanceInstitutions!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Financial Inclusion Programs:{" "}
+  {(districtData as {
+    bankingAndFinance?: {
+      financialInclusionPrograms?: string[];
+    };
+  }).bankingAndFinance?.financialInclusionPrograms?.length
+    ? (
+        districtData as {
+          bankingAndFinance?: {
+            financialInclusionPrograms?: string[];
+          };
+        }
+      ).bankingAndFinance!.financialInclusionPrograms!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Major Insurance Companies:{" "}
+  {(districtData as {
+    bankingAndFinance?: {
+      majorInsuranceCompanies?: string[];
+    };
+  }).bankingAndFinance?.majorInsuranceCompanies?.length
+    ? (
+        districtData as {
+          bankingAndFinance?: {
+            majorInsuranceCompanies?: string[];
+          };
+        }
+      ).bankingAndFinance!.majorInsuranceCompanies!.join(", ")
+    : "None"}
+</div>
+  </>
 ) : (
   `Information for ${section}`
 )}

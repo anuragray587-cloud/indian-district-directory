@@ -453,7 +453,47 @@
   "sportsAchievements": []
 },
 
-  "banking": {},
+  "bankingAndFinance": {
+  "nationalizedBanks": [
+    "State Bank of India",
+    "Punjab National Bank",
+    "Bank of Baroda",
+    "Canara Bank",
+    "Union Bank of India",
+    "Indian Bank",
+    "UCO Bank",
+    "Central Bank of India"
+  ],
+  "privateBanks": [
+    "HDFC Bank",
+    "ICICI Bank",
+    "Axis Bank"
+  ],
+  "regionalRuralBanks": [
+    "Dakshin Bihar Gramin Bank"
+  ],
+  "cooperativeBanks": [
+    "Begusarai Central Cooperative Bank"
+  ],
+  "atms": "ATMs of major public and private sector banks are available across the district.",
+  "digitalBanking": "UPI, Internet Banking and Mobile Banking services are widely available.",
+  "microfinanceInstitutions": [
+    "Bandhan",
+    "CreditAccess Grameen"
+  ],
+  "financialInclusionPrograms": [
+    "Pradhan Mantri Jan Dhan Yojana",
+    "Pradhan Mantri Jeevan Jyoti Bima Yojana",
+    "Pradhan Mantri Suraksha Bima Yojana",
+    "Atal Pension Yojana"
+  ],
+  "majorInsuranceCompanies": [
+    "LIC of India",
+    "New India Assurance",
+    "United India Insurance",
+    "National Insurance Company"
+  ]
+},
 
   "governance": {},
 
