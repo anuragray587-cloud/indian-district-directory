@@ -2495,6 +2495,110 @@ if (!districtData) {
     : "None"}
 </div>
   </>
+) : section === "Rankings & Achievements" ? (
+  <>
+    <div>
+  State Rankings:{" "}
+  {(districtData as {
+    rankingsAndAchievements?: {
+      stateRankings?: string[];
+    };
+  }).rankingsAndAchievements?.stateRankings?.length
+    ? (
+        districtData as {
+          rankingsAndAchievements?: {
+            stateRankings?: string[];
+          };
+        }
+      ).rankingsAndAchievements!.stateRankings!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  National Rankings:{" "}
+  {(districtData as {
+    rankingsAndAchievements?: {
+      nationalRankings?: string[];
+    };
+  }).rankingsAndAchievements?.nationalRankings?.length
+    ? (
+        districtData as {
+          rankingsAndAchievements?: {
+            nationalRankings?: string[];
+          };
+        }
+      ).rankingsAndAchievements!.nationalRankings!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Awards:{" "}
+  {(districtData as {
+    rankingsAndAchievements?: {
+      awards?: string[];
+    };
+  }).rankingsAndAchievements?.awards?.length
+    ? (
+        districtData as {
+          rankingsAndAchievements?: {
+            awards?: string[];
+          };
+        }
+      ).rankingsAndAchievements!.awards!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Notable Achievements:{" "}
+  {(districtData as {
+    rankingsAndAchievements?: {
+      notableAchievements?: string[];
+    };
+  }).rankingsAndAchievements?.notableAchievements?.length
+    ? (
+        districtData as {
+          rankingsAndAchievements?: {
+            notableAchievements?: string[];
+          };
+        }
+      ).rankingsAndAchievements!.notableAchievements!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Development Indicators:{" "}
+  {(districtData as {
+    rankingsAndAchievements?: {
+      developmentIndicators?: string[];
+    };
+  }).rankingsAndAchievements?.developmentIndicators?.length
+    ? (
+        districtData as {
+          rankingsAndAchievements?: {
+            developmentIndicators?: string[];
+          };
+        }
+      ).rankingsAndAchievements!.developmentIndicators!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Records:{" "}
+  {(districtData as {
+    rankingsAndAchievements?: {
+      records?: string[];
+    };
+  }).rankingsAndAchievements?.records?.length
+    ? (
+        districtData as {
+          rankingsAndAchievements?: {
+            records?: string[];
+          };
+        }
+      ).rankingsAndAchievements!.records!.join(", ")
+    : "None"}
+</div>
+  </>
 ) : (
   `Information for ${section}`
 )}

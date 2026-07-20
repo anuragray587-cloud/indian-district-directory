@@ -644,7 +644,30 @@
   ]
 },
 
-  "rankings": {},
+  "rankingsAndAchievements": {
+  "stateRankings": [
+    "Among Bihar's major industrial districts"
+  ],
+  "nationalRankings": [
+    "Kanwar (Kabartal) Lake is recognized as a Ramsar Site of International Importance"
+  ],
+  "awards": [
+    "Ramsar Site Recognition for Kanwar Lake"
+  ],
+  "notableAchievements": [
+    "Major fertilizer production hub due to Barauni Fertilizer Plant",
+    "Important petroleum refining center with Barauni Refinery",
+    "Significant contributor to Bihar's industrial economy"
+  ],
+  "developmentIndicators": [
+    "Growing road connectivity",
+    "Expanding digital infrastructure",
+    "Improving educational and healthcare facilities"
+  ],
+  "records": [
+    "Kanwar (Kabartal) is Asia's one of the largest freshwater oxbow lakes"
+  ]
+},
 
   "miscellaneous": {}
 }
