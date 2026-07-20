@@ -2356,6 +2356,145 @@ if (!districtData) {
     : "None"}
 </div>
   </>
+) : section === "Media & Communication" ? (
+  <>
+    <div>
+  Newspapers:{" "}
+  {(districtData as {
+    mediaAndCommunication?: {
+      newspapers?: string[];
+    };
+  }).mediaAndCommunication?.newspapers?.length
+    ? (
+        districtData as {
+          mediaAndCommunication?: {
+            newspapers?: string[];
+          };
+        }
+      ).mediaAndCommunication!.newspapers!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Television Channels:{" "}
+  {(districtData as {
+    mediaAndCommunication?: {
+      televisionChannels?: string[];
+    };
+  }).mediaAndCommunication?.televisionChannels?.length
+    ? (
+        districtData as {
+          mediaAndCommunication?: {
+            televisionChannels?: string[];
+          };
+        }
+      ).mediaAndCommunication!.televisionChannels!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Radio Stations:{" "}
+  {(districtData as {
+    mediaAndCommunication?: {
+      radioStations?: string[];
+    };
+  }).mediaAndCommunication?.radioStations?.length
+    ? (
+        districtData as {
+          mediaAndCommunication?: {
+            radioStations?: string[];
+          };
+        }
+      ).mediaAndCommunication!.radioStations!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  News Portals:{" "}
+  {(districtData as {
+    mediaAndCommunication?: {
+      newsPortals?: string[];
+    };
+  }).mediaAndCommunication?.newsPortals?.length
+    ? (
+        districtData as {
+          mediaAndCommunication?: {
+            newsPortals?: string[];
+          };
+        }
+      ).mediaAndCommunication!.newsPortals!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Postal Services:{" "}
+  {(districtData as {
+    mediaAndCommunication?: {
+      postalServices?: string;
+    };
+  }).mediaAndCommunication?.postalServices || "Not available"}
+</div>
+
+<div>
+  Telecommunication:{" "}
+  {(districtData as {
+    mediaAndCommunication?: {
+      telecommunication?: string;
+    };
+  }).mediaAndCommunication?.telecommunication || "Not available"}
+</div>
+
+<div>
+  Internet Providers:{" "}
+  {(districtData as {
+    mediaAndCommunication?: {
+      internetProviders?: string[];
+    };
+  }).mediaAndCommunication?.internetProviders?.length
+    ? (
+        districtData as {
+          mediaAndCommunication?: {
+            internetProviders?: string[];
+          };
+        }
+      ).mediaAndCommunication!.internetProviders!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Mobile Network Operators:{" "}
+  {(districtData as {
+    mediaAndCommunication?: {
+      mobileNetworkOperators?: string[];
+    };
+  }).mediaAndCommunication?.mobileNetworkOperators?.length
+    ? (
+        districtData as {
+          mediaAndCommunication?: {
+            mobileNetworkOperators?: string[];
+          };
+        }
+      ).mediaAndCommunication!.mobileNetworkOperators!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Digital Media:{" "}
+  {(districtData as {
+    mediaAndCommunication?: {
+      digitalMedia?: string[];
+    };
+  }).mediaAndCommunication?.digitalMedia?.length
+    ? (
+        districtData as {
+          mediaAndCommunication?: {
+            digitalMedia?: string[];
+          };
+        }
+      ).mediaAndCommunication!.digitalMedia!.join(", ")
+    : "None"}
+</div>
+  </>
 ) : (
   `Information for ${section}`
 )}

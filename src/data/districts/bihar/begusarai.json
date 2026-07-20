@@ -605,7 +605,44 @@
   ]
 },
 
-  "media": {},
+  "mediaAndCommunication": {
+  "newspapers": [
+    "Hindustan",
+    "Dainik Jagran",
+    "Prabhat Khabar",
+    "Aaj"
+  ],
+  "televisionChannels": [
+    "DD Bihar",
+    "Zee Bihar Jharkhand",
+    "News18 Bihar Jharkhand"
+  ],
+  "radioStations": [
+    "All India Radio"
+  ],
+  "newsPortals": [
+    "District Administration Website",
+    "State Government Portals"
+  ],
+  "postalServices": "India Post provides postal and speed post services through head and sub post offices across the district.",
+  "telecommunication": "The district has extensive 4G coverage, with expanding 5G services in urban areas.",
+  "internetProviders": [
+    "BSNL",
+    "JioFiber",
+    "Airtel Xstream Fiber"
+  ],
+  "mobileNetworkOperators": [
+    "Jio",
+    "Airtel",
+    "Vi",
+    "BSNL"
+  ],
+  "digitalMedia": [
+    "Official District Website",
+    "Social Media Pages",
+    "Online News Platforms"
+  ]
+},
 
   "rankings": {},
 
