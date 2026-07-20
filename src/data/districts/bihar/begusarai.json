@@ -532,7 +532,42 @@
   ]
 },
 
-  "lawAndOrder": {},
+  "lawAndOrder": {
+  "policeDistrict": "Begusarai Police District under Bihar Police",
+  "policeStations": [
+    "Begusarai",
+    "Barauni",
+    "Bachhwara",
+    "Balia",
+    "Bakhri",
+    "Teghra",
+    "Cheria Bariarpur",
+    "Sahebpur Kamal",
+    "Matihani",
+    "Mufassil"
+  ],
+  "womenPoliceStations": [
+    "Mahila Police Station, Begusarai"
+  ],
+  "cyberCrimePoliceStation": "Cyber Crime Police Station, Begusarai",
+  "trafficPolice": "Traffic Police manages traffic regulation and road safety across the district.",
+  "prisons": [
+    "District Jail, Begusarai"
+  ],
+  "emergencyNumbers": [
+    "112 (Emergency Response Support System)",
+    "100 (Police)",
+    "101 (Fire)",
+    "108 (Ambulance)"
+  ],
+  "crimePreventionInitiatives": [
+    "Community Policing",
+    "Cyber Crime Awareness Campaigns",
+    "Women Safety Initiatives",
+    "Road Safety Awareness Programs"
+  ],
+  "disasterManagement": "The District Disaster Management Authority (DDMA) coordinates flood relief, emergency response and disaster preparedness activities."
+},
 
   "environment": {},
 

@@ -2086,6 +2086,129 @@ if (!districtData) {
     : "None"}
 </div>
   </>
+) : section === "Law & Order" ? (
+  <>
+    <div>
+  Police District:{" "}
+  {(districtData as {
+    lawAndOrder?: {
+      policeDistrict?: string;
+    };
+  }).lawAndOrder?.policeDistrict || "Not available"}
+</div>
+
+<div>
+  Police Stations:{" "}
+  {(districtData as {
+    lawAndOrder?: {
+      policeStations?: string[];
+    };
+  }).lawAndOrder?.policeStations?.length
+    ? (
+        districtData as {
+          lawAndOrder?: {
+            policeStations?: string[];
+          };
+        }
+      ).lawAndOrder!.policeStations!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Women Police Stations:{" "}
+  {(districtData as {
+    lawAndOrder?: {
+      womenPoliceStations?: string[];
+    };
+  }).lawAndOrder?.womenPoliceStations?.length
+    ? (
+        districtData as {
+          lawAndOrder?: {
+            womenPoliceStations?: string[];
+          };
+        }
+      ).lawAndOrder!.womenPoliceStations!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Cyber Crime Police Station:{" "}
+  {(districtData as {
+    lawAndOrder?: {
+      cyberCrimePoliceStation?: string;
+    };
+  }).lawAndOrder?.cyberCrimePoliceStation || "Not available"}
+</div>
+
+<div>
+  Traffic Police:{" "}
+  {(districtData as {
+    lawAndOrder?: {
+      trafficPolice?: string;
+    };
+  }).lawAndOrder?.trafficPolice || "Not available"}
+</div>
+
+<div>
+  Prisons:{" "}
+  {(districtData as {
+    lawAndOrder?: {
+      prisons?: string[];
+    };
+  }).lawAndOrder?.prisons?.length
+    ? (
+        districtData as {
+          lawAndOrder?: {
+            prisons?: string[];
+          };
+        }
+      ).lawAndOrder!.prisons!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Emergency Numbers:{" "}
+  {(districtData as {
+    lawAndOrder?: {
+      emergencyNumbers?: string[];
+    };
+  }).lawAndOrder?.emergencyNumbers?.length
+    ? (
+        districtData as {
+          lawAndOrder?: {
+            emergencyNumbers?: string[];
+          };
+        }
+      ).lawAndOrder!.emergencyNumbers!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Crime Prevention Initiatives:{" "}
+  {(districtData as {
+    lawAndOrder?: {
+      crimePreventionInitiatives?: string[];
+    };
+  }).lawAndOrder?.crimePreventionInitiatives?.length
+    ? (
+        districtData as {
+          lawAndOrder?: {
+            crimePreventionInitiatives?: string[];
+          };
+        }
+      ).lawAndOrder!.crimePreventionInitiatives!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Disaster Management:{" "}
+  {(districtData as {
+    lawAndOrder?: {
+      disasterManagement?: string;
+    };
+  }).lawAndOrder?.disasterManagement || "Not available"}
+</div>
+  </>
 ) : (
   `Information for ${section}`
 )}
