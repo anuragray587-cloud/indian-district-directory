@@ -1669,6 +1669,22 @@ if (!districtData) {
     };
   }).tourism?.bestTimeToVisit || "Not available"}
 </div>
+<div>
+  Nearby Tourist Destinations:{" "}
+  {(districtData as {
+    tourism?: {
+      nearbyTouristDestinations?: string[];
+    };
+  }).tourism?.nearbyTouristDestinations?.length
+    ? (
+        districtData as {
+          tourism?: {
+            nearbyTouristDestinations?: string[];
+          };
+        }
+      ).tourism!.nearbyTouristDestinations!.join(", ")
+    : "None"}
+</div>
   </>
 ) : (
   `Information for ${section}`
