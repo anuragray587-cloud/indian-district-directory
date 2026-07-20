@@ -1557,7 +1557,7 @@ if (!districtData) {
     : "None"}
 </div>
   </>
-) : section === "Tourism & Places of Interest" ? (
+) : section === "Tourism" ? (
   <>
     <div>
   Major Tourist Attractions:{" "}
