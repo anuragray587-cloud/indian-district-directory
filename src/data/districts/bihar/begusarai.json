@@ -423,7 +423,35 @@
   ]
 },
 
-  "sports": {},
+  "sports": {
+  "majorSports": [
+    "Cricket",
+    "Football",
+    "Kabaddi",
+    "Volleyball",
+    "Athletics"
+  ],
+  "stadiums": [
+    "Barauni Sports Stadium",
+    "District Sports Ground, Begusarai"
+  ],
+  "sportsComplexes": [
+    "District Sports Complex, Begusarai"
+  ],
+  "famousSportspersons": [],
+  "sportsAcademies": [
+    "District Sports Training Centre"
+  ],
+  "annualSportsEvents": [
+    "District-Level Sports Meet",
+    "School Sports Competitions"
+  ],
+  "governmentSportsPrograms": [
+    "Khelo India",
+    "Bihar State Sports Development Program"
+  ],
+  "sportsAchievements": []
+},
 
   "banking": {},
 

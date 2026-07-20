@@ -1686,6 +1686,144 @@ if (!districtData) {
     : "None"}
 </div>
   </>
+) : section === "Sports" ? (
+  <>
+    <div>
+  Major Sports:{" "}
+  {(districtData as {
+    sports?: {
+      majorSports?: string[];
+    };
+  }).sports?.majorSports?.length
+    ? (
+        districtData as {
+          sports?: {
+            majorSports?: string[];
+          };
+        }
+      ).sports!.majorSports!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Stadiums:{" "}
+  {(districtData as {
+    sports?: {
+      stadiums?: string[];
+    };
+  }).sports?.stadiums?.length
+    ? (
+        districtData as {
+          sports?: {
+            stadiums?: string[];
+          };
+        }
+      ).sports!.stadiums!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Sports Complexes:{" "}
+  {(districtData as {
+    sports?: {
+      sportsComplexes?: string[];
+    };
+  }).sports?.sportsComplexes?.length
+    ? (
+        districtData as {
+          sports?: {
+            sportsComplexes?: string[];
+          };
+        }
+      ).sports!.sportsComplexes!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Famous Sportspersons:{" "}
+  {(districtData as {
+    sports?: {
+      famousSportspersons?: string[];
+    };
+  }).sports?.famousSportspersons?.length
+    ? (
+        districtData as {
+          sports?: {
+            famousSportspersons?: string[];
+          };
+        }
+      ).sports!.famousSportspersons!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Sports Academies:{" "}
+  {(districtData as {
+    sports?: {
+      sportsAcademies?: string[];
+    };
+  }).sports?.sportsAcademies?.length
+    ? (
+        districtData as {
+          sports?: {
+            sportsAcademies?: string[];
+          };
+        }
+      ).sports!.sportsAcademies!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Annual Sports Events:{" "}
+  {(districtData as {
+    sports?: {
+      annualSportsEvents?: string[];
+    };
+  }).sports?.annualSportsEvents?.length
+    ? (
+        districtData as {
+          sports?: {
+            annualSportsEvents?: string[];
+          };
+        }
+      ).sports!.annualSportsEvents!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Government Sports Programs:{" "}
+  {(districtData as {
+    sports?: {
+      governmentSportsPrograms?: string[];
+    };
+  }).sports?.governmentSportsPrograms?.length
+    ? (
+        districtData as {
+          sports?: {
+            governmentSportsPrograms?: string[];
+          };
+        }
+      ).sports!.governmentSportsPrograms!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Sports Achievements:{" "}
+  {(districtData as {
+    sports?: {
+      sportsAchievements?: string[];
+    };
+  }).sports?.sportsAchievements?.length
+    ? (
+        districtData as {
+          sports?: {
+            sportsAchievements?: string[];
+          };
+        }
+      ).sports!.sportsAchievements!.join(", ")
+    : "None"}
+</div>
+  </>
 ) : (
   `Information for ${section}`
 )}
