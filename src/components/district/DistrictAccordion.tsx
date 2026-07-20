@@ -2599,6 +2599,153 @@ if (!districtData) {
     : "None"}
 </div>
   </>
+) : section === "Miscellaneous" ? (
+  <>
+    <div>
+  Famous Personalities:{" "}
+  {(districtData as {
+    miscellaneous?: {
+      famousPersonalities?: string[];
+    };
+  }).miscellaneous?.famousPersonalities?.length
+    ? (
+        districtData as {
+          miscellaneous?: {
+            famousPersonalities?: string[];
+          };
+        }
+      ).miscellaneous!.famousPersonalities!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Nicknames:{" "}
+  {(districtData as {
+    miscellaneous?: {
+      nicknames?: string[];
+    };
+  }).miscellaneous?.nicknames?.length
+    ? (
+        districtData as {
+          miscellaneous?: {
+            nicknames?: string[];
+          };
+        }
+      ).miscellaneous!.nicknames!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Important Dates:{" "}
+  {(districtData as {
+    miscellaneous?: {
+      importantDates?: string[];
+    };
+  }).miscellaneous?.importantDates?.length
+    ? (
+        districtData as {
+          miscellaneous?: {
+            importantDates?: string[];
+          };
+        }
+      ).miscellaneous!.importantDates!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Festivals:{" "}
+  {(districtData as {
+    miscellaneous?: {
+      festivals?: string[];
+    };
+  }).miscellaneous?.festivals?.length
+    ? (
+        districtData as {
+          miscellaneous?: {
+            festivals?: string[];
+          };
+        }
+      ).miscellaneous!.festivals!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Local Foods:{" "}
+  {(districtData as {
+    miscellaneous?: {
+      localFoods?: string[];
+    };
+  }).miscellaneous?.localFoods?.length
+    ? (
+        districtData as {
+          miscellaneous?: {
+            localFoods?: string[];
+          };
+        }
+      ).miscellaneous!.localFoods!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Famous Markets:{" "}
+  {(districtData as {
+    miscellaneous?: {
+      famousMarkets?: string[];
+    };
+  }).miscellaneous?.famousMarkets?.length
+    ? (
+        districtData as {
+          miscellaneous?: {
+            famousMarkets?: string[];
+          };
+        }
+      ).miscellaneous!.famousMarkets!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Emergency Contacts:{" "}
+  {(districtData as {
+    miscellaneous?: {
+      emergencyContacts?: string[];
+    };
+  }).miscellaneous?.emergencyContacts?.length
+    ? (
+        districtData as {
+          miscellaneous?: {
+            emergencyContacts?: string[];
+          };
+        }
+      ).miscellaneous!.emergencyContacts!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Official Website:{" "}
+  {(districtData as {
+    miscellaneous?: {
+      officialWebsite?: string;
+    };
+  }).miscellaneous?.officialWebsite || "Not available"}
+</div>
+
+<div>
+  Additional Information:{" "}
+  {(districtData as {
+    miscellaneous?: {
+      additionalInformation?: string[];
+    };
+  }).miscellaneous?.additionalInformation?.length
+    ? (
+        districtData as {
+          miscellaneous?: {
+            additionalInformation?: string[];
+          };
+        }
+      ).miscellaneous!.additionalInformation!.join(", ")
+    : "None"}
+</div>
+  </>
 ) : (
   `Information for ${section}`
 )}

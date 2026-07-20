@@ -669,5 +669,45 @@
   ]
 },
 
-  "miscellaneous": {}
+  "miscellaneous": {
+  "famousPersonalities": [
+    "Ramdhari Singh Dinkar",
+    "Shatrughan Sinha"
+  ],
+  "nicknames": [
+    "Industrial Capital of Bihar"
+  ],
+  "importantDates": [
+    "14 January 1972 - Begusarai became a separate district"
+  ],
+  "festivals": [
+    "Chhath Puja",
+    "Durga Puja",
+    "Diwali",
+    "Holi",
+    "Eid"
+  ],
+  "localFoods": [
+    "Litti Chokha",
+    "Sattu Paratha",
+    "Thekua",
+    "Khaja"
+  ],
+  "famousMarkets": [
+    "Begusarai Main Market",
+    "Barauni Market",
+    "Teghra Market",
+    "Bakhri Market"
+  ],
+  "emergencyContacts": [
+    "Police - 112",
+    "Fire - 101",
+    "Ambulance - 108"
+  ],
+  "officialWebsite": "https://begusarai.nic.in",
+  "additionalInformation": [
+    "The district is an important industrial, agricultural and educational hub of Bihar.",
+    "Kanwar (Kabartal) Lake is an internationally important wetland."
+  ]
+}
 }
