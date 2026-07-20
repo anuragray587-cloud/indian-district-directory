@@ -1963,6 +1963,129 @@ if (!districtData) {
     : "None"}
 </div>
   </>
+) : section === "Governance & Public Services" ? (
+  <>
+    <div>
+  District Administration:{" "}
+  {(districtData as {
+    governanceAndPublicServices?: {
+      districtAdministration?: string;
+    };
+  }).governanceAndPublicServices?.districtAdministration || "Not available"}
+</div>
+
+<div>
+  Municipal Bodies:{" "}
+  {(districtData as {
+    governanceAndPublicServices?: {
+      municipalBodies?: string[];
+    };
+  }).governanceAndPublicServices?.municipalBodies?.length
+    ? (
+        districtData as {
+          governanceAndPublicServices?: {
+            municipalBodies?: string[];
+          };
+        }
+      ).governanceAndPublicServices!.municipalBodies!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Police Administration:{" "}
+  {(districtData as {
+    governanceAndPublicServices?: {
+      policeAdministration?: string;
+    };
+  }).governanceAndPublicServices?.policeAdministration || "Not available"}
+</div>
+
+<div>
+  Fire Services:{" "}
+  {(districtData as {
+    governanceAndPublicServices?: {
+      fireServices?: string;
+    };
+  }).governanceAndPublicServices?.fireServices || "Not available"}
+</div>
+
+<div>
+  Judiciary:{" "}
+  {(districtData as {
+    governanceAndPublicServices?: {
+      judiciary?: string[];
+    };
+  }).governanceAndPublicServices?.judiciary?.length
+    ? (
+        districtData as {
+          governanceAndPublicServices?: {
+            judiciary?: string[];
+          };
+        }
+      ).governanceAndPublicServices!.judiciary!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Government Offices:{" "}
+  {(districtData as {
+    governanceAndPublicServices?: {
+      governmentOffices?: string[];
+    };
+  }).governanceAndPublicServices?.governmentOffices?.length
+    ? (
+        districtData as {
+          governanceAndPublicServices?: {
+            governmentOffices?: string[];
+          };
+        }
+      ).governanceAndPublicServices!.governmentOffices!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Public Distribution System:{" "}
+  {(districtData as {
+    governanceAndPublicServices?: {
+      publicDistributionSystem?: string;
+    };
+  }).governanceAndPublicServices?.publicDistributionSystem || "Not available"}
+</div>
+
+<div>
+  e-Governance Services:{" "}
+  {(districtData as {
+    governanceAndPublicServices?: {
+      eGovernanceServices?: string[];
+    };
+  }).governanceAndPublicServices?.eGovernanceServices?.length
+    ? (
+        districtData as {
+          governanceAndPublicServices?: {
+            eGovernanceServices?: string[];
+          };
+        }
+      ).governanceAndPublicServices!.eGovernanceServices!.join(", ")
+    : "None"}
+</div>
+
+<div>
+  Citizen Services:{" "}
+  {(districtData as {
+    governanceAndPublicServices?: {
+      citizenServices?: string[];
+    };
+  }).governanceAndPublicServices?.citizenServices?.length
+    ? (
+        districtData as {
+          governanceAndPublicServices?: {
+            citizenServices?: string[];
+          };
+        }
+      ).governanceAndPublicServices!.citizenServices!.join(", ")
+    : "None"}
+</div>
+  </>
 ) : (
   `Information for ${section}`
 )}

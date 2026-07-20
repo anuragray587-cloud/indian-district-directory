@@ -495,7 +495,42 @@
   ]
 },
 
-  "governance": {},
+  "governanceAndPublicServices": {
+  "districtAdministration": "The district is administered by the District Magistrate (DM) with support from various administrative departments.",
+  "municipalBodies": [
+    "Begusarai Municipal Corporation",
+    "Barauni Nagar Parishad",
+    "Bakhri Nagar Parishad",
+    "Teghra Nagar Parishad"
+  ],
+  "policeAdministration": "Law and order is maintained by Begusarai Police under the Bihar Police.",
+  "fireServices": "Fire stations operate in major urban areas including Begusarai and Barauni.",
+  "judiciary": [
+    "District and Sessions Court, Begusarai"
+  ],
+  "governmentOffices": [
+    "District Collectorate",
+    "District Transport Office",
+    "District Education Office",
+    "District Agriculture Office",
+    "District Health Office"
+  ],
+  "publicDistributionSystem": "Essential commodities are distributed through Fair Price Shops under the Public Distribution System (PDS).",
+  "eGovernanceServices": [
+    "RTPS Bihar",
+    "e-District Services",
+    "Bihar Bhumi",
+    "Bihar e-Procurement"
+  ],
+  "citizenServices": [
+    "Birth Certificate",
+    "Death Certificate",
+    "Caste Certificate",
+    "Income Certificate",
+    "Residence Certificate",
+    "Driving Licence Services"
+  ]
+},
 
   "lawAndOrder": {},
 
