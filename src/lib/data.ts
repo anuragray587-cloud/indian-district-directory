@@ -1,6 +1,7 @@
 import rawData from "@/data/states.json";
 import type { District, StateOrUT } from "@/types";
 import begusaraiData from "@/data/districts/bihar/begusarai.json"; 
+import samastipurData from "@/data/districts/bihar/samastipur.json";
 
 // The JSON is the single source of truth. Casting once here means every
 // caller elsewhere in the app gets full type safety for free.
@@ -59,9 +60,15 @@ export function getDistrictData(
   state: string,
   district: string
 ): DistrictData | null {
-  if (state === "bihar" && district === "begusarai") {
+  if (state === "bihar") {
+  if (district === "begusarai") {
     return begusaraiData as DistrictData;
   }
+
+  if (district === "samastipur") {
+    return samastipurData as DistrictData;
+  }
+}
 
   return null;
 }

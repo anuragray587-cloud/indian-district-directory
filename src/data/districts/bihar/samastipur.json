@@ -1,0 +1,758 @@
+{  "state": "Bihar",
+  "district": "Samastipur",
+  "slug": "samastipur",
+  "language": "en",
+  "version": "1.0",
+  "lastUpdated": "",
+  "name": "Samastipur",
+  "slug": "samastipur",
+  "state": "Bihar",
+
+  "basicInformation": {
+    "headquarters": "Samastipur",
+    "established": "14 November 1972",
+    "areaKm2": 2904,
+"population": 4254782,
+"districtCode": "SMT",
+"division": "Darbhanga",
+"subdivision": 4,
+"anchals": 20,
+"blocks": 20,
+"panchayats": 380,
+"villages": 1248,
+"towns": 7,
+"policeStations": 21,
+"lokSabhaConstituencies": 2,
+"assemblyConstituencies": 10,
+"pinCodeRange": "848101 - 848505",
+"vehicleRegistrationCode": "BR-33",
+"elevation": "52 m",
+"coordinates": {
+  "latitude": "25.86° N",
+  "longitude": "85.78° E"
+},
+"officialWebsite": "https://samastipur.nic.in"
+  },
+
+  "history": {
+  "historicalImportance": "Samastipur is an important historical, educational and agricultural district of Bihar. It is known for its railway division, fertile plains and cultural heritage.",
+  "formationHistory": "Samastipur district was constituted on 14 November 1972 after being separated from Darbhanga district.",
+  "freedomMovement": "People of Samastipur actively participated in India's freedom movement. The district has associations with several national leaders including Karpoori Thakur.",
+  "archaeologicalImportance": "The district has historical sites, ancient temples and archaeological remains reflecting the rich cultural heritage of the Mithila region.",
+  "asiProtectedMonuments": [],
+  "historicalTimeline": [
+    "14 November 1972 - Samastipur became a separate district."
+  ]
+},
+
+"geography": {
+  "location": "Samastipur district is situated in the north-central part of Bihar in the Mithila region.",
+
+"boundaries": {
+  "north": "Darbhanga",
+  "south": "Begusarai and Patna",
+  "east": "Khagaria",
+  "west": "Muzaffarpur and Vaishali"
+},
+
+"area": "2,904 sq km",
+"elevation": "52 m",
+"climate": "Humid subtropical climate with hot summers, monsoon rains and cool winters",
+"rainfall": "Approximately 1,150 mm annually",
+
+"rivers": [
+  "Budhi Gandak",
+  "Bagmati",
+  "Kamla Balan"
+],
+
+"hills": [],
+
+"forests": "Very limited forest cover",
+
+"soilTypes": [
+  "Alluvial Soil",
+  "Loamy Soil"
+],
+
+"naturalResources": [
+  "Fertile alluvial soil",
+  "Groundwater",
+  "Agricultural land"
+]
+},
+
+"demographics": {
+  "totalPopulation": "4,254,782",
+"malePopulation": "2,219,860",
+"femalePopulation": "2,034,922",
+"sexRatio": "917 females per 1000 males",
+"populationDensity": "1,465 persons/km²",
+"literacyRate": "61.86%",
+"maleLiteracyRate": "71.49%",
+"femaleLiteracyRate": "51.31%",
+"urbanPopulation": "6.08%",
+"ruralPopulation": "93.92%",
+
+"religions": [
+  "Hinduism",
+  "Islam",
+  "Christianity",
+  "Sikhism",
+  "Jainism",
+  "Buddhism",
+  "Others"
+],
+
+"languages": [
+  "Hindi",
+  "Maithili",
+  "Urdu"
+]
+},
+
+  "administration": {
+  "administrativeDivision": "Darbhanga Division",
+
+  "subDivisions": [
+    "Samastipur",
+    "Dalsinghsarai",
+    "Rosera",
+    "Patori"
+  ],
+
+  "blocks": [
+    "Bibhutipur",
+    "Bithan",
+    "Dalsinghsarai",
+    "Hasanpur",
+    "Kalyanpur",
+    "Khanpur",
+    "Mohanpur",
+    "Mohiuddinnagar",
+    "Morwa",
+    "Patori",
+    "Pusa",
+    "Rosera",
+    "Sarairanjan",
+    "Shivajinagar",
+    "Singhia",
+    "Tajpur",
+    "Ujiarpur",
+    "Vidyapatinagar",
+    "Warisnagar",
+    "Samastipur"
+  ],
+
+  "circles": [
+    "Bibhutipur",
+    "Bithan",
+    "Dalsinghsarai",
+    "Hasanpur",
+    "Kalyanpur",
+    "Khanpur",
+    "Mohanpur",
+    "Mohiuddinnagar",
+    "Morwa",
+    "Patori",
+    "Pusa",
+    "Rosera",
+    "Sarairanjan",
+    "Shivajinagar",
+    "Singhia",
+    "Tajpur",
+    "Ujiarpur",
+    "Vidyapatinagar",
+    "Warisnagar",
+    "Samastipur"
+  ],
+
+  "gramPanchayats": 380,
+  "villages": 1248,
+
+  "municipalCorporation": "",
+
+  "municipalities": [
+    "Samastipur",
+    "Dalsinghsarai",
+    "Rosera"
+  ],
+
+  "nagarPanchayats": [
+    "Patori"
+  ],
+
+  "policeStations": [],
+
+  "assemblyConstituencies": [
+    "Kalyanpur",
+    "Warisnagar",
+    "Samastipur",
+    "Ujiarpur",
+    "Morwa",
+    "Sarairanjan",
+    "Mohiuddinnagar",
+    "Bibhutipur",
+    "Rosera",
+    "Hasanpur"
+  ],
+
+  "lokSabhaConstituency": "Samastipur"
+},
+
+  "economy": {
+  "gdp": "Not officially available",
+  "majorIndustries": [
+    "Agriculture",
+    "Rice Mills",
+    "Sugar Industry",
+    "Food Processing",
+    "Dairy"
+  ],
+  "majorCrops": [
+    "Paddy",
+    "Wheat",
+    "Maize",
+    "Sugarcane",
+    "Mustard",
+    "Pulses",
+    "Vegetables"
+  ],
+  "majorEmployers": [
+    "Indian Railways",
+    "Government Departments",
+    "Educational Institutions",
+    "Healthcare Sector",
+    "Agriculture"
+  ],
+  "banking": [
+    "State Bank of India",
+    "Punjab National Bank",
+    "Bank of Baroda",
+    "Canara Bank",
+    "Central Bank of India",
+    "UCO Bank",
+    "Union Bank of India",
+    "Bank of India",
+    "Indian Overseas Bank",
+    "Bihar Gramin Bank"
+  ],
+  "industrialAreas": [
+    "Samastipur Industrial Area"
+  ],
+  "specialEconomicFeatures": [
+    "Agriculture-based economy",
+    "Major railway division",
+    "Food grain production",
+    "Growing dairy sector"
+  ]
+},
+
+  "agriculture": {
+  "majorCrops": [
+    "Paddy",
+    "Wheat",
+    "Maize",
+    "Mustard",
+    "Pulses"
+  ],
+  "cashCrops": [
+    "Sugarcane",
+    "Mustard"
+  ],
+  "fruits": [
+    "Mango",
+    "Banana",
+    "Guava",
+    "Litchi"
+  ],
+  "vegetables": [
+    "Potato",
+    "Onion",
+    "Tomato",
+    "Brinjal",
+    "Cauliflower"
+  ],
+  "irrigationSources": [
+    "Canals",
+    "Tube Wells",
+    "Ponds",
+    "Rivers"
+  ],
+  "livestock": [
+    "Cattle",
+    "Buffalo",
+    "Goat",
+    "Poultry"
+  ],
+  "dairyDevelopment": "Dairy farming is an important source of income, supported by Sudha Dairy and local milk cooperatives.",
+  "fisheries": "Fish farming is practiced in ponds and low-lying water bodies across the district.",
+  "agriculturalMarkets": [
+  "Samastipur",
+  "Dalsinghsarai",
+  "Rosera",
+  "Pusa"
+],
+"krishiVigyanKendra": "Krishi Vigyan Kendra, Birauli, Samastipur"
+},
+
+  "infrastructure": {
+  "roadNetwork": "Well-connected through national highways, state highways and major district roads.",
+  "nationalHighways": [
+    "NH-27"
+  ],
+  "stateHighways": [
+    "SH-49",
+    "SH-50"
+  ],
+  "railwayStations": [
+    "Samastipur Junction",
+    "Dalsinghsarai",
+    "Rosera",
+    "Hasanpur Road",
+    "Pusa Road (Khudiram Bose Pusa)"
+  ],
+  "majorRailwayJunctions": [
+    "Samastipur Junction"
+  ],
+  "airConnectivity": "The nearest airport is Jay Prakash Narayan International Airport, Patna. Darbhanga Airport also provides commercial flight connectivity.",
+  "publicTransport": "Buses, auto-rickshaws, e-rickshaws and taxis provide transportation across the district and nearby regions.",
+  "electricity": "Most urban and rural areas have access to electricity under the Bihar state power distribution network.",
+  "waterSupply": "Water supply is provided through municipal systems, hand pumps and rural water supply schemes.",
+  "internetConnectivity": "4G/5G mobile networks and broadband internet services are available in most parts of the district."
+},
+
+  "education": {
+  "literacyRate": "61.86%",
+  "maleLiteracy": "71.94%",
+  "femaleLiteracy": "51.23%",
+  "governmentSchools": "More than 2,500 government schools operate across the district.",
+  "privateSchools": "Several private schools operate across Samastipur district.",
+  "colleges": [
+    "R. B. College, Dalsinghsarai",
+    "Women's College, Samastipur",
+    "R. N. A. R. College, Samastipur",
+    "Dr. L. K. V. D. College, Tajpur",
+    "U.R. College, Rosera"
+  ],
+  "universities": [
+    "Dr. Rajendra Prasad Central Agricultural University, Pusa"
+  ],
+  "technicalInstitutes": [
+    "Government Polytechnic, Samastipur",
+    "Government ITI, Samastipur"
+  ],
+  "medicalColleges": [],
+  "notableEducationalInstitutions": [
+    "Dr. Rajendra Prasad Central Agricultural University, Pusa",
+    "R. N. A. R. College, Samastipur",
+    "Women's College, Samastipur",
+    "Government Polytechnic, Samastipur",
+    "Government ITI, Samastipur"
+  ]
+},
+
+  "healthcare": {
+  "districtHospital": "Sadar Hospital, Samastipur",
+  "subDivisionalHospitals": [
+    "Sub-Divisional Hospital, Dalsinghsarai",
+    "Sub-Divisional Hospital, Rosera"
+  ],
+  "communityHealthCentres": [
+    "CHC Tajpur",
+    "CHC Pusa",
+    "CHC Warisnagar",
+    "CHC Morwa",
+    "CHC Hasanpur"
+  ],
+  "primaryHealthCentres": "Primary Health Centres are available across all blocks of the district.",
+  "medicalColleges": [],
+  "ambulanceServices": "102 and 108 ambulance services are available throughout the district.",
+  "majorHealthPrograms": [
+    "Ayushman Bharat",
+    "Janani Suraksha Yojana",
+    "Universal Immunization Programme",
+    "National Health Mission"
+  ],
+  "bloodBanks": [
+    "Sadar Hospital Blood Bank, Samastipur"
+  ],
+  "notableHospitals": [
+    "Sadar Hospital, Samastipur",
+    "Sub-Divisional Hospital, Dalsinghsarai",
+    "Sub-Divisional Hospital, Rosera"
+  ]
+},
+
+  "cultureAndHeritage": {
+  "festivals": [
+    "Chhath Puja",
+    "Holi",
+    "Diwali",
+    "Durga Puja",
+    "Eid",
+    "Makar Sankranti"
+  ],
+  "languages": [
+    "Hindi",
+    "Maithili",
+    "Urdu"
+  ],
+  "folkDance": [
+    "Jat-Jatin",
+    "Jhijhiya",
+    "Domkach"
+  ],
+  "folkMusic": [
+    "Sohar",
+    "Kajri",
+    "Chaita",
+    "Vidyapati Geet"
+  ],
+  "traditionalDress": "Men traditionally wear Dhoti-Kurta while women wear Saree and Salwar-Kameez.",
+  "cuisine": [
+    "Litti Chokha",
+    "Sattu Paratha",
+    "Khichdi",
+    "Thekua",
+    "Malpua"
+  ],
+  "handicrafts": [
+    "Bamboo Crafts",
+    "Handloom Products",
+    "Clay Pottery"
+  ],
+  "historicalHeritage": [
+    "Khudiram Bose Pusa",
+    "Dr. Rajendra Prasad Central Agricultural University, Pusa",
+    "Mannipur Temple"
+  ],
+  "culturalOrganizations": [
+    "District Cultural Committee, Samastipur",
+    "Local Cultural Clubs"
+  ]
+},
+
+  "tourism": {
+  "majorTouristAttractions": [
+    "Dr. Rajendra Prasad Central Agricultural University, Pusa",
+    "Khudiram Bose Memorial, Pusa",
+    "Mannipur Temple",
+    "Budhi Gandak River"
+  ],
+  "religiousPlaces": [
+    "Mannipur Temple",
+    "Khatu Shyam Temple, Samastipur",
+    "Thaneshwar Sthan"
+  ],
+  "historicalSites": [
+    "Khudiram Bose Memorial, Pusa",
+    "Pusa Campus Heritage Buildings"
+  ],
+  "naturalAttractions": [
+    "Budhi Gandak River",
+    "Agricultural Research Farms, Pusa"
+  ],
+  "wildlifeSanctuaries": [],
+  "annualFairs": [
+    "Chhath Festival Celebrations",
+    "Ramnavami Fair",
+    "Durga Puja Festival"
+  ],
+  "bestTimeToVisit": "October to March",
+  "nearbyTouristDestinations": [
+    "Darbhanga",
+    "Muzaffarpur",
+    "Vaishali",
+    "Patna"
+  ]
+},
+
+  "sports": {
+  "majorSports": [
+    "Cricket",
+    "Football",
+    "Kabaddi",
+    "Volleyball",
+    "Athletics"
+  ],
+  "stadiums": [
+    "District Sports Stadium, Samastipur"
+  ],
+  "sportsComplexes": [
+    "District Sports Complex, Samastipur"
+  ],
+  "famousSportspersons": [],
+  "sportsAcademies": [
+    "District Sports Training Centre, Samastipur"
+  ],
+  "annualSportsEvents": [
+    "District-Level Sports Meet",
+    "School Sports Competitions"
+  ],
+  "governmentSportsPrograms": [
+    "Khelo India",
+    "Bihar State Sports Development Program"
+  ],
+  "sportsAchievements": []
+},
+
+  "bankingAndFinance": {
+  "nationalizedBanks": [
+    "State Bank of India",
+    "Punjab National Bank",
+    "Bank of Baroda",
+    "Canara Bank",
+    "Union Bank of India",
+    "Indian Bank",
+    "UCO Bank",
+    "Central Bank of India"
+  ],
+  "privateBanks": [
+    "HDFC Bank",
+    "ICICI Bank",
+    "Axis Bank"
+  ],
+  "regionalRuralBanks": [
+    "Bihar Gramin Bank"
+  ],
+  "cooperativeBanks": [
+    "Samastipur Central Cooperative Bank"
+  ],
+  "atms": "ATMs of major public and private sector banks are available across the district.",
+  "digitalBanking": "UPI, Internet Banking and Mobile Banking services are widely available.",
+  "microfinanceInstitutions": [
+    "Bandhan",
+    "CreditAccess Grameen"
+  ],
+  "financialInclusionPrograms": [
+    "Pradhan Mantri Jan Dhan Yojana",
+    "Pradhan Mantri Jeevan Jyoti Bima Yojana",
+    "Pradhan Mantri Suraksha Bima Yojana",
+    "Atal Pension Yojana"
+  ],
+  "majorInsuranceCompanies": [
+    "LIC of India",
+    "New India Assurance",
+    "United India Insurance",
+    "National Insurance Company"
+  ]
+},
+
+  "governanceAndPublicServices": {
+  "districtAdministration": "The district is administered by the District Magistrate (DM) with the support of various administrative departments.",
+  "municipalBodies": [
+    "Samastipur Municipal Corporation",
+    "Dalsinghsarai Nagar Parishad",
+    "Rosera Nagar Parishad"
+  ],
+  "policeAdministration": "Law and order is maintained by Samastipur District Police under Bihar Police.",
+  "fireServices": "Fire stations operate in Samastipur, Dalsinghsarai, Rosera and other major urban areas.",
+  "judiciary": [
+    "District and Sessions Court, Samastipur"
+  ],
+  "governmentOffices": [
+    "District Collectorate",
+    "District Transport Office",
+    "District Education Office",
+    "District Agriculture Office",
+    "District Health Office"
+  ],
+  "publicDistributionSystem": "Essential commodities are distributed through the Public Distribution System (PDS).",
+  "eGovernanceServices": [
+    "RTPS Bihar",
+    "e-District Services",
+    "Bihar Bhumi",
+    "Bihar e-Procurement"
+  ],
+  "citizenServices": [
+    "Birth Certificate",
+    "Death Certificate",
+    "Caste Certificate",
+    "Income Certificate",
+    "Residence Certificate",
+    "Driving Licence Services"
+  ]
+},
+
+  "lawAndOrder": {
+  "policeDistrict": "Samastipur Police District under Bihar Police",
+  "policeStations": [
+    "Samastipur",
+    "Muffasil",
+    "Musrigharari",
+    "Tajpur",
+    "Pusa",
+    "Warisnagar",
+    "Kalyanpur",
+    "Rosera",
+    "Hasanpur",
+    "Singhia",
+    "Shivajinagar",
+    "Vibhutipur",
+    "Mohanpur",
+    "Dalsinghsarai"
+  ],
+  "womenPoliceStations": [
+    "Mahila Police Station, Samastipur"
+  ],
+  "cyberCrimePoliceStation": "Cyber Crime Police Station, Samastipur",
+  "trafficPolice": "Traffic Police manages traffic regulation and road safety across the district.",
+  "prisons": [
+    "District Jail, Samastipur"
+  ],
+  "emergencyNumbers": [
+    "112 (Emergency Response Support System)",
+    "100 (Police)",
+    "101 (Fire)",
+    "108 (Ambulance)"
+  ],
+  "crimePreventionInitiatives": [
+    "Community Policing",
+    "Cyber Crime Awareness Campaigns",
+    "Women Safety Initiatives",
+    "Road Safety Awareness Programs"
+  ],
+  "disasterManagement": "The District Disaster Management Authority (DDMA), Samastipur coordinates disaster preparedness, flood management and emergency response."
+},
+
+  "environment": {
+  "forestCover": "The district has limited forest cover, with agriculture dominating the landscape.",
+  "majorForests": [],
+  "protectedAreas": [],
+  "wetlands": [
+    "Budhi Gandak Floodplain Wetlands"
+  ],
+  "rivers": [
+    "Budhi Gandak",
+    "Bagmati",
+    "Kamla Balan",
+    "Kareh"
+  ],
+  "lakes": [],
+  "biodiversity": [
+    "Freshwater Fish",
+    "Wetland Birds",
+    "Agricultural Flora and Fauna"
+  ],
+  "environmentalIssues": [
+    "Flooding",
+    "River Bank Erosion",
+    "Water Pollution",
+    "Plastic Waste"
+  ],
+  "conservationInitiatives": [
+    "Tree Plantation Drives",
+    "Swachh Bharat Mission",
+    "River Conservation Programs",
+    "Water Conservation Awareness"
+  ]
+},
+
+  "mediaAndCommunication": {
+  "newspapers": [
+    "Hindustan",
+    "Dainik Jagran",
+    "Prabhat Khabar",
+    "Aaj"
+  ],
+  "televisionChannels": [
+    "DD Bihar",
+    "Zee Bihar Jharkhand",
+    "News18 Bihar Jharkhand"
+  ],
+  "radioStations": [
+    "All India Radio",
+    "FM Rainbow"
+  ],
+  "newsPortals": [
+    "District Administration Website",
+    "State Government Portals"
+  ],
+  "postalServices": "India Post provides postal and speed post services through head and branch post offices across the district.",
+  "telecommunication": "The district has extensive 4G/5G mobile coverage and expanding broadband connectivity.",
+  "internetProviders": [
+    "BSNL",
+    "JioFiber",
+    "Airtel Xstream Fiber"
+  ],
+  "mobileNetworkOperators": [
+    "Jio",
+    "Airtel",
+    "Vi",
+    "BSNL"
+  ],
+  "digitalMedia": [
+    "Official District Website",
+    "Social Media Pages",
+    "Online News Platforms"
+  ]
+},
+
+  "rankingsAndAchievements": {
+  "stateRankings": [
+    "Recognized as an important agricultural district of Bihar"
+  ],
+  "nationalRankings": [
+    "Dr. Rajendra Prasad Central Agricultural University, Pusa is one of India's leading agricultural universities"
+  ],
+  "awards": [
+    "National recognition for agricultural research at Pusa"
+  ],
+  "notableAchievements": [
+    "Home to Dr. Rajendra Prasad Central Agricultural University, Pusa",
+    "Major centre for agricultural education and research in eastern India",
+    "Important railway division under East Central Railway"
+  ],
+  "developmentIndicators": [
+    "Improving road connectivity",
+    "Expanding digital infrastructure",
+    "Growth in agricultural research and education"
+  ],
+  "records": [
+    "Pusa is internationally known for agricultural research and education"
+  ]
+},
+
+  "miscellaneous": {
+  "famousPersonalities": [
+    "Karpoori Thakur",
+    "Ramdhari Singh Dinkar"
+  ],
+  "nicknames": [
+    "Land of Pusa Agricultural Research"
+  ],
+  "importantDates": [
+    "14 November 1972 - Samastipur became a separate district"
+  ],
+  "festivals": [
+    "Chhath Puja",
+    "Durga Puja",
+    "Diwali",
+    "Holi",
+    "Eid"
+  ],
+  "localFoods": [
+    "Litti Chokha",
+    "Sattu Paratha",
+    "Thekua",
+    "Khaja"
+  ],
+  "famousMarkets": [
+    "Samastipur Main Market",
+    "Dalsinghsarai Market",
+    "Rosera Market",
+    "Tajpur Market"
+  ],
+  "emergencyContacts": [
+    "Police - 112",
+    "Fire - 101",
+    "Ambulance - 108"
+  ],
+  "officialWebsite": "https://samastipur.nic.in",
+  "additionalInformation": [
+    "The district is an important agricultural and railway hub of Bihar.",
+    "Dr. Rajendra Prasad Central Agricultural University, Pusa is located in the district."
+  ]
+}
+}
