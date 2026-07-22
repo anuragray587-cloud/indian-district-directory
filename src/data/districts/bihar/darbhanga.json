@@ -1,0 +1,769 @@
+{  "state": "Bihar",
+  "district": "Darbhanga",
+  "slug": "darbhanga",
+  "language": "en",
+  "version": "1.0",
+  "lastUpdated": "",
+  "name": "Darbhanga",
+  "slug": "darbhanga",
+  "state": "Bihar",
+
+  "basicInformation": {
+    "headquarters": "Darbhanga",
+"established": "1 January 1875",
+"areaKm2": 2279,
+"population": 3937385,
+"districtCode": "DBG",
+"division": "Darbhanga",
+"subdivision": 3,
+"anchals": 18,
+"blocks": 18,
+"panchayats": 329,
+"villages": 1251,
+"towns": 8,
+"policeStations": 20,
+"lokSabhaConstituencies": 1,
+"assemblyConstituencies": 10,
+"pinCodeRange": "846001 - 847427",
+"vehicleRegistrationCode": "BR-07",
+"elevation": "52 m",
+"coordinates": {
+  "latitude": "26.15° N",
+  "longitude": "85.90° E"
+},
+"officialWebsite": "https://darbhanga.nic.in"
+  },
+
+  "history": {
+  "historicalImportance": "Darbhanga has been the historical and cultural centre of the Mithila region. It was the seat of the Darbhanga Raj, one of the most influential zamindari estates in India, and has long been known for its contributions to education, Sanskrit learning and Maithili culture.",
+  "formationHistory": "Darbhanga district was established on 1 January 1875 during the British administration. It later became the parent district from which several new districts, including Madhubani and Samastipur, were carved out.",
+  "freedomMovement": "People of Darbhanga actively participated in India's freedom movement through the Non-Cooperation Movement, Civil Disobedience Movement and Quit India Movement. Many local leaders and students contributed to the struggle for independence.",
+  "archaeologicalImportance": "Darbhanga is known for its ancient temples, palaces and historical structures associated with the Mithila civilization and the Darbhanga Raj.",
+  "asiProtectedMonuments": [],
+  "historicalTimeline": [
+    "1 January 1875 - Darbhanga district was established.",
+    "1947 - Darbhanga became part of the Indian state of Bihar after Independence.",
+    "1972 - Samastipur district was carved out of Darbhanga district."
+  ]
+},
+
+"geography": {
+  "location": "Darbhanga district is situated in the northern part of Bihar in the Mithila region.",
+  "boundaries": {
+    "north": "Madhubani",
+    "south": "Samastipur",
+    "east": "Supaul and Saharsa",
+    "west": "Muzaffarpur and Sitamarhi"
+  },
+  "area": "2,279 sq km",
+  "elevation": "52 m",
+  "climate": "Humid subtropical climate with hot summers, monsoon rains and cool winters.",
+  "rainfall": "Approximately 1,250 mm annually",
+  "rivers": [
+    "Bagmati",
+    "Kamla Balan",
+    "Adhwara Group of Rivers"
+  ],
+  "hills": [],
+  "forests": "Very limited forest cover",
+  "soilTypes": [
+    "Alluvial Soil",
+    "Loamy Soil",
+    "Clayey Soil"
+  ],
+  "naturalResources": [
+    "Fertile Alluvial Soil",
+    "Groundwater",
+    "Agricultural Land",
+    "Wetlands"
+  ]
+},
+
+"demographics": {
+  "totalPopulation": "3,937,385",
+  "malePopulation": "2,057,697",
+  "femalePopulation": "1,879,688",
+  "sexRatio": "914 females per 1000 males",
+  "populationDensity": "1,728 persons/km²",
+  "literacyRate": "56.56%",
+  "maleLiteracyRate": "65.79%",
+  "femaleLiteracyRate": "46.49%",
+  "urbanPopulation": "8.72%",
+  "ruralPopulation": "91.28%",
+
+  "religions": [
+    "Hinduism",
+    "Islam",
+    "Christianity",
+    "Sikhism",
+    "Jainism",
+    "Buddhism"
+  ],
+
+  "languages": [
+    "Maithili",
+    "Hindi",
+    "Urdu"
+  ]
+},
+
+  "administration": {
+  "administrativeDivision": "Darbhanga Division",
+
+  "subDivisions": [
+    "Darbhanga Sadar",
+    "Benipur"
+  ],
+
+  "blocks": [
+    "Bahadurpur",
+    "Baheri",
+    "Benipur",
+    "Biraul",
+    "Darbhanga",
+    "Gaura Bauram",
+    "Hanumannagar",
+    "Hayaghat",
+    "Jale",
+    "Keoti",
+    "Kiratpur",
+    "Kusheshwar Asthan",
+    "Kusheshwar Asthan East",
+    "Manigachhi",
+    "Singhwara",
+    "Tardih",
+    "Alinagar",
+    "Ghanshyampur",
+    "Biraul"
+  ],
+
+  "circles": [
+    "Darbhanga Sadar",
+    "Benipur",
+    "Biraul"
+  ],
+
+  "gramPanchayats": 329,
+  "villages": 1248,
+
+  "municipalCorporation": "Darbhanga Municipal Corporation",
+
+  "municipalities": [
+    "Benipur"
+  ],
+
+  "nagarPanchayats": [
+    "Biraul"
+  ],
+
+  "policeStations": [
+    "Darbhanga Sadar",
+    "Laheriasarai",
+    "Bahadurpur",
+    "Baheri",
+    "Benipur",
+    "Biraul",
+    "Hayaghat",
+    "Jale",
+    "Keoti",
+    "Manigachhi",
+    "Singhwara"
+  ],
+
+  "assemblyConstituencies": [
+    "Gaura Bauram",
+    "Benipur",
+    "Alinagar",
+    "Darbhanga Rural",
+    "Darbhanga",
+    "Hayaghat",
+    "Bahadurpur",
+    "Keoti",
+    "Jale",
+    "Kusheshwar Asthan (SC)"
+  ],
+
+  "lokSabhaConstituency": "Darbhanga"
+},
+
+  "economy": {
+  "gdp": "Not officially available",
+
+  "majorIndustries": [
+    "Agriculture",
+    "Makhana Processing",
+    "Rice Mills",
+    "Food Processing",
+    "Handloom",
+    "Dairy"
+  ],
+
+  "majorCrops": [
+    "Paddy",
+    "Wheat",
+    "Maize",
+    "Mustard",
+    "Pulses",
+    "Vegetables",
+    "Makhana"
+  ],
+
+  "majorEmployers": [
+    "Government Departments",
+    "Educational Institutions",
+    "Healthcare Sector",
+    "Agriculture",
+    "Small and Medium Enterprises"
+  ],
+
+  "banking": [
+    "State Bank of India",
+    "Punjab National Bank",
+    "Bank of Baroda",
+    "Canara Bank",
+    "Central Bank of India",
+    "UCO Bank",
+    "Union Bank of India",
+    "Indian Bank",
+    "Bihar Gramin Bank"
+  ],
+
+  "industrialAreas": [
+    "Darbhanga Industrial Area"
+  ],
+
+  "specialEconomicFeatures": [
+    "Agriculture-based economy",
+    "Makhana production",
+    "Fish farming",
+    "Maithili handloom and handicrafts",
+    "Growing education and healthcare sector"
+  ]
+},
+
+  "agriculture": {
+  "majorCrops": [
+    "Paddy",
+    "Wheat",
+    "Maize",
+    "Mustard",
+    "Pulses",
+    "Makhana"
+  ],
+  "cashCrops": [
+    "Jute",
+    "Mustard"
+  ],
+  "fruits": [
+    "Mango",
+    "Litchi",
+    "Banana",
+    "Guava"
+  ],
+  "vegetables": [
+    "Potato",
+    "Onion",
+    "Tomato",
+    "Brinjal",
+    "Cauliflower"
+  ],
+  "irrigationSources": [
+    "Canals",
+    "Tube Wells",
+    "Ponds",
+    "Rivers"
+  ],
+  "livestock": [
+    "Cattle",
+    "Buffalo",
+    "Goat",
+    "Poultry"
+  ],
+  "dairyDevelopment": "Dairy farming is an important source of income in rural areas of Darbhanga district.",
+  "fisheries": "Fish farming is widely practiced in ponds, wetlands and floodplain areas.",
+  "agriculturalMarkets": [
+    "Darbhanga",
+    "Benipur",
+    "Jale",
+    "Biraul"
+  ],
+  "krishiVigyanKendra": "Krishi Vigyan Kendra, Darbhanga"
+},
+
+  "infrastructure": {
+  "roadNetwork": "Well-connected through national highways, state highways and district roads.",
+  "nationalHighways": [
+    "NH-27"
+  ],
+  "stateHighways": [
+    "SH-50",
+    "SH-56"
+  ],
+  "railwayStations": [
+    "Darbhanga Junction",
+    "Laheriasarai",
+    "Thalwara",
+    "Hayaghat",
+    "Kakarghati"
+  ],
+  "majorRailwayJunctions": [
+    "Darbhanga Junction"
+  ],
+  "airConnectivity": "Darbhanga Airport provides direct flight connectivity to major Indian cities including Delhi, Mumbai, Bengaluru, Hyderabad and Kolkata.",
+  "publicTransport": "Buses, auto-rickshaws, e-rickshaws and taxis are widely available throughout the district.",
+  "electricity": "Most urban and rural areas have access to electricity under the Bihar state power distribution network.",
+  "waterSupply": "Water supply is provided through municipal systems, hand pumps and piped water schemes.",
+  "internetConnectivity": "4G/5G mobile networks and broadband internet services are widely available."
+},
+
+  "education": {
+  "literacyRate": "56.56%",
+  "maleLiteracy": "65.79%",
+  "femaleLiteracy": "46.49%",
+  "governmentSchools": "More than 2,500 government schools operate across the district.",
+  "privateSchools": "Several private schools provide education from primary to senior secondary level.",
+  "colleges": [
+    "C. M. Science College, Darbhanga",
+    "M. L. S. M. College, Darbhanga",
+    "Marwari College, Darbhanga",
+    "M. R. M. College, Darbhanga",
+    "K. S. College, Laheriasarai"
+  ],
+  "universities": [
+    "Lalit Narayan Mithila University",
+    "Kameshwar Singh Darbhanga Sanskrit University"
+  ],
+  "technicalInstitutes": [
+    "Government Polytechnic, Darbhanga",
+    "Government ITI, Darbhanga"
+  ],
+  "medicalColleges": [
+    "Darbhanga Medical College and Hospital (DMCH)"
+  ],
+  "notableEducationalInstitutions": [
+    "Lalit Narayan Mithila University",
+    "Kameshwar Singh Darbhanga Sanskrit University",
+    "Darbhanga Medical College and Hospital",
+    "C. M. Science College",
+    "M. L. S. M. College"
+  ]
+},
+
+  "healthcare": {
+  "districtHospital": "Darbhanga Medical College and Hospital (DMCH), Darbhanga",
+  "subDivisionalHospitals": [
+    "Sub-Divisional Hospital, Benipur"
+  ],
+  "communityHealthCentres": [
+    "CHC Baheri",
+    "CHC Jale",
+    "CHC Keoti",
+    "CHC Biraul",
+    "CHC Kusheshwar Asthan"
+  ],
+  "primaryHealthCentres": "Primary Health Centres are available across all major blocks of the district.",
+  "medicalColleges": [
+    "Darbhanga Medical College and Hospital (DMCH)"
+  ],
+  "ambulanceServices": "102 and 108 ambulance services are available throughout the district.",
+  "majorHealthPrograms": [
+    "Ayushman Bharat",
+    "Janani Suraksha Yojana",
+    "Universal Immunization Programme",
+    "National Health Mission"
+  ],
+  "bloodBanks": [
+    "DMCH Blood Bank"
+  ],
+  "notableHospitals": [
+    "Darbhanga Medical College and Hospital (DMCH)",
+    "Sadar Hospital, Darbhanga",
+    "Sub-Divisional Hospital, Benipur"
+  ]
+},
+
+  "cultureAndHeritage": {
+  "festivals": [
+    "Chhath Puja",
+    "Durga Puja",
+    "Diwali",
+    "Holi",
+    "Eid",
+    "Sama Chakeva"
+  ],
+  "languages": [
+    "Maithili",
+    "Hindi",
+    "Urdu"
+  ],
+  "folkDance": [
+    "Jhijhiya",
+    "Jat-Jatin",
+    "Domkach"
+  ],
+  "folkMusic": [
+    "Vidyapati Geet",
+    "Sohar",
+    "Kajri",
+    "Chaita"
+  ],
+  "traditionalDress": "Men traditionally wear Dhoti-Kurta and women wear Saree with Mithila cultural influence.",
+  "cuisine": [
+    "Litti Chokha",
+    "Makhana Dishes",
+    "Sattu Paratha",
+    "Thekua",
+    "Malpua"
+  ],
+  "handicrafts": [
+    "Madhubani (Mithila) Painting",
+    "Sikki Craft",
+    "Handloom Products"
+  ],
+  "historicalHeritage": [
+    "Darbhanga Raj Fort",
+    "Shyama Mai Temple",
+    "Chandradhari Museum"
+  ],
+  "culturalOrganizations": [
+    "Mithila Art and Cultural Organizations",
+    "Local Cultural Clubs"
+  ]
+},
+
+  "tourism": {
+  "majorTouristAttractions": [
+    "Darbhanga Raj Fort",
+    "Shyama Mai Temple",
+    "Chandradhari Museum",
+    "Maharaja Laxmeshwar Singh Museum"
+  ],
+  "religiousPlaces": [
+    "Shyama Mai Temple",
+    "Ahilya Asthan",
+    "Kusheshwar Nath Temple"
+  ],
+  "historicalSites": [
+    "Darbhanga Raj Fort",
+    "Chandradhari Museum"
+  ],
+  "naturalAttractions": [
+    "Kusheshwar Asthan Bird Sanctuary",
+    "Kamla River",
+    "Bagmati River"
+  ],
+  "wildlifeSanctuaries": [
+    "Kusheshwar Asthan Bird Sanctuary"
+  ],
+  "annualFairs": [
+    "Chhath Festival",
+    "Durga Puja Festival",
+    "Mithila Mahotsav"
+  ],
+  "bestTimeToVisit": "October to March",
+  "nearbyTouristDestinations": [
+    "Madhubani",
+    "Samastipur",
+    "Muzaffarpur",
+    "Sitamarhi"
+  ]
+},
+
+  "sports": {
+  "majorSports": [
+    "Cricket",
+    "Football",
+    "Kabaddi",
+    "Volleyball",
+    "Athletics"
+  ],
+  "stadiums": [
+    "Nehru Stadium, Darbhanga"
+  ],
+  "sportsComplexes": [
+    "District Sports Complex, Darbhanga"
+  ],
+  "famousSportspersons": [],
+  "sportsAcademies": [
+    "District Sports Training Centre, Darbhanga"
+  ],
+  "annualSportsEvents": [
+    "District-Level Sports Meet",
+    "School Sports Competitions"
+  ],
+  "governmentSportsPrograms": [
+    "Khelo India",
+    "Bihar State Sports Development Program"
+  ],
+  "sportsAchievements": []
+},
+
+  "bankingAndFinance": {
+  "nationalizedBanks": [
+    "State Bank of India",
+    "Punjab National Bank",
+    "Bank of Baroda",
+    "Canara Bank",
+    "Union Bank of India",
+    "Indian Bank",
+    "UCO Bank",
+    "Central Bank of India"
+  ],
+  "privateBanks": [
+    "HDFC Bank",
+    "ICICI Bank",
+    "Axis Bank"
+  ],
+  "regionalRuralBanks": [
+    "Bihar Gramin Bank"
+  ],
+  "cooperativeBanks": [
+    "Darbhanga Central Cooperative Bank"
+  ],
+  "atms": "ATMs of major public and private sector banks are available across the district.",
+  "digitalBanking": "UPI, Internet Banking and Mobile Banking services are widely available.",
+  "microfinanceInstitutions": [
+    "Bandhan",
+    "CreditAccess Grameen"
+  ],
+  "financialInclusionPrograms": [
+    "Pradhan Mantri Jan Dhan Yojana",
+    "Pradhan Mantri Jeevan Jyoti Bima Yojana",
+    "Pradhan Mantri Suraksha Bima Yojana",
+    "Atal Pension Yojana"
+  ],
+  "majorInsuranceCompanies": [
+    "LIC of India",
+    "New India Assurance",
+    "United India Insurance",
+    "National Insurance Company"
+  ]
+},
+
+  "governanceAndPublicServices": {
+  "districtAdministration": "The district is administered by the District Magistrate (DM) and other district-level officers.",
+  "municipalBodies": [
+    "Darbhanga Municipal Corporation",
+    "Benipur Nagar Parishad"
+  ],
+  "policeAdministration": "Law and order is maintained by Darbhanga Police under Bihar Police.",
+  "fireServices": "Fire stations operate in Darbhanga city and other major areas of the district.",
+  "judiciary": [
+    "District and Sessions Court, Darbhanga"
+  ],
+  "governmentOffices": [
+    "District Collectorate",
+    "District Transport Office",
+    "District Education Office",
+    "District Agriculture Office",
+    "District Health Office"
+  ],
+  "publicDistributionSystem": "Essential commodities are distributed through the Public Distribution System (PDS).",
+  "eGovernanceServices": [
+    "RTPS Bihar",
+    "e-District Services",
+    "Bihar Bhumi",
+    "Bihar e-Procurement"
+  ],
+  "citizenServices": [
+    "Birth Certificate",
+    "Death Certificate",
+    "Caste Certificate",
+    "Income Certificate",
+    "Residence Certificate",
+    "Driving Licence Services"
+  ]
+},
+
+  "lawAndOrder": {
+  "policeDistrict": "Darbhanga Police District under Bihar Police",
+  "policeStations": [
+    "Laheriasarai",
+    "Bahadurpur",
+    "Sadar",
+    "Mabbi",
+    "Biraul",
+    "Benipur",
+    "Ghanshyampur",
+    "Manigachhi",
+    "Baheri",
+    "Jale",
+    "Keoti",
+    "Singhwara",
+    "Kamtaul",
+    "Hayaghat",
+    "Alinagar",
+    "Kiratpur",
+    "Kusheshwar Asthan",
+    "Kusheshwar Asthan East"
+  ],
+  "womenPoliceStations": [
+    "Mahila Police Station, Darbhanga"
+  ],
+  "cyberCrimePoliceStation": "Cyber Crime Police Station, Darbhanga",
+  "trafficPolice": "Traffic Police manages traffic regulation in Darbhanga city.",
+  "prisons": [
+    "District Jail, Darbhanga"
+  ],
+  "emergencyNumbers": [
+    "112 (Emergency Response Support System)",
+    "100 (Police)",
+    "101 (Fire)",
+    "108 (Ambulance)"
+  ],
+  "crimePreventionInitiatives": [
+    "Community Policing",
+    "Cyber Crime Awareness Campaigns",
+    "Women Safety Initiatives",
+    "Road Safety Awareness Programs"
+  ],
+  "disasterManagement": "The District Disaster Management Authority (DDMA) coordinates disaster preparedness and response."
+},
+
+  "environment": {
+  "forestCover": "The district has very limited forest cover.",
+  "majorForests": [],
+  "protectedAreas": [
+    "Kusheshwar Asthan Bird Sanctuary"
+  ],
+  "wetlands": [
+    "Kusheshwar Asthan Wetlands"
+  ],
+  "rivers": [
+    "Bagmati",
+    "Kamla Balan",
+    "Kareh"
+  ],
+  "lakes": [],
+  "biodiversity": [
+    "Migratory Birds",
+    "Freshwater Fish",
+    "Wetland Flora and Fauna"
+  ],
+  "environmentalIssues": [
+    "Flooding",
+    "River Bank Erosion",
+    "Water Pollution",
+    "Plastic Waste"
+  ],
+  "conservationInitiatives": [
+    "Wetland Conservation",
+    "Tree Plantation Drives",
+    "Swachh Bharat Mission",
+    "Wildlife Protection Initiatives"
+  ]
+},
+
+  "mediaAndCommunication": {
+  "newspapers": [
+    "Hindustan",
+    "Dainik Jagran",
+    "Prabhat Khabar",
+    "Aaj"
+  ],
+  "televisionChannels": [
+    "DD Bihar",
+    "Zee Bihar Jharkhand",
+    "News18 Bihar Jharkhand"
+  ],
+  "radioStations": [
+    "All India Radio Darbhanga",
+    "FM Rainbow"
+  ],
+  "newsPortals": [
+    "District Administration Website",
+    "State Government Portals"
+  ],
+  "postalServices": "India Post provides postal and speed post services across Darbhanga district.",
+  "telecommunication": "The district has extensive 4G/5G mobile coverage and broadband connectivity.",
+  "internetProviders": [
+    "BSNL",
+    "JioFiber",
+    "Airtel Xstream Fiber"
+  ],
+  "mobileNetworkOperators": [
+    "Jio",
+    "Airtel",
+    "Vi",
+    "BSNL"
+  ],
+  "digitalMedia": [
+    "Official District Website",
+    "Social Media Pages",
+    "Online News Platforms"
+  ]
+},
+
+  "rankingsAndAchievements": {
+  "stateRankings": [
+    "One of Bihar's major educational and cultural districts"
+  ],
+  "nationalRankings": [
+    "Kusheshwar Asthan Bird Sanctuary is recognized as an important wetland for migratory birds"
+  ],
+  "awards": [
+    "Recognition for Wetland and Bird Conservation"
+  ],
+  "notableAchievements": [
+    "Home to Lalit Narayan Mithila University",
+    "Darbhanga Airport has improved regional air connectivity",
+    "Important centre of Mithila culture and heritage"
+  ],
+  "developmentIndicators": [
+    "Growing road connectivity",
+    "Expanding airport infrastructure",
+    "Improving educational and healthcare facilities"
+  ],
+  "records": [
+    "Kusheshwar Asthan is one of Bihar's most important bird habitats"
+  ]
+},
+
+  "miscellaneous": {
+  "famousPersonalities": [
+    "Maharaja Kameshwar Singh",
+    "Harinath Mishra",
+    "Udit Narayan",
+    "Kirti Azad"
+  ],
+  "nicknames": [
+    "Cultural Capital of Mithila",
+    "Heart of Mithilanchal"
+  ],
+  "importantDates": [
+    "1 January 1875 – Darbhanga district was established"
+  ],
+  "festivals": [
+    "Chhath Puja",
+    "Durga Puja",
+    "Diwali",
+    "Holi",
+    "Eid",
+    "Sama Chakeva"
+  ],
+  "localFoods": [
+    "Litti Chokha",
+    "Makhana Dishes",
+    "Dahi Chura",
+    "Thekua",
+    "Malpua"
+  ],
+  "famousMarkets": [
+    "Tower Chowk Market",
+    "Laheriasarai Market",
+    "Bakarganj Market",
+    "Donar Market"
+  ],
+  "emergencyContacts": [
+    "Police - 112",
+    "Fire - 101",
+    "Ambulance - 108"
+  ],
+  "officialWebsite": "https://darbhanga.nic.in",
+  "additionalInformation": [
+    "Darbhanga is the cultural centre of the Mithila region.",
+    "The district is served by Darbhanga Airport.",
+    "Lalit Narayan Mithila University is located in Darbhanga."
+  ]
+}
+}
