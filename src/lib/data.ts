@@ -4,6 +4,7 @@ import begusaraiData from "@/data/districts/bihar/begusarai.json";
 import samastipurData from "@/data/districts/bihar/samastipur.json";
 import darbhangaData from "@/data/districts/bihar/darbhanga.json";
 import muzaffarpurData from "@/data/districts/bihar/muzaffarpur.json";
+import patnaData from "@/data/districts/bihar/patna.json";
 
 // The JSON is the single source of truth. Casting once here means every
 // caller elsewhere in the app gets full type safety for free.
@@ -74,6 +75,9 @@ export function getDistrictData(
   }
   if (district === "muzaffarpur") {
     return muzaffarpurData as DistrictData;
+  }
+  if (district === "patna") {
+    return patnaData as DistrictData;
   }
 }
 
