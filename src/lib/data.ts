@@ -3,6 +3,7 @@ import type { District, StateOrUT } from "@/types";
 import begusaraiData from "@/data/districts/bihar/begusarai.json"; 
 import samastipurData from "@/data/districts/bihar/samastipur.json";
 import darbhangaData from "@/data/districts/bihar/darbhanga.json";
+import muzaffarpurData from "@/data/districts/bihar/muzaffarpur.json";
 
 // The JSON is the single source of truth. Casting once here means every
 // caller elsewhere in the app gets full type safety for free.
@@ -65,13 +66,15 @@ export function getDistrictData(
   if (district === "begusarai") {
     return begusaraiData as DistrictData;
   }
-
   if (district === "samastipur") {
     return samastipurData as DistrictData;
   }
   if (district === "darbhanga") {
     return darbhangaData as DistrictData;
-}
+  }
+  if (district === "muzaffarpur") {
+    return muzaffarpurData as DistrictData;
+  }
 }
 
   return null;
