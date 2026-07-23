@@ -1,0 +1,888 @@
+{  "state": "Bihar",
+  "district": "Arwal",
+  "slug": "arwal",
+  "language": "en",
+  "version": "1.0",
+  "lastUpdated": "",
+  "name": "Arwal",
+  "slug": "arwal",
+  "state": "Bihar",
+
+  "basicInformation": {
+  "headquarters": "Arwal",
+  "established": "6 August 2001",
+  "areaKm2": 638,
+  "population": 700843,
+  "districtCode": "ARW",
+  "division": "Magadh",
+  "subdivision": 2,
+  "anchals": 5,
+  "blocks": 5,
+  "panchayats": 65,
+  "villages": 317,
+  "towns": 2,
+  "policeStations": 7,
+  "lokSabhaConstituencies": 1,
+  "assemblyConstituencies": 2,
+  "pinCodeRange": "804401 - 804419",
+  "vehicleRegistrationCode": "BR-56",
+  "elevation": "67 m",
+  "coordinates": {
+    "latitude": "25.25° N",
+    "longitude": "84.68° E"
+  },
+  "officialWebsite": "https://arwal.nic.in"
+},
+
+  "history": {
+  "historicalImportance": "Arwal is an important district of the Magadh region. The district has historical, cultural and agricultural significance and is situated on the banks of the Son River.",
+
+  "formationHistory": "Arwal was carved out of Jehanabad district and became an independent district on 6 August 2001 to improve administrative efficiency and regional development.",
+
+  "freedomMovement": "The people of Arwal participated in India's freedom movement through the Non-Cooperation Movement, Civil Disobedience Movement and Quit India Movement. Many local freedom fighters contributed to the national struggle.",
+
+  "archaeologicalImportance": "The district has several ancient temples, historical sites and archaeological remains reflecting the cultural heritage of the Magadh region.",
+
+  "asiProtectedMonuments": [],
+
+  "historicalTimeline": [
+    "Ancient period – The region formed part of the ancient Magadha Kingdom.",
+    "Medieval period – Came under the rule of the Delhi Sultanate and later the Mughal Empire.",
+    "1765 – The region came under the administration of the British East India Company.",
+    "1947 – Became part of independent India after Independence.",
+    "6 August 2001 – Arwal became a separate district after being carved out of Jehanabad district."
+  ]
+},
+
+  "geography": {
+  "location": "Arwal district is located in the south-central part of Bihar in the Magadh region. The Son River forms an important geographical feature of the district.",
+
+  "boundaries": {
+    "north": "Patna",
+    "south": "Aurangabad",
+    "east": "Jehanabad",
+    "west": "Bhojpur"
+  },
+
+  "area": "638 sq km",
+
+  "elevation": "67 m",
+
+  "climate": "Subtropical climate with hot summers, monsoon rains and cool winters.",
+
+  "rainfall": "Approximately 950 mm annually",
+
+  "rivers": [
+    "Son",
+    "Punpun"
+  ],
+
+  "hills": [],
+
+  "forests": "Very limited forest cover",
+
+  "soilTypes": [
+    "Alluvial Soil",
+    "Clay Soil",
+    "Sandy Loam"
+  ],
+
+  "naturalResources": [
+    "Fertile Agricultural Land",
+    "Groundwater",
+    "River Sand"
+  ]
+},
+
+  "demographics": {
+  "totalPopulation": "700,843",
+  "malePopulation": "361,036",
+  "femalePopulation": "339,807",
+  "sexRatio": "941 females per 1000 males",
+  "populationDensity": "918 persons/km²",
+  "literacyRate": "67.43%",
+  "maleLiteracyRate": "77.41%",
+  "femaleLiteracyRate": "56.84%",
+  "urbanPopulation": "7.40%",
+  "ruralPopulation": "92.60%",
+
+  "religions": [
+    "Hinduism",
+    "Islam",
+    "Christianity",
+    "Sikhism",
+    "Jainism",
+    "Buddhism"
+  ],
+
+  "languages": [
+    "Hindi",
+    "Magahi",
+    "Urdu"
+  ]
+},
+
+  "administration": {
+  "administrativeDivision": "Magadh Division",
+
+  "subDivisions": [
+    "Arwal"
+  ],
+
+  "blocks": [
+    "Arwal",
+    "Kaler",
+    "Karpi",
+    "Kurtha",
+    "Sonbhadra Banshi Suryapur"
+  ],
+
+  "circles": [
+    "Arwal",
+    "Kaler",
+    "Karpi",
+    "Kurtha",
+    "Sonbhadra Banshi Suryapur"
+  ],
+
+  "gramPanchayats": 65,
+
+  "villages": 317,
+
+  "municipalCorporation": "",
+
+  "municipalities": [
+    "Arwal"
+  ],
+
+  "nagarPanchayats": [],
+
+  "policeStations": [
+    "Arwal",
+    "Kaler",
+    "Karpi",
+    "Kurtha",
+    "Mehandia",
+    "Kinjar"
+  ],
+
+  "assemblyConstituencies": [
+    "Arwal",
+    "Kurtha"
+  ],
+
+  "lokSabhaConstituency": "Jahanabad"
+},
+
+  "economy": {
+  "gdp": "Not officially available",
+
+  "majorIndustries": [
+    "Agriculture",
+    "Rice Mills",
+    "Flour Mills",
+    "Food Processing",
+    "Dairy",
+    "Brick Kilns"
+  ],
+
+  "majorCrops": [
+    "Paddy",
+    "Wheat",
+    "Maize",
+    "Pulses",
+    "Mustard",
+    "Potato",
+    "Vegetables"
+  ],
+
+  "majorEmployers": [
+    "Agriculture Sector",
+    "Government Departments",
+    "Education Sector",
+    "Healthcare Sector",
+    "Small Businesses"
+  ],
+
+  "banking": [
+    "State Bank of India",
+    "Punjab National Bank",
+    "Bank of Baroda",
+    "Canara Bank",
+    "Central Bank of India",
+    "UCO Bank",
+    "Union Bank of India",
+    "Indian Bank"
+  ],
+
+  "industrialAreas": [
+    "Arwal Industrial Area"
+  ],
+
+  "specialEconomicFeatures": [
+    "Agriculture-based economy",
+    "Fertile alluvial plains",
+    "Strong irrigation from the Son river system",
+    "Growing dairy farming",
+    "Small-scale agro-processing units"
+  ]
+},
+
+  "agriculture": {
+  "majorCrops": [
+    "Paddy",
+    "Wheat",
+    "Maize",
+    "Pulses",
+    "Mustard",
+    "Potato",
+    "Vegetables"
+  ],
+
+  "cashCrops": [
+    "Mustard"
+  ],
+
+  "fruits": [
+    "Mango",
+    "Guava",
+    "Banana",
+    "Papaya"
+  ],
+
+  "vegetables": [
+    "Potato",
+    "Onion",
+    "Tomato",
+    "Brinjal",
+    "Cauliflower",
+    "Okra"
+  ],
+
+  "irrigationSources": [
+    "Canals",
+    "Tube Wells",
+    "Rivers",
+    "Ponds"
+  ],
+
+  "livestock": [
+    "Cattle",
+    "Buffalo",
+    "Goat",
+    "Poultry"
+  ],
+
+  "dairyDevelopment": "Dairy farming is an important source of rural livelihood in Arwal district.",
+
+  "fisheries": "Fish farming is practiced in ponds, canals and other inland water bodies.",
+
+  "agriculturalMarkets": [
+    "Arwal",
+    "Kurtha",
+    "Karpi",
+    "Kaler"
+  ],
+
+  "krishiVigyanKendra": "Krishi Vigyan Kendra (KVK), Arwal"
+},
+
+   "infrastructure": {
+  "roadNetwork": "Arwal district has a developing road network connecting all blocks and nearby districts.",
+
+  "nationalHighways": [
+    "NH-110",
+    "NH-119"
+  ],
+
+  "stateHighways": [
+    "SH-68"
+  ],
+
+  "railwayStations": [
+    "Karpi",
+    "Kinjar"
+  ],
+
+  "majorRailwayJunctions": [
+    "Jehanabad Junction"
+  ],
+
+  "airConnectivity": "The nearest airport is Jay Prakash Narayan International Airport, Patna (about 70 km).",
+
+  "publicTransport": "Bihar State Road Transport buses, private buses, taxis and auto-rickshaws.",
+
+  "electricity": "Most villages and urban areas have electricity connectivity under state and central rural electrification schemes.",
+
+  "waterSupply": "Water supply is provided through piped water schemes, hand pumps and tube wells.",
+
+  "internetConnectivity": "4G and 5G mobile networks are available, along with broadband services in urban areas."
+},
+
+  "education": {
+  "literacyRate": "67.43%",
+  "maleLiteracy": "77.41%",
+  "femaleLiteracy": "56.84%",
+
+  "governmentSchools": "More than 600 government schools are functioning across the district.",
+
+  "privateSchools": "Several private schools affiliated with CBSE and Bihar School Examination Board operate in Arwal.",
+
+  "colleges": [
+    "S.N. Sinha College, Arwal",
+    "S.S. College, Kurtha"
+  ],
+
+  "universities": [
+    "No university is located in Arwal district. Colleges are affiliated with Magadh University, Bodh Gaya."
+  ],
+
+  "technicalInstitutes": [
+    "Government ITI, Arwal"
+  ],
+
+  "medicalColleges": [
+    "No medical college in the district"
+  ],
+
+  "notableEducationalInstitutions": [
+    "S.N. Sinha College, Arwal",
+    "Government ITI, Arwal",
+    "Kasturba Gandhi Balika Vidyalaya, Arwal"
+  ]
+},
+
+  "healthcare": {
+  "districtHospital": "Sadar Hospital, Arwal",
+
+  "subDivisionalHospitals": [],
+
+  "communityHealthCentres": [
+    "CHC Arwal",
+    "CHC Karpi",
+    "CHC Kurtha",
+    "CHC Kaler",
+    "CHC Sonbhadra Banshi Suryapur"
+  ],
+
+  "primaryHealthCentres": "Primary Health Centres are functioning in all major blocks of the district.",
+
+  "medicalColleges": [
+    "No medical college in the district"
+  ],
+
+  "ambulanceServices": "102 and 108 ambulance services are available throughout the district.",
+
+  "majorHealthPrograms": [
+    "Ayushman Bharat",
+    "National Health Mission",
+    "Janani Suraksha Yojana",
+    "Universal Immunization Programme",
+    "Mission Indradhanush"
+  ],
+
+  "bloodBanks": [
+    "Sadar Hospital Blood Bank, Arwal"
+  ],
+
+  "notableHospitals": [
+    "Sadar Hospital, Arwal",
+    "Community Health Centre, Karpi",
+    "Community Health Centre, Kurtha",
+    "Community Health Centre, Kaler",
+    "Community Health Centre, Sonbhadra Banshi Suryapur"
+  ]
+},
+
+  "cultureAndHeritage": {
+  "festivals": [
+  "Chhath Puja",
+  "Durga Puja",
+  "Diwali",
+  "Holi",
+  "Eid",
+  "Makar Sankranti",
+  "Jitiya"
+],
+
+"languages": [
+  "Hindi",
+  "Magahi",
+  "Urdu"
+],
+
+"folkDance": [
+  "Jat-Jatin",
+  "Jhijhiya",
+  "Domkach"
+],
+
+"folkMusic": [
+  "Sohar",
+  "Kajri",
+  "Chaita",
+  "Birha"
+],
+
+"traditionalDress": "Men traditionally wear Dhoti-Kurta and women wear Saree and Salwar-Kameez.",
+
+"cuisine": [
+  "Litti Chokha",
+  "Sattu Paratha",
+  "Dal Pitha",
+  "Khichdi",
+  "Thekua",
+  "Pua",
+  "Tilkut"
+],
+
+"handicrafts": [
+  "Bamboo Craft",
+  "Cane Craft",
+  "Handloom Weaving"
+],
+
+"historicalHeritage": [
+  "Ancient temples of the Son river region",
+  "Traditional village heritage"
+],
+
+"culturalOrganizations": [
+  "District Art and Culture Office, Arwal",
+  "Local Cultural and Literary Associations"
+]
+},
+
+  "tourism": {
+  "majorTouristAttractions": [
+  "Son River",
+  "Arwal Town",
+  "Kaler",
+  "Kurtha",
+  "Rural Landscapes"
+],
+
+"religiousPlaces": [
+  "Maa Kali Temple, Arwal",
+  "Shiv Temple, Arwal",
+  "Sun Temple, Kaler",
+  "Local Temples and Mosques"
+],
+
+"historicalSites": [
+  "Son River Region",
+  "Historic Villages of Arwal"
+],
+
+"naturalAttractions": [
+  "Son River",
+  "Punpun River",
+  "Agricultural Fields",
+  "Rural Countryside"
+],
+
+"wildlifeSanctuaries": [
+  "No wildlife sanctuary within the district"
+],
+
+"annualFairs": [
+  "Chhath Festival",
+  "Durga Puja Fair",
+  "Ram Navami Fair",
+  "Local Rural Fairs"
+],
+
+"bestTimeToVisit": "October to March",
+
+"nearbyTouristDestinations": [
+  "Patna",
+  "Jehanabad",
+  "Gaya",
+  "Nalanda",
+  "Bodh Gaya"
+]
+},
+
+  "sports": {
+  "majorSports": [
+  "Cricket",
+  "Football",
+  "Kabaddi",
+  "Volleyball",
+  "Athletics",
+  "Badminton"
+],
+
+"stadiums": [
+  "District Sports Ground, Arwal"
+],
+
+"sportsComplexes": [
+  "District Sports Complex, Arwal"
+],
+
+"famousSportspersons": [],
+
+"sportsAcademies": [
+  "District Sports Training Centre, Arwal"
+],
+
+"annualSportsEvents": [
+  "District Sports Meet",
+  "School Sports Competitions",
+  "Khelo India District Level Events"
+],
+
+"governmentSportsPrograms": [
+  "Khelo India",
+  "Fit India Movement",
+  "Bihar State Sports Development Program"
+],
+
+"sportsAchievements": [
+  "District athletes regularly participate in state-level competitions.",
+  "School and college teams represent Arwal in Bihar-level tournaments."
+]
+},
+
+  "bankingAndFinance": {
+  "nationalizedBanks": [
+  "State Bank of India",
+  "Punjab National Bank",
+  "Bank of Baroda",
+  "Canara Bank",
+  "Union Bank of India",
+  "Indian Bank",
+  "UCO Bank",
+  "Central Bank of India",
+  "Bank of India",
+  "Punjab & Sind Bank"
+],
+
+"privateBanks": [
+  "HDFC Bank",
+  "ICICI Bank",
+  "Axis Bank",
+  "Kotak Mahindra Bank",
+  "IndusInd Bank",
+  "IDFC FIRST Bank"
+],
+
+"regionalRuralBanks": [
+  "Dakshin Bihar Gramin Bank"
+],
+
+"cooperativeBanks": [
+  "Bihar State Cooperative Bank",
+  "Arwal District Central Cooperative Bank"
+],
+
+"atms": "ATMs of major public sector and private sector banks are available across Arwal district.",
+
+"digitalBanking": "UPI, Internet Banking, Mobile Banking and AEPS services are widely available.",
+
+"microfinanceInstitutions": [
+  "Bandhan",
+  "CreditAccess Grameen",
+  "Fusion Micro Finance",
+  "Satin Creditcare"
+],
+
+"financialInclusionPrograms": [
+  "Pradhan Mantri Jan Dhan Yojana",
+  "Pradhan Mantri Jeevan Jyoti Bima Yojana",
+  "Pradhan Mantri Suraksha Bima Yojana",
+  "Atal Pension Yojana",
+  "Pradhan Mantri Mudra Yojana",
+  "Stand-Up India"
+],
+
+"majorInsuranceCompanies": [
+  "Life Insurance Corporation of India (LIC)",
+  "New India Assurance",
+  "National Insurance Company",
+  "United India Insurance",
+  "Oriental Insurance"
+]
+},
+
+  "governanceAndPublicServices": {
+  "districtAdministration": "The district is administered by the District Magistrate (DM), Arwal.",
+
+"municipalBodies": [
+  "Arwal Nagar Parishad"
+],
+
+"policeAdministration": "Law and order is maintained by Arwal Police under Bihar Police.",
+
+"fireServices": "Fire stations operate in Arwal district under Bihar Fire Services.",
+
+"judiciary": [
+  "District and Sessions Court, Arwal"
+],
+
+"governmentOffices": [
+  "District Collectorate, Arwal",
+  "District Transport Office, Arwal",
+  "District Education Office, Arwal",
+  "District Agriculture Office, Arwal",
+  "District Health Office, Arwal",
+  "District Rural Development Agency (DRDA), Arwal"
+],
+
+"publicDistributionSystem": "Essential commodities are distributed through the Public Distribution System (PDS) across the district.",
+
+"eGovernanceServices": [
+  "RTPS Bihar",
+  "e-District Services",
+  "Bihar Bhumi",
+  "Bihar e-Procurement",
+  "Bihar Right to Public Services Portal"
+],
+
+"citizenServices": [
+  "Birth Certificate",
+  "Death Certificate",
+  "Caste Certificate",
+  "Income Certificate",
+  "Residence Certificate",
+  "Driving Licence Services",
+  "Property Registration",
+  "Online Land Records"
+]
+},
+
+  "lawAndOrder": {
+  "policeDistrict": "Arwal Police District under Bihar Police",
+
+"policeStations": [
+  "Arwal",
+  "Karpi",
+  "Kurtha",
+  "Kaler",
+  "Kinjar",
+  "Mehandia"
+],
+
+"womenPoliceStations": [
+  "Mahila Police Station, Arwal"
+],
+
+"cyberCrimePoliceStation": "Cyber Crime Police Station, Arwal",
+
+"trafficPolice": "Traffic Police regulates traffic and road safety across Arwal district.",
+
+"prisons": [
+  "District Jail, Arwal"
+],
+
+"emergencyNumbers": [
+  "112 (Emergency Response Support System)",
+  "100 (Police)",
+  "101 (Fire)",
+  "108 (Ambulance)"
+],
+
+"crimePreventionInitiatives": [
+  "Community Policing",
+  "Cyber Crime Awareness Campaigns",
+  "Women Safety Initiatives",
+  "Road Safety Awareness Programs",
+  "Anti-Drug Awareness Campaigns"
+],
+
+"disasterManagement": "The District Disaster Management Authority (DDMA), Arwal coordinates disaster preparedness, flood response and emergency relief."
+},
+
+  "environment": {
+  "forestCover": "Low forest cover",
+
+"majorForests": [],
+
+"protectedAreas": [],
+
+"wetlands": [
+  "Seasonal Wetlands",
+  "Agricultural Wetlands",
+  "Village Ponds"
+],
+
+"rivers": [
+  "Son",
+  "Punpun"
+],
+
+"lakes": [
+  "Village Ponds",
+  "Irrigation Ponds"
+],
+
+"biodiversity": [
+  "Agricultural Flora",
+  "Common Birds",
+  "Freshwater Fish",
+  "Domestic Wildlife"
+],
+
+"environmentalIssues": [
+  "Seasonal Flooding",
+  "Soil Erosion",
+  "Groundwater Depletion",
+  "Plastic Waste",
+  "Air Pollution"
+],
+
+"conservationInitiatives": [
+  "Tree Plantation Drives",
+  "Jal-Jeevan-Hariyali Abhiyan",
+  "Rainwater Harvesting",
+  "Plastic Waste Management Campaigns",
+  "Water Conservation Programs"
+]
+},
+
+  "mediaAndCommunication": {
+  "newspapers": [
+  "Hindustan",
+  "Dainik Jagran",
+  "Prabhat Khabar",
+  "Rashtriya Sahara",
+  "The Times of India"
+],
+
+"televisionChannels": [
+  "DD Bihar",
+  "News18 Bihar Jharkhand",
+  "Zee Bihar Jharkhand",
+  "ETV Bharat Bihar"
+],
+
+"radioStations": [
+  "All India Radio Patna",
+  "FM Rainbow Patna"
+],
+
+"newsPortals": [
+  "Arwal District Administration Website",
+  "Bihar Government Portal",
+  "PRD Bihar",
+  "State e-District Portal"
+],
+
+"postalServices": "India Post provides postal, Speed Post and parcel services across Arwal district.",
+
+"telecommunication": "4G and 5G mobile connectivity is available across most parts of the district.",
+
+"internetProviders": [
+  "BSNL",
+  "JioFiber",
+  "Airtel Xstream Fiber"
+],
+
+"mobileNetworkOperators": [
+  "Jio",
+  "Airtel",
+  "Vi",
+  "BSNL"
+],
+
+"digitalMedia": [
+  "Official District Website",
+  "Bihar Government Social Media Pages",
+  "Online News Portals",
+  "Digital Citizen Service Portals"
+]
+},
+
+  "rankingsAndAchievements": {
+  "stateRankings": [
+  "One of Bihar's youngest districts",
+  "Important agricultural district of South Bihar",
+  "Known for paddy and pulse cultivation"
+],
+
+"nationalRankings": [
+  "Recognized for steady agricultural production",
+  "Part of the Magadh region of Bihar"
+],
+
+"awards": [],
+
+"notableAchievements": [
+  "Separate district since 6 August 2001",
+  "Improving rural road connectivity",
+  "Growth in digital governance and public services"
+],
+
+"developmentIndicators": [
+  "Expansion of road infrastructure",
+  "Improving healthcare and education facilities",
+  "Increasing irrigation coverage",
+  "Growth in digital public services"
+],
+
+"records": [
+  "Arwal is one of Bihar's smallest districts by area."
+]
+},
+
+  "miscellaneous": {
+  "famousPersonalities": [
+  "Chandrashekhar Singh (Former Chief Minister of Bihar)",
+  "Local Freedom Fighters of Arwal"
+],
+
+"nicknames": [
+  "Land of the Son River",
+  "Agricultural District of Magadh"
+],
+
+"importantDates": [
+  "6 August 2001 – Arwal became a separate district",
+  "15 August 1947 – Became part of independent India"
+],
+
+"festivals": [
+  "Chhath Puja",
+  "Durga Puja",
+  "Diwali",
+  "Holi",
+  "Eid-ul-Fitr",
+  "Eid-ul-Adha",
+  "Muharram",
+  "Makar Sankranti"
+],
+
+"localFoods": [
+  "Litti Chokha",
+  "Sattu Paratha",
+  "Dal Pitha",
+  "Thekua",
+  "Pua",
+  "Kheer"
+],
+
+"famousMarkets": [
+  "Arwal Bazaar",
+  "Kurtha Market",
+  "Karpi Market",
+  "Kaler Market",
+  "Kinjar Market"
+],
+
+"emergencyContacts": [
+  "Police - 112",
+  "Fire - 101",
+  "Ambulance - 108",
+  "Women Helpline - 181"
+],
+
+"officialWebsite": "https://arwal.nic.in",
+
+"additionalInformation": [
+  "Arwal is one of the youngest districts of Bihar.",
+  "Agriculture is the main occupation of the district.",
+  "The Son River plays an important role in the district's economy."
+]
+}
+}
