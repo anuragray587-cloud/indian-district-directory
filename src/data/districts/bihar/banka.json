@@ -1,0 +1,967 @@
+{  "state": "Bihar",
+  "district": "Banka",
+  "slug": "banka",
+  "language": "en",
+  "version": "1.0",
+  "lastUpdated": "",
+  "name": "Banka",
+  "slug": "banka",
+  "state": "Bihar",
+
+  "basicInformation": {
+  "headquarters": "Banka",
+  "established": "21 February 1991",
+  "areaKm2": 3020,
+  "population": 2034763,
+  "districtCode": "BNK",
+  "division": "Bhagalpur",
+  "subdivision": 2,
+  "anchals": 11,
+  "blocks": 11,
+  "panchayats": 185,
+  "villages": 1532,
+  "towns": 5,
+  "policeStations": 21,
+  "lokSabhaConstituencies": 1,
+  "assemblyConstituencies": 5,
+  "pinCodeRange": "813102 - 813213",
+  "vehicleRegistrationCode": "BR-51",
+  "elevation": "86 m",
+  "coordinates": {
+    "latitude": "24.89° N",
+    "longitude": "86.92° E"
+  },
+  "officialWebsite": "https://banka.nic.in"
+},
+
+  "history": {
+  "historicalImportance": "Banka has a rich historical and cultural heritage and was historically part of the ancient Anga Mahajanapada. The district is also known for the Mandar Hill, an important site in Hindu and Jain traditions.",
+
+  "formationHistory": "Banka district was carved out of the erstwhile Bhagalpur district and officially came into existence on 21 February 1991.",
+
+  "freedomMovement": "The people of Banka actively participated in India's freedom movement through the Swadeshi Movement, Non-Cooperation Movement and Quit India Movement.",
+
+  "archaeologicalImportance": "The district contains several ancient temples, inscriptions and archaeological remains, especially around Mandar Hill.",
+
+  "asiProtectedMonuments": [],
+
+  "historicalTimeline": [
+    "Ancient period - Part of the Anga Mahajanapada",
+    "Mauryan period - Came under the Maurya Empire",
+    "Gupta period - Flourished under the Gupta Empire",
+    "Medieval period - Ruled by the Delhi Sultanate and Mughal Empire",
+    "1765 - Came under British administration after the Treaty of Allahabad",
+    "1947 - Became part of independent India",
+    "21 February 1991 - Banka became a separate district"
+  ]
+},
+
+  "geography": {
+  "location": "Banka district is located in the south-eastern part of Bihar and shares its southern boundary with Jharkhand.",
+
+  "boundaries": {
+    "north": "Bhagalpur",
+    "south": "Godda (Jharkhand)",
+    "east": "Dumka (Jharkhand)",
+    "west": "Munger and Jamui"
+  },
+
+  "area": "3,020 sq km",
+
+  "elevation": "86 m",
+
+  "climate": "Subtropical climate with hot summers, monsoon rains and cool winters",
+
+  "rainfall": "Approximately 1,200 mm annually",
+
+  "rivers": [
+    "Chandan",
+    "Orhani",
+    "Barua",
+    "Gerua"
+  ],
+
+  "hills": [
+    "Mandar Hill",
+    "Katoria Hills"
+  ],
+
+  "forests": "Moderate forest cover, mainly in the southern and south-eastern parts",
+
+  "soilTypes": [
+    "Alluvial Soil",
+    "Red Soil",
+    "Laterite Soil",
+    "Sandy Loam"
+  ],
+
+  "naturalResources": [
+    "Forest Resources",
+    "Fertile Agricultural Land",
+    "Stone",
+    "Groundwater"
+  ]
+},
+
+  "demographics": {
+  "totalPopulation": "2,034,763",
+  "malePopulation": "1,065,940",
+  "femalePopulation": "968,823",
+  "sexRatio": "909 females per 1000 males",
+  "populationDensity": "675 persons/km²",
+  "literacyRate": "58.17%",
+  "maleLiteracyRate": "67.28%",
+  "femaleLiteracyRate": "48.19%",
+  "urbanPopulation": "8.07%",
+  "ruralPopulation": "91.93%",
+
+  "religions": [
+    "Hinduism",
+    "Islam",
+    "Christianity",
+    "Sikhism",
+    "Jainism",
+    "Buddhism"
+  ],
+
+  "languages": [
+    "Hindi",
+    "Angika",
+    "Khortha"
+  ]
+},
+
+  "administration": {
+  "administrativeDivision": "Bhagalpur Division",
+
+  "subDivisions": [
+    "Banka",
+    "Belhar"
+  ],
+
+  "blocks": [
+    "Amarpur",
+    "Banka",
+    "Barahat",
+    "Belhar",
+    "Chandan",
+    "Dhoraiya",
+    "Fullidumar",
+    "Katoria",
+    "Rajoun",
+    "Shambhuganj",
+    "Bausi"
+  ],
+
+  "circles": [
+    "Amarpur",
+    "Banka",
+    "Barahat",
+    "Belhar",
+    "Chandan",
+    "Dhoraiya",
+    "Fullidumar",
+    "Katoria",
+    "Rajoun",
+    "Shambhuganj",
+    "Bausi"
+  ],
+
+  "gramPanchayats": 185,
+
+  "villages": 1532,
+
+  "municipalCorporation": "",
+
+  "municipalities": [
+    "Banka"
+  ],
+
+  "nagarPanchayats": [
+    "Amarpur",
+    "Belhar",
+    "Bausi"
+  ],
+
+  "policeStations": [
+    "Banka",
+    "Amarpur",
+    "Bausi",
+    "Belhar",
+    "Barahat",
+    "Chandan",
+    "Dhoraiya",
+    "Fullidumar",
+    "Katoria",
+    "Rajoun",
+    "Shambhuganj"
+  ],
+
+  "assemblyConstituencies": [
+    "Sultanganj (Part)",
+    "Amarpur",
+    "Dhoraiya (SC)",
+    "Banka",
+    "Katoria (ST)"
+  ],
+
+  "lokSabhaConstituency": "Banka"
+},
+
+  "economy": {
+  "gdp": "Not officially available",
+
+  "majorIndustries": [
+    "Agriculture",
+    "Silk Industry",
+    "Lac Processing",
+    "Stone Quarrying",
+    "Stone Crushing",
+    "Rice Mills",
+    "Food Processing",
+    "Handloom and Handicrafts"
+  ],
+
+  "majorCrops": [
+    "Paddy",
+    "Wheat",
+    "Maize",
+    "Pulses",
+    "Mustard",
+    "Gram",
+    "Sugarcane",
+    "Vegetables"
+  ],
+
+  "majorEmployers": [
+    "Agriculture Sector",
+    "Forest Department",
+    "Government Departments",
+    "Education Sector",
+    "Healthcare Sector",
+    "Small Businesses"
+  ],
+
+  "banking": [
+    "State Bank of India",
+    "Punjab National Bank",
+    "Bank of Baroda",
+    "Canara Bank",
+    "Central Bank of India",
+    "UCO Bank",
+    "Union Bank of India",
+    "Indian Bank"
+  ],
+
+  "industrialAreas": [
+    "Banka Industrial Area",
+    "Amarpur Industrial Area"
+  ],
+
+  "specialEconomicFeatures": [
+    "Agriculture-based economy",
+    "Silk production",
+    "Stone mining and crushing",
+    "Forest produce",
+    "Growing food processing sector"
+  ]
+},
+
+  "agriculture": {
+  "majorCrops": [
+    "Paddy",
+    "Wheat",
+    "Maize",
+    "Pulses"
+  ],
+
+  "cashCrops": [
+    "Mustard",
+    "Sugarcane",
+    "Oilseeds"
+  ],
+
+  "fruits": [
+    "Mango",
+    "Guava",
+    "Banana",
+    "Jackfruit",
+    "Papaya"
+  ],
+
+  "vegetables": [
+    "Potato",
+    "Tomato",
+    "Brinjal",
+    "Cauliflower",
+    "Cabbage",
+    "Okra"
+  ],
+
+  "irrigationSources": [
+    "Chandan River",
+    "Canals",
+    "Tube Wells",
+    "Ponds",
+    "Check Dams"
+  ],
+
+  "livestock": [
+    "Cattle",
+    "Buffalo",
+    "Goat",
+    "Poultry"
+  ],
+
+  "dairyDevelopment": "Dairy farming is an important source of rural income in Banka district.",
+
+  "fisheries": "Fish farming is practiced in ponds, reservoirs and other water bodies across the district.",
+
+  "agriculturalMarkets": [
+    "Banka",
+    "Amarpur",
+    "Belhar",
+    "Katoria",
+    "Dhoraiya",
+    "Rajaun"
+  ],
+
+  "krishiVigyanKendra": "Krishi Vigyan Kendra (KVK), Banka"
+},
+
+   "infrastructure": {
+  "roadNetwork": "Banka district is connected by national highways, state highways and a network of major district and rural roads.",
+
+  "nationalHighways": [
+    "NH-333A"
+  ],
+
+  "stateHighways": [
+    "SH-25",
+    "SH-84"
+  ],
+
+  "railwayStations": [
+    "Banka",
+    "Murahara",
+    "Telia",
+    "Barahat"
+  ],
+
+  "majorRailwayJunctions": [
+    "Mandar Hill",
+    "Bhagalpur (Nearest Major Junction)"
+  ],
+
+  "airConnectivity": "The nearest airport is Deoghar Airport (Jharkhand). Jay Prakash Narayan International Airport, Patna is another major airport serving the district.",
+
+  "publicTransport": "Bihar State Road Transport Corporation (BSRTC), private buses, taxis and auto-rickshaws provide transport services.",
+
+  "electricity": "Most villages and urban areas have electricity connectivity under the Bihar power distribution network.",
+
+  "waterSupply": "Urban areas receive piped water supply, while rural areas depend on hand pumps, wells and government water supply schemes.",
+
+  "internetConnectivity": "4G and 5G mobile networks are available in most parts of the district, with broadband services in urban areas."
+},
+
+  "education": {
+  "literacyRate": "58.17%",
+  "maleLiteracy": "68.45%",
+  "femaleLiteracy": "46.88%",
+
+  "governmentSchools": "More than 1,700 government primary, middle and secondary schools operate across the district.",
+
+  "privateSchools": "Several CBSE, ICSE and Bihar Board affiliated private schools are located in Banka district.",
+
+  "colleges": [
+    "P.B.S. College, Banka",
+    "R.M.K. College, Banka",
+    "B.S.S. College, Barahat",
+    "B.S. College, Amarpur"
+  ],
+
+  "universities": [
+    "No university is located in Banka district. Colleges are affiliated with Mandar Hill University, Bounsi."
+  ],
+
+  "technicalInstitutes": [
+    "Government Polytechnic, Banka",
+    "Government ITI, Banka"
+  ],
+
+  "medicalColleges": [
+    "No medical college in the district"
+  ],
+
+  "notableEducationalInstitutions": [
+    "P.B.S. College, Banka",
+    "Government Polytechnic, Banka",
+    "Government ITI, Banka",
+    "Jawahar Navodaya Vidyalaya, Banka"
+  ]
+},
+
+  "healthcare": {
+  "districtHospital": "Sadar Hospital, Banka",
+
+  "subDivisionalHospitals": [
+    "Sub-Divisional Hospital, Amarpur"
+  ],
+
+  "communityHealthCentres": [
+    "CHC Banka",
+    "CHC Amarpur",
+    "CHC Belhar",
+    "CHC Katoria",
+    "CHC Dhoraiya",
+    "CHC Rajaun",
+    "CHC Bounsi",
+    "CHC Barahat"
+  ],
+
+  "primaryHealthCentres": "Primary Health Centres (PHCs) operate across all blocks of the district.",
+
+  "medicalColleges": [
+    "No medical college in the district"
+  ],
+
+  "ambulanceServices": "102 and 108 ambulance services are available throughout the district.",
+
+  "majorHealthPrograms": [
+    "Ayushman Bharat",
+    "National Health Mission",
+    "Janani Suraksha Yojana",
+    "Universal Immunization Programme",
+    "Mission Indradhanush"
+  ],
+
+  "bloodBanks": [
+    "Sadar Hospital Blood Bank, Banka"
+  ],
+
+  "notableHospitals": [
+    "Sadar Hospital, Banka",
+    "Sub-Divisional Hospital, Amarpur",
+    "CHC Katoria",
+    "CHC Belhar",
+    "CHC Rajaun"
+  ]
+},
+
+  "cultureAndHeritage": {
+  "festivals": [
+    "Chhath Puja",
+    "Durga Puja",
+    "Diwali",
+    "Holi",
+    "Eid",
+    "Makar Sankranti",
+    "Jitiya"
+  ],
+
+  "languages": [
+    "Hindi",
+    "Angika",
+    "Magahi",
+    "Urdu"
+  ],
+
+  "folkDance": [
+    "Jat-Jatin",
+    "Jhijhiya",
+    "Domkach"
+  ],
+
+  "folkMusic": [
+    "Sohar",
+    "Kajri",
+    "Chaita",
+    "Birha"
+  ],
+
+  "traditionalDress": "Men traditionally wear Dhoti-Kurta, while women wear Saree and Salwar-Kameez.",
+
+  "cuisine": [
+    "Litti Chokha",
+    "Sattu Paratha",
+    "Dal Pitha",
+    "Thekua",
+    "Tilkut"
+  ],
+
+  "handicrafts": [
+    "Bamboo Craft",
+    "Cane Craft",
+    "Stone Craft",
+    "Handloom Weaving"
+  ],
+
+  "historicalHeritage": [
+    "Mandar Hill",
+    "Papaharni Lake",
+    "Ancient Jain and Hindu heritage sites",
+    "Traditional Anga cultural heritage"
+  ],
+
+  "culturalOrganizations": [
+    "District Art and Culture Office, Banka",
+    "Department of Art, Culture and Youth, Bihar"
+  ]
+},
+
+  "tourism": {
+  "majorTouristAttractions": [
+    "Mandar Hill",
+    "Papaharni Lake",
+    "Bounsi",
+    "Chandan Dam",
+    "Odhni Dam",
+    "Katoria Hills"
+  ],
+
+  "religiousPlaces": [
+    "Mandar Hill Temple",
+    "Papaharni Lake",
+    "Lakshmi Narayan Temple, Bounsi",
+    "Jain Temples at Mandar Hill",
+    "Local Temples and Mosques"
+  ],
+
+  "historicalSites": [
+    "Mandar Hill",
+    "Ancient Jain Heritage Sites",
+    "Ancient Hindu Heritage Sites"
+  ],
+
+  "naturalAttractions": [
+    "Chandan Dam",
+    "Odhni Dam",
+    "Mandar Hill",
+    "Forest Areas",
+    "Scenic Rural Landscapes"
+  ],
+
+  "wildlifeSanctuaries": [
+    "No wildlife sanctuary within the district"
+  ],
+
+  "annualFairs": [
+    "Bounsi Mela",
+    "Makar Sankranti Fair",
+    "Chhath Festival",
+    "Local Rural Fairs"
+  ],
+
+  "bestTimeToVisit": "October to March",
+
+  "nearbyTouristDestinations": [
+    "Bhagalpur",
+    "Deoghar",
+    "Dumka",
+    "Munger",
+    "Godda"
+  ]
+},
+
+  "sports": {
+  "majorSports": [
+    "Cricket",
+    "Football",
+    "Kabaddi",
+    "Volleyball",
+    "Athletics",
+    "Badminton"
+  ],
+
+  "stadiums": [
+    "District Sports Stadium, Banka"
+  ],
+
+  "sportsComplexes": [
+    "District Sports Complex, Banka"
+  ],
+
+  "famousSportspersons": [],
+
+  "sportsAcademies": [
+    "District Sports Training Centre, Banka"
+  ],
+
+  "annualSportsEvents": [
+    "District Sports Meet",
+    "School Sports Competitions",
+    "Khelo India District Level Events"
+  ],
+
+  "governmentSportsPrograms": [
+    "Khelo India",
+    "Fit India Movement",
+    "Bihar State Sports Development Program"
+  ],
+
+  "sportsAchievements": [
+    "District athletes regularly participate in state-level competitions",
+    "School and college teams represent Banka in Bihar-level tournaments"
+  ]
+},
+
+  "bankingAndFinance": {
+  "nationalizedBanks": [
+    "State Bank of India",
+    "Punjab National Bank",
+    "Bank of Baroda",
+    "Canara Bank",
+    "Union Bank of India",
+    "Indian Bank",
+    "UCO Bank",
+    "Central Bank of India",
+    "Bank of India",
+    "Punjab & Sind Bank"
+  ],
+
+  "privateBanks": [
+    "HDFC Bank",
+    "ICICI Bank",
+    "Axis Bank",
+    "Kotak Mahindra Bank",
+    "IndusInd Bank",
+    "IDFC FIRST Bank"
+  ],
+
+  "regionalRuralBanks": [
+    "Dakshin Bihar Gramin Bank"
+  ],
+
+  "cooperativeBanks": [
+    "Bihar State Cooperative Bank",
+    "Banka District Central Cooperative Bank"
+  ],
+
+  "atms": "ATMs of major public sector and private sector banks are available across Banka district.",
+
+  "digitalBanking": "UPI, Internet Banking, Mobile Banking, AEPS and digital payment services are widely available.",
+
+  "microfinanceInstitutions": [
+    "Bandhan",
+    "CreditAccess Grameen",
+    "Fusion Micro Finance",
+    "Satin Creditcare"
+  ],
+
+  "financialInclusionPrograms": [
+    "Pradhan Mantri Jan Dhan Yojana",
+    "Pradhan Mantri Jeevan Jyoti Bima Yojana",
+    "Pradhan Mantri Suraksha Bima Yojana",
+    "Atal Pension Yojana",
+    "Pradhan Mantri Mudra Yojana",
+    "Stand-Up India"
+  ],
+
+  "majorInsuranceCompanies": [
+    "Life Insurance Corporation of India (LIC)",
+    "New India Assurance",
+    "National Insurance Company",
+    "United India Insurance",
+    "ICICI Lombard",
+    "HDFC ERGO"
+  ]
+},
+
+  "governanceAndPublicServices": {
+  "districtAdministration": "The district is administered by the District Magistrate (DM), Banka.",
+
+  "municipalBodies": [
+    "Banka Nagar Parishad",
+    "Amarpur Nagar Panchayat",
+    "Bounsi Nagar Panchayat",
+    "Rajaun Nagar Panchayat"
+  ],
+
+  "policeAdministration": "Law and order is maintained by Banka Police under the Bhagalpur Police Range.",
+
+  "fireServices": "Fire stations operate in Banka, Amarpur and other major towns to provide emergency fire services.",
+
+  "judiciary": [
+    "District and Sessions Court, Banka"
+  ],
+
+  "governmentOffices": [
+    "District Collectorate, Banka",
+    "District Transport Office, Banka",
+    "District Education Office, Banka",
+    "District Agriculture Office, Banka",
+    "District Health Office, Banka",
+    "District Rural Development Agency (DRDA), Banka"
+  ],
+
+  "publicDistributionSystem": "Essential commodities are distributed through the Public Distribution System (PDS) across the district.",
+
+  "eGovernanceServices": [
+    "RTPS Bihar",
+    "e-District Services",
+    "Bihar Bhumi",
+    "Bihar e-Procurement",
+    "Bihar Right to Public Services Portal"
+  ],
+
+  "citizenServices": [
+    "Birth Certificate",
+    "Death Certificate",
+    "Caste Certificate",
+    "Income Certificate",
+    "Residence Certificate",
+    "Driving Licence Services",
+    "Property Registration",
+    "Online Land Records"
+  ]
+},
+
+  "lawAndOrder": {
+  "policeDistrict": "Banka Police District under Bhagalpur Police Range",
+
+  "policeStations": [
+    "Banka",
+    "Amarpur",
+    "Bounsi",
+    "Barahat",
+    "Belhar",
+    "Chandan",
+    "Dhoraiya",
+    "Fullidumar",
+    "Katoria",
+    "Phulhara",
+    "Rajaun",
+    "Shambhuganj"
+  ],
+
+  "womenPoliceStations": [
+    "Mahila Police Station, Banka"
+  ],
+
+  "cyberCrimePoliceStation": "Cyber Crime Police Station, Banka",
+
+  "trafficPolice": "Traffic Police regulates traffic and road safety across Banka district.",
+
+  "prisons": [
+    "District Jail, Banka"
+  ],
+
+  "emergencyNumbers": [
+    "112 (Emergency Response Support System)",
+    "100 (Police)",
+    "101 (Fire)",
+    "108 (Ambulance)"
+  ],
+
+  "crimePreventionInitiatives": [
+    "Community Policing",
+    "Cyber Crime Awareness Campaigns",
+    "Women Safety Initiatives",
+    "Road Safety Awareness Programs",
+    "Anti-Drug Awareness Campaigns"
+  ],
+
+  "disasterManagement": "The District Disaster Management Authority (DDMA), Banka coordinates disaster preparedness, flood management, drought response and emergency relief operations."
+},
+
+  "environment": {
+  "forestCover": "Moderate forest cover, mainly in the southern hilly region of Banka district.",
+
+  "majorForests": [
+    "Banka Forest Division",
+    "Bounsi Forest Range",
+    "Katoria Forest Range",
+    "Chandan Forest Range"
+  ],
+
+  "protectedAreas": [],
+
+  "wetlands": [
+    "Seasonal Wetlands",
+    "Village Ponds",
+    "Agricultural Wetlands"
+  ],
+
+  "rivers": [
+    "Chandan",
+    "Orhni",
+    "Barua",
+    "Gerua"
+  ],
+
+  "lakes": [
+    "Village Ponds",
+    "Irrigation Reservoirs"
+  ],
+
+  "biodiversity": [
+    "Dry Deciduous Flora",
+    "Common Birds",
+    "Freshwater Fish",
+    "Small Mammals",
+    "Reptiles"
+  ],
+
+  "environmentalIssues": [
+    "Deforestation",
+    "Soil Erosion",
+    "Groundwater Depletion",
+    "Air Pollution",
+    "Plastic Waste"
+  ],
+
+  "conservationInitiatives": [
+    "Tree Plantation Drives",
+    "Jal-Jeevan-Hariyali Abhiyan",
+    "Rainwater Harvesting",
+    "Plastic Waste Management Campaigns",
+    "Water Conservation Programs"
+  ]
+},
+
+  "mediaAndCommunication": {
+  "newspapers": [
+    "Hindustan",
+    "Dainik Jagran",
+    "Prabhat Khabar",
+    "Rashtriya Sahara",
+    "The Times of India"
+  ],
+
+  "televisionChannels": [
+    "DD Bihar",
+    "News18 Bihar Jharkhand",
+    "Zee Bihar Jharkhand",
+    "ETV Bharat Bihar"
+  ],
+
+  "radioStations": [
+    "All India Radio Bhagalpur",
+    "All India Radio Patna",
+    "FM Rainbow Patna"
+  ],
+
+  "newsPortals": [
+    "Banka District Administration Website",
+    "Bihar Government Portal",
+    "PRD Bihar",
+    "State e-District Portal"
+  ],
+
+  "postalServices": "India Post provides postal, Speed Post and parcel services across Banka district.",
+
+  "telecommunication": "4G and 5G mobile connectivity is available in most parts of Banka district.",
+
+  "internetProviders": [
+    "BSNL",
+    "JioFiber",
+    "Airtel Xstream Fiber"
+  ],
+
+  "mobileNetworkOperators": [
+    "Jio",
+    "Airtel",
+    "Vi",
+    "BSNL"
+  ],
+
+  "digitalMedia": [
+    "Official District Website",
+    "Bihar Government Social Media Pages",
+    "Online News Portals",
+    "Digital Citizen Service Portals"
+  ]
+},
+
+  "rankingsAndAchievements": {
+  "stateRankings": [
+    "One of the major forest-covered districts of Bihar",
+    "Known for Mandar Hill and religious tourism",
+    "Important producer of silk, lac and agricultural products"
+  ],
+
+  "nationalRankings": [
+    "Mandar Hill is a nationally important pilgrimage and heritage site",
+    "Known for eco-tourism and historical significance"
+  ],
+
+  "awards": [],
+
+  "notableAchievements": [
+    "Mandar Hill is associated with the Samudra Manthan legend",
+    "Major producer of silk and lac in Bihar",
+    "Growing tourism and infrastructure development"
+  ],
+
+  "developmentIndicators": [
+    "Expansion of road connectivity",
+    "Improving electricity and digital connectivity",
+    "Growth in healthcare and education facilities",
+    "Expansion of irrigation facilities",
+    "Promotion of eco-tourism and rural tourism"
+  ],
+
+  "records": [
+    "Mandar Hill is one of the most important historical and religious landmarks of Bihar",
+    "Banka is among Bihar's most forest-rich districts"
+  ]
+},
+
+  "miscellaneous": {
+  "famousPersonalities": [
+    "Jaya Prakash Narayan (associated with the region)",
+    "Local Freedom Fighters of Banka",
+    "Prominent Saints associated with Mandar Hill"
+  ],
+
+  "nicknames": [
+    "Land of Mandar Hill",
+    "Gateway to the Ang Region"
+  ],
+
+  "importantDates": [
+    "21 February 1991 – Banka became a separate district",
+    "15 August 1947 – Became part of independent India"
+  ],
+
+  "festivals": [
+    "Makar Sankranti",
+    "Chhath Puja",
+    "Durga Puja",
+    "Diwali",
+    "Holi",
+    "Eid"
+  ],
+
+  "localFoods": [
+    "Tilkut",
+    "Khaja",
+    "Thekua",
+    "Litti Chokha"
+  ],
+
+  "famousMarkets": [
+    "Banka Main Market",
+    "Amarpur Market",
+    "Belhar Market",
+    "Katoria Market",
+    "Rajaun Market"
+  ],
+
+  "emergencyContacts": [
+    "Police - 112",
+    "Fire - 101",
+    "Ambulance - 108",
+    "Women Helpline - 181"
+  ],
+
+  "officialWebsite": "https://banka.nic.in",
+
+  "additionalInformation": [
+    "Mandar Hill is one of the most important religious and historical sites of Bihar.",
+    "Agriculture remains the primary occupation of the district.",
+    "The district is known for silk, lac production and forest resources.",
+    "Banka shares its southern boundary with Jharkhand."
+  ]
+}
+}
