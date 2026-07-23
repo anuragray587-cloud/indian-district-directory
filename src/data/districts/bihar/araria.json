@@ -1,0 +1,937 @@
+{  "state": "Bihar",
+  "district": "Araria",
+  "slug": "araria",
+  "language": "en",
+  "version": "1.0",
+  "lastUpdated": "",
+  "name": "Araria",
+  "slug": "araria",
+  "state": "Bihar",
+
+  "basicInformation": {
+  "headquarters": "Araria",
+  "established": "1 October 1990",
+  "areaKm2": 2830,
+  "population": 2811569,
+  "districtCode": "ARR",
+  "division": "Purnia",
+  "subdivision": 2,
+  "anchals": 9,
+  "blocks": 9,
+  "panchayats": 218,
+  "villages": 754,
+  "towns": 9,
+  "policeStations": 21,
+  "lokSabhaConstituencies": 1,
+  "assemblyConstituencies": 6,
+  "pinCodeRange": "854311 - 854339",
+  "vehicleRegistrationCode": "BR-38",
+  "elevation": "47 m",
+  "coordinates": {
+    "latitude": "26.15° N",
+    "longitude": "87.52° E"
+  },
+  "officialWebsite": "https://araria.nic.in"
+},
+
+  "history": {
+  "historicalImportance": "Araria is an important district of the Seemanchal region in northeastern Bihar. The district has long been known for its agricultural economy, cultural diversity and strategic location near the India–Nepal border.",
+
+  "formationHistory": "Araria was carved out of the erstwhile Purnia district and became an independent district on 1 October 1990 to improve administrative efficiency and regional development.",
+
+  "freedomMovement": "The people of Araria actively participated in India's freedom movement through the Non-Cooperation Movement, Civil Disobedience Movement and Quit India Movement. Several local freedom fighters contributed to the national struggle.",
+
+  "archaeologicalImportance": "Although Araria does not have many major archaeological monuments, the district has several ancient temples, historical sites and cultural heritage locations reflecting the history of the Seemanchal region.",
+
+  "asiProtectedMonuments": [],
+
+  "historicalTimeline": [
+    "Ancient period – The region formed part of the ancient kingdoms of Mithila and Anga.",
+    "Medieval period – Came under the rule of the Delhi Sultanate and later the Mughal Empire.",
+    "1765 – The region came under the administration of the British East India Company.",
+    "1947 – Became part of independent India after Independence.",
+    "1 October 1990 – Araria became a separate district after being carved out of Purnia district."
+  ]
+},
+
+  "geography": {
+  "location": "Araria district is located in the northeastern part of Bihar in the Seemanchal region. It shares an international border with Nepal and is known for its fertile alluvial plains.",
+
+  "boundaries": {
+    "north": "Nepal",
+    "south": "Purnia",
+    "east": "Kishanganj",
+    "west": "Supaul and Madhepura"
+  },
+
+  "area": "2,830 sq km",
+
+  "elevation": "47 m",
+
+  "climate": "Humid subtropical climate with hot summers, heavy monsoon rainfall and cool winters.",
+
+  "rainfall": "Approximately 1,500 mm annually",
+
+  "rivers": [
+    "Kosi",
+    "Bakra",
+    "Ratua",
+    "Parman"
+  ],
+
+  "hills": [],
+
+  "forests": "Very limited forest cover",
+
+  "soilTypes": [
+    "Alluvial Soil",
+    "Clayey Soil",
+    "Sandy Loam"
+  ],
+
+  "naturalResources": [
+    "Fertile Alluvial Soil",
+    "Groundwater",
+    "Agricultural Land",
+    "River Sand"
+  ]
+},
+
+  "demographics": {
+  "totalPopulation": "2,811,569",
+  "malePopulation": "1,466,687",
+  "femalePopulation": "1,344,882",
+  "sexRatio": "917 females per 1000 males",
+  "populationDensity": "993 persons/km²",
+  "literacyRate": "53.53%",
+  "maleLiteracyRate": "61.09%",
+  "femaleLiteracyRate": "45.49%",
+  "urbanPopulation": "7.74%",
+  "ruralPopulation": "92.26%",
+
+  "religions": [
+    "Islam",
+    "Hinduism",
+    "Christianity",
+    "Sikhism",
+    "Jainism",
+    "Buddhism"
+  ],
+
+  "languages": [
+    "Hindi",
+    "Urdu",
+    "Surjapuri",
+    "Maithili",
+    "Bengali"
+  ]
+},
+
+  "administration": {
+  "administrativeDivision": "Purnia Division",
+
+  "subDivisions": [
+    "Araria",
+    "Forbesganj"
+  ],
+
+  "blocks": [
+    "Araria",
+    "Bhargama",
+    "Forbesganj",
+    "Jokihat",
+    "Kursakanta",
+    "Narpatganj",
+    "Palasi",
+    "Raniganj",
+    "Sikti"
+  ],
+
+  "circles": [
+    "Araria",
+    "Bhargama",
+    "Forbesganj",
+    "Jokihat",
+    "Kursakanta",
+    "Narpatganj",
+    "Palasi",
+    "Raniganj",
+    "Sikti"
+  ],
+
+  "gramPanchayats": 218,
+  "villages": 754,
+
+  "municipalCorporation": "",
+
+  "municipalities": [
+    "Araria",
+    "Forbesganj"
+  ],
+
+  "nagarPanchayats": [],
+
+  "policeStations": [],
+
+  "assemblyConstituencies": [
+    "Narpatganj",
+    "Raniganj (SC)",
+    "Forbesganj",
+    "Araria",
+    "Jokihat",
+    "Sikti"
+  ],
+
+  "lokSabhaConstituency": "Araria"
+},
+
+  "economy": {
+  "gdp": "Not officially available",
+
+  "majorIndustries": [
+    "Agriculture",
+    "Food Processing",
+    "Rice Mills",
+    "Maize Processing",
+    "Jute Processing",
+    "Dairy"
+  ],
+
+  "majorCrops": [
+    "Paddy",
+    "Maize",
+    "Jute",
+    "Wheat",
+    "Sugarcane",
+    "Mustard",
+    "Pulses",
+    "Vegetables"
+  ],
+
+  "majorEmployers": [
+    "Government Departments",
+    "Agriculture Sector",
+    "Educational Institutions",
+    "Healthcare Sector",
+    "Food Processing Industry"
+  ],
+
+  "banking": [
+    "State Bank of India",
+    "Punjab National Bank",
+    "Bank of Baroda",
+    "Canara Bank",
+    "Central Bank of India",
+    "UCO Bank",
+    "Union Bank of India",
+    "Indian Bank",
+    "Bank of India"
+  ],
+
+  "industrialAreas": [
+    "Araria Industrial Area",
+    "Forbesganj Industrial Area"
+  ],
+
+  "specialEconomicFeatures": [
+    "Agriculture-based economy",
+    "Major producer of maize and jute",
+    "India–Nepal border trade potential",
+    "Growing food processing sector",
+    "Strong dairy and livestock activities"
+  ]
+},
+
+  "agriculture": {
+  "majorCrops": [
+    "Paddy",
+    "Maize",
+    "Wheat",
+    "Jute",
+    "Pulses",
+    "Mustard",
+    "Sugarcane",
+    "Vegetables"
+  ],
+
+  "cashCrops": [
+    "Jute",
+    "Sugarcane",
+    "Mustard"
+  ],
+
+  "fruits": [
+    "Mango",
+    "Banana",
+    "Litchi",
+    "Guava"
+  ],
+
+  "vegetables": [
+    "Potato",
+    "Brinjal",
+    "Okra",
+    "Cauliflower",
+    "Cabbage",
+    "Tomato"
+  ],
+
+  "irrigationSources": [
+    "Tube Wells",
+    "Canals",
+    "Rivers",
+    "Ponds"
+  ],
+
+  "livestock": [
+    "Cattle",
+    "Buffalo",
+    "Goat",
+    "Poultry"
+  ],
+
+  "dairyDevelopment": "Dairy farming is an important source of livelihood in Araria, supported by milk cooperative societies and private dairy collection centres.",
+
+  "fisheries": "Fish farming is practiced in ponds, oxbow lakes and other inland water bodies across the district.",
+
+  "agriculturalMarkets": [
+    "Araria",
+    "Forbesganj",
+    "Jokihat",
+    "Raniganj",
+    "Narpatganj"
+  ],
+
+  "krishiVigyanKendra": "Krishi Vigyan Kendra (KVK), Araria"
+},
+
+   "infrastructure": {
+  "roadNetwork": "Araria district has a developing road network connecting all blocks and major towns through National Highways, State Highways and rural roads.",
+
+  "nationalHighways": [
+    "NH-27",
+    "NH-327E"
+  ],
+
+  "stateHighways": [
+    "SH-57",
+    "SH-77"
+  ],
+
+  "railwayStations": [
+    "Araria Court",
+    "Araria",
+    "Forbesganj Junction",
+    "Jogbani",
+    "Pothia",
+    "Kusiargaon"
+  ],
+
+  "majorRailwayJunctions": [
+    "Forbesganj Junction"
+  ],
+
+  "airConnectivity": "The nearest airport is Biratnagar Airport (Nepal). The nearest major Indian airport is Bagdogra Airport, West Bengal.",
+
+  "publicTransport": "Bihar State Road Transport buses, private buses, taxis, auto-rickshaws and e-rickshaws provide transport services across the district.",
+
+  "electricity": "Most urban and rural areas have electricity connectivity under the Bihar state power distribution network.",
+
+  "waterSupply": "Water supply is provided through urban water supply schemes, hand pumps and rural piped water schemes under the Jal Jeevan Mission.",
+
+  "internetConnectivity": "4G mobile networks and broadband internet services are available in most parts of the district, with 5G services expanding in urban areas."
+},
+
+  "education": {
+  "literacyRate": "53.53%",
+  "maleLiteracy": "61.09%",
+  "femaleLiteracy": "45.49%",
+
+  "governmentSchools": "More than 2,500 government schools under the Bihar Education Department.",
+
+  "privateSchools": "Numerous CBSE, ICSE and Bihar Board affiliated private schools operate across the district.",
+
+  "colleges": [
+    "Araria College, Araria",
+    "Forbesganj College, Forbesganj",
+    "K.N. Inter College, Araria",
+    "Millia College, Jokihat",
+    "Degree College, Raniganj"
+  ],
+
+  "universities": [
+    "No university is located in the district. Most colleges are affiliated with Purnea University, Purnea."
+  ],
+
+  "technicalInstitutes": [
+    "Government Polytechnic, Araria",
+    "Government ITI, Araria",
+    "Government ITI, Forbesganj"
+  ],
+
+  "medicalColleges": [
+    "No medical college in the district"
+  ],
+
+  "notableEducationalInstitutions": [
+    "Araria College, Araria",
+    "Forbesganj College",
+    "Government Polytechnic, Araria",
+    "Government ITI, Araria",
+    "Millia College, Jokihat"
+  ]
+},
+
+  "healthcare": {
+  "districtHospital": "Sadar Hospital, Araria",
+
+  "subDivisionalHospitals": [
+    "Sub-Divisional Hospital, Forbesganj"
+  ],
+
+  "communityHealthCentres": [
+    "CHC Araria",
+    "CHC Bhargama",
+    "CHC Forbesganj",
+    "CHC Jokihat",
+    "CHC Kursakanta",
+    "CHC Narpatganj",
+    "CHC Palasi",
+    "CHC Raniganj",
+    "CHC Sikti"
+  ],
+
+  "primaryHealthCentres": "Primary Health Centres are functional in all blocks under the Bihar Health Department.",
+
+  "medicalColleges": [
+    "No medical college in the district"
+  ],
+
+  "ambulanceServices": "102 and 108 ambulance services are available throughout the district.",
+
+  "majorHealthPrograms": [
+    "Ayushman Bharat",
+    "National Health Mission",
+    "Janani Suraksha Yojana",
+    "Universal Immunization Programme",
+    "Mission Indradhanush"
+  ],
+
+  "bloodBanks": [
+    "Sadar Hospital Blood Bank, Araria"
+  ],
+
+  "notableHospitals": [
+    "Sadar Hospital, Araria",
+    "Sub-Divisional Hospital, Forbesganj",
+    "Referral Hospital, Jokihat",
+    "Community Health Centre, Raniganj",
+    "Community Health Centre, Narpatganj"
+  ]
+},
+
+  "cultureAndHeritage": {
+  "festivals": [
+    "Chhath Puja",
+    "Durga Puja",
+    "Diwali",
+    "Holi",
+    "Eid-ul-Fitr",
+    "Eid-ul-Adha",
+    "Ram Navami",
+    "Makar Sankranti",
+    "Muharram"
+  ],
+
+  "languages": [
+    "Hindi",
+    "Urdu",
+    "Surjapuri",
+    "Maithili",
+    "Bengali"
+  ],
+
+  "folkDance": [
+    "Jat-Jatin",
+    "Jhijhiya",
+    "Domkach"
+  ],
+
+  "folkMusic": [
+    "Sohar",
+    "Kajri",
+    "Chaita",
+    "Vidyapati Geet"
+  ],
+
+  "traditionalDress": "Men traditionally wear Dhoti-Kurta or Kurta-Pajama, while women commonly wear Saree and Salwar-Kameez.",
+
+  "cuisine": [
+    "Litti Chokha",
+    "Sattu Paratha",
+    "Dal Pitha",
+    "Khichdi",
+    "Thekua",
+    "Pua",
+    "Tilkut"
+  ],
+
+  "handicrafts": [
+    "Bamboo Craft",
+    "Cane Craft",
+    "Handloom Weaving"
+  ],
+
+  "historicalHeritage": [
+    "Ancient temples of the Seemanchal region",
+    "Traditional village heritage"
+  ],
+
+  "culturalOrganizations": [
+    "District Art and Culture Office, Araria",
+    "Local Cultural and Literary Associations"
+  ]
+},
+
+  "tourism": {
+  "majorTouristAttractions": [
+    "Baba Bagnath Temple, Forbesganj",
+    "Koshi River Region",
+    "Jogbani Indo–Nepal Border",
+    "Araria Town",
+    "Forbesganj"
+  ],
+
+  "religiousPlaces": [
+    "Baba Bagnath Temple, Forbesganj",
+    "Shiv Mandir, Araria",
+    "Jama Masjid, Araria",
+    "Various Durga and Kali Temples"
+  ],
+
+  "historicalSites": [
+    "Historic Forbesganj Area",
+    "Indo–Nepal Border Trade Heritage"
+  ],
+
+  "naturalAttractions": [
+    "Koshi River",
+    "Rural Wetlands",
+    "Agricultural Landscape"
+  ],
+
+  "wildlifeSanctuaries": [
+    "No wildlife sanctuary within the district"
+  ],
+
+  "annualFairs": [
+    "Chhath Festival",
+    "Durga Puja Fair",
+    "Ram Navami Fair",
+    "Local Rural Fairs"
+  ],
+
+  "bestTimeToVisit": "October to March",
+
+  "nearbyTouristDestinations": [
+    "Purnea",
+    "Kishanganj",
+    "Katihar",
+    "Bhimnagar (Supaul)",
+    "Biratnagar (Nepal)"
+  ]
+},
+
+  "sports": {
+  "majorSports": [
+    "Cricket",
+    "Football",
+    "Kabaddi",
+    "Volleyball",
+    "Athletics",
+    "Badminton"
+  ],
+
+  "stadiums": [
+    "District Sports Stadium, Araria",
+    "Forbesganj Stadium"
+  ],
+
+  "sportsComplexes": [
+    "District Sports Complex, Araria"
+  ],
+
+  "famousSportspersons": [],
+
+  "sportsAcademies": [
+    "District Sports Training Centre, Araria"
+  ],
+
+  "annualSportsEvents": [
+    "District Sports Meet",
+    "School Sports Competitions",
+    "Khelo India District Level Events"
+  ],
+
+  "governmentSportsPrograms": [
+    "Khelo India",
+    "Fit India Movement",
+    "Bihar State Sports Development Program"
+  ],
+
+  "sportsAchievements": [
+    "District athletes regularly participate in state-level sports competitions.",
+    "School and college teams represent Araria in Bihar-level tournaments."
+  ]
+},
+
+  "bankingAndFinance": {
+  "nationalizedBanks": [
+    "State Bank of India",
+    "Punjab National Bank",
+    "Bank of Baroda",
+    "Canara Bank",
+    "Union Bank of India",
+    "Indian Bank",
+    "UCO Bank",
+    "Central Bank of India",
+    "Bank of India",
+    "Punjab & Sind Bank"
+  ],
+
+  "privateBanks": [
+    "HDFC Bank",
+    "ICICI Bank",
+    "Axis Bank",
+    "Kotak Mahindra Bank",
+    "IndusInd Bank",
+    "IDFC FIRST Bank"
+  ],
+
+  "regionalRuralBanks": [
+    "Dakshin Bihar Gramin Bank"
+  ],
+
+  "cooperativeBanks": [
+    "Bihar State Cooperative Bank",
+    "Araria District Central Cooperative Bank"
+  ],
+
+  "atms": "ATMs of major public sector, private sector and regional rural banks are available across Araria district.",
+
+  "digitalBanking": "UPI, Internet Banking, Mobile Banking, Aadhaar Enabled Payment System (AEPS) and RuPay services are widely available.",
+
+  "microfinanceInstitutions": [
+    "Bandhan",
+    "CreditAccess Grameen",
+    "Fusion Micro Finance",
+    "Satin Creditcare"
+  ],
+
+  "financialInclusionPrograms": [
+    "Pradhan Mantri Jan Dhan Yojana",
+    "Pradhan Mantri Jeevan Jyoti Bima Yojana",
+    "Pradhan Mantri Suraksha Bima Yojana",
+    "Atal Pension Yojana",
+    "Pradhan Mantri Mudra Yojana",
+    "Stand-Up India"
+  ],
+
+  "majorInsuranceCompanies": [
+    "Life Insurance Corporation of India (LIC)",
+    "New India Assurance",
+    "National Insurance Company",
+    "United India Insurance",
+    "Oriental Insurance"
+  ]
+},
+
+  "governanceAndPublicServices": {
+  "districtAdministration": "The district is administered by the District Magistrate (DM) through various administrative departments and block offices.",
+
+  "municipalBodies": [
+    "Araria Nagar Parishad",
+    "Forbesganj Nagar Parishad"
+  ],
+
+  "policeAdministration": "Law and order is maintained by Araria District Police under the Bihar Police.",
+
+  "fireServices": "Fire stations operate in Araria and Forbesganj under the Bihar Fire Services.",
+
+  "judiciary": [
+    "District and Sessions Court, Araria",
+    "Civil Court, Araria"
+  ],
+
+  "governmentOffices": [
+    "District Collectorate, Araria",
+    "District Transport Office",
+    "District Education Office",
+    "District Agriculture Office",
+    "District Health Office",
+    "District Rural Development Agency (DRDA)"
+  ],
+
+  "publicDistributionSystem": "Essential commodities are distributed through the Public Distribution System (PDS) and Fair Price Shops across the district.",
+
+  "eGovernanceServices": [
+    "RTPS Bihar",
+    "e-District Services",
+    "Bihar Bhumi",
+    "Bihar e-Procurement",
+    "Bihar Right to Public Services Portal"
+  ],
+
+  "citizenServices": [
+    "Birth Certificate",
+    "Death Certificate",
+    "Caste Certificate",
+    "Income Certificate",
+    "Residence Certificate",
+    "Driving Licence Services",
+    "Property Registration",
+    "Online Land Records"
+  ]
+},
+
+  "lawAndOrder": {
+  "policeDistrict": "Araria Police District under Bihar Police",
+
+  "policeStations": [
+    "Araria",
+    "Araria (R.S.)",
+    "Forbesganj",
+    "Jokihat",
+    "Narpatganj",
+    "Raniganj",
+    "Bhargama",
+    "Palasi",
+    "Kursakanta",
+    "Sikti"
+  ],
+
+  "womenPoliceStations": [
+    "Mahila Police Station, Araria"
+  ],
+
+  "cyberCrimePoliceStation": "Cyber Crime Police Station, Araria",
+
+  "trafficPolice": "Traffic Police regulates traffic and road safety in Araria town and other major urban areas.",
+
+  "prisons": [
+    "District Jail, Araria"
+  ],
+
+  "emergencyNumbers": [
+    "112 (Emergency Response Support System)",
+    "100 (Police)",
+    "101 (Fire)",
+    "108 (Ambulance)"
+  ],
+
+  "crimePreventionInitiatives": [
+    "Community Policing",
+    "Cyber Crime Awareness Campaigns",
+    "Women Safety Initiatives",
+    "Road Safety Awareness Programs",
+    "Anti-Drug Awareness Campaigns"
+  ],
+
+  "disasterManagement": "The District Disaster Management Authority (DDMA), Araria coordinates disaster preparedness, flood management, relief and rescue operations."
+},
+
+  "environment": {
+  "forestCover": "Very limited forest cover",
+
+  "majorForests": [],
+
+  "protectedAreas": [],
+
+  "wetlands": [
+    "Floodplain Wetlands",
+    "Koshi Basin Wetlands",
+    "Seasonal Marshes"
+  ],
+
+  "rivers": [
+    "Kosi",
+    "Bakra",
+    "Parman",
+    "Ratua"
+  ],
+
+  "lakes": [
+    "Local ponds",
+    "Seasonal wetlands"
+  ],
+
+  "biodiversity": [
+    "Migratory Birds",
+    "Freshwater Fish",
+    "Wetland Flora and Fauna",
+    "Agricultural Biodiversity"
+  ],
+
+  "environmentalIssues": [
+    "Annual Flooding",
+    "River Bank Erosion",
+    "Waterlogging",
+    "Plastic Waste",
+    "Groundwater Pollution"
+  ],
+
+  "conservationInitiatives": [
+    "Tree Plantation Drives",
+    "Jal-Jeevan-Hariyali Abhiyan",
+    "Wetland Conservation",
+    "Flood Management Projects",
+    "Plastic Waste Management Campaigns"
+  ]
+},
+
+  "mediaAndCommunication": {
+  "newspapers": [
+    "Hindustan",
+    "Dainik Jagran",
+    "Prabhat Khabar",
+    "Rashtriya Sahara",
+    "The Times of India"
+  ],
+
+  "televisionChannels": [
+    "DD Bihar",
+    "News18 Bihar Jharkhand",
+    "Zee Bihar Jharkhand",
+    "ETV Bharat Bihar"
+  ],
+
+  "radioStations": [
+    "All India Radio Purnea",
+    "All India Radio Kishanganj",
+    "FM Rainbow"
+  ],
+
+  "newsPortals": [
+    "Araria District Administration Website",
+    "Bihar Government Portal",
+    "PRD Bihar",
+    "State e-District Portal"
+  ],
+
+  "postalServices": "India Post provides postal, Speed Post, parcel and financial services through head and branch post offices across the district.",
+
+  "telecommunication": "4G mobile connectivity is available across most of the district, with 5G services gradually expanding in major towns.",
+
+  "internetProviders": [
+    "BSNL",
+    "JioFiber",
+    "Airtel Xstream Fiber"
+  ],
+
+  "mobileNetworkOperators": [
+    "Jio",
+    "Airtel",
+    "Vi",
+    "BSNL"
+  ],
+
+  "digitalMedia": [
+    "Official District Website",
+    "Bihar Government Social Media Pages",
+    "Online News Portals",
+    "Digital Citizen Service Portals"
+  ]
+},
+
+  "rankingsAndAchievements": {
+  "stateRankings": [
+    "Important district of the Seemanchal region",
+    "One of Bihar's leading maize-producing districts",
+    "Important Indo–Nepal border district"
+  ],
+
+  "nationalRankings": [
+    "Known for agricultural production, especially maize and jute",
+    "Strategically important due to its proximity to the India–Nepal border"
+  ],
+
+  "awards": [],
+
+  "notableAchievements": [
+    "Major producer of maize and jute in Bihar",
+    "Important centre for Indo–Nepal trade",
+    "Significant contribution to Bihar's agricultural economy"
+  ],
+
+  "developmentIndicators": [
+    "Expansion of rural road connectivity",
+    "Improving healthcare and educational infrastructure",
+    "Growth in digital governance services",
+    "Expansion of irrigation and flood management projects"
+  ],
+
+  "records": [
+    "Araria is one of Bihar's key border districts connecting India with Nepal."
+  ]
+},
+
+  "miscellaneous": {
+  "famousPersonalities": [
+    "Taslima Nasrin (associated with the region during her stay)",
+    "Local freedom fighters of Araria"
+  ],
+
+  "nicknames": [
+    "Gateway to Seemanchal",
+    "Indo–Nepal Border District"
+  ],
+
+  "importantDates": [
+    "1 October 1990 – Araria became a separate district after being carved out of Purnia district.",
+    "15 August 1947 – Became part of independent India."
+  ],
+
+  "festivals": [
+    "Chhath Puja",
+    "Durga Puja",
+    "Diwali",
+    "Holi",
+    "Eid-ul-Fitr",
+    "Eid-ul-Adha",
+    "Muharram",
+    "Makar Sankranti"
+  ],
+
+  "localFoods": [
+    "Litti Chokha",
+    "Sattu Paratha",
+    "Dal Pitha",
+    "Thekua",
+    "Pua",
+    "Kheer"
+  ],
+
+  "famousMarkets": [
+    "Araria Bazaar",
+    "Forbesganj Market",
+    "Jokihat Market",
+    "Raniganj Market",
+    "Narpatganj Market"
+  ],
+
+  "emergencyContacts": [
+    "Police - 112",
+    "Fire - 101",
+    "Ambulance - 108",
+    "Women Helpline - 181"
+  ],
+
+  "officialWebsite": "https://araria.nic.in",
+
+  "additionalInformation": [
+    "Araria shares an international border with Nepal.",
+    "The district is a major producer of maize and jute in Bihar.",
+    "Floods during the monsoon significantly influence the district's economy and daily life."
+  ]
+}
+}
