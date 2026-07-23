@@ -1,0 +1,972 @@
+{  "state": "Bihar",
+  "district": "Aurangabad",
+  "slug": "aurangabad",
+  "language": "en",
+  "version": "1.0",
+  "lastUpdated": "",
+  "name": "Aurangabad",
+  "slug": "aurangabad",
+  "state": "Bihar",
+
+  "basicInformation": {
+  "headquarters": "Aurangabad",
+  "established": "26 January 1973",
+  "areaKm2": 3305,
+  "population": 2540073,
+  "districtCode": "AUR",
+  "division": "Magadh",
+  "subdivision": 2,
+  "anchals": 11,
+  "blocks": 11,
+  "panchayats": 203,
+  "villages": 1694,
+  "towns": 6,
+  "policeStations": 24,
+  "lokSabhaConstituencies": 1,
+  "assemblyConstituencies": 6,
+  "pinCodeRange": "824101 - 824303",
+  "vehicleRegistrationCode": "BR-26",
+  "elevation": "111 m",
+  "coordinates": {
+    "latitude": "24.75° N",
+    "longitude": "84.37° E"
+  },
+  "officialWebsite": "https://aurangabad.bih.nic.in"
+},
+
+  "history": {
+  "historicalImportance": "Aurangabad has been an important historical region of the Magadh area. It is known for its association with ancient Magadha, the medieval rulers of Bihar, and the freedom movement. The district is also famous for the Sun Temple at Deo, one of the most important Sun temples in India.",
+
+  "formationHistory": "Aurangabad district was carved out of the erstwhile Gaya district and officially came into existence on 26 January 1973.",
+
+  "freedomMovement": "The people of Aurangabad actively participated in the Indian freedom movement. Many local freedom fighters joined the Non-Cooperation Movement, Civil Disobedience Movement, and Quit India Movement against British rule.",
+
+  "archaeologicalImportance": "The district contains several historical and archaeological sites, including the famous Deo Sun Temple, ancient inscriptions, old temples, forts, and medieval structures reflecting the rich cultural heritage of Magadh.",
+
+  "asiProtectedMonuments": [],
+
+  "historicalTimeline": [
+    "Ancient period – The region formed part of the Magadha Mahajanapada.",
+    "Mauryan period – Came under the rule of the Maurya Empire.",
+    "Gupta period – Flourished as part of the Gupta Empire.",
+    "Medieval period – Ruled by the Delhi Sultanate and later the Mughal Empire.",
+    "1765 – Came under the administration of the British East India Company.",
+    "1947 – Became part of independent India.",
+    "26 January 1973 – Aurangabad became a separate district after being carved out of Gaya district."
+  ]
+},
+
+  "geography": {
+  "location": "Aurangabad district is located in the south-western part of Bihar in the Magadh Division. It lies on the Chota Nagpur Plateau fringe and forms an important gateway between Bihar and Jharkhand.",
+
+  "boundaries": {
+    "north": "Arwal and Jehanabad",
+    "south": "Palamu (Jharkhand)",
+    "east": "Gaya",
+    "west": "Rohtas"
+  },
+
+  "area": "3,305 sq km",
+
+  "elevation": "111 m",
+
+  "climate": "Subtropical climate with hot summers, monsoon rainfall and cool winters.",
+
+  "rainfall": "Approximately 1,000 mm annually",
+
+  "rivers": [
+    "Son",
+    "Punpun",
+    "Batane",
+    "Adri"
+  ],
+
+  "hills": [
+    "Chota Nagpur Plateau fringe hills"
+  ],
+
+  "forests": "Moderate forest cover, mainly in the southern region",
+
+  "soilTypes": [
+    "Alluvial Soil",
+    "Red Soil",
+    "Sandy Loam",
+    "Clay Soil"
+  ],
+
+  "naturalResources": [
+    "Fertile Agricultural Land",
+    "Groundwater",
+    "River Sand",
+    "Stone"
+  ]
+},
+
+  "demographics": {
+  "totalPopulation": "2,540,073",
+  "malePopulation": "1,318,684",
+  "femalePopulation": "1,221,389",
+  "sexRatio": "926 females per 1000 males",
+  "populationDensity": "769 persons/km²",
+  "literacyRate": "70.32%",
+  "maleLiteracyRate": "80.81%",
+  "femaleLiteracyRate": "58.98%",
+  "urbanPopulation": "8.45%",
+  "ruralPopulation": "91.55%",
+
+  "religions": [
+    "Hinduism",
+    "Islam",
+    "Christianity",
+    "Sikhism",
+    "Jainism",
+    "Buddhism"
+  ],
+
+  "languages": [
+    "Hindi",
+    "Magahi",
+    "Urdu"
+  ]
+},
+
+  "administration": {
+  "administrativeDivision": "Magadh Division",
+
+  "subDivisions": [
+    "Aurangabad",
+    "Daudnagar"
+  ],
+
+  "blocks": [
+    "Aurangabad",
+    "Barun",
+    "Daudnagar",
+    "Deo",
+    "Goh",
+    "Haspura",
+    "Kutumba",
+    "Madanpur",
+    "Nabinagar",
+    "Obra",
+    "Rafiganj"
+  ],
+
+  "circles": [
+    "Aurangabad",
+    "Barun",
+    "Daudnagar",
+    "Deo",
+    "Goh",
+    "Haspura",
+    "Kutumba",
+    "Madanpur",
+    "Nabinagar",
+    "Obra",
+    "Rafiganj"
+  ],
+
+  "gramPanchayats": 203,
+
+  "villages": 1694,
+
+  "municipalCorporation": "",
+
+  "municipalities": [
+    "Aurangabad",
+    "Daudnagar"
+  ],
+
+  "nagarPanchayats": [
+    "Deo",
+    "Nabinagar",
+    "Rafiganj",
+    "Obra"
+  ],
+
+  "policeStations": [
+    "Aurangabad",
+    "Barun",
+    "Daudnagar",
+    "Deo",
+    "Goh",
+    "Haspura",
+    "Kutumba",
+    "Madanpur",
+    "Nabinagar",
+    "Obra",
+    "Rafiganj"
+  ],
+
+  "assemblyConstituencies": [
+    "Kutumba (SC)",
+    "Aurangabad",
+    "Rafiganj",
+    "Gurua (Part)",
+    "Imamganj (Part)",
+    "Goh"
+  ],
+
+  "lokSabhaConstituency": "Aurangabad"
+},
+
+  "economy": {
+  "gdp": "Not officially available",
+
+  "majorIndustries": [
+    "Agriculture",
+    "Thermal Power Generation",
+    "Cement",
+    "Rice Mills",
+    "Flour Mills",
+    "Food Processing",
+    "Stone Crushing",
+    "Brick Kilns"
+  ],
+
+  "majorCrops": [
+    "Paddy",
+    "Wheat",
+    "Maize",
+    "Pulses",
+    "Mustard",
+    "Sugarcane",
+    "Potato",
+    "Vegetables"
+  ],
+
+  "majorEmployers": [
+    "Agriculture Sector",
+    "NTPC Nabinagar",
+    "Government Departments",
+    "Education Sector",
+    "Healthcare Sector",
+    "Small Businesses"
+  ],
+
+  "banking": [
+    "State Bank of India",
+    "Punjab National Bank",
+    "Bank of Baroda",
+    "Canara Bank",
+    "Central Bank of India",
+    "UCO Bank",
+    "Union Bank of India",
+    "Indian Bank"
+  ],
+
+  "industrialAreas": [
+    "Nabinagar Industrial Area",
+    "Aurangabad Industrial Area"
+  ],
+
+  "specialEconomicFeatures": [
+    "Agriculture-based economy",
+    "NTPC Nabinagar Super Thermal Power Project",
+    "Fertile plains of the Son River basin",
+    "Growing food processing sector",
+    "Stone mining and stone crushing industries",
+    "Strategic location on the Grand Trunk Road (NH-19)"
+  ]
+},
+
+  "agriculture": {
+  "majorCrops": [
+    "Paddy",
+    "Wheat",
+    "Maize",
+    "Pulses"
+  ],
+
+  "cashCrops": [
+    "Mustard",
+    "Sugarcane"
+  ],
+
+  "fruits": [
+    "Mango",
+    "Guava",
+    "Banana",
+    "Papaya"
+  ],
+
+  "vegetables": [
+    "Potato",
+    "Onion",
+    "Tomato",
+    "Brinjal",
+    "Cauliflower",
+    "Cabbage"
+  ],
+
+  "irrigationSources": [
+    "Son Canal System",
+    "Tube Wells",
+    "Rivers",
+    "Ponds"
+  ],
+
+  "livestock": [
+    "Cattle",
+    "Buffalo",
+    "Goat",
+    "Poultry"
+  ],
+
+  "dairyDevelopment": "Dairy farming is an important source of income, supported by milk cooperative societies and private dairy collection centres.",
+
+  "fisheries": "Fish farming is practiced in ponds, reservoirs and village water bodies across the district.",
+
+  "agriculturalMarkets": [
+    "Aurangabad",
+    "Daudnagar",
+    "Rafiganj",
+    "Nabinagar",
+    "Deo"
+  ],
+
+  "krishiVigyanKendra": "Krishi Vigyan Kendra (KVK), Aurangabad"
+},
+
+   "infrastructure": {
+  "roadNetwork": "Aurangabad district has a well-developed road network connecting all major towns and blocks through National Highways, State Highways and district roads.",
+
+  "nationalHighways": [
+    "NH-19",
+    "NH-139"
+  ],
+
+  "stateHighways": [
+    "SH-68",
+    "SH-69"
+  ],
+
+  "railwayStations": [
+    "Anugraha Narayan Road",
+    "Aurangabad",
+    "Rafiganj",
+    "Phesar",
+    "Baghoi Kusa",
+    "Jakhim",
+    "Nabinagar Road",
+    "Deo Road"
+  ],
+
+  "majorRailwayJunctions": [
+    "Anugraha Narayan Road"
+  ],
+
+  "airConnectivity": "The nearest airport is Gaya International Airport. Jay Prakash Narayan International Airport, Patna, also provides air connectivity.",
+
+  "publicTransport": "Bihar State Road Transport Corporation (BSRTC) buses, private buses, taxis and auto-rickshaws provide public transport services across the district.",
+
+  "electricity": "Most villages and urban areas have electricity connectivity, supported by the South Bihar Power Distribution Company Limited (SBPDCL).",
+
+  "waterSupply": "Urban areas receive piped water supply, while rural areas are served through hand pumps, tube wells and government water supply schemes.",
+
+  "internetConnectivity": "4G and 5G mobile networks are available in most parts of the district, along with broadband internet services."
+},
+
+  "education": {
+  "literacyRate": "70.32%",
+  "maleLiteracy": "80.81%",
+  "femaleLiteracy": "58.98%",
+
+  "governmentSchools": "More than 1,500 government primary, middle and secondary schools operate across the district.",
+
+  "privateSchools": "Several CBSE, ICSE and Bihar Board affiliated private schools are located in Aurangabad and other towns.",
+
+  "colleges": [
+    "S.N. Sinha College, Aurangabad",
+    "Daudnagar College, Daudnagar",
+    "Sachchidanand Sinha College, Aurangabad",
+    "R.L.S.Y. College, Aurangabad"
+  ],
+
+  "universities": [
+    "No university is located in Aurangabad district. Most colleges are affiliated with Magadh University, Bodh Gaya."
+  ],
+
+  "technicalInstitutes": [
+    "Government Polytechnic, Aurangabad",
+    "Government ITI, Aurangabad",
+    "Government Engineering College, Aurangabad"
+  ],
+
+  "medicalColleges": [
+    "No government medical college in the district"
+  ],
+
+  "notableEducationalInstitutions": [
+    "S.N. Sinha College, Aurangabad",
+    "Government Engineering College, Aurangabad",
+    "Government Polytechnic, Aurangabad",
+    "Government ITI, Aurangabad"
+  ]
+},
+
+  "healthcare": {
+  "districtHospital": "Sadar Hospital, Aurangabad",
+
+  "subDivisionalHospitals": [
+    "Sub-Divisional Hospital, Daudnagar"
+  ],
+
+  "communityHealthCentres": [
+    "CHC Barun",
+    "CHC Deo",
+    "CHC Goh",
+    "CHC Haspura",
+    "CHC Kutumba",
+    "CHC Madanpur",
+    "CHC Nabinagar",
+    "CHC Obra",
+    "CHC Rafiganj"
+  ],
+
+  "primaryHealthCentres": "Primary Health Centres (PHCs) are functioning in all blocks of the district.",
+
+  "medicalColleges": [
+    "No government medical college in the district"
+  ],
+
+  "ambulanceServices": "102 and 108 ambulance services are available throughout the district.",
+
+  "majorHealthPrograms": [
+    "Ayushman Bharat",
+    "National Health Mission",
+    "Janani Suraksha Yojana",
+    "Universal Immunization Programme",
+    "Mission Indradhanush"
+  ],
+
+  "bloodBanks": [
+    "Sadar Hospital Blood Bank, Aurangabad"
+  ],
+
+  "notableHospitals": [
+    "Sadar Hospital, Aurangabad",
+    "Sub-Divisional Hospital, Daudnagar",
+    "Referral Hospital, Rafiganj",
+    "CHC Nabinagar",
+    "CHC Deo"
+  ]
+},
+
+  "cultureAndHeritage": {
+  "festivals": [
+    "Chhath Puja",
+    "Durga Puja",
+    "Diwali",
+    "Holi",
+    "Eid",
+    "Makar Sankranti",
+    "Jitiya"
+  ],
+
+  "languages": [
+    "Hindi",
+    "Magahi",
+    "Urdu"
+  ],
+
+  "folkDance": [
+    "Jat-Jatin",
+    "Jhijhiya",
+    "Domkach"
+  ],
+
+  "folkMusic": [
+    "Sohar",
+    "Kajri",
+    "Chaita",
+    "Birha"
+  ],
+
+  "traditionalDress": "Men traditionally wear Dhoti-Kurta and women wear Saree, especially Tussar and Cotton Sarees during festivals and cultural occasions.",
+
+  "cuisine": [
+    "Litti Chokha",
+    "Sattu Paratha",
+    "Dal Pitha",
+    "Khichdi",
+    "Thekua",
+    "Pua",
+    "Tilkut"
+  ],
+
+  "handicrafts": [
+    "Bamboo Craft",
+    "Cane Craft",
+    "Stone Craft",
+    "Handloom Weaving"
+  ],
+
+  "historicalHeritage": [
+    "Deo Sun Temple",
+    "Ancient temples of the Magadh region",
+    "Historical sites associated with the Son River valley"
+  ],
+
+  "culturalOrganizations": [
+    "District Art and Culture Office, Aurangabad",
+    "Department of Art, Culture and Youth, Bihar"
+  ]
+},
+
+  "tourism": {
+  "majorTouristAttractions": [
+    "Deo Sun Temple",
+    "Umga Sun Temple",
+    "Pawai Waterfall",
+    "Son River",
+    "Anugraha Narayan Smarak",
+    "Nabinagar"
+  ],
+
+  "religiousPlaces": [
+    "Deo Sun Temple",
+    "Umga Temple",
+    "Shiv Temple, Deo",
+    "Local Temples and Mosques"
+  ],
+
+  "historicalSites": [
+    "Deo Sun Temple Complex",
+    "Umga Temple Complex",
+    "Ancient monuments of the Magadh region"
+  ],
+
+  "naturalAttractions": [
+    "Son River",
+    "Pawai Waterfall",
+    "Rural Countryside",
+    "Agricultural Fields"
+  ],
+
+  "wildlifeSanctuaries": [
+    "No wildlife sanctuary within the district"
+  ],
+
+  "annualFairs": [
+    "Deo Chhath Mela",
+    "Chhath Festival",
+    "Ram Navami Fair",
+    "Local Rural Fairs"
+  ],
+
+  "bestTimeToVisit": "October to March",
+
+  "nearbyTouristDestinations": [
+    "Gaya",
+    "Bodh Gaya",
+    "Rohtas",
+    "Sasaram",
+    "Patna"
+  ]
+},
+
+  "sports": {
+  "majorSports": [
+    "Cricket",
+    "Football",
+    "Kabaddi",
+    "Volleyball",
+    "Athletics",
+    "Badminton"
+  ],
+
+  "stadiums": [
+    "District Sports Stadium, Aurangabad"
+  ],
+
+  "sportsComplexes": [
+    "District Sports Complex, Aurangabad"
+  ],
+
+  "famousSportspersons": [],
+
+  "sportsAcademies": [
+    "District Sports Training Centre, Aurangabad"
+  ],
+
+  "annualSportsEvents": [
+    "District Sports Meet",
+    "School Sports Competitions",
+    "Khelo India District Level Events"
+  ],
+
+  "governmentSportsPrograms": [
+    "Khelo India",
+    "Fit India Movement",
+    "Bihar State Sports Development Program"
+  ],
+
+  "sportsAchievements": [
+    "District athletes regularly participate in state-level competitions.",
+    "School and college teams represent Aurangabad in Bihar-level tournaments."
+  ]
+},
+
+  "bankingAndFinance": {
+  "nationalizedBanks": [
+    "State Bank of India",
+    "Punjab National Bank",
+    "Bank of Baroda",
+    "Canara Bank",
+    "Union Bank of India",
+    "Indian Bank",
+    "UCO Bank",
+    "Central Bank of India",
+    "Bank of India",
+    "Punjab & Sind Bank"
+  ],
+
+  "privateBanks": [
+    "HDFC Bank",
+    "ICICI Bank",
+    "Axis Bank",
+    "Kotak Mahindra Bank",
+    "IndusInd Bank",
+    "IDFC FIRST Bank"
+  ],
+
+  "regionalRuralBanks": [
+    "Dakshin Bihar Gramin Bank"
+  ],
+
+  "cooperativeBanks": [
+    "Bihar State Cooperative Bank",
+    "Aurangabad District Central Cooperative Bank"
+  ],
+
+  "atms": "ATMs of major public sector and private sector banks are available across the district.",
+
+  "digitalBanking": "UPI, Internet Banking, Mobile Banking, AEPS and Bharat Bill Payment System (BBPS) services are widely available.",
+
+  "microfinanceInstitutions": [
+    "Bandhan",
+    "CreditAccess Grameen",
+    "Fusion Micro Finance",
+    "Satin Creditcare"
+  ],
+
+  "financialInclusionPrograms": [
+    "Pradhan Mantri Jan Dhan Yojana",
+    "Pradhan Mantri Jeevan Jyoti Bima Yojana",
+    "Pradhan Mantri Suraksha Bima Yojana",
+    "Atal Pension Yojana",
+    "Pradhan Mantri Mudra Yojana",
+    "Stand-Up India"
+  ],
+
+  "majorInsuranceCompanies": [
+    "Life Insurance Corporation of India (LIC)",
+    "New India Assurance",
+    "National Insurance Company",
+    "United India Insurance",
+    "Oriental Insurance"
+  ]
+},
+
+  "governanceAndPublicServices": {
+  "districtAdministration": "The district is administered by the District Magistrate (DM), Aurangabad, under the Government of Bihar.",
+
+  "municipalBodies": [
+    "Aurangabad Nagar Parishad",
+    "Daudnagar Nagar Parishad",
+    "Deo Nagar Panchayat",
+    "Nabinagar Nagar Panchayat",
+    "Obra Nagar Panchayat",
+    "Rafiganj Nagar Panchayat"
+  ],
+
+  "policeAdministration": "Law and order is maintained by Bihar Police under the Aurangabad District Police administration.",
+
+  "fireServices": "Fire stations operate in Aurangabad, Daudnagar and other major towns of the district.",
+
+  "judiciary": [
+    "District and Sessions Court, Aurangabad"
+  ],
+
+  "governmentOffices": [
+    "District Collectorate, Aurangabad",
+    "District Transport Office, Aurangabad",
+    "District Education Office, Aurangabad",
+    "District Agriculture Office, Aurangabad",
+    "District Health Office, Aurangabad",
+    "District Rural Development Agency (DRDA), Aurangabad"
+  ],
+
+  "publicDistributionSystem": "Essential commodities are distributed through Fair Price Shops (FPS) under the Public Distribution System (PDS).",
+
+  "eGovernanceServices": [
+    "RTPS Bihar",
+    "e-District Services",
+    "Bihar Bhumi",
+    "Bihar e-Procurement",
+    "Bihar Right to Public Services Portal"
+  ],
+
+  "citizenServices": [
+    "Birth Certificate",
+    "Death Certificate",
+    "Caste Certificate",
+    "Income Certificate",
+    "Residence Certificate",
+    "Driving Licence Services",
+    "Property Registration",
+    "Online Land Records"
+  ]
+},
+
+  "lawAndOrder": {
+  "policeDistrict": "Aurangabad Police District under Bihar Police",
+
+  "policeStations": [
+    "Aurangabad",
+    "Barun",
+    "Daudnagar",
+    "Deo",
+    "Goh",
+    "Haspura",
+    "Kutumba",
+    "Madanpur",
+    "Nabinagar",
+    "Obra",
+    "Rafiganj"
+  ],
+
+  "womenPoliceStations": [
+    "Mahila Police Station, Aurangabad"
+  ],
+
+  "cyberCrimePoliceStation": "Cyber Crime Police Station, Aurangabad",
+
+  "trafficPolice": "Traffic Police regulates traffic and road safety across Aurangabad district.",
+
+  "prisons": [
+    "District Jail, Aurangabad"
+  ],
+
+  "emergencyNumbers": [
+    "112 (Emergency Response Support System)",
+    "100 (Police)",
+    "101 (Fire)",
+    "108 (Ambulance)"
+  ],
+
+  "crimePreventionInitiatives": [
+    "Community Policing",
+    "Cyber Crime Awareness Campaigns",
+    "Women Safety Initiatives",
+    "Road Safety Awareness Programs",
+    "Anti-Drug Awareness Campaigns"
+  ],
+
+  "disasterManagement": "The District Disaster Management Authority (DDMA), Aurangabad, coordinates disaster preparedness, relief and rehabilitation activities."
+},
+
+  "environment": {
+  "forestCover": "Moderate forest cover, mainly in the southern part of the district.",
+
+  "majorForests": [
+    "Madanpur Forest Range",
+    "Kutumba Forest Range",
+    "Nabinagar Forest Area"
+  ],
+
+  "protectedAreas": [],
+
+  "wetlands": [
+    "Seasonal Wetlands",
+    "Village Ponds",
+    "Irrigation Reservoirs"
+  ],
+
+  "rivers": [
+    "Son",
+    "Punpun",
+    "Batane",
+    "Adri"
+  ],
+
+  "lakes": [
+    "Village Ponds",
+    "Irrigation Reservoirs"
+  ],
+
+  "biodiversity": [
+    "Dry Deciduous Flora",
+    "Common Birds",
+    "Freshwater Fish",
+    "Small Mammals",
+    "Reptiles"
+  ],
+
+  "environmentalIssues": [
+    "Deforestation",
+    "Soil Erosion",
+    "Groundwater Depletion",
+    "Air Pollution",
+    "Plastic Waste"
+  ],
+
+  "conservationInitiatives": [
+    "Tree Plantation Drives",
+    "Jal-Jeevan-Hariyali Abhiyan",
+    "Rainwater Harvesting",
+    "Plastic Waste Management Campaigns",
+    "Water Conservation Programs"
+  ]
+},
+
+  "mediaAndCommunication": {
+  "newspapers": [
+    "Hindustan",
+    "Dainik Jagran",
+    "Prabhat Khabar",
+    "Rashtriya Sahara",
+    "The Times of India"
+  ],
+
+  "televisionChannels": [
+    "DD Bihar",
+    "News18 Bihar Jharkhand",
+    "Zee Bihar Jharkhand",
+    "ETV Bharat Bihar"
+  ],
+
+  "radioStations": [
+    "All India Radio Gaya",
+    "All India Radio Patna",
+    "FM Rainbow Patna"
+  ],
+
+  "newsPortals": [
+    "Aurangabad District Administration Website",
+    "Bihar Government Portal",
+    "PRD Bihar",
+    "State e-District Portal"
+  ],
+
+  "postalServices": "India Post provides postal, Speed Post and parcel services through Head Post Office, Sub Post Offices and Branch Post Offices across the district.",
+
+  "telecommunication": "4G and 5G mobile connectivity is available in most parts of the district, while broadband and BharatNet services are expanding in rural areas.",
+
+  "internetProviders": [
+    "BSNL",
+    "JioFiber",
+    "Airtel Xstream Fiber"
+  ],
+
+  "mobileNetworkOperators": [
+    "Jio",
+    "Airtel",
+    "Vi",
+    "BSNL"
+  ],
+
+  "digitalMedia": [
+    "Official District Website",
+    "Bihar Government Social Media Pages",
+    "Online News Portals",
+    "Digital Citizen Service Portals"
+  ]
+},
+
+  "rankingsAndAchievements": {
+  "stateRankings": [
+    "One of the major districts of the Magadh region",
+    "Known for the famous Deo Sun Temple",
+    "Important agricultural district of South Bihar"
+  ],
+
+  "nationalRankings": [
+    "Recognized for the historic Deo Chhath Festival",
+    "Home to one of India's oldest Sun Temples"
+  ],
+
+  "awards": [],
+
+  "notableAchievements": [
+    "Home to the internationally known Deo Sun Temple",
+    "NTPC Nabinagar Super Thermal Power Project has boosted industrial development",
+    "Growing road, power and digital infrastructure"
+  ],
+
+  "developmentIndicators": [
+    "Expansion of road infrastructure",
+    "Growth in electricity generation through NTPC Nabinagar",
+    "Improving healthcare and education facilities",
+    "Increasing irrigation coverage",
+    "Expansion of digital public services"
+  ],
+
+  "records": [
+    "Deo Sun Temple is one of the oldest and most significant Sun Temples in India.",
+    "Deo Chhath Mela is one of the largest religious fairs in Bihar."
+  ]
+},
+
+  "miscellaneous": {
+  "famousPersonalities": [
+    "Anugrah Narayan Sinha",
+    "Satyendra Narayan Sinha",
+    "Local Freedom Fighters of Aurangabad"
+  ],
+
+  "nicknames": [
+    "Land of the Deo Sun Temple",
+    "Gateway of South Bihar"
+  ],
+
+  "importantDates": [
+    "26 January 1973 – Aurangabad became a separate district",
+    "15 August 1947 – Became part of independent India"
+  ],
+
+  "festivals": [
+    "Deo Chhath Festival",
+    "Chhath Puja",
+    "Durga Puja",
+    "Holi",
+    "Diwali",
+    "Eid"
+  ],
+
+  "localFoods": [
+    "Litti Chokha",
+    "Sattu Paratha",
+    "Dal Pitha",
+    "Thekua",
+    "Pua",
+    "Tilkut",
+    "Khaja"
+  ],
+
+  "famousMarkets": [
+    "Aurangabad Main Market",
+    "Daudnagar Market",
+    "Rafiganj Market",
+    "Nabinagar Market",
+    "Deo Market"
+  ],
+
+  "emergencyContacts": [
+    "Police - 112",
+    "Fire - 101",
+    "Ambulance - 108",
+    "Women Helpline - 181"
+  ],
+
+  "officialWebsite": "https://aurangabad.bih.nic.in",
+
+  "additionalInformation": [
+    "Aurangabad is internationally known for the Deo Sun Temple and the annual Deo Chhath Mela.",
+    "NTPC Nabinagar Super Thermal Power Project is one of the district's major industrial landmarks.",
+    "Agriculture remains the primary occupation of the district.",
+    "The Son River plays an important role in irrigation and the local economy."
+  ]
+}
+}
