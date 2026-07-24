@@ -1,0 +1,943 @@
+{  "state": "Bihar",
+  "district": "Buxar",
+  "slug": "buxar",
+  "language": "en",
+  "version": "1.0",
+  "lastUpdated": "",
+  "name": "Buxar",
+  "slug": "buxar",
+  "state": "Bihar",
+
+  "basicInformation": {
+  "headquarters": "Buxar",
+"established": "17 March 1991",
+"areaKm2": 1703,
+"population": 1706352,
+"districtCode": "BXR",
+"division": "Patna",
+"subdivision": 2,
+"anchals": 11,
+"blocks": 11,
+"panchayats": 142,
+"villages": 1011,
+"towns": 3,
+"policeStations": 14,
+"lokSabhaConstituencies": 1,
+"assemblyConstituencies": 4,
+"pinCodeRange": "802101 - 802136",
+"vehicleRegistrationCode": "BR-44",
+"elevation": "67 m",
+"coordinates": {
+  "latitude": "25.56° N",
+  "longitude": "83.98° E"
+},
+"officialWebsite": "https://buxar.nic.in"
+},
+
+  "history": {
+  "historicalImportance": "Buxar is historically significant for the Battle of Buxar (1764), which established the British East India Company's dominance in eastern India. The district is also closely associated with ancient Hindu traditions and the Ramayana.",
+"formationHistory": "Buxar district was carved out of the erstwhile Bhojpur district on 17 March 1991.",
+"freedomMovement": "The people of Buxar actively participated in the Indian freedom movement, including the Non-Cooperation Movement, Civil Disobedience Movement and Quit India Movement.",
+"archaeologicalImportance": "The district contains several ancient temples, archaeological sites and historical remains connected with the Battle of Buxar and the Ramayana.",
+"asiProtectedMonuments": [
+  "Chausa Archaeological Site",
+  "Ancient remains near Buxar Fort"
+],
+"historicalTimeline": [
+  "Ancient period – Part of the Magadha Kingdom",
+  "Mythological period – Associated with Sage Vishwamitra and Lord Rama",
+  "1764 – Battle of Buxar fought between the British East India Company and the combined forces of Mughal Emperor Shah Alam II, Nawab of Awadh and Mir Qasim",
+  "1947 – Became part of independent India",
+  "17 March 1991 – Buxar district was formed after bifurcation from Bhojpur district"
+]
+},
+
+  "geography": {
+  "location": "Buxar district is located in the western part of Bihar along the banks of the Ganga River and shares its western boundary with Uttar Pradesh.",
+
+"boundaries": {
+  "north": "Ballia (Uttar Pradesh) across the Ganga River",
+  "south": "Rohtas District",
+  "east": "Bhojpur District",
+  "west": "Kaimur District and Ballia (Uttar Pradesh)"
+},
+
+"area": "1,703 sq km",
+
+"elevation": "67 m",
+
+"climate": "Subtropical climate with hot summers, monsoon rains and cool winters.",
+
+"rainfall": "Approximately 1,050 mm annually",
+
+"rivers": [
+  "Ganga",
+  "Karmanasa"
+],
+
+"hills": [],
+
+"forests": "Very limited forest cover, mainly scattered plantation and riverine vegetation.",
+
+"soilTypes": [
+  "Alluvial Soil",
+  "Sandy Loam",
+  "Clay Loam"
+],
+
+"naturalResources": [
+  "Fertile Agricultural Land",
+  "Groundwater",
+  "River Sand",
+  "Clay"
+]
+},
+
+  "demographics": {
+  "totalPopulation": "1,706,352",
+"malePopulation": "888,551",
+"femalePopulation": "817,801",
+"sexRatio": "920 females per 1000 males",
+"populationDensity": "1,003 persons/km²",
+"literacyRate": "70.14%",
+"maleLiteracyRate": "79.96%",
+"femaleLiteracyRate": "59.42%",
+"urbanPopulation": "11.29%",
+"ruralPopulation": "88.71%",
+
+"religions": [
+  "Hinduism",
+  "Islam",
+  "Christianity",
+  "Sikhism",
+  "Jainism",
+  "Buddhism"
+],
+
+"languages": [
+  "Hindi",
+  "Bhojpuri",
+  "Urdu"
+]
+},
+
+  "administration": {
+  "administrativeDivision": "Patna Division",
+
+"subDivisions": [
+  "Buxar",
+  "Dumraon"
+],
+
+"blocks": [
+  "Buxar",
+  "Chakki",
+  "Chausa",
+  "Dumraon",
+  "Itarhi",
+  "Kesath",
+  "Nawanagar",
+  "Rajpur",
+  "Simri",
+  "Brahmpur",
+  "Chaugain"
+],
+
+"circles": [
+  "Buxar",
+  "Chakki",
+  "Chausa",
+  "Dumraon",
+  "Itarhi",
+  "Kesath",
+  "Nawanagar",
+  "Rajpur",
+  "Simri",
+  "Brahmpur",
+  "Chaugain"
+],
+
+"gramPanchayats": 142,
+
+"villages": 1011,
+
+"municipalCorporation": "",
+
+"municipalities": [
+  "Buxar",
+  "Dumraon"
+],
+
+"nagarPanchayats": [],
+
+"policeStations": [
+  "Buxar",
+  "Dumraon",
+  "Brahmpur",
+  "Simri",
+  "Chausa",
+  "Rajpur",
+  "Itarhi",
+  "Nawanagar",
+  "Kesath",
+  "Chakki",
+  "Mufassil",
+  "Murar"
+],
+
+"assemblyConstituencies": [
+  "Brahmpur",
+  "Buxar",
+  "Dumraon",
+  "Rajpur (SC)"
+],
+
+"lokSabhaConstituency": "Buxar"
+},
+
+  "economy": {
+  "gdp": "Not officially available",
+
+"majorIndustries": [
+  "Agriculture",
+  "Food Processing",
+  "Rice Mills",
+  "Flour Mills",
+  "Brick Manufacturing",
+  "Dairy"
+],
+
+"majorCrops": [
+  "Paddy",
+  "Wheat",
+  "Maize",
+  "Pulses",
+  "Mustard"
+],
+
+"majorEmployers": [
+  "Agriculture Sector",
+  "Government Departments",
+  "Education Sector",
+  "Healthcare Sector",
+  "Food Processing Industries",
+  "Small and Medium Enterprises (MSMEs)"
+],
+
+"banking": [
+  "State Bank of India",
+  "Punjab National Bank",
+  "Bank of Baroda",
+  "Canara Bank",
+  "Central Bank of India",
+  "UCO Bank",
+  "Union Bank of India",
+  "Indian Bank"
+],
+
+"industrialAreas": [
+  "Buxar Industrial Area",
+  "Dumraon Industrial Area"
+],
+
+"specialEconomicFeatures": [
+  "Highly fertile alluvial agricultural land",
+  "Strong wheat and paddy production",
+  "Growing food processing sector",
+  "Strategic location on the Bihar–Uttar Pradesh border"
+]
+},
+
+  "agriculture": {
+  "majorCrops": [
+  "Paddy",
+  "Wheat",
+  "Maize",
+  "Pulses"
+],
+
+"cashCrops": [
+  "Mustard",
+  "Sugarcane",
+  "Oilseeds"
+],
+
+"fruits": [
+  "Guava",
+  "Mango",
+  "Banana"
+],
+
+"vegetables": [
+  "Potato",
+  "Onion",
+  "Tomato",
+  "Okra",
+  "Cauliflower"
+],
+
+"irrigationSources": [
+  "Ganga River",
+  "Karmanasa River",
+  "Sone Canal System",
+  "Tube Wells"
+],
+
+"livestock": [
+  "Cattle",
+  "Buffalo",
+  "Goat",
+  "Poultry"
+],
+
+"dairyDevelopment": "Dairy farming is an important source of rural livelihood, supported by milk cooperative societies.",
+
+"fisheries": "Fish farming is practiced in ponds, rivers and irrigation canals across the district.",
+
+"agriculturalMarkets": [
+  "Buxar",
+  "Dumraon",
+  "Brahmpur",
+  "Rajpur",
+  "Nawanagar"
+],
+
+"krishiVigyanKendra": "Krishi Vigyan Kendra (KVK), Buxar"
+},
+
+   "infrastructure": {
+  "roadNetwork": "Buxar has a well-developed road network connecting all major towns and villages through national highways, state highways and district roads.",
+
+"nationalHighways": [
+  "NH-922"
+],
+
+"stateHighways": [
+  "SH-14",
+  "SH-68"
+],
+
+"railwayStations": [
+  "Buxar",
+  "Dumraon",
+  "Raghunathpur",
+  "Twining Ganj",
+  "Baruna"
+],
+
+"majorRailwayJunctions": [
+  "Buxar"
+],
+
+"airConnectivity": "The nearest airport is Jay Prakash Narayan International Airport, Patna (about 125 km).",
+
+"publicTransport": "Bihar State Road Transport Corporation (BSRTC), private buses, taxis and auto-rickshaws provide transport services.",
+
+"electricity": "Most urban and rural areas have electricity connectivity under the state power distribution network.",
+
+"waterSupply": "Urban areas receive piped water supply while rural areas depend on hand pumps, tube wells and rural water supply schemes.",
+
+"internetConnectivity": "4G and 5G mobile services are available in most parts of the district, with broadband connectivity in urban areas."
+},
+
+  "education": {
+  "literacyRate": "70.14%",
+"maleLiteracy": "80.16%",
+"femaleLiteracy": "58.31%",
+
+"governmentSchools": "More than 1,800 government primary, middle and secondary schools are functioning across the district.",
+
+"privateSchools": "Several CBSE, ICSE and Bihar Board affiliated private schools operate in Buxar district.",
+
+"colleges": [
+  "M.V. College, Buxar",
+  "D.K. College, Dumraon",
+  "Buxar College, Buxar",
+  "M.P. High School and College Campus, Buxar",
+  "R.N. Singh Degree College"
+],
+
+"universities": [
+  "Veer Kunwar Singh University (Affiliated Colleges)"
+],
+
+"technicalInstitutes": [
+  "Government Polytechnic, Buxar",
+  "Government ITI, Buxar",
+  "Women's ITI, Buxar"
+],
+
+"medicalColleges": [],
+
+"notableEducationalInstitutions": [
+  "M.V. College, Buxar",
+  "D.K. College, Dumraon",
+  "Government Polytechnic, Buxar",
+  "Government ITI, Buxar",
+  "Kendriya Vidyalaya, Buxar"
+]
+},
+
+  "healthcare": {
+  "districtHospital": "Sadar Hospital, Buxar",
+
+"subDivisionalHospitals": [
+  "Sub-Divisional Hospital, Dumraon"
+],
+
+"communityHealthCentres": [
+  "CHC Buxar",
+  "CHC Dumraon",
+  "CHC Brahmpur",
+  "CHC Chakki",
+  "CHC Chausa",
+  "CHC Itarhi",
+  "CHC Kesath",
+  "CHC Nawanagar",
+  "CHC Rajpur",
+  "CHC Simri",
+  "CHC Chaugain"
+],
+
+"primaryHealthCentres": "Primary Health Centres (PHCs) are functioning across all blocks of the district.",
+
+"medicalColleges": [],
+
+"ambulanceServices": "102 and 108 ambulance services are available throughout the district.",
+
+"majorHealthPrograms": [
+  "Ayushman Bharat",
+  "National Health Mission",
+  "Janani Suraksha Yojana",
+  "Universal Immunization Programme",
+  "Mission Indradhanush"
+],
+
+"bloodBanks": [
+  "Sadar Hospital Blood Bank, Buxar",
+  "Red Cross Blood Bank, Buxar"
+],
+
+"notableHospitals": [
+  "Sadar Hospital, Buxar",
+  "Sub-Divisional Hospital, Dumraon",
+  "CHC Brahmpur",
+  "CHC Rajpur",
+  "CHC Simri"
+]
+},
+
+  "cultureAndHeritage": {
+  "festivals": [
+  "Chhath Puja",
+  "Ram Navami",
+  "Durga Puja",
+  "Diwali",
+  "Holi",
+  "Makar Sankranti"
+],
+
+"languages": [
+  "Hindi",
+  "Bhojpuri",
+  "Urdu"
+],
+
+"folkDance": [
+  "Jat-Jatin",
+  "Jhijhiya",
+  "Domkach"
+],
+
+"folkMusic": [
+  "Birha",
+  "Kajari",
+  "Chaita"
+],
+
+"traditionalDress": "Men traditionally wear Dhoti-Kurta and women wear Saree and Salwar-Kameez.",
+
+"cuisine": [
+  "Litti Chokha",
+  "Sattu Paratha",
+  "Thekua",
+  "Khaja",
+  "Tilkut"
+],
+
+"handicrafts": [
+  "Pottery",
+  "Bamboo Craft",
+  "Wood Craft",
+  "Handloom Products"
+],
+
+"historicalHeritage": [
+  "Battle of Buxar Memorial",
+  "Katkauli Battlefield",
+  "Buxar Fort",
+  "Ramrekha Ghat",
+  "Ahirauli (Sage Gautama Ashram)"
+],
+
+"culturalOrganizations": [
+  "District Art and Culture Office, Buxar",
+  "Department of Art, Culture and Youth, Bihar",
+  "Local Bhojpuri Cultural Organizations"
+]
+},
+
+  "tourism": {
+  "majorTouristAttractions": [
+  "Battle of Buxar Memorial",
+  "Ramrekha Ghat",
+  "Buxar Fort",
+  "Katkauli Battlefield",
+  "Siddhashram",
+  "Ahirauli"
+],
+
+"religiousPlaces": [
+  "Ramrekha Ghat",
+  "Nath Baba Temple",
+  "Brahmeshwar Nath Temple",
+  "Ahirauli Gautam Ashram",
+  "Siddhashram"
+],
+
+"historicalSites": [
+  "Battle of Buxar Memorial",
+  "Buxar Fort",
+  "Katkauli Battlefield",
+  "British Era Cemetery"
+],
+
+"naturalAttractions": [
+  "Ganga River",
+  "Saryu-Ganga River Bank",
+  "Chausa Riverfront"
+],
+
+"wildlifeSanctuaries": [],
+
+"annualFairs": [
+  "Panchkoshi Mela",
+  "Chhath Festival",
+  "Ram Navami Fair",
+  "Durga Puja Fair"
+],
+
+"bestTimeToVisit": "October to March",
+
+"nearbyTouristDestinations": [
+  "Varanasi",
+  "Rohtas",
+  "Sasaram",
+  "Patna",
+  "Ara"
+]
+},
+
+  "sports": {
+  "majorSports": [
+  "Cricket",
+  "Football",
+  "Kabaddi",
+  "Volleyball",
+  "Athletics",
+  "Badminton"
+],
+
+"stadiums": [
+  "District Sports Stadium, Buxar",
+  "Dumraon Sports Ground"
+],
+
+"sportsComplexes": [
+  "District Sports Complex, Buxar",
+  "Indoor Sports Hall, Buxar"
+],
+
+"famousSportspersons": [],
+
+"sportsAcademies": [
+  "District Sports Training Centre, Buxar",
+  "Bihar State Sports Authority Training Centre"
+],
+
+"annualSportsEvents": [
+  "District Sports Meet",
+  "School Sports Competitions",
+  "Khelo India District Level Events",
+  "Inter-College Sports Tournament"
+],
+
+"governmentSportsPrograms": [
+  "Khelo India",
+  "Fit India Movement",
+  "Bihar State Sports Development Program"
+],
+
+"sportsAchievements": [
+  "District athletes regularly participate in Bihar state-level competitions",
+  "School and college teams represent Buxar in various sports events",
+  "Growing participation in cricket, kabaddi and athletics"
+]
+},
+
+  "bankingAndFinance": {
+  "nationalizedBanks": [
+  "State Bank of India",
+  "Punjab National Bank",
+  "Bank of Baroda",
+  "Canara Bank",
+  "Bank of India",
+  "Punjab & Sind Bank"
+],
+
+"privateBanks": [
+  "HDFC Bank",
+  "ICICI Bank",
+  "Axis Bank",
+  "IDFC FIRST Bank"
+],
+
+"regionalRuralBanks": [
+  "Dakshin Bihar Gramin Bank"
+],
+
+"cooperativeBanks": [
+  "Bihar State Cooperative Bank",
+  "Buxar Central Cooperative Bank"
+],
+
+"atms": "ATMs of major public sector and private sector banks are available across the district.",
+
+"digitalBanking": "UPI, Internet Banking, Mobile Banking and AEPS services are widely available.",
+
+"microfinanceInstitutions": [
+  "Bandhan",
+  "CreditAccess Grameen",
+  "Fusion Micro Finance",
+  "Satin Creditcare"
+],
+
+"financialInclusionPrograms": [
+  "Pradhan Mantri Jan Dhan Yojana",
+  "Pradhan Mantri Jeevan Jyoti Bima Yojana",
+  "Pradhan Mantri Suraksha Bima Yojana",
+  "Atal Pension Yojana",
+  "Pradhan Mantri Mudra Yojana",
+  "Stand-Up India"
+],
+
+"majorInsuranceCompanies": [
+  "Life Insurance Corporation of India (LIC)",
+  "New India Assurance",
+  "National Insurance Company",
+  "United India Insurance",
+  "ICICI Lombard",
+  "HDFC ERGO"
+]
+},
+
+  "governanceAndPublicServices": {
+  "districtAdministration": "Buxar district is administered by the District Magistrate (DM) with support from various district-level departments.",
+
+"municipalBodies": [
+  "Buxar Nagar Parishad",
+  "Dumraon Nagar Parishad"
+],
+
+"policeAdministration": "Law and order is maintained by Buxar District Police under the Bihar Police.",
+
+"fireServices": "Fire stations operate in Buxar and Dumraon to provide emergency fire and rescue services.",
+
+"judiciary": [
+  "District and Sessions Court, Buxar"
+],
+
+"governmentOffices": [
+  "District Collectorate, Buxar",
+  "District Transport Office, Buxar",
+  "District Education Office, Buxar",
+  "District Agriculture Office, Buxar",
+  "District Health Office, Buxar",
+  "District Rural Development Agency (DRDA), Buxar"
+],
+
+"publicDistributionSystem": "Essential commodities are distributed through Fair Price Shops under the Public Distribution System (PDS).",
+
+"eGovernanceServices": [
+  "RTPS Bihar",
+  "e-District Services",
+  "Bihar Bhumi",
+  "Bihar e-Procurement",
+  "Bihar Right to Public Services Portal"
+],
+
+"citizenServices": [
+  "Birth Certificate",
+  "Death Certificate",
+  "Caste Certificate",
+  "Income Certificate",
+  "Residence Certificate",
+  "Driving Licence Services",
+  "Property Registration",
+  "Online Land Records"
+]
+},
+
+  "lawAndOrder": {
+  "policeDistrict": "Buxar Police District",
+
+"policeStations": [
+  "Buxar Town",
+  "Muffasil",
+  "Industrial Area",
+  "Dumraon",
+  "Simri",
+  "Chausa",
+  "Brahmpur",
+  "Rajpur",
+  "Itarhi",
+  "Nawanagar",
+  "Kesath",
+  "Murar",
+  "Chakki",
+  "Krishnabrahm"
+],
+
+"womenPoliceStations": [
+  "Mahila Police Station, Buxar"
+],
+
+"cyberCrimePoliceStation": "Cyber Crime Police Station, Buxar",
+
+"trafficPolice": "Traffic Police regulate traffic and road safety across the district.",
+
+"prisons": [
+  "District Jail, Buxar"
+],
+
+"emergencyNumbers": [
+  "112 (Emergency Response Support System)",
+  "100 (Police)",
+  "101 (Fire)",
+  "108 (Ambulance)"
+],
+
+"crimePreventionInitiatives": [
+  "Community Policing",
+  "Cyber Crime Awareness Campaigns",
+  "Women Safety Initiatives",
+  "Road Safety Awareness Programs",
+  "Anti-Drug Awareness Campaigns"
+],
+
+"disasterManagement": "The District Disaster Management Authority (DDMA), Buxar coordinates disaster preparedness, flood management and emergency response."
+},
+
+  "environment": {
+  "forestCover": "Limited forest cover, mainly along the Ganga and Kaimur fringe areas.",
+
+"majorForests": [
+  "Chausa Forest Area",
+  "Nawanagar Forest Area",
+  "Rajpur Forest Area"
+],
+
+"protectedAreas": [],
+
+"wetlands": [
+  "Ganga Floodplain Wetlands",
+  "Chausa Wetlands",
+  "Village Ponds"
+],
+
+"rivers": [
+  "Ganga",
+  "Son",
+  "Karmanasa"
+],
+
+"lakes": [
+  "Village Ponds",
+  "Irrigation Reservoirs"
+],
+
+"biodiversity": [
+  "Gangetic River Dolphin",
+  "Common Birds",
+  "Freshwater Fish",
+  "Small Mammals",
+  "Reptiles"
+],
+
+"environmentalIssues": [
+  "River Pollution",
+  "Flooding",
+  "Soil Erosion",
+  "Plastic Waste"
+],
+
+"conservationInitiatives": [
+  "Namami Gange Programme",
+  "Jal-Jeevan-Hariyali Abhiyan",
+  "Tree Plantation Drives",
+  "Rainwater Harvesting",
+  "Plastic Waste Management Campaigns",
+  "Water Conservation Programmes"
+]
+},
+
+  "mediaAndCommunication": {
+  "newspapers": [
+    "Hindustan",
+    "Dainik Jagran",
+    "Prabhat Khabar",
+    "The Times of India"
+  ],
+
+  "televisionChannels": [
+    "DD Bihar",
+    "News18 Bihar Jharkhand",
+    "Zee Bihar Jharkhand",
+    "ETV Bharat Bihar"
+  ],
+
+  "radioStations": [
+    "All India Radio Patna",
+    "Akashvani Patna",
+    "FM Rainbow Patna"
+  ],
+
+  "newsPortals": [
+    "Buxar District Administration Website",
+    "Bihar Government Portal",
+    "PRD Bihar",
+    "State e-District Portal"
+  ],
+
+  "postalServices": "India Post provides postal, Speed Post, parcel and banking services across Buxar district.",
+
+  "telecommunication": "4G and 5G mobile connectivity is available in most urban and rural areas of the district.",
+
+  "internetProviders": [
+    "BSNL",
+    "JioFiber",
+    "Airtel Xstream Fiber"
+  ],
+
+  "mobileNetworkOperators": [
+    "Jio",
+    "Airtel",
+    "Vi",
+    "BSNL"
+  ],
+
+  "digitalMedia": [
+    "Official District Website",
+    "Bihar Government Social Media Pages",
+    "Online News Portals",
+    "Digital Citizen Service Portals"
+  ]
+},
+
+  "rankingsAndAchievements": {
+  "stateRankings": [
+    "One of the historically significant districts of Bihar",
+    "Important agricultural district of western Bihar",
+    "Known for the historic Battle of Buxar",
+    "Emerging education and trade centre"
+  ],
+
+  "nationalRankings": [
+    "Battle of Buxar (1764) is one of the landmark events in Indian history",
+    "Associated with Sage Vishwamitra and the Ramayana tradition",
+    "Recognized for fertile agricultural land in the Gangetic plains"
+  ],
+
+  "awards": [],
+
+  "notableAchievements": [
+    "Historic site of the Battle of Buxar (1764)",
+    "Major producer of wheat, paddy and pulses in Bihar",
+    "Growing road and digital infrastructure",
+    "Important cultural and religious centre of western Bihar"
+  ],
+
+  "developmentIndicators": [
+    "Expansion of road connectivity",
+    "Improvement in healthcare and educational infrastructure",
+    "Growth in digital connectivity",
+    "Expansion of irrigation facilities",
+    "Development of agriculture and rural economy"
+  ],
+
+  "records": [
+    "Battle of Buxar changed the course of British rule in India",
+    "Associated with the legendary Rishi Vishwamitra Ashram",
+    "Located on the banks of the Ganga River"
+  ]
+},
+
+  "miscellaneous": {
+  "famousPersonalities": [
+    "Sage Vishwamitra",
+    "Babu Kunwar Singh",
+    "Ramanand Tiwari"
+  ],
+
+  "nicknames": [
+    "Land of the Battle of Buxar",
+    "Gateway of Western Bihar"
+  ],
+
+  "importantDates": [
+    "23 October 1764 – Battle of Buxar",
+    "17 March 1991 – Buxar district was carved out as a separate district",
+    "15 August 1947 – Became part of independent India"
+  ],
+
+  "festivals": [
+    "Chhath Puja",
+    "Durga Puja",
+    "Diwali",
+    "Holi",
+    "Ram Navami",
+    "Eid"
+  ],
+
+  "localFoods": [
+    "Litti Chokha",
+    "Thekua",
+    "Sattu Paratha",
+    "Tilkut",
+    "Khaja"
+  ],
+
+  "famousMarkets": [
+    "Buxar Main Market",
+    "Dumraon Market",
+    "Chausa Market",
+    "Itarhi Market"
+  ],
+
+  "emergencyContacts": [
+    "Police - 112",
+    "Fire - 101",
+    "Ambulance - 108",
+    "Women Helpline - 181"
+  ],
+
+  "officialWebsite": "https://buxar.nic.in",
+
+  "additionalInformation": [
+    "Buxar is famous for the historic Battle of Buxar fought in 1764.",
+    "The district is closely associated with Sage Vishwamitra and Ramrekha Ghat.",
+    "Agriculture is the backbone of the district's economy.",
+    "Buxar serves as an important gateway between Bihar and Uttar Pradesh."
+  ]
+}
+}
