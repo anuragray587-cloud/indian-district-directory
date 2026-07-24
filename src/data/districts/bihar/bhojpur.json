@@ -1,0 +1,972 @@
+{  "state": "Bihar",
+  "district": "Bhojpur",
+  "slug": "bhojpur",
+  "language": "en",
+  "version": "1.0",
+  "lastUpdated": "",
+  "name": "Bhojpur",
+  "slug": "bhojpur",
+  "state": "Bihar",
+
+  "basicInformation": {
+  "headquarters": "Arrah",
+"established": "1972",
+"areaKm2": 2474,
+"population": 2728407,
+"districtCode": "BHO",
+"division": "Patna",
+"subdivision": 3,
+"anchals": 14,
+"blocks": 14,
+"panchayats": 228,
+"villages": 1228,
+"towns": 4,
+"policeStations": 29,
+"lokSabhaConstituencies": 1,
+"assemblyConstituencies": 7,
+"pinCodeRange": "802101 - 802222",
+"vehicleRegistrationCode": "BR-03",
+"elevation": "53 m",
+"coordinates": {
+  "latitude": "25.56° N",
+  "longitude": "84.66° E"
+},
+"officialWebsite": "https://bhojpur.nic.in"
+},
+
+  "history": {
+  "historicalImportance": "Bhojpur is historically significant as the land of Veer Kunwar Singh, one of the greatest leaders of the Revolt of 1857. The district has been an important centre of Bhojpuri culture, agriculture and political history.",
+
+"formationHistory": "Bhojpur district was created in 1972 after the division of the erstwhile Shahabad district. Arrah was made the district headquarters.",
+
+"freedomMovement": "Bhojpur played a crucial role in the Indian freedom struggle. Veer Kunwar Singh led the 1857 Revolt against the British from Jagdishpur, making the district a major centre of resistance.",
+
+"archaeologicalImportance": "The district contains several historical forts, temples and heritage sites associated with the Ujjainiya Rajputs and the Revolt of 1857.",
+
+"asiProtectedMonuments": [
+  "Archaeological remains near Arrah",
+  "Historical sites associated with Jagdishpur"
+],
+
+"historicalTimeline": [
+  "Ancient period - Part of the Magadha region",
+  "Medieval period - Ruled by the Ujjainiya Rajputs",
+  "1857 - Veer Kunwar Singh led the First War of Independence from Jagdishpur",
+  "1947 - Became part of independent India",
+  "1972 - Bhojpur district was formed after the bifurcation of Shahabad district"
+]
+},
+
+  "geography": {
+  "location": "Bhojpur district is located in the western part of Bihar along the southern bank of the Ganga River.",
+
+"boundaries": {
+  "north": "Saran and Patna",
+  "south": "Rohtas",
+  "east": "Patna and Arwal",
+  "west": "Buxar"
+},
+
+"area": "2,474 sq km",
+
+"elevation": "53 m",
+
+"climate": "Subtropical climate with hot summers, monsoon rains and cool winters.",
+
+"rainfall": "Approximately 1,050 mm annually",
+
+"rivers": [
+  "Ganga",
+  "Son",
+  "Gangi",
+  "Chher"
+],
+
+"hills": [],
+
+"forests": "Very limited forest cover, mainly scattered plantations and protected green areas.",
+
+"soilTypes": [
+  "Alluvial Soil",
+  "Sandy Loam",
+  "Clay Loam"
+],
+
+"naturalResources": [
+  "Fertile Agricultural Land",
+  "Groundwater",
+  "River Sand",
+  "Clay"
+]
+},
+
+  "demographics": {
+  "totalPopulation": "2,728,407",
+"malePopulation": "1,431,552",
+"femalePopulation": "1,296,855",
+"sexRatio": "906 females per 1000 males",
+"populationDensity": "1,103 persons/km²",
+"literacyRate": "70.47%",
+"maleLiteracyRate": "80.30%",
+"femaleLiteracyRate": "59.63%",
+"urbanPopulation": "11.43%",
+"ruralPopulation": "88.57%",
+
+"religions": [
+  "Hinduism",
+  "Islam",
+  "Christianity",
+  "Sikhism",
+  "Jainism",
+  "Buddhism"
+],
+
+"languages": [
+  "Hindi",
+  "Bhojpuri",
+  "Urdu"
+]
+},
+
+  "administration": {
+  "administrativeDivision": "Patna Division",
+
+"subDivisions": [
+  "Arrah",
+  "Jagdishpur",
+  "Piro"
+],
+
+"blocks": [
+  "Agiaon",
+  "Arrah",
+  "Barhara",
+  "Behea",
+  "Charpokhari",
+  "Garhani",
+  "Jagdishpur",
+  "Koilwar",
+  "Piro",
+  "Sahar",
+  "Sandesh",
+  "Shahpur",
+  "Tarari",
+  "Udwant Nagar"
+],
+
+"circles": [
+  "Agiaon",
+  "Arrah",
+  "Barhara",
+  "Behea",
+  "Charpokhari",
+  "Garhani",
+  "Jagdishpur",
+  "Koilwar",
+  "Piro",
+  "Sahar",
+  "Sandesh",
+  "Shahpur",
+  "Tarari",
+  "Udwant Nagar"
+],
+
+"gramPanchayats": 228,
+
+"villages": 1228,
+
+"municipalCorporation": "Arrah Municipal Corporation",
+
+"municipalities": [
+  "Koilwar Nagar Parishad"
+],
+
+"nagarPanchayats": [
+  "Piro",
+  "Shahpur",
+  "Jagdishpur"
+],
+
+"policeStations": [
+  "Arrah",
+  "Nawada",
+  "Muffasil",
+  "Koilwar",
+  "Jagdishpur",
+  "Piro",
+  "Shahpur",
+  "Sandesh",
+  "Barhara",
+  "Behea"
+],
+
+"assemblyConstituencies": [
+  "Sandesh",
+  "Barhara",
+  "Arrah",
+  "Agiaon (SC)",
+  "Tarari",
+  "Jagdishpur",
+  "Shahpur"
+],
+
+"lokSabhaConstituency": "Arrah"
+},
+
+  "economy": {
+  "gdp": "Not officially available",
+
+"majorIndustries": [
+  "Agriculture",
+  "Food Processing",
+  "Rice Mills",
+  "Flour Mills",
+  "Brick Manufacturing",
+  "Dairy"
+],
+
+"majorCrops": [
+  "Paddy",
+  "Wheat",
+  "Maize",
+  "Pulses",
+  "Sugarcane",
+  "Vegetables",
+  "Oilseeds"
+],
+
+"majorEmployers": [
+  "Agriculture Sector",
+  "Government Departments",
+  "Education Sector",
+  "Healthcare Sector",
+  "Food Processing Industries",
+  "Small and Medium Enterprises (MSMEs)"
+],
+
+"banking": [
+  "State Bank of India",
+  "Punjab National Bank",
+  "Bank of Baroda",
+  "Canara Bank",
+  "Central Bank of India",
+  "UCO Bank",
+  "Union Bank of India",
+  "Indian Bank"
+],
+
+"industrialAreas": [
+  "Arrah Industrial Area",
+  "Koilwar Industrial Area"
+],
+
+"specialEconomicFeatures": [
+  "Fertile alluvial agricultural land",
+  "Strong wheat and paddy production",
+  "Growing MSME sector",
+  "Strategic location near Patna"
+]
+},
+
+  "agriculture": {
+  "majorCrops": [
+  "Paddy",
+  "Wheat",
+  "Maize",
+  "Pulses"
+],
+
+"cashCrops": [
+  "Mustard",
+  "Sugarcane",
+  "Oilseeds"
+],
+
+"fruits": [
+  "Mango",
+  "Guava",
+  "Litchi",
+  "Banana"
+],
+
+"vegetables": [
+  "Potato",
+  "Onion",
+  "Cauliflower",
+  "Tomato",
+  "Brinjal",
+  "Okra"
+],
+
+"irrigationSources": [
+  "Son River",
+  "Ganga River",
+  "Sone Canal System",
+  "Tube Wells"
+],
+
+"livestock": [
+  "Cattle",
+  "Buffalo",
+  "Goat",
+  "Poultry"
+],
+
+"dairyDevelopment": "Dairy farming is an important source of rural income and is supported by cooperative dairy societies.",
+
+"fisheries": "Fish farming is practiced in ponds, canals and riverine areas of the district.",
+
+"agriculturalMarkets": [
+  "Arrah",
+  "Piro",
+  "Jagdishpur",
+  "Shahpur",
+  "Behea"
+],
+
+"krishiVigyanKendra": "Krishi Vigyan Kendra (KVK), Bhojpur, Arrah"
+},
+
+   "infrastructure": {
+  "roadNetwork": "Bhojpur has a well-developed road network connected by national and state highways.",
+
+"nationalHighways": [
+  "NH-922",
+  "NH-319"
+],
+
+"stateHighways": [
+  "SH-12",
+  "SH-81"
+],
+
+"railwayStations": [
+  "Ara Junction",
+  "Koilwar",
+  "Kulharia",
+  "Bihta (near district boundary)",
+  "Piro"
+],
+
+"majorRailwayJunctions": [
+  "Ara Junction"
+],
+
+"airConnectivity": "The nearest airport is Jay Prakash Narayan International Airport, Patna (about 60 km from Arrah).",
+
+"publicTransport": "Bihar State Road Transport Corporation (BSRTC), private buses, taxis, auto-rickshaws and e-rickshaws provide transport services.",
+
+"electricity": "Most urban and rural areas have electricity connectivity under the Bihar power distribution network.",
+
+"waterSupply": "Urban areas receive piped water supply, while rural areas are served through hand pumps, tube wells and rural water supply schemes.",
+
+"internetConnectivity": "4G and 5G mobile services along with broadband and fiber internet are available in major urban areas."
+},
+
+  "education": {
+  "literacyRate": "70.47%",
+"maleLiteracy": "80.30%",
+"femaleLiteracy": "59.63%",
+
+"governmentSchools": "More than 2,000 government primary, middle and secondary schools operate across the district.",
+
+"privateSchools": "Several CBSE, CISCE and Bihar Board affiliated private schools are located in Arrah and other towns.",
+
+"colleges": [
+  "Maharaja College, Arrah",
+  "H.D. Jain College, Arrah",
+  "Jain College, Ara",
+  "S.B. College, Ara",
+  "Veer Kunwar Singh College, Jagdishpur"
+],
+
+"universities": [
+  "Veer Kunwar Singh University, Arrah"
+],
+
+"technicalInstitutes": [
+  "Government Polytechnic, Bhojpur",
+  "Government ITI, Arrah",
+  "Women ITI, Arrah"
+],
+
+"medicalColleges": [
+  "Government Medical College and Hospital, Ara"
+],
+
+"notableEducationalInstitutions": [
+  "Veer Kunwar Singh University",
+  "Maharaja College, Arrah",
+  "H.D. Jain College, Arrah",
+  "Government Polytechnic, Bhojpur",
+  "Government Medical College and Hospital, Ara"
+]
+},
+
+  "healthcare": {
+  "districtHospital": "Sadar Hospital, Ara",
+
+"subDivisionalHospitals": [
+  "Sub-Divisional Hospital, Jagdishpur",
+  "Sub-Divisional Hospital, Piro"
+],
+
+"communityHealthCentres": [
+  "CHC Agiaon",
+  "CHC Barhara",
+  "CHC Behea",
+  "CHC Charpokhari",
+  "CHC Garhani",
+  "CHC Jagdishpur",
+  "CHC Koilwar",
+  "CHC Piro",
+  "CHC Sahar",
+  "CHC Sandesh",
+  "CHC Shahpur",
+  "CHC Tarari",
+  "CHC Udwant Nagar"
+],
+
+"primaryHealthCentres": "Primary Health Centres (PHCs) are functioning in all blocks of the district.",
+
+"medicalColleges": [
+  "Government Medical College and Hospital, Ara"
+],
+
+"ambulanceServices": "102 and 108 ambulance services are available throughout the district.",
+
+"majorHealthPrograms": [
+  "Ayushman Bharat",
+  "National Health Mission",
+  "Janani Suraksha Yojana",
+  "Universal Immunization Programme",
+  "Mission Indradhanush"
+],
+
+"bloodBanks": [
+  "Government Medical College and Hospital Blood Bank, Ara",
+  "Sadar Hospital Blood Bank, Ara"
+],
+
+"notableHospitals": [
+  "Government Medical College and Hospital, Ara",
+  "Sadar Hospital, Ara",
+  "Sub-Divisional Hospital, Jagdishpur",
+  "Sub-Divisional Hospital, Piro"
+]
+},
+
+  "cultureAndHeritage": {
+  "festivals": [
+  "Chhath Puja",
+  "Durga Puja",
+  "Holi",
+  "Diwali",
+  "Ram Navami",
+  "Makar Sankranti"
+],
+
+"languages": [
+  "Hindi",
+  "Bhojpuri",
+  "Urdu"
+],
+
+"folkDance": [
+  "Jat-Jatin",
+  "Jhijhiya",
+  "Domkach"
+],
+
+"folkMusic": [
+  "Bhojpuri Folk Songs",
+  "Chaita",
+  "Kajari",
+  "Birha"
+],
+
+"traditionalDress": "Men traditionally wear Dhoti-Kurta and women wear Saree and Salwar-Kameez.",
+
+"cuisine": [
+  "Litti Chokha",
+  "Thekua",
+  "Khaja",
+  "Tilkut",
+  "Sattu Paratha"
+],
+
+"handicrafts": [
+  "Handloom Textiles",
+  "Pottery",
+  "Bamboo Craft",
+  "Wood Craft"
+],
+
+"historicalHeritage": [
+  "Veer Kunwar Singh Fort, Jagdishpur",
+  "Aranya Devi Temple",
+  "Maharaja College Heritage Building",
+  "Jagdishpur Fort"
+],
+
+"culturalOrganizations": [
+  "District Art and Culture Office, Bhojpur",
+  "Department of Art, Culture and Youth, Bihar",
+  "Veer Kunwar Singh University Cultural Centre"
+]
+},
+
+  "tourism": {
+  "majorTouristAttractions": [
+  "Veer Kunwar Singh Fort, Jagdishpur",
+  "Aranya Devi Temple",
+  "Maharaja College",
+  "Jagdishpur Fort",
+  "Gangi River Bank",
+  "Koilwar Bridge"
+],
+
+"religiousPlaces": [
+  "Aranya Devi Temple",
+  "Mahathin Mai Temple",
+  "Jagdishpur Kali Temple",
+  "Baba Baleshwar Nath Temple",
+  "Jama Masjid, Arrah"
+],
+
+"historicalSites": [
+  "Veer Kunwar Singh Fort",
+  "Jagdishpur Fort",
+  "Maharaja College",
+  "Veer Kunwar Singh Memorial"
+],
+
+"naturalAttractions": [
+  "Ganga River",
+  "Son River",
+  "Koilwar Riverfront"
+],
+
+"wildlifeSanctuaries": [],
+
+"annualFairs": [
+  "Chhath Festival",
+  "Durga Puja Fair",
+  "Ram Navami Fair",
+  "Sonepur-linked Regional Fair"
+],
+
+"bestTimeToVisit": "October to March",
+
+"nearbyTouristDestinations": [
+  "Patna",
+  "Buxar",
+  "Rohtas",
+  "Sasaram",
+  "Chapra"
+]
+},
+
+  "sports": {
+  "majorSports": [
+  "Cricket",
+  "Football",
+  "Kabaddi",
+  "Volleyball",
+  "Athletics",
+  "Badminton"
+],
+
+"stadiums": [
+  "Veer Kunwar Singh Stadium, Arrah",
+  "District Sports Stadium, Arrah"
+],
+
+"sportsComplexes": [
+  "District Sports Complex, Arrah",
+  "Indoor Sports Hall, Arrah"
+],
+
+"famousSportspersons": [],
+
+"sportsAcademies": [
+  "District Sports Training Centre, Arrah",
+  "Bihar State Sports Authority Training Centre"
+],
+
+"annualSportsEvents": [
+  "District Sports Meet",
+  "School Sports Competitions",
+  "Khelo India District Level Events",
+  "Inter-College Sports Tournament"
+],
+
+"governmentSportsPrograms": [
+  "Khelo India",
+  "Fit India Movement",
+  "Bihar State Sports Development Program"
+],
+
+"sportsAchievements": [
+  "District athletes regularly participate in Bihar state-level competitions",
+  "School and college teams represent Bhojpur in various tournaments",
+  "Growing participation in cricket, kabaddi and athletics"
+]
+},
+
+  "bankingAndFinance": {
+  "nationalizedBanks": [
+  "State Bank of India",
+  "Punjab National Bank",
+  "Bank of Baroda",
+  "Canara Bank",
+  "Bank of India",
+  "Punjab & Sind Bank"
+],
+
+"privateBanks": [
+  "HDFC Bank",
+  "ICICI Bank",
+  "Axis Bank",
+  "IDFC FIRST Bank"
+],
+
+"regionalRuralBanks": [
+  "Dakshin Bihar Gramin Bank"
+],
+
+"cooperativeBanks": [
+  "Bihar State Cooperative Bank",
+  "Bhojpur Central Cooperative Bank"
+],
+
+"atms": "ATMs of major public sector and private sector banks are available across Arrah and other towns.",
+
+"digitalBanking": "UPI, Internet Banking, Mobile Banking, AEPS and Aadhaar-enabled banking services are widely available.",
+
+"microfinanceInstitutions": [
+  "Bandhan",
+  "CreditAccess Grameen",
+  "Fusion Micro Finance",
+  "Satin Creditcare"
+],
+
+"financialInclusionPrograms": [
+  "Pradhan Mantri Jan Dhan Yojana",
+  "Pradhan Mantri Jeevan Jyoti Bima Yojana",
+  "Pradhan Mantri Suraksha Bima Yojana",
+  "Atal Pension Yojana",
+  "Pradhan Mantri Mudra Yojana",
+  "Stand-Up India"
+],
+
+"majorInsuranceCompanies": [
+  "Life Insurance Corporation of India (LIC)",
+  "New India Assurance",
+  "National Insurance Company",
+  "United India Insurance",
+  "ICICI Lombard",
+  "HDFC ERGO"
+]
+},
+
+  "governanceAndPublicServices": {
+  "districtAdministration": "Bhojpur district is administered by the District Magistrate (DM) with support from various district-level departments and local bodies.",
+
+"municipalBodies": [
+  "Arrah Municipal Corporation",
+  "Jagdishpur Nagar Parishad",
+  "Piro Nagar Parishad",
+  "Koilwar Nagar Panchayat"
+],
+
+"policeAdministration": "Law and order is maintained by Bhojpur Police under Bihar Police.",
+
+"fireServices": "Fire stations operate in Arrah, Jagdishpur, Piro and other major towns of the district.",
+
+"judiciary": [
+  "District and Sessions Court, Arrah"
+],
+
+"governmentOffices": [
+  "District Collectorate, Arrah",
+  "District Transport Office, Arrah",
+  "District Education Office, Arrah",
+  "District Agriculture Office, Arrah",
+  "District Health Office, Arrah",
+  "District Rural Development Agency (DRDA), Arrah"
+],
+
+"publicDistributionSystem": "Essential commodities are distributed through the Public Distribution System (PDS) under the National Food Security Act.",
+
+"eGovernanceServices": [
+  "RTPS Bihar",
+  "e-District Services",
+  "Bihar Bhumi",
+  "Bihar e-Procurement",
+  "Bihar Right to Public Services Portal"
+],
+
+"citizenServices": [
+  "Birth Certificate",
+  "Death Certificate",
+  "Caste Certificate",
+  "Income Certificate",
+  "Residence Certificate",
+  "Driving Licence Services",
+  "Property Registration",
+  "Online Land Records"
+]
+},
+
+  "lawAndOrder": {
+  "policeDistrict": "Bhojpur Police District",
+
+"policeStations": [
+  "Arrah Town",
+  "Nawada",
+  "Muffasil",
+  "Jagdishpur",
+  "Piro",
+  "Sahar",
+  "Charpokhari",
+  "Garhani",
+  "Agiaon",
+  "Koilwar",
+  "Barhara",
+  "Sandesh",
+  "Udwantnagar",
+  "Bihiya"
+],
+
+"womenPoliceStations": [
+  "Mahila Police Station, Arrah"
+],
+
+"cyberCrimePoliceStation": "Cyber Crime Police Station, Arrah",
+
+"trafficPolice": "Traffic Police regulate traffic and road safety in Arrah and other major urban areas of Bhojpur district.",
+
+"prisons": [
+  "District Jail, Arrah"
+],
+
+"emergencyNumbers": [
+  "112 (Emergency Response Support System)",
+  "100 (Police)",
+  "101 (Fire)",
+  "108 (Ambulance)"
+],
+
+"crimePreventionInitiatives": [
+  "Community Policing",
+  "Cyber Crime Awareness Campaigns",
+  "Women Safety Initiatives",
+  "Road Safety Awareness Programs",
+  "Anti-Drug Awareness Campaigns"
+],
+
+"disasterManagement": "The District Disaster Management Authority (DDMA), Bhojpur coordinates disaster preparedness, flood management, relief and emergency response across the district."
+},
+
+  "environment": {
+  "forestCover": "Limited forest cover, mainly along the Son and Ganga river belts.",
+
+"majorForests": [
+  "Bihia Forest Area",
+  "Jagdishpur Forest Area",
+  "Sahar Forest Area"
+],
+
+"protectedAreas": [],
+
+"wetlands": [
+  "Ganga Floodplain Wetlands",
+  "Son River Wetlands",
+  "Village Ponds"
+],
+
+"rivers": [
+  "Ganga",
+  "Son",
+  "Gangi"
+],
+
+"lakes": [
+  "Village Ponds",
+  "Irrigation Reservoirs"
+],
+
+"biodiversity": [
+  "River Dolphins (Ganga)",
+  "Common Birds",
+  "Freshwater Fish",
+  "Small Mammals",
+  "Reptiles"
+],
+
+"environmentalIssues": [
+  "River Pollution",
+  "Flooding",
+  "Soil Erosion",
+  "Plastic Waste"
+],
+
+"conservationInitiatives": [
+  "Namami Gange Programme",
+  "Jal-Jeevan-Hariyali Abhiyan",
+  "Tree Plantation Drives",
+  "Rainwater Harvesting",
+  "Plastic Waste Management Campaigns",
+  "Water Conservation Programmes"
+]
+},
+
+  "mediaAndCommunication": {
+  "newspapers": [
+  "Hindustan",
+  "Dainik Jagran",
+  "Prabhat Khabar",
+  "The Times of India"
+],
+
+"televisionChannels": [
+  "DD Bihar",
+  "News18 Bihar Jharkhand",
+  "Zee Bihar Jharkhand",
+  "ETV Bharat Bihar"
+],
+
+"radioStations": [
+  "All India Radio Patna",
+  "AIR FM Gold",
+  "FM Rainbow Patna"
+],
+
+"newsPortals": [
+  "Bhojpur District Administration Website",
+  "Bihar Government Portal",
+  "PRD Bihar",
+  "State e-District Portal"
+],
+
+"postalServices": "India Post provides postal, Speed Post and parcel services across Bhojpur district.",
+
+"telecommunication": "4G and 5G mobile connectivity is available in Arrah and most parts of the district.",
+
+"internetProviders": [
+  "BSNL",
+  "JioFiber",
+  "Airtel Xstream Fiber"
+],
+
+"mobileNetworkOperators": [
+  "Jio",
+  "Airtel",
+  "Vi",
+  "BSNL"
+],
+
+"digitalMedia": [
+  "Official District Website",
+  "Bihar Government Social Media Pages",
+  "Online News Portals",
+  "Digital Citizen Service Portals"
+]
+},
+
+  "rankingsAndAchievements": {
+  "stateRankings": [
+  "One of the major agricultural districts of Bihar",
+  "Known for the historic Jagdishpur Fort",
+  "Important centre of education and trade in western Bihar"
+],
+
+"nationalRankings": [
+  "Birthplace of Veer Kunwar Singh, a national freedom fighter",
+  "Known for its role in the Revolt of 1857",
+  "Recognized for agricultural production, especially wheat and paddy"
+],
+
+"awards": [],
+
+"notableAchievements": [
+  "Birthplace of Veer Kunwar Singh",
+  "Jagdishpur was a major centre of the 1857 Revolt",
+  "Strong agricultural economy of Bihar",
+  "Growing educational and commercial hub of Shahabad region"
+],
+
+"developmentIndicators": [
+  "Expansion of road and rail connectivity",
+  "Improving healthcare and educational infrastructure",
+  "Growth in digital connectivity",
+  "Expansion of irrigation facilities",
+  "Increasing industrial and commercial activities"
+],
+
+"records": [
+  "Home to the historic Jagdishpur Fort",
+  "Birthplace of Veer Kunwar Singh",
+  "One of Bihar's important agricultural districts"
+]
+},
+
+  "miscellaneous": {
+  "famousPersonalities": [
+  "Veer Kunwar Singh",
+  "Babu Jagjivan Ram",
+  "Hari Ji"
+],
+
+"nicknames": [
+  "Land of Veer Kunwar Singh",
+  "Gateway of Shahabad"
+],
+
+"importantDates": [
+  "23 April 1858 - Veer Kunwar Singh achieved a major victory during the Revolt of 1857",
+  "15 August 1947 - Became part of independent India",
+  "1972 - Bhojpur district was formed after the bifurcation of Shahabad district"
+],
+
+"festivals": [
+  "Chhath Puja",
+  "Durga Puja",
+  "Holi",
+  "Diwali",
+  "Eid"
+],
+
+"localFoods": [
+  "Litti Chokha",
+  "Sattu Paratha",
+  "Khaja",
+  "Thekua",
+  "Malpua"
+],
+
+"famousMarkets": [
+  "Arrah Main Market",
+  "Jagdishpur Market",
+  "Piro Market",
+  "Koilwar Market"
+],
+
+"emergencyContacts": [
+  "Police - 112",
+  "Fire - 101",
+  "Ambulance - 108",
+  "Women Helpline - 181"
+],
+
+"officialWebsite": "https://bhojpur.nic.in",
+
+"additionalInformation": [
+  "Bhojpur is the birthplace of the great freedom fighter Veer Kunwar Singh.",
+  "Arrah is the administrative headquarters of the district.",
+  "Agriculture is the backbone of the district's economy.",
+  "Bhojpur is one of the historically significant districts of Bihar."
+]
+}
+}
