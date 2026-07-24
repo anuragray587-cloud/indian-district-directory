@@ -1,0 +1,1030 @@
+{  "state": "Bihar",
+  "district": "East Champaran",
+  "slug": "east champaran",
+  "language": "en",
+  "version": "1.0",
+  "lastUpdated": "",
+  "name": "East Champaran",
+  "slug": "east champaran",
+  "state": "Bihar",
+
+  "basicInformation": {
+  "headquarters": "Motihari",
+"established": "1 December 1972",
+"areaKm2": 3969,
+"population": 5099371,
+"districtCode": "ECM",
+"division": "Tirhut",
+"subdivision": 6,
+"anchals": 27,
+"blocks": 27,
+"panchayats": 405,
+"villages": 1346,
+"towns": 23,
+"policeStations": 41,
+"lokSabhaConstituencies": 2,
+"assemblyConstituencies": 12,
+"pinCodeRange": "845401 - 845458",
+"vehicleRegistrationCode": "BR-05",
+"elevation": "65 m",
+"coordinates": {
+  "latitude": "26.65° N",
+  "longitude": "84.92° E"
+},
+"officialWebsite": "https://eastchamparan.nic.in"
+},
+
+  "history": {
+  "historicalImportance": "East Champaran is historically significant as the land where Mahatma Gandhi launched the Champaran Satyagraha in 1917, India's first successful civil disobedience movement against British rule. It is also associated with ancient kingdoms, Buddhism, and the freedom movement.",
+
+"formationHistory": "East Champaran district was created on 1 December 1972 after the old Champaran district was divided into East Champaran and West Champaran. Motihari was made the district headquarters.",
+
+"freedomMovement": "The district played a pivotal role in India's freedom struggle through the Champaran Satyagraha of 1917 led by Mahatma Gandhi against the indigo plantation system. Local farmers and leaders actively participated in the movement.",
+
+"archaeologicalImportance": "The district contains several important archaeological and historical sites related to Buddhism, the Mauryan period, and the Champaran Satyagraha.",
+
+"asiProtectedMonuments": [
+  "Kesaria Stupa",
+  "Lauriya Nandangarh Ashokan Pillar"
+],
+
+"historicalTimeline": [
+  "Ancient period – Part of the Vajji and later Magadha kingdoms",
+  "3rd century BCE – Emperor Ashoka erected the pillar at Lauriya Nandangarh",
+  "1917 – Mahatma Gandhi launched the Champaran Satyagraha",
+  "1947 – Became part of independent India",
+  "1 December 1972 – East Champaran district was formed after the bifurcation of the old Champaran district"
+]
+},
+
+  "geography": {
+  "location": "East Champaran district is located in the north-western part of Bihar along the India–Nepal border in the Tirhut Division.",
+
+"boundaries": {
+  "north": "Nepal",
+  "south": "Muzaffarpur District",
+  "east": "Sitamarhi and Sheohar Districts",
+  "west": "West Champaran District"
+},
+
+"area": "3,969 sq km",
+
+"elevation": "65 m",
+
+"climate": "Humid subtropical climate with hot summers, a southwest monsoon season, and cool winters",
+
+"rainfall": "Approximately 1,390 mm annually",
+
+"rivers": [
+  "Gandak",
+  "Burhi Gandak",
+  "Bagmati",
+  "Lalbakeya",
+  "Banganga"
+],
+
+"hills": [],
+
+"forests": "Limited forest cover, mainly in scattered protected areas and social forestry plantations",
+
+"soilTypes": [
+  "New Alluvial Soil",
+  "Old Alluvial Soil",
+  "Sandy Loam",
+  "Clay Loam"
+],
+
+"naturalResources": [
+  "Fertile Agricultural Land",
+  "Groundwater",
+  "River Sand",
+  "Clay"
+]
+},
+
+  "demographics": {
+  "totalPopulation": "5,099,371",
+"malePopulation": "2,678,114",
+"femalePopulation": "2,421,257",
+"sexRatio": "904 females per 1000 males",
+"populationDensity": "1,281 persons/km²",
+"literacyRate": "55.79%",
+"maleLiteracyRate": "65.59%",
+"femaleLiteracyRate": "44.28%",
+"urbanPopulation": "6.39%",
+"ruralPopulation": "93.61%",
+
+"religions": [
+  "Hinduism",
+  "Islam",
+  "Christianity",
+  "Sikhism",
+  "Jainism",
+  "Buddhism"
+],
+
+"languages": [
+  "Hindi",
+  "Bajjika",
+  "Bhojpuri",
+  "Urdu"
+]
+},
+
+  "administration": {
+  "administrativeDivision": "Tirhut Division",
+
+"subDivisions": [
+  "Motihari",
+  "Areraj",
+  "Chakia",
+  "Pakridayal",
+  "Raxaul",
+  "Sikrahana"
+],
+
+"blocks": [
+  "Adapur",
+  "Areraj",
+  "Banjaria",
+  "Bankatwa",
+  "Chakia (Pipra)",
+  "Chiraia",
+  "Dhaka",
+  "Ghorasahan",
+  "Harsidhi",
+  "Kalyanpur",
+  "Kesaria",
+  "Kotwa",
+  "Madhuban",
+  "Mehsi",
+  "Motihari",
+  "Narkatia",
+  "Paharpur",
+  "Pakridayal",
+  "Patahi",
+  "Phenhara",
+  "Ramgarhwa",
+  "Raxaul",
+  "Sangrampur",
+  "Sugauli",
+  "Tetaria",
+  "Turkaulia"
+],
+
+"circles": [
+  "Adapur",
+  "Areraj",
+  "Banjaria",
+  "Bankatwa",
+  "Chakia",
+  "Chiraia",
+  "Dhaka",
+  "Ghorasahan",
+  "Harsidhi",
+  "Kalyanpur",
+  "Kesaria",
+  "Kotwa",
+  "Madhuban",
+  "Mehsi",
+  "Motihari",
+  "Narkatia",
+  "Paharpur",
+  "Pakridayal",
+  "Patahi",
+  "Phenhara",
+  "Ramgarhwa",
+  "Raxaul",
+  "Sangrampur",
+  "Sugauli",
+  "Tetaria",
+  "Turkaulia",
+  "Piprakothi"
+],
+
+"gramPanchayats": 405,
+
+"villages": 1346,
+
+"municipalCorporation": "",
+
+"municipalities": [
+  "Motihari",
+  "Raxaul"
+],
+
+"nagarPanchayats": [
+  "Areraj",
+  "Chakia",
+  "Dhaka",
+  "Kesaria",
+  "Mehsi",
+  "Pakridayal",
+  "Sugauli"
+],
+
+"policeStations": [],
+
+"assemblyConstituencies": [
+  "Harsidhi (SC)",
+  "Govindganj",
+  "Kesaria",
+  "Kalyanpur (SC)",
+  "Pipra",
+  "Madhuban",
+  "Motihari",
+  "Chiraia",
+  "Dhaka",
+  "Sheohar",
+  "Riga",
+  "Raxaul"
+],
+
+"lokSabhaConstituency": "Purvi Champaran"
+},
+
+  "economy": {
+  "gdp": "Not officially available",
+
+"majorIndustries": [
+  "Agriculture",
+  "Sugar Industry",
+  "Food Processing",
+  "Rice Mills",
+  "Dairy"
+],
+
+"majorCrops": [
+  "Paddy",
+  "Wheat",
+  "Maize",
+  "Sugarcane",
+  "Mustard",
+  "Pulses"
+],
+
+"majorEmployers": [
+  "Agriculture Sector",
+  "Sugar Mills",
+  "Food Processing Industries",
+  "Dairy Sector",
+  "Government Services",
+  "Small and Medium Enterprises (MSMEs)"
+],
+
+"banking": [
+  "State Bank of India",
+  "Punjab National Bank",
+  "Bank of Baroda",
+  "Canara Bank",
+  "Central Bank of India",
+  "UCO Bank",
+  "Union Bank of India",
+  "Indian Bank"
+],
+
+"industrialAreas": [
+  "Motihari Industrial Area",
+  "Raxaul Industrial Area"
+],
+
+"specialEconomicFeatures": [
+  "Highly fertile alluvial agricultural land",
+  "Major sugarcane-producing district of Bihar",
+  "Important Indo–Nepal trade through Raxaul",
+  "Growing food processing and dairy sector"
+]
+},
+
+  "agriculture": {
+  "majorCrops": [
+  "Paddy",
+  "Wheat",
+  "Maize",
+  "Sugarcane",
+  "Pulses"
+],
+
+"cashCrops": [
+  "Sugarcane",
+  "Mustard",
+  "Oilseeds"
+],
+
+"fruits": [
+  "Litchi",
+  "Mango",
+  "Banana",
+  "Guava"
+],
+
+"vegetables": [
+  "Potato",
+  "Onion",
+  "Cauliflower",
+  "Cabbage",
+  "Tomato",
+  "Brinjal"
+],
+
+"irrigationSources": [
+  "Gandak River",
+  "Burhi Gandak River",
+  "Canals",
+  "Tube Wells"
+],
+
+"livestock": [
+  "Cattle",
+  "Buffalo",
+  "Goat",
+  "Poultry"
+],
+
+"dairyDevelopment": "Dairy farming is an important source of rural income, supported by milk cooperative societies and private dairies.",
+
+"fisheries": "Fish farming is practiced in ponds, rivers, and other inland water bodies across the district.",
+
+"agriculturalMarkets": [
+  "Motihari",
+  "Raxaul",
+  "Chakia",
+  "Kesaria",
+  "Mehsi",
+  "Madhuban"
+],
+
+"krishiVigyanKendra": "Krishi Vigyan Kendra (KVK), Piprakothi, East Champaran"
+},
+
+   "infrastructure": {
+  "roadNetwork": "East Champaran has an extensive road network connecting all subdivisions, blocks, major towns, and the Indo–Nepal border through national and state highways.",
+
+"nationalHighways": [
+  "NH-27",
+  "NH-28",
+  "NH-527D"
+],
+
+"stateHighways": [
+  "SH-74",
+  "SH-54"
+],
+
+"railwayStations": [
+  "Motihari (Bapudham Motihari)",
+  "Raxaul Junction",
+  "Chakia",
+  "Mehsi",
+  "Pipra",
+  "Jivdhara",
+  "Sagauli Junction"
+],
+
+"majorRailwayJunctions": [
+  "Raxaul Junction",
+  "Sagauli Junction"
+],
+
+"airConnectivity": "The nearest airports are Jay Prakash Narayan International Airport, Patna, and Gautam Buddha International Airport, Bhairahawa (Nepal).",
+
+"publicTransport": "Bihar State Road Transport Corporation (BSRTC), private buses, auto-rickshaws, e-rickshaws, taxis, and railway services provide public transport.",
+
+"electricity": "Most urban and rural areas have electricity connectivity under the Bihar state power distribution network.",
+
+"waterSupply": "Urban areas receive piped water supply, while rural areas depend on hand pumps, tube wells, and government water supply schemes.",
+
+"internetConnectivity": "4G and 5G mobile services are available in most parts of the district, along with broadband internet in urban areas."
+},
+
+  "education": {
+  "literacyRate": "55.79%",
+"maleLiteracy": "65.59%",
+"femaleLiteracy": "44.28%",
+
+"governmentSchools": "More than 3,500 government primary, middle and secondary schools are functioning across the district.",
+
+"privateSchools": "Several CBSE, ICSE and Bihar Board affiliated private schools operate in Motihari, Raxaul, Chakia and other towns.",
+
+"colleges": [
+  "Mahatma Gandhi Central University, Motihari",
+  "M.S. College, Motihari",
+  "L.N.D. College, Motihari",
+  "Munshi Singh College, Motihari",
+  "Awadhesh Pratap Singh College, Bara Chakia"
+],
+
+"universities": [
+  "Mahatma Gandhi Central University, Motihari"
+],
+
+"technicalInstitutes": [
+  "Government Polytechnic, Motihari",
+  "Government ITI, Motihari",
+  "Government Engineering College, Motihari"
+],
+
+"medicalColleges": [
+  "Government Medical College & Hospital, Motihari"
+],
+
+"notableEducationalInstitutions": [
+  "Mahatma Gandhi Central University",
+  "M.S. College, Motihari",
+  "L.N.D. College, Motihari",
+  "Government Engineering College, Motihari",
+  "Government Medical College & Hospital, Motihari"
+]
+},
+
+  "healthcare": {
+  "districtHospital": "Sadar Hospital, Motihari",
+
+"subDivisionalHospitals": [
+  "Sub-Divisional Hospital, Raxaul",
+  "Sub-Divisional Hospital, Areraj",
+  "Sub-Divisional Hospital, Chakia",
+  "Sub-Divisional Hospital, Pakridayal"
+],
+
+"communityHealthCentres": [
+  "CHC Adapur",
+  "CHC Areraj",
+  "CHC Banjaria",
+  "CHC Chakia",
+  "CHC Chiraia",
+  "CHC Dhaka",
+  "CHC Ghorasahan",
+  "CHC Harsidhi",
+  "CHC Kesaria",
+  "CHC Madhuban",
+  "CHC Mehsi",
+  "CHC Motihari",
+  "CHC Pakridayal",
+  "CHC Raxaul",
+  "CHC Sugauli"
+],
+
+"primaryHealthCentres": "Primary Health Centres (PHCs) are available across all blocks of the district.",
+
+"medicalColleges": [
+  "Government Medical College & Hospital, Motihari"
+],
+
+"ambulanceServices": "102 and 108 ambulance services are available throughout the district.",
+
+"majorHealthPrograms": [
+  "Ayushman Bharat",
+  "National Health Mission",
+  "Janani Suraksha Yojana",
+  "Universal Immunization Programme",
+  "Mission Indradhanush"
+],
+
+"bloodBanks": [
+  "Sadar Hospital Blood Bank, Motihari",
+  "Government Medical College & Hospital Blood Bank, Motihari"
+],
+
+"notableHospitals": [
+  "Sadar Hospital, Motihari",
+  "Government Medical College & Hospital, Motihari",
+  "Sub-Divisional Hospital, Raxaul",
+  "Sub-Divisional Hospital, Areraj",
+  "Sub-Divisional Hospital, Chakia"
+]
+},
+
+  "cultureAndHeritage": {
+  "festivals": [
+  "Chhath Puja",
+  "Holi",
+  "Diwali",
+  "Durga Puja",
+  "Makar Sankranti",
+  "Eid"
+],
+
+"languages": [
+  "Hindi",
+  "Bajjika",
+  "Bhojpuri",
+  "Urdu"
+],
+
+"folkDance": [
+  "Jat-Jatin",
+  "Jhijhiya",
+  "Domkach"
+],
+
+"folkMusic": [
+  "Birha",
+  "Kajari",
+  "Chaita",
+  "Sohar"
+],
+
+"traditionalDress": "Men traditionally wear Dhoti-Kurta and Kurta-Pajama, while women wear Saree and Salwar-Kameez.",
+
+"cuisine": [
+  "Litti Chokha",
+  "Sattu Paratha",
+  "Khaja",
+  "Thekua",
+  "Tilkut"
+],
+
+"handicrafts": [
+  "Bamboo Craft",
+  "Pottery",
+  "Handloom Products",
+  "Cane Craft"
+],
+
+"historicalHeritage": [
+  "Kesaria Stupa",
+  "Lauriya Nandangarh Ashokan Pillar",
+  "Gandhi Memorial, Motihari",
+  "Champaran Satyagraha Sites",
+  "George Orwell Birthplace, Motihari"
+],
+
+"culturalOrganizations": [
+  "District Art and Culture Office, Motihari",
+  "Department of Art, Culture and Youth, Bihar",
+  "Local Bhojpuri and Bajjika Cultural Organizations"
+]
+},
+
+  "tourism": {
+  "majorTouristAttractions": [
+  "Kesaria Stupa",
+  "Lauriya Nandangarh Ashokan Pillar",
+  "Gandhi Memorial Museum, Motihari",
+  "George Orwell Birthplace",
+  "Areraj Someshwar Nath Temple",
+  "Raxaul Border"
+],
+
+"religiousPlaces": [
+  "Someshwar Nath Temple, Areraj",
+  "Kesaria Stupa",
+  "Lauriya Nandangarh",
+  "Gandhi Sangrahalaya, Motihari"
+],
+
+"historicalSites": [
+  "Kesaria Stupa",
+  "Lauriya Nandangarh Ashokan Pillar",
+  "Champaran Satyagraha Sites",
+  "George Orwell Birthplace"
+],
+
+"naturalAttractions": [
+  "Gandak River",
+  "Burhi Gandak River",
+  "Kesaria Lake",
+  "Rural Wetlands"
+],
+
+"wildlifeSanctuaries": [],
+
+"annualFairs": [
+  "Someshwar Nath Mela",
+  "Kesaria Fair",
+  "Chhath Festival",
+  "Gandhi Jayanti Celebrations"
+],
+
+"bestTimeToVisit": "October to March",
+
+"nearbyTouristDestinations": [
+  "West Champaran",
+  "Valmiki Tiger Reserve",
+  "Muzaffarpur",
+  "Sitamarhi",
+  "Nepal"
+]
+},
+
+  "sports": {
+  "majorSports": [
+  "Cricket",
+  "Football",
+  "Kabaddi",
+  "Volleyball",
+  "Athletics",
+  "Badminton"
+],
+
+"stadiums": [
+  "District Sports Stadium, Motihari",
+  "Raxaul Sports Ground"
+],
+
+"sportsComplexes": [
+  "District Sports Complex, Motihari",
+  "Indoor Sports Hall, Motihari"
+],
+
+"famousSportspersons": [],
+
+"sportsAcademies": [
+  "District Sports Training Centre, Motihari",
+  "Bihar State Sports Authority Training Centre"
+],
+
+"annualSportsEvents": [
+  "District Sports Meet",
+  "School Sports Competitions",
+  "Khelo India District Level Events",
+  "Inter-College Sports Tournament"
+],
+
+"governmentSportsPrograms": [
+  "Khelo India",
+  "Fit India Movement",
+  "Bihar State Sports Development Program"
+],
+
+"sportsAchievements": [
+  "District athletes regularly participate in Bihar state-level competitions",
+  "School and college teams represent East Champaran in various sports",
+  "Growing participation in cricket, football, kabaddi and athletics"
+]
+},
+
+  "bankingAndFinance": {
+  "nationalizedBanks": [
+  "State Bank of India",
+  "Punjab National Bank",
+  "Bank of Baroda",
+  "Canara Bank",
+  "Central Bank of India",
+  "Indian Bank",
+  "UCO Bank",
+  "Union Bank of India"
+],
+
+"privateBanks": [
+  "HDFC Bank",
+  "ICICI Bank",
+  "Axis Bank",
+  "IDFC FIRST Bank",
+  "Bandhan Bank"
+],
+
+"regionalRuralBanks": [
+  "Dakshin Bihar Gramin Bank"
+],
+
+"cooperativeBanks": [
+  "Bihar State Cooperative Bank",
+  "East Champaran Central Cooperative Bank"
+],
+
+"atms": "ATMs of major public sector and private sector banks are available across the district.",
+
+"digitalBanking": "UPI, Internet Banking, Mobile Banking, AEPS and digital payment services are widely available.",
+
+"microfinanceInstitutions": [
+  "Bandhan",
+  "CreditAccess Grameen",
+  "Fusion Finance",
+  "Satin Creditcare"
+],
+
+"financialInclusionPrograms": [
+  "Pradhan Mantri Jan Dhan Yojana",
+  "Pradhan Mantri Jeevan Jyoti Bima Yojana",
+  "Pradhan Mantri Suraksha Bima Yojana",
+  "Atal Pension Yojana",
+  "Pradhan Mantri Mudra Yojana",
+  "Stand-Up India"
+],
+
+"majorInsuranceCompanies": [
+  "Life Insurance Corporation of India (LIC)",
+  "New India Assurance",
+  "National Insurance Company",
+  "United India Insurance",
+  "ICICI Lombard",
+  "HDFC ERGO"
+]
+},
+
+  "governanceAndPublicServices": {
+  "districtAdministration": "East Champaran district is administered by the District Magistrate (DM) from the District Collectorate at Motihari.",
+
+"municipalBodies": [
+  "Motihari Municipal Corporation",
+  "Raxaul Nagar Parishad",
+  "Areraj Nagar Parishad",
+  "Chakia Nagar Parishad",
+  "Dhaka Nagar Parishad",
+  "Kesaria Nagar Panchayat",
+  "Mehsi Nagar Panchayat",
+  "Pakridayal Nagar Panchayat",
+  "Sugauli Nagar Panchayat"
+],
+
+"policeAdministration": "Law and order is maintained by East Champaran Police under the Bihar Police with the Superintendent of Police (SP) headquartered at Motihari.",
+
+"fireServices": "Fire stations operate in Motihari, Raxaul, Areraj and other major towns of the district.",
+
+"judiciary": [
+  "District and Sessions Court, Motihari"
+],
+
+"governmentOffices": [
+  "District Collectorate, Motihari",
+  "District Transport Office, Motihari",
+  "District Education Office, Motihari",
+  "District Agriculture Office, Motihari",
+  "District Health Office, Motihari",
+  "District Rural Development Agency (DRDA), Motihari"
+],
+
+"publicDistributionSystem": "Essential commodities are distributed through the Public Distribution System (PDS) across all blocks of the district.",
+
+"eGovernanceServices": [
+  "RTPS Bihar",
+  "e-District Services",
+  "Bihar Bhumi",
+  "Bihar e-Procurement",
+  "Bihar Right to Public Services Portal"
+],
+
+"citizenServices": [
+  "Birth Certificate",
+  "Death Certificate",
+  "Caste Certificate",
+  "Income Certificate",
+  "Residence Certificate",
+  "Driving Licence Services",
+  "Property Registration",
+  "Online Land Records"
+]
+},
+
+  "lawAndOrder": {
+  "policeDistrict": "East Champaran Police District",
+
+"policeStations": [
+  "Motihari Town",
+  "Chhatauni",
+  "Muffasil",
+  "Raxaul",
+  "Sugauli",
+  "Adapur",
+  "Ramgarhwa",
+  "Dhaka",
+  "Chiraia",
+  "Kesaria",
+  "Areraj",
+  "Mehsi",
+  "Paharpur",
+  "Pakridayal",
+  "Madhuban",
+  "Harsidhi",
+  "Ghorasahan",
+  "Turkaulia",
+  "Kotwa",
+  "Patahi"
+],
+
+"womenPoliceStations": [
+  "Mahila Police Station, Motihari"
+],
+
+"cyberCrimePoliceStation": "Cyber Crime Police Station, Motihari",
+
+"trafficPolice": "Traffic Police regulate traffic and road safety in Motihari, Raxaul and other major towns of the district.",
+
+"prisons": [
+  "District Jail, Motihari"
+],
+
+"emergencyNumbers": [
+  "112 (Emergency Response Support System)",
+  "100 (Police)",
+  "101 (Fire)",
+  "108 (Ambulance)"
+],
+
+"crimePreventionInitiatives": [
+  "Community Policing",
+  "Cyber Crime Awareness Campaigns",
+  "Women Safety Initiatives",
+  "Road Safety Awareness Programs",
+  "Anti-Drug Awareness Campaigns"
+],
+
+"disasterManagement": "The District Disaster Management Authority (DDMA), East Champaran, coordinates disaster preparedness, flood management, emergency response and relief operations."
+},
+
+  "environment": {
+  "forestCover": "Limited forest cover, mainly in scattered plantations, riverine belts and protected areas.",
+
+"majorForests": [
+  "Kesaria Forest Area",
+  "Areraj Forest Area",
+  "Raxaul Forest Area"
+],
+
+"protectedAreas": [],
+
+"wetlands": [
+  "Gandak Floodplain Wetlands",
+  "Burhi Gandak Wetlands",
+  "Village Ponds"
+],
+
+"rivers": [
+  "Gandak",
+  "Burhi Gandak",
+  "Bagmati",
+  "Lalbakeya",
+  "Banganga"
+],
+
+"lakes": [
+  "Kesaria Lake",
+  "Village Ponds",
+  "Irrigation Reservoirs"
+],
+
+"biodiversity": [
+  "Gangetic River Dolphin",
+  "Common Birds",
+  "Freshwater Fish",
+  "Small Mammals",
+  "Reptiles"
+],
+
+"environmentalIssues": [
+  "Flooding",
+  "River Pollution",
+  "Soil Erosion",
+  "Plastic Waste",
+  "Groundwater Depletion"
+],
+
+"conservationInitiatives": [
+  "Jal-Jeevan-Hariyali Abhiyan",
+  "Tree Plantation Drives",
+  "Rainwater Harvesting",
+  "Plastic Waste Management Campaigns",
+  "Wetland Conservation Programmes",
+  "Water Conservation Programmes"
+]
+},
+
+  "mediaAndCommunication": {
+  "newspapers": [
+  "Hindustan",
+  "Dainik Jagran",
+  "Prabhat Khabar",
+  "The Times of India"
+],
+
+"televisionChannels": [
+  "DD Bihar",
+  "News18 Bihar Jharkhand",
+  "Zee Bihar Jharkhand",
+  "ETV Bharat Bihar"
+],
+
+"radioStations": [
+  "All India Radio Motihari",
+  "Akashvani Patna",
+  "FM Rainbow Patna"
+],
+
+"newsPortals": [
+  "East Champaran District Administration Website",
+  "Bihar Government Portal",
+  "PRD Bihar",
+  "State e-District Portal"
+],
+
+"postalServices": "India Post provides postal, Speed Post and parcel services through head and sub post offices across the district.",
+
+"telecommunication": "4G and 5G mobile connectivity is available in most urban and rural areas of the district.",
+
+"internetProviders": [
+  "BSNL",
+  "JioFiber",
+  "Airtel Xstream Fiber"
+],
+
+"mobileNetworkOperators": [
+  "Jio",
+  "Airtel",
+  "Vi",
+  "BSNL"
+],
+
+"digitalMedia": [
+  "Official District Website",
+  "Bihar Government Social Media Pages",
+  "Online News Portals",
+  "Digital Citizen Service Portals"
+]
+},
+
+  "rankingsAndAchievements": {
+  "stateRankings": [
+  "One of the most historically significant districts of Bihar",
+  "Major agricultural district of north Bihar",
+  "Important Indo–Nepal trade district through Raxaul",
+  "Home to Mahatma Gandhi's Champaran Satyagraha"
+],
+
+"nationalRankings": [
+  "Known nationwide for the Champaran Satyagraha (1917)",
+  "Home to Kesaria Stupa, one of the tallest Buddhist stupas in the world",
+  "Important Indo–Nepal trade gateway through Raxaul"
+],
+
+"awards": [],
+
+"notableAchievements": [
+  "Birthplace of the Champaran Satyagraha led by Mahatma Gandhi",
+  "Major producer of sugarcane, paddy and maize in Bihar",
+  "Important international trade hub on the India–Nepal border",
+  "Home to Mahatma Gandhi Central University"
+],
+
+"developmentIndicators": [
+  "Expansion of road connectivity",
+  "Improvement in healthcare and educational infrastructure",
+  "Growth in digital connectivity",
+  "Expansion of border trade infrastructure",
+  "Development of agriculture and rural economy"
+],
+
+"records": [
+  "Site of the historic Champaran Satyagraha (1917)",
+  "Kesaria Stupa is among the world's tallest Buddhist stupas",
+  "Raxaul serves as one of India's major land trade gateways with Nepal"
+]
+},
+
+  "miscellaneous": {
+  "famousPersonalities": [
+  "Mahatma Gandhi",
+  "George Orwell",
+  "Raj Kumar Shukla"
+],
+
+"nicknames": [
+  "Land of Champaran Satyagraha",
+  "Gateway to Nepal"
+],
+
+"importantDates": [
+  "1917 – Champaran Satyagraha led by Mahatma Gandhi",
+  "1 December 1972 – East Champaran district was formed after the bifurcation of the old Champaran district",
+  "15 August 1947 – Became part of independent India"
+],
+
+"festivals": [
+  "Chhath Puja",
+  "Durga Puja",
+  "Holi",
+  "Eid"
+],
+
+"localFoods": [
+  "Litti Chokha",
+  "Thekua",
+  "Khaja",
+  "Sattu Paratha"
+],
+
+"famousMarkets": [
+  "Motihari Market",
+  "Raxaul Market",
+  "Chakia Market",
+  "Kesaria Market"
+],
+
+"emergencyContacts": [
+  "Police - 112",
+  "Fire - 101",
+  "Ambulance - 108",
+  "Women Helpline - 181"
+],
+
+"officialWebsite": "https://eastchamparan.nic.in",
+
+"additionalInformation": [
+  "East Champaran is the birthplace of the historic Champaran Satyagraha led by Mahatma Gandhi in 1917.",
+  "The district is home to Kesaria Stupa, one of the tallest Buddhist stupas in the world.",
+  "Raxaul serves as one of India's most important land trade gateways with Nepal.",
+  "Agriculture, border trade and tourism are the major contributors to the district's economy."
+]
+}
+}
