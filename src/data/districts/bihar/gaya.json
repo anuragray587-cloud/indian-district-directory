@@ -1,0 +1,989 @@
+{  "state": "Bihar",
+  "district": "Gaya",
+  "slug": "gaya",
+  "language": "en",
+  "version": "1.0",
+  "lastUpdated": "",
+  "name": "Gaya",
+  "slug": "gaya",
+  "state": "Bihar",
+
+  "basicInformation": {
+  "headquarters": "Gaya",
+  "established": "3 October 1865",
+  "areaKm2": 4978,
+  "population": 4391418,
+  "districtCode": "GAY",
+  "division": "Magadh",
+  "subdivision": 4,
+  "anchals": 24,
+  "blocks": 24,
+  "panchayats": 332,
+  "villages": 2886,
+  "towns": 8,
+  "policeStations": 43,
+  "lokSabhaConstituencies": 1,
+  "assemblyConstituencies": 10,
+  "pinCodeRange": "823001 - 824237",
+  "vehicleRegistrationCode": "BR-02",
+  "elevation": "111 m",
+  "coordinates": {
+    "latitude": "24.79° N",
+    "longitude": "85.00° E"
+  },
+  "officialWebsite": "https://gaya.nic.in"
+},
+
+  "history": {
+  "historicalImportance": "Gaya is one of the most ancient and sacred cities of India, revered in both Hinduism and Buddhism. It is internationally known for Bodh Gaya, where Lord Buddha attained enlightenment.",
+
+  "formationHistory": "Gaya district was established on 3 October 1865 during British rule. The region has been an important centre since the Magadha Empire and later became a major religious, cultural and administrative hub of Bihar.",
+
+  "freedomMovement": "The district actively participated in India's freedom movement through the Non-Cooperation Movement, Civil Disobedience Movement and Quit India Movement. Many local freedom fighters contributed to the struggle against British rule.",
+
+  "archaeologicalImportance": "The district contains numerous ancient temples, Buddhist monasteries, archaeological remains and heritage sites associated with the Maurya and Gupta periods.",
+
+  "asiProtectedMonuments": [
+    "Mahabodhi Temple Complex",
+    "Barabar Caves",
+    "Dungeshwari Cave Temples",
+    "Vishnupad Temple परिसर के संरक्षित अवशेष"
+  ],
+
+  "historicalTimeline": [
+    "6th century BCE – Magadha emerged as a major kingdom",
+    "3rd century BCE – Emperor Ashoka developed Buddhist monuments in the region",
+    "3 October 1865 – Gaya district was established",
+    "1947 – Became part of independent India",
+    "2002 – Mahabodhi Temple Complex declared a UNESCO World Heritage Site"
+  ]
+},
+
+  "geography": {
+  "location": "Gaya district is located in the southern part of Bihar in the Magadh region and is bordered by Jharkhand to the south.",
+
+  "boundaries": {
+    "north": "Jehanabad and Nalanda districts",
+    "south": "Koderma and Chatra districts (Jharkhand)",
+    "east": "Nawada district",
+    "west": "Aurangabad district"
+  },
+
+  "area": "4,978 sq km",
+
+  "elevation": "111 m",
+
+  "climate": "Tropical climate with hot summers, monsoon rains and cool winters",
+
+  "rainfall": "Approximately 1,030 mm annually",
+
+  "rivers": [
+    "Falgu",
+    "Punpun",
+    "Morhar",
+    "Niranjana (Lilajan)",
+    "Muhane"
+  ],
+
+  "hills": [
+    "Brahmayoni Hill",
+    "Pretshila Hill",
+    "Ramshila Hill",
+    "Mangla Gauri Hill"
+  ],
+
+  "forests": "Moderate forest cover, mainly in the southern and south-western parts of the district",
+
+  "soilTypes": [
+    "Alluvial Soil",
+    "Red Soil",
+    "Sandy Loam",
+    "Clay Loam"
+  ],
+
+  "naturalResources": [
+    "Fertile Agricultural Land",
+    "Groundwater",
+    "Granite",
+    "Stone",
+    "Sand"
+  ]
+},
+
+  "demographics": {
+  "totalPopulation": "4,391,418",
+  "malePopulation": "2,266,513",
+  "femalePopulation": "2,124,905",
+  "sexRatio": "937 females per 1000 males",
+  "populationDensity": "883 persons/km²",
+  "literacyRate": "63.67%",
+  "maleLiteracyRate": "73.39%",
+  "femaleLiteracyRate": "53.41%",
+  "urbanPopulation": "13.06%",
+  "ruralPopulation": "86.94%",
+
+  "religions": [
+    "Hinduism",
+    "Islam",
+    "Buddhism",
+    "Christianity",
+    "Jainism",
+    "Sikhism"
+  ],
+
+  "languages": [
+    "Hindi",
+    "Magahi",
+    "Urdu"
+  ]
+},
+
+  "administration": {
+  "administrativeDivision": "Magadh Division",
+
+  "subDivisions": [
+    "Gaya Sadar",
+    "Sherghati",
+    "Tekari",
+    "Neemchak Bathani"
+  ],
+
+  "blocks": [
+    "Amas",
+    "Atri",
+    "Banke Bazar",
+    "Barachatti",
+    "Belaganj",
+    "Bodh Gaya",
+    "Dobhi",
+    "Dumaria",
+    "Fatehpur",
+    "Gaya Town",
+    "Guraru",
+    "Gurua",
+    "Imamganj",
+    "Khizarsarai",
+    "Konch",
+    "Manpur",
+    "Mohanpur",
+    "Muhra",
+    "Neemchak Bathani",
+    "Paraiya",
+    "Sherghati",
+    "Tan Kuppa",
+    "Tekari",
+    "Wazirganj"
+  ],
+
+  "circles": [
+    "Gaya",
+    "Sherghati",
+    "Tekari",
+    "Bodh Gaya",
+    "Manpur",
+    "Wazirganj"
+  ],
+
+  "gramPanchayats": 332,
+
+  "villages": 2886,
+
+  "municipalCorporation": "Gaya Municipal Corporation",
+
+  "municipalities": [
+    "Bodh Gaya",
+    "Sherghati",
+    "Tekari"
+  ],
+
+  "nagarPanchayats": [
+    "Khizarsarai"
+  ],
+
+  "policeStations": [],
+
+  "assemblyConstituencies": [
+    "Sherghati",
+    "Barachatti (SC)",
+    "Bodh Gaya (SC)",
+    "Gaya Town",
+    "Belaganj",
+    "Atri",
+    "Wazirganj",
+    "Tekari",
+    "Gurua",
+    "Imamganj (SC)"
+  ],
+
+  "lokSabhaConstituency": "Gaya (SC)"
+},
+
+  "economy": {
+  "gdp": "Not officially available",
+
+  "majorIndustries": [
+    "Agriculture",
+    "Tourism",
+    "Food Processing",
+    "Stone Processing",
+    "Handicrafts"
+  ],
+
+  "majorCrops": [
+    "Paddy",
+    "Wheat",
+    "Maize",
+    "Pulses"
+  ],
+
+  "majorEmployers": [
+    "Agriculture Sector",
+    "Tourism Industry",
+    "Food Processing Industries",
+    "Government Services",
+    "Small and Medium Enterprises (MSMEs)"
+  ],
+
+  "banking": [
+    "State Bank of India",
+    "Punjab National Bank",
+    "Bank of Baroda",
+    "Canara Bank",
+    "Central Bank of India",
+    "UCO Bank",
+    "Union Bank of India",
+    "Indian Bank"
+  ],
+
+  "industrialAreas": [
+    "Gaya Industrial Area",
+    "Bodh Gaya Industrial Area"
+  ],
+
+  "specialEconomicFeatures": [
+    "International tourism centred around Bodh Gaya",
+    "Fertile agricultural land",
+    "Growing food processing sector",
+    "Stone and granite resources",
+    "Religious tourism contributes significantly to the local economy"
+  ]
+},
+
+  "agriculture": {
+  "majorCrops": [
+    "Paddy",
+    "Wheat",
+    "Maize",
+    "Pulses"
+  ],
+
+  "cashCrops": [
+    "Oilseeds",
+    "Sugarcane",
+    "Potato"
+  ],
+
+  "fruits": [
+    "Mango",
+    "Guava",
+    "Banana"
+  ],
+
+  "vegetables": [
+    "Potato",
+    "Tomato",
+    "Brinjal",
+    "Cauliflower"
+  ],
+
+  "irrigationSources": [
+    "Falgu River",
+    "Punpun River",
+    "Canals",
+    "Tube Wells"
+  ],
+
+  "livestock": [
+    "Cattle",
+    "Buffalo",
+    "Goat",
+    "Poultry"
+  ],
+
+  "dairyDevelopment": "Dairy farming is an important supplementary source of income for rural households.",
+
+  "fisheries": "Fish farming is practiced in ponds, reservoirs and river-based water bodies across the district.",
+
+  "agriculturalMarkets": [
+    "Gaya",
+    "Tekari",
+    "Sherghati",
+    "Wazirganj",
+    "Bodh Gaya"
+  ],
+
+  "krishiVigyanKendra": "Krishi Vigyan Kendra (KVK), Gaya"
+},
+
+   "infrastructure": {
+  "roadNetwork": "Gaya has a well-developed road network connecting all major towns, blocks and neighboring districts.",
+
+  "nationalHighways": [
+    "NH-22",
+    "NH-83",
+    "NH-120"
+  ],
+
+  "stateHighways": [
+    "SH-4",
+    "SH-69",
+    "SH-70"
+  ],
+
+  "railwayStations": [
+    "Gaya Junction",
+    "Bodh Gaya",
+    "Tankuppa",
+    "Guraru",
+    "Paraiya",
+    "Bela",
+    "Paharpur"
+  ],
+
+  "majorRailwayJunctions": [
+    "Gaya Junction"
+  ],
+
+  "airConnectivity": "Gaya International Airport provides domestic and international flight connectivity, especially to Buddhist pilgrimage destinations.",
+
+  "publicTransport": "Bihar State Road Transport Corporation (BSRTC), private buses, taxis, auto-rickshaws and e-rickshaws operate across the district.",
+
+  "electricity": "Most urban and rural areas have access to electricity under the Bihar power distribution network.",
+
+  "waterSupply": "Urban areas receive piped water supply, while rural areas depend on hand pumps, tube wells and government water supply schemes.",
+
+  "internetConnectivity": "4G and 5G mobile services are available in most parts of the district, along with broadband connectivity in urban areas."
+},
+
+  "education": {
+  "literacyRate": "66.35%",
+  "maleLiteracy": "75.67%",
+  "femaleLiteracy": "56.64%",
+
+  "governmentSchools": "More than 3,000 government primary, middle and secondary schools operate across the district.",
+
+  "privateSchools": "Several CBSE, ICSE and Bihar Board affiliated private schools are located in Gaya district.",
+
+  "colleges": [
+    "Gaya College, Gaya",
+    "A.M. College, Gaya",
+    "Mirza Ghalib College, Gaya",
+    "S.N.S. College, Tekari",
+    "R.R.M. Inter College, Sherghati"
+  ],
+
+  "universities": [
+    "Magadh University, Bodh Gaya",
+    "Central University of South Bihar (CUSB), Gaya"
+  ],
+
+  "technicalInstitutes": [
+    "Government Polytechnic, Gaya",
+    "Government ITI, Gaya",
+    "Gaya College of Engineering"
+  ],
+
+  "medicalColleges": [
+    "Anugrah Narayan Magadh Medical College & Hospital (ANMMCH), Gaya"
+  ],
+
+  "notableEducationalInstitutions": [
+    "Magadh University, Bodh Gaya",
+    "Central University of South Bihar (CUSB)",
+    "Gaya College, Gaya",
+    "Gaya College of Engineering",
+    "Anugrah Narayan Magadh Medical College & Hospital (ANMMCH)"
+  ]
+},
+
+  "healthcare": {
+  "districtHospital": "Anugrah Narayan Magadh Medical College & Hospital (ANMMCH), Gaya",
+
+  "subDivisionalHospitals": [
+    "Sub-Divisional Hospital, Sherghati",
+    "Sub-Divisional Hospital, Tekari"
+  ],
+
+  "communityHealthCentres": [
+    "CHC Bodh Gaya",
+    "CHC Barachatti",
+    "CHC Belaganj",
+    "CHC Wazirganj",
+    "CHC Fatehpur",
+    "CHC Imamganj",
+    "CHC Khizarsarai",
+    "CHC Mohanpur",
+    "CHC Atri",
+    "CHC Guraru",
+    "CHC Neemchak Bathani",
+    "CHC Dobhi"
+  ],
+
+  "primaryHealthCentres": "Primary Health Centres (PHCs) operate in all blocks of Gaya district.",
+
+  "medicalColleges": [
+    "Anugrah Narayan Magadh Medical College & Hospital (ANMMCH), Gaya"
+  ],
+
+  "ambulanceServices": "102 and 108 ambulance services are available throughout the district.",
+
+  "majorHealthPrograms": [
+    "Ayushman Bharat",
+    "National Health Mission",
+    "Janani Suraksha Yojana",
+    "Universal Immunization Programme",
+    "Mission Indradhanush"
+  ],
+
+  "bloodBanks": [
+    "ANMMCH Blood Bank, Gaya",
+    "Indian Red Cross Society Blood Bank, Gaya"
+  ],
+
+  "notableHospitals": [
+    "Anugrah Narayan Magadh Medical College & Hospital (ANMMCH), Gaya",
+    "Jai Prakash Narayan Hospital, Gaya",
+    "Sub-Divisional Hospital, Sherghati",
+    "Sub-Divisional Hospital, Tekari",
+    "Bodh Gaya Referral Hospital"
+  ]
+},
+
+  "cultureAndHeritage": {
+  "festivals": [
+    "Pitrapaksha Mela",
+    "Buddha Purnima",
+    "Chhath Puja",
+    "Durga Puja",
+    "Ram Navami",
+    "Makar Sankranti"
+  ],
+
+  "languages": [
+    "Hindi",
+    "Magahi",
+    "Urdu"
+  ],
+
+  "folkDance": [
+    "Jat-Jatin",
+    "Jhijhiya",
+    "Domkach"
+  ],
+
+  "folkMusic": [
+    "Birha",
+    "Kajari",
+    "Chaita"
+  ],
+
+  "traditionalDress": "Men traditionally wear Dhoti-Kurta and women wear Saree or Salwar-Kameez.",
+
+  "cuisine": [
+    "Litti Chokha",
+    "Tilkut",
+    "Khaja",
+    "Thekua"
+  ],
+
+  "handicrafts": [
+    "Stone Carving",
+    "Terracotta",
+    "Bamboo Craft",
+    "Handloom Products"
+  ],
+
+  "historicalHeritage": [
+    "Mahabodhi Temple",
+    "Vishnupad Temple",
+    "Barabar Caves",
+    "Dungeshwari Caves",
+    "Mangla Gauri Temple"
+  ],
+
+  "culturalOrganizations": [
+    "District Art and Culture Office, Gaya",
+    "Bihar Department of Art, Culture and Youth",
+    "Bodh Gaya Temple Management Committee"
+  ]
+},
+
+  "tourism": {
+  "majorTouristAttractions": [
+    "Mahabodhi Temple",
+    "Vishnupad Temple",
+    "Bodh Gaya",
+    "Barabar Caves",
+    "Dungeshwari Caves",
+    "Mangla Gauri Temple"
+  ],
+
+  "religiousPlaces": [
+    "Mahabodhi Temple",
+    "Vishnupad Temple",
+    "Mangla Gauri Temple",
+    "Dungeshwari Caves",
+    "Pretshila Hill"
+  ],
+
+  "historicalSites": [
+    "Barabar Caves",
+    "Mahabodhi Temple",
+    "Brahmayoni Hill",
+    "Vishnupad Temple"
+  ],
+
+  "naturalAttractions": [
+    "Brahmayoni Hill",
+    "Pretshila Hill",
+    "Falgu River",
+    "Dungeshwari Hills"
+  ],
+
+  "wildlifeSanctuaries": [],
+
+  "annualFairs": [
+    "Pitrapaksha Mela",
+    "Buddha Purnima Festival",
+    "Chhath Festival",
+    "Ram Navami Fair"
+  ],
+
+  "bestTimeToVisit": "October to March",
+
+  "nearbyTouristDestinations": [
+    "Rajgir",
+    "Nalanda",
+    "Pawapuri",
+    "Nawada",
+    "Jehanabad"
+  ]
+},
+
+  "sports": {
+  "majorSports": [
+    "Cricket",
+    "Football",
+    "Kabaddi",
+    "Volleyball",
+    "Athletics",
+    "Badminton"
+  ],
+
+  "stadiums": [
+    "Gaya Gandhi Maidan Sports Ground",
+    "District Sports Stadium, Gaya"
+  ],
+
+  "sportsComplexes": [
+    "District Sports Complex, Gaya",
+    "Indoor Sports Hall, Gaya"
+  ],
+
+  "famousSportspersons": [],
+
+  "sportsAcademies": [
+    "District Sports Training Centre, Gaya",
+    "Bihar State Sports Authority Training Centre"
+  ],
+
+  "annualSportsEvents": [
+    "District Sports Meet",
+    "School Sports Competitions",
+    "Khelo India District Level Events",
+    "Inter-College Sports Tournament"
+  ],
+
+  "governmentSportsPrograms": [
+    "Khelo India",
+    "Fit India Movement",
+    "Bihar State Sports Development Program"
+  ],
+
+  "sportsAchievements": [
+    "District athletes regularly participate in Bihar state competitions",
+    "School and college teams represent Gaya in various sports tournaments",
+    "Growing participation in cricket, football and athletics"
+  ]
+},
+
+  "bankingAndFinance": {
+  "nationalizedBanks": [
+    "State Bank of India",
+    "Punjab National Bank",
+    "Bank of Baroda",
+    "Canara Bank",
+    "Union Bank of India",
+    "UCO Bank",
+    "Indian Bank",
+    "Bank of India"
+  ],
+
+  "privateBanks": [
+    "HDFC Bank",
+    "ICICI Bank",
+    "Axis Bank",
+    "IDFC FIRST Bank",
+    "Bandhan Bank"
+  ],
+
+  "regionalRuralBanks": [
+    "Dakshin Bihar Gramin Bank"
+  ],
+
+  "cooperativeBanks": [
+    "Bihar State Cooperative Bank",
+    "Gaya Central Cooperative Bank"
+  ],
+
+  "atms": "ATMs of major public sector and private sector banks are available across the district.",
+
+  "digitalBanking": "UPI, Internet Banking, Mobile Banking and AEPS services are widely available.",
+
+  "microfinanceInstitutions": [
+    "Bandhan",
+    "CreditAccess Grameen",
+    "Fusion Finance",
+    "Satin Creditcare"
+  ],
+
+  "financialInclusionPrograms": [
+    "Pradhan Mantri Jan Dhan Yojana",
+    "Pradhan Mantri Jeevan Jyoti Bima Yojana",
+    "Pradhan Mantri Suraksha Bima Yojana",
+    "Atal Pension Yojana",
+    "Pradhan Mantri Mudra Yojana",
+    "Stand-Up India"
+  ],
+
+  "majorInsuranceCompanies": [
+    "Life Insurance Corporation of India (LIC)",
+    "New India Assurance",
+    "National Insurance Company",
+    "United India Insurance",
+    "ICICI Lombard",
+    "HDFC ERGO"
+  ]
+},
+
+  "governanceAndPublicServices": {
+  "districtAdministration": "Gaya district is administered by the District Magistrate (DM) and supported by various district-level departments.",
+
+  "municipalBodies": [
+    "Gaya Municipal Corporation",
+    "Bodh Gaya Nagar Parishad",
+    "Sherghati Nagar Parishad",
+    "Tekari Nagar Parishad"
+  ],
+
+  "policeAdministration": "Law and order is maintained by Gaya Police under the Bihar Police Department.",
+
+  "fireServices": "Fire stations operate in Gaya, Bodh Gaya, Sherghati and other major towns of the district.",
+
+  "judiciary": [
+    "District and Sessions Court, Gaya"
+  ],
+
+  "governmentOffices": [
+    "District Collectorate, Gaya",
+    "District Transport Office, Gaya",
+    "District Education Office, Gaya",
+    "District Agriculture Office, Gaya",
+    "District Health Office, Gaya",
+    "District Rural Development Agency (DRDA), Gaya"
+  ],
+
+  "publicDistributionSystem": "Essential commodities are distributed through Fair Price Shops (FPS) under the Public Distribution System (PDS).",
+
+  "eGovernanceServices": [
+    "RTPS Bihar",
+    "e-District Services",
+    "Bihar Bhumi",
+    "Bihar e-Procurement",
+    "Bihar Right to Public Services Portal"
+  ],
+
+  "citizenServices": [
+    "Birth Certificate",
+    "Death Certificate",
+    "Caste Certificate",
+    "Income Certificate",
+    "Residence Certificate",
+    "Driving Licence Services",
+    "Property Registration",
+    "Online Land Records"
+  ]
+},
+
+  "lawAndOrder": {
+  "policeDistrict": "Gaya Police District",
+
+  "policeStations": [
+    "Civil Lines",
+    "Delha",
+    "Kotwali",
+    "Rampur",
+    "Bodh Gaya",
+    "Sherghati",
+    "Amas",
+    "Barachatti",
+    "Belaganj",
+    "Buniyadganj",
+    "Chakand",
+    "Dobhi",
+    "Fatehpur",
+    "Guraru",
+    "Gurua",
+    "Khizersarai",
+    "Konch",
+    "Mohanpur",
+    "Neemchak Bathani",
+    "Paraiya",
+    "Tankuppa",
+    "Tekari",
+    "Wazirganj"
+  ],
+
+  "womenPoliceStations": [
+    "Mahila Police Station, Gaya"
+  ],
+
+  "cyberCrimePoliceStation": "Cyber Crime Police Station, Gaya",
+
+  "trafficPolice": "Traffic Police regulate traffic and road safety across Gaya district.",
+
+  "prisons": [
+    "Central Jail, Gaya"
+  ],
+
+  "emergencyNumbers": [
+    "112 (Emergency Response Support System)",
+    "100 (Police)",
+    "101 (Fire)",
+    "108 (Ambulance)"
+  ],
+
+  "crimePreventionInitiatives": [
+    "Community Policing",
+    "Cyber Crime Awareness Campaigns",
+    "Women Safety Initiatives",
+    "Road Safety Awareness Programmes",
+    "Anti-Drug Awareness Campaigns"
+  ],
+
+  "disasterManagement": "The District Disaster Management Authority (DDMA), Gaya coordinates disaster preparedness, emergency response and relief operations."
+},
+
+  "environment": {
+  "forestCover": "Forest cover is limited, mainly in the southern hilly areas of Gaya district.",
+
+  "majorForests": [
+    "Barachatti Forest Area",
+    "Mohanpur Forest Area",
+    "Banke Bazar Forest Area",
+    "Dobhi Forest Area"
+  ],
+
+  "protectedAreas": [],
+
+  "wetlands": [
+    "Falgu River Floodplain Wetlands",
+    "Village Ponds",
+    "Seasonal Wetlands"
+  ],
+
+  "rivers": [
+    "Falgu",
+    "Morhar",
+    "Niranjana (Lilajan)",
+    "Punpun",
+    "Dardha"
+  ],
+
+  "lakes": [
+    "Village Ponds",
+    "Irrigation Reservoirs"
+  ],
+
+  "biodiversity": [
+    "Peacock",
+    "Nilgai",
+    "Jackal",
+    "Freshwater Fish",
+    "Common Birds",
+    "Reptiles"
+  ],
+
+  "environmentalIssues": [
+    "Deforestation",
+    "Water Scarcity",
+    "River Pollution",
+    "Soil Erosion",
+    "Air Pollution"
+  ],
+
+  "conservationInitiatives": [
+    "Jal-Jeevan-Hariyali Abhiyan",
+    "Tree Plantation Drives",
+    "Water Conservation Programmes",
+    "Rainwater Harvesting",
+    "Plastic Waste Management Campaigns"
+  ]
+},
+
+  "mediaAndCommunication": {
+  "newspapers": [
+    "Hindustan",
+    "Dainik Jagran",
+    "Prabhat Khabar",
+    "The Times of India"
+  ],
+
+  "televisionChannels": [
+    "DD Bihar",
+    "News18 Bihar Jharkhand",
+    "Zee Bihar Jharkhand",
+    "ETV Bharat Bihar"
+  ],
+
+  "radioStations": [
+    "All India Radio Gaya",
+    "Akashvani Patna",
+    "FM Rainbow Patna"
+  ],
+
+  "newsPortals": [
+    "Gaya District Administration Website",
+    "Bihar Government Portal",
+    "PRD Bihar",
+    "State e-District Portal"
+  ],
+
+  "postalServices": "India Post provides postal, Speed Post, parcel and financial services across Gaya district.",
+
+  "telecommunication": "4G and 5G mobile connectivity is available in most urban areas, while rural coverage is continuously expanding.",
+
+  "internetProviders": [
+    "BSNL",
+    "JioFiber",
+    "Airtel Xstream Fiber"
+  ],
+
+  "mobileNetworkOperators": [
+    "Jio",
+    "Airtel",
+    "Vi",
+    "BSNL"
+  ],
+
+  "digitalMedia": [
+    "Official District Website",
+    "Bihar Government Social Media Pages",
+    "Online News Portals",
+    "Digital Citizen Service Portals"
+  ]
+},
+
+  "rankingsAndAchievements": {
+  "stateRankings": [
+    "One of the most historically significant districts of Bihar",
+    "Major religious and tourism district of Bihar",
+    "Home to Bodh Gaya, a UNESCO World Heritage Site",
+    "Important education and pilgrimage centre"
+  ],
+
+  "nationalRankings": [
+    "Internationally known for Bodh Gaya, the place of Buddha's Enlightenment",
+    "UNESCO World Heritage Site attracts visitors from around the world",
+    "One of India's most important Buddhist pilgrimage destinations"
+  ],
+
+  "awards": [],
+
+  "notableAchievements": [
+    "Bodh Gaya recognized as a UNESCO World Heritage Site",
+    "Global centre for Buddhist pilgrimage and spiritual tourism",
+    "Important centre for higher education in South Bihar",
+    "Major producer of paddy, wheat and pulses"
+  ],
+
+  "developmentIndicators": [
+    "Expansion of road connectivity",
+    "Growth in tourism infrastructure",
+    "Improvement in healthcare and educational facilities",
+    "Expansion of digital connectivity",
+    "Development of agriculture and rural economy"
+  ],
+
+  "records": [
+    "Bodh Gaya is the place where Gautama Buddha attained Enlightenment",
+    "Mahabodhi Temple Complex is a UNESCO World Heritage Site",
+    "One of the world's most important Buddhist pilgrimage centres"
+  ]
+},
+
+  "miscellaneous": {
+  "famousPersonalities": [
+    "Gautama Buddha",
+    "Emperor Ashoka",
+    "Bodhidharma"
+  ],
+
+  "nicknames": [
+    "Land of Enlightenment",
+    "Buddhist Pilgrimage Capital of India"
+  ],
+
+  "importantDates": [
+    "6th Century BCE – Gautama Buddha attained Enlightenment at Bodh Gaya",
+    "3rd Century BCE – Emperor Ashoka built the Mahabodhi Temple and Vajrasana",
+    "26 June 2002 – Mahabodhi Temple Complex declared a UNESCO World Heritage Site"
+  ],
+
+  "festivals": [
+    "Buddha Purnima",
+    "Pitripaksha Mela",
+    "Chhath Puja",
+    "Durga Puja"
+  ],
+
+  "localFoods": [
+    "Litti Chokha",
+    "Tilkut",
+    "Khaja",
+    "Thekua"
+  ],
+
+  "famousMarkets": [
+    "Gaya Market",
+    "Tower Chowk Market",
+    "Bodh Gaya Market"
+  ],
+
+  "emergencyContacts": [
+    "Police - 112",
+    "Fire - 101",
+    "Ambulance - 108",
+    "Women Helpline - 181"
+  ],
+
+  "officialWebsite": "https://gaya.nic.in",
+
+  "additionalInformation": [
+    "Gaya is internationally famous for Bodh Gaya, where Gautama Buddha attained Enlightenment.",
+    "The Mahabodhi Temple Complex is a UNESCO World Heritage Site.",
+    "The district is one of the most important centres of Buddhist pilgrimage in the world.",
+    "Gaya is also a major Hindu pilgrimage destination for Pind Daan rituals."
+  ]
+}
+}
