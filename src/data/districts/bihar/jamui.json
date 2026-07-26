@@ -1,0 +1,885 @@
+{  "state": "Bihar",
+  "district": "Jamui",
+  "slug": "jamui",
+  "language": "en",
+  "version": "1.0",
+  "lastUpdated": "",
+  "name": "Jamui",
+  "slug": "jamui",
+  "state": "Bihar",
+
+  "basicInformation": {
+  "headquarters": "Jamui",
+  "established": "21 February 1991",
+  "areaKm2": 3098,
+  "population": 1760405,
+  "districtCode": "JAM",
+  "division": "Munger",
+  "subDivisions": 2,
+  "anchals": 10,
+  "blocks": 10,
+  "panchayats": 153,
+  "villages": 1524,
+  "towns": 10,
+  "policeStations": 12,
+  "lokSabhaConstituencies": 1,
+  "assemblyConstituencies": 4,
+  "pinCodeRange": "811307 - 811317",
+  "vehicleRegistrationCode": "BR-46",
+  "elevation": "78 m",
+  "coordinates": {
+    "latitude": "24.93° N",
+    "longitude": "86.22° E"
+  },
+  "officialWebsite": "https://jamui.nic.in"
+},
+
+  "history": {
+  "historicalImportance": "Jamui has a rich historical legacy associated with the ancient Magadha Empire, Jainism, and the freedom movement. It is believed to be the birthplace of the 9th Jain Tirthankara, Suvidhinath (Pushpadanta).",
+
+  "formationHistory": "Jamui district was carved out of the erstwhile Munger district on 21 February 1991 to improve administrative efficiency.",
+
+  "freedomMovement": "The district actively participated in India's freedom struggle, and many local revolutionaries contributed to the national movement against British rule.",
+
+  "archaeologicalImportance": "Jamui contains several ancient temples, Jain religious sites, forts and archaeological remains reflecting its historical and cultural significance.",
+
+  "asiProtectedMonuments": [
+    "Gidheshwar Nath Temple",
+    "Ancient Jain Heritage Sites"
+  ],
+
+  "historicalTimeLine": [
+    "Ancient Period – Part of the Magadha Kingdom",
+    "6th Century BCE – Region associated with Jainism and Lord Mahavira",
+    "Medieval Period – Ruled by the Pala and Sena dynasties",
+    "21 February 1991 – Jamui district was formed from Munger district",
+    "Present – Developing district of Munger Division"
+  ]
+},
+
+  "geography": {
+  "location": "Jamui district is located in the south-eastern part of Bihar and forms part of the Munger Division.",
+
+  "boundaries": {
+    "north": "Lakhisarai district",
+    "south": "Giridih district (Jharkhand)",
+    "east": "Banka district",
+    "west": "Nawada district"
+  },
+
+  "area": "3,122 sq km",
+
+  "elevation": "78 m",
+
+  "climate": "Tropical climate with hot summers, monsoon rains and mild winters",
+
+  "rainfall": "Approximately 1,100 mm annually",
+
+  "rivers": [
+    "Kiul",
+    "Ulai",
+    "Anjan",
+    "Agara"
+  ],
+
+  "hills": [
+    "Chakai Hills",
+    "Sono Hills",
+    "Jhajha Hills"
+  ],
+
+  "forests": "Moderate forest cover, mainly in Chakai and Sono regions",
+
+  "soilTypes": [
+    "Alluvial Soil",
+    "Red Soil",
+    "Laterite Soil",
+    "Sandy Loam"
+  ],
+
+  "naturalResources": [
+    "Forest Resources",
+    "Stone",
+    "Sand",
+    "Groundwater"
+  ]
+},
+
+  "demographics": {
+  "totalPopulation": "1,760,405",
+  "malePopulation": "916,064",
+  "femalePopulation": "844,341",
+  "sexRatio": "922 females per 1000 males",
+  "populationDensity": "563 persons/km²",
+  "literacyRate": "59.79%",
+  "maleLiteracyRate": "69.44%",
+  "femaleLiteracyRate": "49.72%",
+  "urbanPopulation": "7.38%",
+  "ruralPopulation": "92.62%",
+
+  "religions": [
+    "Hinduism",
+    "Islam",
+    "Christianity",
+    "Jainism"
+  ],
+
+  "languages": [
+    "Hindi",
+    "Angika",
+    "Magahi",
+    "Khortha"
+  ]
+},
+
+  "administration": {
+  "administrativeDivision": "Munger Division",
+
+  "subDivisions": [
+    "Jamui",
+    "Jhajha",
+    "Sikandra"
+  ],
+
+  "blocks": [
+    "Barhat",
+    "Chakai",
+    "Gidhaur",
+    "Islamnagar Aliganj",
+    "Jamui",
+    "Jhajha",
+    "Khaira",
+    "Lakshmipur",
+    "Sono",
+    "Sikandra"
+  ],
+
+  "circles": [
+    "Jamui",
+    "Jhajha",
+    "Sikandra",
+    "Sono",
+    "Khaira",
+    "Chakai",
+    "Barhat",
+    "Lakshmipur",
+    "Gidhaur",
+    "Islamnagar Aliganj"
+  ],
+
+  "gramPanchayats": 153,
+
+  "villages": 1538,
+
+  "municipalCorporation": "",
+
+  "municipalities": [
+    "Jamui",
+    "Jhajha"
+  ],
+
+  "nagarPanchayats": [
+    "Sono"
+  ],
+
+  "policeStations": [],
+
+  "assemblyConstituencies": [
+    "Tarapur",
+    "Sheikhpura",
+    "Sikandra (SC)",
+    "Jamui"
+  ],
+
+  "lokSabhaConstituency": "Jamui (SC)"
+},
+
+  "economy": {
+  "gdp": "Not officially available",
+
+  "majorIndustries": [
+    "Agriculture",
+    "Stone Quarrying",
+    "Forest-based Industries",
+    "Handicrafts",
+    "Food Processing"
+  ],
+
+  "majorCrops": [
+    "Paddy",
+    "Maize",
+    "Wheat",
+    "Pulses"
+  ],
+
+  "majorEmployers": [
+    "Government Services",
+    "Agriculture",
+    "Food Processing Industries",
+    "Small and Medium Enterprises (MSMEs)"
+  ],
+
+  "banking": [
+    "State Bank of India",
+    "Punjab National Bank",
+    "Bank of India",
+    "Canara Bank"
+  ],
+
+  "industrialAreas": [
+    "Jamui Industrial Area",
+    "Jhajha Industrial Area"
+  ],
+
+  "specialEconomicFeatures": [
+    "Rich forest resources",
+    "Stone and mineral-based economy",
+    "Agriculture-driven rural economy",
+    "Growing food processing sector",
+    "Tourism potential around Jain and wildlife sites"
+  ]
+},
+
+  "agriculture": {
+  "majorCrops": [
+    "Paddy",
+    "Maize",
+    "Wheat",
+    "Pulses"
+  ],
+
+  "cashCrops": [
+    "Oilseeds",
+    "Sugarcane",
+    "Potato"
+  ],
+
+  "fruits": [
+    "Mango",
+    "Guava",
+    "Jackfruit",
+    "Banana"
+  ],
+
+  "vegetables": [
+    "Potato",
+    "Tomato",
+    "Brinjal",
+    "Cauliflower"
+  ],
+
+  "irrigationSources": [
+    "Kiul River",
+    "Ulai River",
+    "Canals",
+    "Tube Wells"
+  ],
+
+  "livestock": [
+    "Cattle",
+    "Goat",
+    "Poultry"
+  ],
+
+  "dairyDevelopment": "Dairy farming is an important supplementary source of income in rural areas.",
+
+  "fisheries": "Fish farming is practiced in ponds and reservoirs across the district.",
+
+  "agriculturalMarkets": [
+    "Jamui",
+    "Jhajha",
+    "Sikandra",
+    "Sono"
+  ],
+
+  "krishiVigyanKendra": "Krishi Vigyan Kendra (KVK), Jamui"
+},
+
+   "infrastructure": {
+  "roadNetwork": "Jamui has a developing road network connecting major towns and rural areas.",
+
+  "nationalHighways": [
+    "NH-333A",
+    "NH-333"
+  ],
+
+  "stateHighways": [
+    "SH-18",
+    "SH-83"
+  ],
+
+  "railwayStations": [
+    "Jamui",
+    "Jhajha",
+    "Gidhaur",
+    "Chaura",
+    "Narganjo"
+  ],
+
+  "majorRailwayJunctions": [
+    "Jhajha Junction"
+  ],
+
+  "airConnectivity": "The nearest airport is Deoghar Airport (approximately 95 km). Patna Airport is also commonly used.",
+
+  "publicTransport": "Bihar State Road Transport Corporation (BSRTC), private buses, taxis and auto-rickshaws.",
+
+  "electricity": "Most urban and rural areas have electricity connectivity under state and central schemes.",
+
+  "waterSupply": "Urban areas receive piped water supply while rural areas depend on hand pumps and government water schemes.",
+
+  "internetConnectivity": "4G and 5G mobile services are available in most parts of the district."
+},
+
+  "education": {
+  "literacyRate": "59.79%",
+  "maleLiteracy": "69.44%",
+  "femaleLiteracy": "49.72%",
+
+  "governmentSchools": "More than 2,000 government schools",
+
+  "privateSchools": "Several CBSE, ICSE and Bihar Board affiliated schools",
+
+  "colleges": [
+    "K.K.M. College, Jamui",
+    "S.K. College, Lohanda",
+    "Jamui Mahila College",
+    "Gidhaur College"
+  ],
+
+  "universities": [
+    "Munger University (Affiliated Colleges)"
+  ],
+
+  "technicalInstitutes": [
+    "Government Polytechnic, Jamui",
+    "Government ITI, Jamui"
+  ],
+
+  "medicalColleges": [],
+
+  "notableEducationalInstitutions": [
+    "K.K.M. College, Jamui",
+    "Government Polytechnic, Jamui",
+    "Government ITI, Jamui",
+    "Jawahar Navodaya Vidyalaya, Jamui"
+  ]
+},
+
+  "healthcare": {
+  "districtHospital": "Sadar Hospital, Jamui",
+
+  "subDivisionalHospitals": [
+    "Sub-Divisional Hospital, Jhajha",
+    "Sub-Divisional Hospital, Sikandra"
+  ],
+
+  "communityHealthCentres": [
+    "CHC Jamui",
+    "CHC Khaira",
+    "CHC Sono",
+    "CHC Chakai",
+    "CHC Lakshmipur"
+  ],
+
+  "primaryHealthCentres": "Primary Health Centres are available across all major blocks.",
+
+  "medicalColleges": [],
+
+  "ambulanceServices": "102 and 108 ambulance services are available.",
+
+  "majorHealthPrograms": [
+    "Ayushman Bharat",
+    "National Health Mission",
+    "Janani Suraksha Yojana",
+    "Universal Immunization Programme",
+    "Mission Indradhanush"
+  ],
+
+  "bloodBanks": [
+    "Sadar Hospital Blood Bank, Jamui"
+  ],
+
+  "notableHospitals": [
+    "Sadar Hospital, Jamui",
+    "Sub-Divisional Hospital, Jhajha",
+    "Sub-Divisional Hospital, Sikandra"
+  ]
+},
+
+  "cultureAndHeritage": {
+  "festivals": [
+    "Chhath Puja",
+    "Durga Puja",
+    "Makar Sankranti",
+    "Sarhul"
+  ],
+
+  "languages": [
+    "Hindi",
+    "Angika",
+    "Magahi",
+    "Khortha"
+  ],
+
+  "folkDance": [
+    "Jat-Jatin",
+    "Jhijhiya",
+    "Domkach"
+  ],
+
+  "folkMusic": [
+    "Birha",
+    "Jhumar",
+    "Chaita"
+  ],
+
+  "traditionalDress": "Men traditionally wear Dhoti-Kurta while women wear Saree and Salwar-Kameez.",
+
+  "cuisine": [
+    "Litti Chokha",
+    "Thekua",
+    "Tilkut",
+    "Sattu Paratha"
+  ],
+
+  "handicrafts": [
+    "Bamboo Craft",
+    "Wood Craft",
+    "Handloom Products"
+  ],
+
+  "historicalHeritage": [
+    "Jain Temples of Lachhuar",
+    "Giddheshwar Temple",
+    "Kali Temple, Jamui"
+  ],
+
+  "culturalOrganizations": [
+    "District Art and Culture Office, Jamui",
+    "Bihar Department of Art, Culture and Youth"
+  ]
+},
+
+  "tourism": {
+  "majorTouristAttractions": [
+    "Lachhuar Jain Temple",
+    "Giddheshwar Temple",
+    "Kakolat Hills",
+    "Simultala"
+  ],
+
+  "religiousPlaces": [
+    "Lachhuar Jain Temple",
+    "Giddheshwar Temple",
+    "Kali Temple, Jamui"
+  ],
+
+  "historicalSites": [
+    "Lachhuar",
+    "Giddheshwar Temple"
+  ],
+
+  "naturalAttractions": [
+    "Kakolat Hills",
+    "Bhim Bandh Forest Area",
+    "Ulai River",
+    "Sono Hills"
+  ],
+
+  "wildlifeSanctuaries": [
+    "Nagi-Nakti Bird Sanctuary"
+  ],
+
+  "annualFairs": [
+    "Mahavir Jayanti Fair",
+    "Makar Sankranti Fair",
+    "Chhath Festival",
+    "Durga Puja Fair"
+  ],
+
+  "bestTimeToVisit": "October to March",
+
+  "nearbyTouristDestinations": [
+    "Deoghar",
+    "Munger",
+    "Rajgir",
+    "Bhagalpur",
+    "Bodh Gaya"
+  ]
+},
+
+  "sports": {
+  "majorSports": [
+    "Cricket",
+    "Football",
+    "Athletics"
+  ],
+
+  "stadiums": [
+    "District Sports Stadium, Jamui",
+    "K.K.M. College Sports Ground, Jamui"
+  ],
+
+  "sportsComplexes": [
+    "District Sports Complex, Jamui",
+    "Indoor Sports Hall, Jamui"
+  ],
+
+  "famousSportspersons": [],
+
+  "sportsAcademies": [
+    "District Sports Training Centre, Jamui",
+    "Bihar State Sports Authority Training Centre"
+  ],
+
+  "annualSportsEvents": [
+    "District Sports Meet",
+    "School Sports Competitions",
+    "Khelo India District Level Events",
+    "Inter-College Sports Tournament"
+  ],
+
+  "governmentSportsPrograms": [
+    "Khelo India",
+    "Fit India Movement",
+    "Bihar State Sports Development Program"
+  ],
+
+  "sportsAchievements": [
+    "District athletes regularly participate in state-level competitions",
+    "School and college teams represent Jamui in district and state tournaments",
+    "Growing participation in cricket, football and athletics"
+  ]
+},
+
+  "bankingAndFinance": {
+  "nationalizedBanks": [
+    "State Bank of India",
+    "Punjab National Bank",
+    "Bank of Baroda",
+    "Canara Bank",
+    "Union Bank of India"
+  ],
+
+  "privateBanks": [
+    "HDFC Bank",
+    "ICICI Bank",
+    "Axis Bank"
+  ],
+
+  "regionalRuralBanks": [
+    "Dakshin Bihar Gramin Bank"
+  ],
+
+  "cooperativeBanks": [
+    "Bihar State Cooperative Bank",
+    "Jamui Central Cooperative Bank"
+  ],
+
+  "atms": "ATMs of major public and private sector banks are available across the district",
+
+  "digitalBanking": "UPI, Internet Banking, Mobile Banking and Aadhaar Enabled Payment System (AEPS) are widely used",
+
+  "microfinanceInstitutions": [
+    "Bandhan",
+    "CreditAccess Grameen",
+    "Satin Creditcare",
+    "Fusion Finance"
+  ],
+
+  "financialInclusionPrograms": [
+    "Pradhan Mantri Jan Dhan Yojana",
+    "Stand-Up India",
+    "PM Mudra Yojana"
+  ],
+
+  "majorInsuranceCompanies": [
+    "Life Insurance Corporation of India (LIC)",
+    "New India Assurance",
+    "National Insurance Company",
+    "United India Insurance",
+    "ICICI Lombard",
+    "HDFC ERGO"
+  ]
+},
+
+  "governanceAndPublicServices": {
+  "districtAdministration": "Jamui district is administered by the District Magistrate (DM) with support from various administrative departments.",
+
+  "municipalBodies": [
+    "Jamui Nagar Parishad",
+    "Jhajha Nagar Parishad"
+  ],
+
+  "policeAdministration": "Law and order is maintained by Jamui Police under the Bihar Police Department.",
+
+  "fireServices": "Fire stations operate in Jamui town and major subdivisions to provide emergency fire and rescue services.",
+
+  "judiciary": [
+    "District and Sessions Court, Jamui"
+  ],
+
+  "governmentOffices": [
+    "District Collectorate, Jamui",
+    "District Transport Office, Jamui",
+    "District Education Office, Jamui",
+    "District Agriculture Office, Jamui",
+    "District Health Office, Jamui",
+    "District Rural Development Agency (DRDA), Jamui"
+  ],
+
+  "publicDistributionSystem": "Essential commodities are distributed through the Public Distribution System (PDS) under the National Food Security Act.",
+
+  "eGovernanceServices": [
+    "RTPS Bihar",
+    "e-District Services",
+    "Bihar Bhumi",
+    "Bihar e-Procurement",
+    "Bihar Right to Public Services Portal"
+  ],
+
+  "citizenServices": [
+    "Birth Certificate",
+    "Death Certificate",
+    "Caste Certificate",
+    "Income Certificate",
+    "Residence Certificate",
+    "Property Registration",
+    "Online Land Records"
+  ]
+},
+
+  "lawAndOrder": {
+  "policeDistrict": "Jamui Police District",
+
+  "policeStations": [
+    "Jamui",
+    "Jhajha",
+    "Sikandra",
+    "Sono",
+    "Khaira",
+    "Chakai"
+  ],
+
+  "womenPoliceStations": [
+    "Mahila Police Station, Jamui"
+  ],
+
+  "cyberCrimePoliceStation": "Cyber Crime Police Station, Jamui",
+
+  "trafficPolice": "Traffic Police regulate traffic and road safety across major towns and highways in the district.",
+
+  "prisons": [
+    "District Jail, Jamui"
+  ],
+
+  "emergencyNumbers": [
+    "112 (Emergency Response Support System)",
+    "100 (Police)",
+    "101 (Fire)",
+    "108 (Ambulance)"
+  ],
+
+  "crimePreventionInitiatives": [
+    "Community Policing",
+    "Cyber Crime Awareness Campaigns",
+    "Women Safety Initiatives",
+    "Road Safety Awareness Programmes",
+    "Anti-Drug Awareness Campaigns"
+  ],
+
+  "disasterManagement": "The District Disaster Management Authority (DDMA) coordinates flood, drought and other emergency response measures in Jamui."
+},
+
+  "environment": {
+  "forestCover": "Jamui has significant forest cover, mainly in the Chakai, Sono and Khaira regions.",
+
+  "majorForests": [
+    "Chakai Forest Area",
+    "Sono Forest Area",
+    "Khaira Forest Area"
+  ],
+
+  "protectedAreas": [],
+
+  "wetlands": [
+    "Ulhar Wetlands",
+    "Village Ponds",
+    "Seasonal Wetlands"
+  ],
+
+  "rivers": [
+    "Kiul",
+    "Ulai",
+    "Anjan"
+  ],
+
+  "lakes": [
+    "Village Ponds",
+    "Irrigation Reservoirs"
+  ],
+
+  "biodiversity": [
+    "Peacock",
+    "Deer",
+    "Wild Boar",
+    "Reptiles"
+  ],
+
+  "environmentalIssues": [
+    "Deforestation",
+    "Soil Erosion",
+    "Illegal Mining"
+  ],
+
+  "conservationInitiatives": [
+    "Jal-Jeevan-Hariyali Abhiyan",
+    "Tree Plantation Drives",
+    "Water Conservation Programmes",
+    "Rainwater Harvesting",
+    "Plastic Waste Management Campaigns"
+  ]
+},
+
+  "mediaAndCommunication": {
+  "newspapers": [
+    "Hindustan",
+    "Dainik Jagran",
+    "Prabhat Khabar",
+    "The Times of India"
+  ],
+
+  "televisionChannels": [
+    "DD Bihar",
+    "News18 Bihar Jharkhand"
+  ],
+
+  "radioStations": [
+    "Akashvani Patna",
+    "FM Rainbow Patna"
+  ],
+
+  "newsPortals": [
+    "Jamui District Administration Website",
+    "PRD Bihar",
+    "State e-District Portal"
+  ],
+
+  "postalServices": "India Post provides postal and courier services across the district through Head and Sub Post Offices.",
+
+  "telecommunication": "4G and 5G mobile connectivity is available in most urban areas, while rural connectivity is steadily improving.",
+
+  "internetProviders": [
+    "BSNL",
+    "JioFiber",
+    "Airtel Xstream Fiber"
+  ],
+
+  "mobileNetworkOperators": [
+    "Jio",
+    "Airtel",
+    "Vi",
+    "BSNL"
+  ],
+
+  "digitalMedia": [
+    "Official District Website",
+    "Bihar Government Social Media Pages",
+    "Online News Portals",
+    "Digital Citizen Service Portals"
+  ]
+},
+
+  "rankingsAndAchievements": {
+  "stateRankings": [
+    "One of the major forest-rich districts of Bihar",
+    "Important agricultural district of South Bihar",
+    "Known for stone and mineral resources",
+    "Significant Jain pilgrimage district"
+  ],
+
+  "nationalRankings": [
+    "Lachhuar is an important Jain pilgrimage centre in India",
+    "Known for granite and stone resources",
+    "Recognized for forest and biodiversity conservation"
+  ],
+
+  "awards": [],
+
+  "notableAchievements": [
+    "Lachhuar is associated with the birthplace of the 9th Jain Tirthankara Suvidhinath",
+    "Steady improvement in road and railway connectivity",
+    "Expansion of education and healthcare infrastructure",
+    "Growth in agricultural and rural development"
+  ],
+
+  "developmentIndicators": [
+    "Expansion of road connectivity",
+    "Improvement in healthcare and educational facilities",
+    "Expansion of digital connectivity",
+    "Growth in agriculture and rural economy",
+    "Increase in afforestation and conservation initiatives"
+  ],
+
+  "records": [
+    "Home to the famous Jain pilgrimage site of Lachhuar",
+    "One of Bihar's important forest and mineral resource districts",
+    "Known for granite, stone mining and natural landscapes"
+  ]
+},
+
+  "miscellaneous": {
+  "famousPersonalities": [
+    "Bhola Paswan Shastri",
+    "Kshama Sagar Maharaj"
+  ],
+
+  "nicknames": [
+    "Land of Forests and Hills",
+    "Jain Pilgrimage District of Bihar"
+  ],
+
+  "importantDates": [
+    "1991 – Jamui became a separate district",
+    "Ancient Period – Part of the Magadha Kingdom",
+    "Jain Era – Lachhuar became an important Jain pilgrimage site"
+  ],
+
+  "festivals": [
+    "Chhath Puja",
+    "Durga Puja",
+    "Mahavir Jayanti",
+    "Makar Sankranti"
+  ],
+
+  "localFoods": [
+    "Litti Chokha",
+    "Thekua",
+    "Khaja",
+    "Tilkut"
+  ],
+
+  "famousMarkets": [
+    "Jamui Main Market",
+    "Jhajha Market",
+    "Sikandra Market",
+    "Sono Market"
+  ],
+
+  "emergencyContacts": [
+    "Police – 112",
+    "Women Helpline – 181",
+    "Ambulance – 108"
+  ],
+
+  "officialWebsite": "https://jamui.nic.in",
+
+  "additionalInformation": [
+    "Jamui is known for its forests, hills and mineral resources.",
+    "Lachhuar is an important Jain pilgrimage centre.",
+    "The district has rich biodiversity and wildlife.",
+    "Agriculture, forestry and stone mining are major contributors to the local economy."
+  ]
+}
+}
