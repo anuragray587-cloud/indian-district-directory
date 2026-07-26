@@ -1,0 +1,881 @@
+{  "state": "Bihar",
+  "district": "Gopalganj",
+  "slug": "gopalganj",
+  "language": "en",
+  "version": "1.0",
+  "lastUpdated": "",
+  "name": "Gopalganj",
+  "slug": "gopalganj",
+  "state": "Bihar",
+
+  "basicInformation": {
+  "headquarters": "Gopalganj",
+  "established": "2 October 1973",
+  "areaKm2": 2033,
+  "population": 2562012,
+  "districtCode": "GPL",
+  "division": "Saran",
+  "subdivisions": 2,
+  "anchals": 14,
+  "blocks": 14,
+  "panchayats": 234,
+  "villages": 1567,
+  "towns": 4,
+  "policeStations": 18,
+  "lokSabhaConstituencies": 1,
+  "assemblyConstituencies": 6,
+  "pinCodeRange": "841428 - 841446",
+  "vehicleRegistrationCode": "BR-28",
+  "elevation": "81 m",
+  "coordinates": {
+    "latitude": "26.47° N",
+    "longitude": "84.43° E"
+  },
+  "officialWebsite": "https://gopalganj.nic.in"
+},
+
+  "history": {
+  "historicalImportance": "Gopalganj has historical significance as part of the ancient Kosala and later medieval kingdoms. It is also known as the birthplace of Dr. Rajendra Prasad, the first President of India.",
+  "formationHistory": "Gopalganj district was carved out of Saran district on 2 October 1973 to improve administrative efficiency.",
+  "freedomMovement": "The district actively participated in the Indian freedom movement, especially during the Non-Cooperation Movement, Civil Disobedience Movement and Quit India Movement.",
+  "archaeologicalImportance": "The district contains several historical temples, old forts, archaeological mounds and ancient religious sites reflecting its rich cultural heritage.",
+  "asiProtectedMonuments": [],
+  "historicalTimeline": [
+    "Ancient period – Part of the Kosala region and later various Indian kingdoms",
+    "Medieval period – Ruled by the Delhi Sultanate and Mughal Empire",
+    "1857 – Residents participated in the First War of Independence",
+    "2 October 1973 – Gopalganj district was formed from Saran district",
+    "Present – Important agricultural district of Bihar"
+  ]
+},
+
+  "geography": {
+  "location": "Gopalganj district is located in the north-western part of Bihar, near the Uttar Pradesh border, in the Saran Division.",
+  "boundaries": {
+    "north": "West Champaran District",
+    "south": "Siwan District",
+    "east": "East Champaran and Saran Districts",
+    "west": "Kushinagar District (Uttar Pradesh)"
+  },
+  "area": "2,033 sq km",
+  "elevation": "81 m",
+  "climate": "Humid subtropical climate with hot summers, monsoon rains and cool winters",
+  "rainfall": "Approximately 1,100 mm annually",
+  "rivers": [
+    "Gandak",
+    "Little Gandak",
+    "Jharahi",
+    "Khanua"
+  ],
+  "hills": [],
+  "forests": "Very limited forest cover",
+  "soilTypes": [
+    "New Alluvial Soil",
+    "Old Alluvial Soil",
+    "Sandy Loam",
+    "Clay Loam"
+  ],
+  "naturalResources": [
+    "Fertile Agricultural Land",
+    "Groundwater",
+    "River Sand",
+    "Clay"
+  ]
+},
+
+  "demographics": {
+  "totalPopulation": "2,562,012",
+  "malePopulation": "1,262,280",
+  "femalePopulation": "1,299,732",
+  "sexRatio": "1,030 females per 1000 males",
+  "populationDensity": "1,260 persons/km²",
+  "literacyRate": "65.47%",
+  "maleLiteracyRate": "76.14%",
+  "femaleLiteracyRate": "55.16%",
+  "urbanPopulation": "6.93%",
+  "ruralPopulation": "93.07%",
+
+  "religions": [
+    "Hinduism",
+    "Islam",
+    "Christianity",
+    "Sikhism",
+    "Jainism",
+    "Buddhism"
+  ],
+
+  "languages": [
+    "Hindi",
+    "Bhojpuri",
+    "Urdu"
+  ]
+},
+
+  "administration": {
+  "administrativeDivision": "Saran Division",
+
+  "subDivisions": [
+    "Gopalganj",
+    "Hathua"
+  ],
+
+  "blocks": [
+    "Baikunthpur",
+    "Barauli",
+    "Bhorey",
+    "Bijaipur",
+    "Gopalganj",
+    "Hathua",
+    "Kuchaikote",
+    "Manjha",
+    "Panchdeori",
+    "Phulwaria",
+    "Sidhwalia",
+    "Thawe",
+    "Uchkagaon",
+    "Kateya"
+  ],
+
+  "circles": [
+    "Baikunthpur",
+    "Barauli",
+    "Bhorey",
+    "Bijaipur",
+    "Gopalganj",
+    "Hathua",
+    "Kuchaikote",
+    "Manjha",
+    "Panchdeori",
+    "Phulwaria",
+    "Sidhwalia",
+    "Thawe",
+    "Uchkagaon",
+    "Kateya"
+  ],
+
+  "gramPanchayats": 234,
+  "villages": 1567,
+
+  "municipalCorporation": "",
+
+  "municipalities": [
+    "Gopalganj",
+    "Mirganj"
+  ],
+
+  "nagarPanchayats": [
+    "Thawe",
+    "Kateya"
+  ],
+
+  "policeStations": [],
+
+  "assemblyConstituencies": [
+    "Baikunthpur",
+    "Barauli",
+    "Gopalganj",
+    "Kuchaikote",
+    "Bhorey (SC)",
+    "Hathua"
+  ],
+
+  "lokSabhaConstituency": "Gopalganj (SC)"
+},
+
+  "economy": {
+  "gdp": "Not officially available",
+
+  "majorIndustries": [
+    "Agriculture",
+    "Food Processing",
+    "Rice Mills",
+    "Sugar Industry",
+    "Dairy"
+  ],
+
+  "majorCrops": [
+    "Paddy",
+    "Wheat",
+    "Maize",
+    "Sugarcane",
+    "Pulses"
+  ],
+
+  "majorEmployers": [
+    "Agriculture Sector",
+    "Sugar Mills",
+    "Food Processing Industries",
+    "Government Services",
+    "Small and Medium Enterprises (MSMEs)"
+  ],
+
+  "banking": [
+    "State Bank of India",
+    "Punjab National Bank",
+    "Union Bank of India",
+    "Central Bank of India"
+  ],
+
+  "industrialAreas": [
+    "Gopalganj Industrial Area",
+    "Hathua Industrial Area"
+  ],
+
+  "specialEconomicFeatures": [
+    "Highly fertile alluvial agricultural land",
+    "Major producer of sugarcane, paddy and maize",
+    "Growing dairy and food processing sector",
+    "Strategic location near Uttar Pradesh"
+  ]
+},
+
+  "agriculture": {
+  "majorCrops": [
+    "Paddy",
+    "Wheat",
+    "Maize",
+    "Sugarcane",
+    "Pulses"
+  ],
+
+  "cashCrops": [
+    "Sugarcane",
+    "Oilseeds",
+    "Tobacco"
+  ],
+
+  "fruits": [
+    "Banana",
+    "Mango",
+    "Guava",
+    "Litchi"
+  ],
+
+  "vegetables": [
+    "Potato",
+    "Tomato",
+    "Brinjal",
+    "Cauliflower",
+    "Cabbage"
+  ],
+
+  "irrigationSources": [
+    "Gandak River",
+    "Little Gandak River",
+    "Canals",
+    "Tube Wells"
+  ],
+
+  "livestock": [
+    "Cattle",
+    "Buffalo",
+    "Goat",
+    "Poultry"
+  ],
+
+  "dairyDevelopment": "Dairy farming is an important source of income, supported by milk cooperative societies and private dairies.",
+
+  "fisheries": "Fish farming is practiced in ponds, oxbow lakes and other inland water bodies.",
+
+  "agriculturalMarkets": [
+    "Gopalganj",
+    "Hathua",
+    "Mirganj",
+    "Barauli",
+    "Kuchaikote"
+  ],
+
+  "krishiVigyanKendra": "Krishi Vigyan Kendra (KVK), Gopalganj"
+},
+
+  "infrastructure": {
+  "roadNetwork": "Gopalganj has a well-developed road network connecting all blocks with major cities of Bihar and neighboring Uttar Pradesh.",
+
+  "nationalHighways": [
+    "NH-27"
+  ],
+
+  "stateHighways": [
+    "SH-90",
+    "SH-91"
+  ],
+
+  "railwayStations": [
+    "Gopalganj",
+    "Thawe Junction",
+    "Hathua",
+    "Sipaya",
+    "Sasa Musa"
+  ],
+
+  "majorRailwayJunctions": [
+    "Thawe Junction"
+  ],
+
+  "airConnectivity": "The nearest airport is Jay Prakash Narayan International Airport, Patna. Kushinagar International Airport (Uttar Pradesh) is also relatively nearby.",
+
+  "publicTransport": "Bihar State Road Transport Corporation (BSRTC), private buses, taxis and auto-rickshaws provide public transport.",
+
+  "electricity": "Most urban and rural areas have access to electricity under the Bihar power distribution network.",
+
+  "waterSupply": "Urban areas receive piped water supply, while rural areas depend on hand pumps, tube wells and government water supply schemes.",
+
+  "internetConnectivity": "4G and 5G mobile services are available in most parts of the district, along with broadband internet."
+},
+
+  "education": {
+  "literacyRate": "65.47%",
+  "maleLiteracy": "76.14%",
+  "femaleLiteracy": "55.16%",
+
+  "governmentSchools": "More than 2,500 government schools operate across the district.",
+
+  "privateSchools": "Several CBSE, ICSE and Bihar Board affiliated private schools are located in Gopalganj district.",
+
+  "colleges": [
+    "Kamla Rai College, Gopalganj",
+    "Mahendra Mahila College, Gopalganj",
+    "Gopeshwar College, Hathua",
+    "S.M.D. College, Punpun? "
+  ],
+
+  "universities": [
+    "Jai Prakash University, Chapra (Affiliating University)"
+  ],
+
+  "technicalInstitutes": [
+    "Government Polytechnic, Gopalganj",
+    "Government ITI, Gopalganj"
+  ],
+
+  "medicalColleges": [
+    "No Government Medical College in the district"
+  ],
+
+  "notableEducationalInstitutions": [
+    "Kamla Rai College, Gopalganj",
+    "Mahendra Mahila College, Gopalganj",
+    "Government Polytechnic, Gopalganj",
+    "Government ITI, Gopalganj"
+  ]
+},
+
+  "healthcare": {
+  "districtHospital": "Sadar Hospital, Gopalganj",
+
+  "subDivisionalHospitals": [
+    "Sub-Divisional Hospital, Hathua"
+  ],
+
+  "communityHealthCentres": [
+    "CHC Barauli",
+    "CHC Baikunthpur",
+    "CHC Kuchaikote",
+    "CHC Manjha",
+    "CHC Sidhwalia"
+  ],
+
+  "primaryHealthCentres": "Primary Health Centres (PHCs) are functioning across all blocks of the district.",
+
+  "medicalColleges": [
+    "No Government Medical College in the district"
+  ],
+
+  "ambulanceServices": "102 and 108 ambulance services are available throughout the district.",
+
+  "majorHealthPrograms": [
+    "Ayushman Bharat",
+    "National Health Mission",
+    "Janani Suraksha Yojana",
+    "Universal Immunization Programme",
+    "Mission Indradhanush"
+  ],
+
+  "bloodBanks": [
+    "Sadar Hospital Blood Bank, Gopalganj"
+  ],
+
+  "notableHospitals": [
+    "Sadar Hospital, Gopalganj",
+    "Sub-Divisional Hospital, Hathua",
+    "CHC Barauli",
+    "CHC Baikunthpur",
+    "CHC Kuchaikote"
+  ]
+},
+
+  "cultureAndHeritage": {
+  "festivals": [
+    "Chhath Puja",
+    "Holi",
+    "Diwali",
+    "Durga Puja",
+    "Eid"
+  ],
+
+  "languages": [
+    "Hindi",
+    "Bhojpuri",
+    "Urdu"
+  ],
+
+  "folkDance": [
+    "Jat-Jatin",
+    "Jhijhiya",
+    "Domkach"
+  ],
+
+  "folkMusic": [
+    "Birha",
+    "Kajari",
+    "Sohar"
+  ],
+
+  "traditionalDress": "Men traditionally wear Dhoti-Kurta and women wear Saree and Salwar-Kameez.",
+
+  "cuisine": [
+    "Litti Chokha",
+    "Thekua",
+    "Sattu Paratha",
+    "Khaja"
+  ],
+
+  "handicrafts": [
+    "Bamboo Craft",
+    "Handloom Products",
+    "Pottery"
+  ],
+
+  "historicalHeritage": [
+    "Thawe Mandir",
+    "Hathua Raj",
+    "Vaman Gandey Pond"
+  ],
+
+  "culturalOrganizations": [
+    "District Art and Culture Office, Gopalganj",
+    "Bihar Department of Art, Culture and Youth",
+    "Local Bhojpuri Cultural Organizations"
+  ]
+},
+
+  "tourism": {
+  "majorTouristAttractions": [
+    "Thawe Mandir",
+    "Hathua Raj Palace",
+    "Vaman Gandey Pond"
+  ],
+
+  "religiousPlaces": [
+    "Thawe Durga Temple",
+    "Lakri Dargah",
+    "Thawe Temple Complex"
+  ],
+
+  "historicalSites": [
+    "Hathua Raj Palace",
+    "Freedom Movement Memorials"
+  ],
+
+  "naturalAttractions": [
+    "Gandak River",
+    "Saryu (Ghaghara) River",
+    "Village Wetlands"
+  ],
+
+  "wildlifeSanctuaries": [],
+
+  "annualFairs": [
+    "Thawe Mela",
+    "Chhath Festival",
+    "Durga Puja Fair",
+    "Ram Navami Fair"
+  ],
+
+  "bestTimeToVisit": "October to March",
+
+  "nearbyTouristDestinations": [
+    "Siwan",
+    "Chapra",
+    "Kushinagar (Uttar Pradesh)",
+    "Valmiki Tiger Reserve",
+    "Patna"
+  ]
+},
+
+  "sports": {
+  "majorSports": [
+    "Cricket",
+    "Football",
+    "Kabaddi",
+    "Volleyball",
+    "Badminton"
+  ],
+
+  "stadiums": [
+    "District Sports Stadium, Gopalganj",
+    "Minz Stadium, Gopalganj"
+  ],
+
+  "sportsComplexes": [
+    "District Sports Complex, Gopalganj",
+    "Indoor Sports Hall, Gopalganj"
+  ],
+
+  "famousSportspersons": [],
+
+  "sportsAcademies": [
+    "District Sports Training Centre, Gopalganj",
+    "Bihar State Sports Authority Training Centre"
+  ],
+
+  "annualSportsEvents": [
+    "District Sports Meet",
+    "School Sports Competitions",
+    "Khelo India District Level Events",
+    "Inter-College Sports Tournament"
+  ],
+
+  "governmentSportsPrograms": [
+    "Khelo India",
+    "Fit India Movement",
+    "Bihar State Sports Development Program"
+  ],
+
+  "sportsAchievements": [
+    "District athletes regularly participate in Bihar state-level competitions",
+    "School and college teams represent Gopalganj in regional tournaments",
+    "Growing participation in cricket, football and kabaddi"
+  ]
+},
+
+  "bankingAndFinance": {
+  "nationalizedBanks": [
+    "State Bank of India",
+    "Punjab National Bank",
+    "Bank of Baroda",
+    "Canara Bank",
+    "Union Bank of India"
+  ],
+
+  "privateBanks": [
+    "HDFC Bank",
+    "ICICI Bank",
+    "Axis Bank"
+  ],
+
+  "regionalRuralBanks": [
+    "Dakshin Bihar Gramin Bank"
+  ],
+
+  "cooperativeBanks": [
+    "Bihar State Cooperative Bank",
+    "Gopalganj Central Cooperative Bank"
+  ],
+
+  "atms": "ATMs of major public sector and private banks are available across the district.",
+
+  "digitalBanking": "UPI, Internet Banking, Mobile Banking and Aadhaar Enabled Payment System (AEPS) services are widely available.",
+
+  "microfinanceInstitutions": [
+    "Bandhan",
+    "CreditAccess Grameen",
+    "Fusion Finance",
+    "Satin Creditcare"
+  ],
+
+  "financialInclusionPrograms": [
+    "Pradhan Mantri Jan Dhan Yojana",
+    "Pradhan Mantri Jeevan Jyoti Bima Yojana",
+    "Pradhan Mantri Suraksha Bima Yojana",
+    "Stand-Up India"
+  ],
+
+  "majorInsuranceCompanies": [
+    "Life Insurance Corporation of India (LIC)",
+    "New India Assurance",
+    "National Insurance Company",
+    "United India Insurance",
+    "ICICI Lombard",
+    "HDFC ERGO"
+  ]
+},
+
+  "governanceAndPublicServices": {
+  "districtAdministration": "Gopalganj district is administered by the District Magistrate with support from various government departments.",
+
+  "municipalBodies": [
+    "Gopalganj Municipal Council",
+    "Hathua Nagar Panchayat",
+    "Mirganj Nagar Parishad",
+    "Barauli Nagar Panchayat"
+  ],
+
+  "policeAdministration": "Law and order is maintained by Gopalganj Police under the Bihar Police.",
+
+  "fireServices": "Fire stations operate in Gopalganj town and other major urban centres.",
+
+  "judiciary": [
+    "District and Sessions Court, Gopalganj"
+  ],
+
+  "governmentOffices": [
+    "District Collectorate, Gopalganj",
+    "District Health Office, Gopalganj",
+    "District Rural Development Agency (DRDA), Gopalganj"
+  ],
+
+  "publicDistributionSystem": "Essential commodities are distributed through the Public Distribution System (PDS).",
+
+  "eGovernanceServices": [
+    "RTPS Bihar",
+    "e-District Services",
+    "Bihar Bhumi",
+    "Bihar e-Procurement",
+    "Bihar Right to Public Services Portal"
+  ],
+
+  "citizenServices": [
+    "Birth Certificate",
+    "Death Certificate",
+    "Caste Certificate",
+    "Income Certificate",
+    "Residence Certificate",
+    "Driving Licence Services",
+    "Property Registration",
+    "Online Land Records"
+  ]
+},
+
+  "lawAndOrder": {
+  "policeDistrict": "Gopalganj Police District",
+
+  "policeStations": [
+    "Gopalganj Town",
+    "Hathua",
+    "Barauli",
+    "Kuchaikote",
+    "Baikunthpur"
+  ],
+
+  "womenPoliceStations": [
+    "Mahila Police Station, Gopalganj"
+  ],
+
+  "cyberCrimePoliceStation": "Cyber Crime Police Station, Gopalganj",
+
+  "trafficPolice": "Traffic Police regulate traffic in Gopalganj town and major highways.",
+
+  "prisons": [
+    "District Jail, Gopalganj"
+  ],
+
+  "emergencyNumbers": [
+    "112 (Emergency Response Support System)",
+    "100 (Police)",
+    "101 (Fire)",
+    "108 (Ambulance)"
+  ],
+
+  "crimePreventionInitiatives": [
+    "Community Policing",
+    "Cyber Crime Awareness Campaigns",
+    "Women Safety Initiatives",
+    "Road Safety Awareness Programmes",
+    "Anti-Drug Awareness Campaigns"
+  ],
+
+  "disasterManagement": "The District Disaster Management Authority (DDMA), Gopalganj coordinates flood management, disaster preparedness and emergency response."
+},
+
+  "environment": {
+  "forestCover": "Forest cover is limited, mainly along the Gandak river basin and scattered plantation areas.",
+
+  "majorForests": [
+    "Banke Bazar Plantation Area",
+    "Gandak River Plantation Belt"
+  ],
+
+  "protectedAreas": [],
+
+  "wetlands": [
+    "Gandak Floodplain Wetlands",
+    "Village Ponds",
+    "Seasonal Wetlands"
+  ],
+
+  "rivers": [
+    "Gandak",
+    "Ghaghara (Saryu)"
+  ],
+
+  "lakes": [
+    "Village Ponds",
+    "Irrigation Reservoirs"
+  ],
+
+  "biodiversity": [
+    "Gangetic River Dolphin",
+    "Peacock",
+    "Reptiles"
+  ],
+
+  "environmentalIssues": [
+    "Flooding",
+    "River Bank Erosion",
+    "Water Pollution"
+  ],
+
+  "conservationInitiatives": [
+    "Jal-Jeevan-Hariyali Abhiyan",
+    "Tree Plantation Drives",
+    "Water Conservation Programmes",
+    "Rainwater Harvesting",
+    "Plastic Waste Management Campaigns"
+  ]
+},
+
+  "mediaAndCommunication": {
+  "newspapers": [
+    "Hindustan",
+    "Dainik Jagran",
+    "Prabhat Khabar",
+    "The Times of India"
+  ],
+
+  "televisionChannels": [
+    "DD Bihar",
+    "News18 Bihar Jharkhand",
+    "Zee Bihar Jharkhand",
+    "ETV Bharat Bihar"
+  ],
+
+  "radioStations": [
+    "All India Radio Gorakhpur",
+    "All India Radio Patna",
+    "FM Rainbow Patna"
+  ],
+
+  "newsPortals": [
+    "Gopalganj District Administration Website",
+    "Bihar Government Portal",
+    "PRD Bihar"
+  ],
+
+  "postalServices": "India Post provides postal services across the district through head and branch post offices.",
+
+  "telecommunication": "4G and 5G mobile connectivity is available in most parts of the district.",
+
+  "internetProviders": [
+    "BSNL",
+    "JioFiber",
+    "Airtel Xstream Fiber"
+  ],
+
+  "mobileNetworkOperators": [
+    "Jio",
+    "Airtel",
+    "Vi",
+    "BSNL"
+  ],
+
+  "digitalMedia": [
+    "Official District Website",
+    "Bihar Government Social Media Pages",
+    "Online News Portals",
+    "Digital Citizen Service Portals"
+  ]
+},
+
+  "rankingsAndAchievements": {
+  "stateRankings": [
+    "Major agricultural district of Bihar",
+    "Important sugarcane producing district",
+    "One of the prominent districts of North-West Bihar",
+    "Known for fertile Gangetic plains"
+  ],
+
+  "nationalRankings": [
+    "Recognized for sugarcane production",
+    "Known for fertile agricultural land",
+    "Contributes significantly to Bihar's agriculture"
+  ],
+
+  "awards": [],
+
+  "notableAchievements": [
+    "One of Bihar's leading sugarcane producing districts",
+    "Important producer of paddy, wheat and maize",
+    "Strong rural economy based on agriculture",
+    "Growing road and digital infrastructure"
+  ],
+
+  "developmentIndicators": [
+    "Expansion of road connectivity",
+    "Improvement in healthcare and educational facilities",
+    "Growth in digital connectivity",
+    "Expansion of irrigation facilities",
+    "Development of agriculture and rural economy"
+  ],
+
+  "records": [
+    "Known as one of Bihar's major sugarcane producing districts",
+    "Located on the fertile Gangetic plains",
+    "Important agricultural district of North Bihar"
+  ]
+},
+
+  "miscellaneous": {
+  "famousPersonalities": [
+    "Syed Mahmud",
+    "Raj Mangal Pandey"
+  ],
+
+  "nicknames": [
+    "Sugarcane City of Bihar",
+    "Gateway of Saran"
+  ],
+
+  "importantDates": [
+    "2 October 1973 – Gopalganj district was formed",
+    "15 August 1947 – Became part of independent India"
+  ],
+
+  "festivals": [
+    "Chhath Puja",
+    "Durga Puja",
+    "Holi",
+    "Diwali"
+  ],
+
+  "localFoods": [
+    "Litti Chokha",
+    "Thekua",
+    "Khaja",
+    "Sattu Paratha"
+  ],
+
+  "famousMarkets": [
+    "Gopalganj Main Market",
+    "Thawe Market",
+    "Mirganj Market",
+    "Barauli Market"
+  ],
+
+  "emergencyContacts": [
+    "Police – 112",
+    "Fire – 101",
+    "Ambulance – 108",
+    "Women Helpline – 181"
+  ],
+
+  "officialWebsite": "https://gopalganj.nic.in",
+
+  "additionalInformation": [
+    "Gopalganj is one of Bihar's important agricultural districts.",
+    "The district is famous for sugarcane cultivation and fertile alluvial soil.",
+    "Thawe Durga Temple is the district's most prominent religious site.",
+    "Agriculture, trade and dairy farming are the backbone of the local economy."
+  ]
+}
+}
