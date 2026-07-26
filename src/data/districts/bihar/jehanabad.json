@@ -1,0 +1,858 @@
+{  "state": "Bihar",
+  "district": "Jehanabad",
+  "slug": "jehanabad",
+  "language": "en",
+  "version": "1.0",
+  "lastUpdated": "",
+  "name": "Jehanabad",
+  "slug": "jehanabad",
+  "state": "Bihar",
+
+  "basicInformation": {
+  "headquarters": "Jehanabad",
+  "established": "1 August 1986",
+  "areaKm2": 1569,
+  "population": 1125313,
+  "districtCode": "JEH",
+  "division": "Magadh",
+  "subDivision": 2,
+  "anchals": 7,
+  "blocks": 7,
+  "panchayats": 88,
+  "villages": 286,
+  "towns": 5,
+  "policeStations": 11,
+  "lokSabhaConstituencies": 1,
+  "assemblyConstituencies": 4,
+  "pinCodeRange": "804406 – 804429",
+  "vehicleRegistrationCode": "BR-25",
+  "elevation": "68 m",
+  "coordinates": {
+    "latitude": "25.21° N",
+    "longitude": "84.99° E"
+  },
+  "officialWebsite": "https://jehanabad.nic.in"
+},
+
+  "history": {
+  "historicalImportance": "Jehanabad has historical significance as part of the ancient Magadha region and has been associated with the Maurya and Gupta empires. It is known for several archaeological and historical sites.",
+
+  "formationHistory": "Jehanabad was carved out of the erstwhile Gaya district and became an independent district on 1 August 1986.",
+
+  "freedomMovement": "The district actively participated in the Indian freedom movement through the Non-Cooperation Movement, Civil Disobedience Movement and Quit India Movement.",
+
+  "archaeologicalImportance": "The district contains several ancient temples, inscriptions and archaeological remains reflecting the heritage of Magadha.",
+
+  "asiProtectedMonuments": [
+    "Barabar Caves",
+    "Nagarjuni Caves",
+    "Ancient Sculptures and Inscriptions"
+  ],
+
+  "historicalTimeLine": [
+    "Ancient Period – Part of the Magadha Kingdom",
+    "3rd Century BCE – Flourished under the Maurya Empire",
+    "Gupta Period – Continued as an important administrative region",
+    "1 August 1986 – Jehanabad became a separate district",
+    "Present – Developing district of Magadh Division"
+  ]
+},
+
+  "geography": {
+  "location": "Jehanabad district is located in the southern part of Bihar and is a part of the Magadh Division.",
+
+  "boundaries": {
+    "north": "Patna district",
+    "south": "Gaya district",
+    "east": "Nalanda district",
+    "west": "Arwal district"
+  },
+
+  "area": "1,569 sq km",
+
+  "elevation": "68 m",
+
+  "climate": "Subtropical climate with hot summers, moderate monsoon and cool winters",
+
+  "rainfall": "Approximately 1,030 mm annually",
+
+  "rivers": [
+    "Punpun",
+    "Dardha",
+    "Morhar"
+  ],
+
+  "hills": [],
+
+  "forests": "Limited forest cover, mainly scattered reserve forest areas",
+
+  "soilTypes": [
+    "Alluvial Soil",
+    "Clay Loam",
+    "Sandy Loam",
+    "Loamy Soil"
+  ],
+
+  "naturalResources": [
+    "Fertile Agricultural Land",
+    "Groundwater",
+    "Sand"
+  ]
+},
+
+  "demographics": {
+  "totalPopulation": "1,125,313",
+  "malePopulation": "584,431",
+  "femalePopulation": "540,882",
+  "sexRatio": "925 females per 1000 males",
+  "populationDensity": "717 persons/km²",
+  "literacyRate": "66.80%",
+  "maleLiteracyRate": "76.70%",
+  "femaleLiteracyRate": "56.08%",
+  "urbanPopulation": "11.80%",
+  "ruralPopulation": "88.20%",
+
+  "religions": [
+    "Hinduism",
+    "Islam",
+    "Christianity",
+    "Sikhism",
+    "Jainism",
+    "Buddhism"
+  ],
+
+  "languages": [
+    "Hindi",
+    "Magahi",
+    "Urdu"
+  ]
+},
+
+  "administration": {
+  "administrativeDivision": "Magadh Division",
+
+  "subDivisions": [
+    "Jehanabad",
+    "Makhdumpur"
+  ],
+
+  "blocks": [
+    "Jehanabad",
+    "Makhdumpur",
+    "Ghosi",
+    "Kako",
+    "Hulasganj",
+    "Modanganj",
+    "Ratni Faridpur"
+  ],
+
+  "circles": [
+    "Jehanabad",
+    "Makhdumpur",
+    "Ghosi",
+    "Kako",
+    "Hulasganj",
+    "Modanganj",
+    "Ratni Faridpur"
+  ],
+
+  "gramPanchayats": 88,
+
+  "villages": 286,
+
+  "municipalCorporation": "",
+
+  "municipalities": [
+    "Jehanabad"
+  ],
+
+  "nagarPanchayats": [
+    "Makhdumpur"
+  ],
+
+  "policeStations": [],
+
+  "assemblyConstituencies": [
+    "Jehanabad",
+    "Ghosi",
+    "Makhdumpur (SC)",
+    "Kurtha"
+  ],
+
+  "lokSabhaConstituency": "Jahanabad"
+},
+
+  "economy": {
+  "gdp": "Not officially available",
+
+  "majorIndustries": [
+    "Agriculture",
+    "Rice Mills",
+    "Food Processing",
+    "Handicrafts",
+    "Brick Manufacturing"
+  ],
+
+  "majorCrops": [
+    "Paddy",
+    "Wheat",
+    "Maize",
+    "Pulses"
+  ],
+
+  "majorEmployers": [
+    "Government Services",
+    "Agriculture",
+    "Small and Medium Enterprises (MSMEs)"
+  ],
+
+  "banking": [
+    "State Bank of India",
+    "Punjab National Bank",
+    "Bank of Baroda",
+    "Indian Bank"
+  ],
+
+  "industrialAreas": [
+    "Jehanabad Industrial Area"
+  ],
+
+  "specialEconomicFeatures": [
+    "Agriculture-based economy",
+    "Fertile alluvial plains",
+    "Growing food processing sector",
+    "MSME development",
+    "Expanding rural markets"
+  ]
+},
+
+  "agriculture": {
+  "majorCrops": [
+    "Paddy",
+    "Wheat",
+    "Maize",
+    "Pulses"
+  ],
+
+  "cashCrops": [
+    "Potato",
+    "Oilseeds",
+    "Sugarcane"
+  ],
+
+  "fruits": [
+    "Mango",
+    "Guava",
+    "Banana",
+    "Litchi"
+  ],
+
+  "vegetables": [
+    "Potato",
+    "Tomato",
+    "Brinjal",
+    "Cauliflower"
+  ],
+
+  "irrigationSources": [
+    "Dardha River",
+    "Punpun River",
+    "Canals",
+    "Tube Wells"
+  ],
+
+  "livestock": [
+    "Cattle",
+    "Buffalo",
+    "Goat",
+    "Poultry"
+  ],
+
+  "dairyDevelopment": "Dairy farming is an important supplementary source of income for rural households.",
+
+  "fisheries": "Fish farming is practiced in ponds and other inland water bodies.",
+
+  "agriculturalMarkets": [
+    "Jehanabad",
+    "Makhdumpur",
+    "Kako",
+    "Ghosi"
+  ],
+
+  "krishiVigyanKendra": "Krishi Vigyan Kendra (KVK), Jehanabad"
+},
+
+   "infrastructure": {
+  "roadNetwork": "Jehanabad has a well-connected road network linking all blocks with nearby districts.",
+
+  "nationalHighways": [
+    "NH-83",
+    "NH-110"
+  ],
+
+  "stateHighways": [
+    "SH-4",
+    "SH-69"
+  ],
+
+  "railwayStations": [
+    "Jehanabad",
+    "Makhdumpur",
+    "Nadaul"
+  ],
+
+  "majorRailwayJunctions": [
+    "Jehanabad"
+  ],
+
+  "airConnectivity": "Jay Prakash Narayan International Airport, Patna (about 60 km)",
+
+  "publicTransport": "Bihar State Road Transport Corporation (BSRTC), private buses, taxis and auto-rickshaws.",
+
+  "electricity": "Most urban and rural areas have electricity connectivity under state and central rural electrification schemes.",
+
+  "waterSupply": "Urban areas receive piped water supply, while rural areas depend on hand pumps and rural water supply schemes.",
+
+  "internetConnectivity": "4G and 5G mobile services are available in most parts of the district."
+},
+
+  "education": {
+  "literacyRate": "66.80%",
+  "maleLiteracy": "76.20%",
+  "femaleLiteracy": "57.00%",
+
+  "governmentSchools": "More than 1,000 government schools operate across the district.",
+
+  "privateSchools": "Several CBSE, ICSE and Bihar Board affiliated private schools are located in Jehanabad.",
+
+  "colleges": [
+    "S.N. Sinha College, Jehanabad",
+    "S.S. College, Jehanabad",
+    "R.L.S.Y. College, Jehanabad",
+    "Jehanabad Women's College"
+  ],
+
+  "universities": [
+    "Patliputra University, Patna (Affiliated Colleges)"
+  ],
+
+  "technicalInstitutes": [
+    "Government Polytechnic, Jehanabad",
+    "Government ITI, Jehanabad"
+  ],
+
+  "medicalColleges": [],
+
+  "notableEducationalInstitutions": [
+    "S.N. Sinha College, Jehanabad",
+    "S.S. College, Jehanabad",
+    "Government Polytechnic, Jehanabad",
+    "Government ITI, Jehanabad"
+  ]
+},
+
+  "healthcare": {
+  "districtHospital": "Sadar Hospital, Jehanabad",
+
+  "subDivisionalHospitals": [
+    "Sub-Divisional Hospital, Makhdumpur"
+  ],
+
+  "communityHealthCentres": [
+    "CHC Jehanabad",
+    "CHC Kako",
+    "CHC Makhdumpur",
+    "CHC Ghosi",
+    "CHC Modanganj"
+  ],
+
+  "primaryHealthCentres": "Primary Health Centres (PHCs) function across all blocks of the district.",
+
+  "medicalColleges": [],
+
+  "ambulanceServices": "102 and 108 ambulance services are available throughout the district.",
+
+  "majorHealthPrograms": [
+    "Ayushman Bharat",
+    "National Health Mission",
+    "Janani Suraksha Yojana",
+    "Universal Immunization Programme",
+    "Mission Indradhanush"
+  ],
+
+  "bloodBanks": [
+    "Sadar Hospital Blood Bank, Jehanabad"
+  ],
+
+  "notableHospitals": [
+    "Sadar Hospital, Jehanabad",
+    "Sub-Divisional Hospital, Makhdumpur",
+    "CHC Jehanabad",
+    "CHC Kako",
+    "CHC Ghosi"
+  ]
+},
+
+  "cultureAndHeritage": {
+  "festivals": [
+    "Chhath Puja",
+    "Durga Puja",
+    "Makar Sankranti",
+    "Holi",
+    "Diwali"
+  ],
+
+  "languages": [
+    "Hindi",
+    "Magahi",
+    "Urdu"
+  ],
+
+  "folkDance": [
+    "Jat-Jatin",
+    "Jhijhiya",
+    "Domkach"
+  ],
+
+  "folkMusic": [
+    "Kajari",
+    "Chaita",
+    "Sohar"
+  ],
+
+  "traditionalDress": "Men traditionally wear Dhoti-Kurta, while women wear Saree and Salwar-Kameez.",
+
+  "cuisine": [
+    "Litti Chokha",
+    "Khaja",
+    "Thekua",
+    "Sattu"
+  ],
+
+  "handicrafts": [
+    "Bamboo Craft",
+    "Handloom Products",
+    "Pottery"
+  ],
+
+  "historicalHeritage": [
+    "Barabar Caves",
+    "Siddheshwar Nath Temple",
+    "Ancient Magadh Heritage Sites"
+  ],
+
+  "culturalOrganizations": [
+    "District Art and Culture Office, Jehanabad",
+    "Bihar Department of Art, Culture and Youth"
+  ]
+},
+
+  "tourism": {
+  "majorTouristAttractions": [
+    "Barabar Caves",
+    "Siddheshwar Nath Temple",
+    "Dardha River"
+  ],
+
+  "religiousPlaces": [
+    "Siddheshwar Nath Temple",
+    "Baba Koteshwarnath Temple"
+  ],
+
+  "historicalSites": [
+    "Barabar Caves",
+    "Nagarjuni Caves"
+  ],
+
+  "naturalAttractions": [
+    "Dardha River",
+    "Barabar Hills"
+  ],
+
+  "wildlifeSanctuaries": [],
+
+  "annualFairs": [
+    "Shravani Mela",
+    "Chhath Festival",
+    "Ram Navami Fair",
+    "Makar Sankranti Fair"
+  ],
+
+  "bestTimeToVisit": "October to March",
+
+  "nearbyTouristDestinations": [
+    "Gaya",
+    "Nalanda",
+    "Rajgir",
+    "Patna",
+    "Arwal"
+  ]
+},
+
+  "sports": {
+  "majorSports": [
+    "Cricket",
+    "Football",
+    "Kabaddi",
+    "Volleyball",
+    "Athletics"
+  ],
+
+  "stadiums": [
+    "District Sports Stadium, Jehanabad"
+  ],
+
+  "sportsComplexes": [
+    "District Sports Complex, Jehanabad",
+    "Indoor Sports Hall, Jehanabad"
+  ],
+
+  "famousSportspersons": [],
+
+  "sportsAcademies": [
+    "District Sports Training Centre, Jehanabad",
+    "Bihar State Sports Authority Training Centre"
+  ],
+
+  "annualSportsEvents": [
+    "District Sports Meet",
+    "School Sports Competitions",
+    "Khelo India District Level Events",
+    "Inter-College Sports Tournament"
+  ],
+
+  "governmentSportsPrograms": [
+    "Khelo India",
+    "Fit India Movement",
+    "Bihar State Sports Development Program"
+  ],
+
+  "sportsAchievements": [
+    "District athletes regularly participate in state-level competitions.",
+    "School and college teams represent Jehanabad in inter-district tournaments.",
+    "Growing participation in cricket, football and athletics."
+  ]
+},
+
+  "bankingAndFinance": {
+  "nationalizedBanks": [
+    "State Bank of India",
+    "Punjab National Bank",
+    "Bank of India",
+    "Canara Bank"
+  ],
+
+  "privateBanks": [
+    "HDFC Bank",
+    "ICICI Bank",
+    "Axis Bank"
+  ],
+
+  "regionalRuralBanks": [
+    "Dakshin Bihar Gramin Bank"
+  ],
+
+  "cooperativeBanks": [
+    "Bihar State Cooperative Bank",
+    "Jehanabad Central Cooperative Bank"
+  ],
+
+  "atms": "ATMs of major public sector and private banks are available across the district.",
+
+  "digitalBanking": "UPI, Internet Banking, Mobile Banking and Aadhaar Enabled Payment System (AePS) services are widely available.",
+
+  "microfinanceInstitutions": [
+    "Bandhan",
+    "CreditAccess Grameen",
+    "Fusion Finance",
+    "Satin Creditcare"
+  ],
+
+  "financialInclusionPrograms": [
+    "Pradhan Mantri Jan Dhan Yojana",
+    "Stand-Up India",
+    "Pradhan Mantri Mudra Yojana"
+  ],
+
+  "majorInsuranceCompanies": [
+    "Life Insurance Corporation of India (LIC)",
+    "New India Assurance",
+    "National Insurance Company",
+    "United India Insurance",
+    "ICICI Lombard",
+    "HDFC ERGO"
+  ]
+},
+
+  "governanceAndPublicServices": {
+  "districtAdministration": "Jehanabad district is administered by the District Magistrate (DM) with support from various district-level departments.",
+
+  "municipalBodies": [
+    "Jehanabad Nagar Parishad",
+    "Makhdumpur Nagar Panchayat"
+  ],
+
+  "policeAdministration": "Law and order is maintained by Jehanabad Police under the Bihar Police.",
+
+  "fireServices": "Fire stations operate in Jehanabad town and other strategic locations of the district.",
+
+  "judiciary": [
+    "District and Sessions Court, Jehanabad"
+  ],
+
+  "governmentOffices": [
+    "District Collectorate, Jehanabad",
+    "District Transport Office, Jehanabad",
+    "District Education Office, Jehanabad",
+    "District Agriculture Office, Jehanabad",
+    "District Health Office, Jehanabad",
+    "District Rural Development Agency (DRDA), Jehanabad"
+  ],
+
+  "publicDistributionSystem": "Essential commodities are distributed through Fair Price Shops under the Public Distribution System (PDS).",
+
+  "eGovernanceServices": [
+    "RTPS Bihar",
+    "e-District Services",
+    "Bihar Bhumi",
+    "Bihar e-Procurement",
+    "Bihar Right to Public Services Portal"
+  ],
+
+  "citizenServices": [
+    "Birth Certificate",
+    "Death Certificate",
+    "Caste Certificate",
+    "Income Certificate",
+    "Residence Certificate",
+    "Driving Licence Services",
+    "Property Registration",
+    "Online Land Records"
+  ]
+},
+
+  "lawAndOrder": {
+  "policeDistrict": "Jehanabad Police District",
+
+  "policeStations": [
+    "Jehanabad",
+    "Kako",
+    "Makhdumpur",
+    "Ghosi",
+    "Hulasganj"
+  ],
+
+  "womenPoliceStations": [
+    "Mahila Police Station, Jehanabad"
+  ],
+
+  "cyberCrimePoliceStation": "Cyber Crime Police Station, Jehanabad",
+
+  "trafficPolice": "Traffic Police regulate traffic and enforce road safety across the district.",
+
+  "prisons": [
+    "District Jail, Jehanabad"
+  ],
+
+  "emergencyNumbers": [
+    "112 (Emergency Response Support System)",
+    "100 (Police)",
+    "101 (Fire)",
+    "108 (Ambulance)"
+  ],
+
+  "crimePreventionInitiatives": [
+    "Community Policing",
+    "Cyber Crime Awareness Campaigns",
+    "Women Safety Initiatives",
+    "Road Safety Awareness Programmes",
+    "Anti-Drug Awareness Campaigns"
+  ],
+
+  "disasterManagement": "The District Disaster Management Authority (DDMA), Jehanabad coordinates disaster preparedness, flood management, drought response and emergency relief operations."
+},
+
+  "environment": {
+  "forestCover": "Forest cover is limited, mainly concentrated in parts of Kako and Hulasganj blocks.",
+
+  "majorForests": [
+    "Kako Forest Area",
+    "Hulasganj Forest Area"
+  ],
+
+  "protectedAreas": [],
+
+  "wetlands": [
+    "Punpun River Floodplain Wetlands",
+    "Village Ponds",
+    "Seasonal Wetlands"
+  ],
+
+  "rivers": [
+    "Dardha",
+    "Punpun"
+  ],
+
+  "lakes": [
+    "Village Ponds",
+    "Irrigation Reservoirs"
+  ],
+
+  "biodiversity": [
+    "Peacock",
+    "Nilgai",
+    "Reptiles"
+  ],
+
+  "environmentalIssues": [
+    "Deforestation",
+    "Soil Erosion",
+    "Groundwater Depletion",
+    "Air Pollution"
+  ],
+
+  "conservationInitiatives": [
+    "Jal-Jeevan-Hariyali Abhiyan",
+    "Tree Plantation Drives",
+    "Water Conservation Programmes",
+    "Rainwater Harvesting",
+    "Plastic Waste Management Campaigns"
+  ]
+},
+
+  "mediaAndCommunication": {
+  "newspapers": [
+    "Hindustan",
+    "Dainik Jagran",
+    "Prabhat Khabar"
+  ],
+
+  "televisionChannels": [
+    "DD Bihar",
+    "News18 Bihar Jharkhand"
+  ],
+
+  "radioStations": [
+    "All India Radio Patna",
+    "FM Rainbow Patna"
+  ],
+
+  "newsPortals": [
+    "Jehanabad District Administration Website",
+    "Bihar Government Portal",
+    "State e-District Portal"
+  ],
+
+  "postalServices": "India Post provides postal and parcel services through post offices across Jehanabad district.",
+
+  "telecommunication": "4G and 5G mobile connectivity is available in most parts of the district.",
+
+  "internetProviders": [
+    "BSNL",
+    "JioFiber",
+    "Airtel Xstream Fiber"
+  ],
+
+  "mobileNetworkOperators": [
+    "Jio",
+    "Airtel",
+    "Vi",
+    "BSNL"
+  ],
+
+  "digitalMedia": [
+    "Official District Website",
+    "Bihar Government Social Media Pages",
+    "Digital Citizen Service Portals"
+  ]
+},
+
+  "rankingsAndAchievements": {
+  "stateRankings": [
+    "Important administrative district of Magadh Division",
+    "Developing education and agriculture district of Bihar",
+    "Known for historical and archaeological importance"
+  ],
+
+  "nationalRankings": [
+    "Known for Barabar Caves, one of India's oldest rock-cut cave complexes",
+    "Important agricultural district in eastern India",
+    "Growing road and public infrastructure"
+  ],
+
+  "awards": [],
+
+  "notableAchievements": [
+    "Barabar Caves are among the oldest surviving rock-cut caves in India",
+    "Steady improvement in literacy and educational facilities",
+    "Expansion of road connectivity and public services",
+    "Increasing agricultural productivity"
+  ],
+
+  "developmentIndicators": [
+    "Expansion of road connectivity",
+    "Improvement in healthcare and educational infrastructure",
+    "Expansion of digital connectivity",
+    "Growth in agriculture and irrigation",
+    "Improvement in public service delivery"
+  ],
+
+  "records": [
+    "Home to the ancient Barabar Caves",
+    "Historically associated with the Magadha Kingdom",
+    "One of the important districts of central Bihar"
+  ]
+},
+
+  "miscellaneous": {
+  "famousPersonalities": [
+    "Emperor Ashoka",
+    "Dashrath Manjhi"
+  ],
+
+  "nicknames": [
+    "Land of Barabar Caves",
+    "Historic District of Magadh"
+  ],
+
+  "importantDates": [
+    "6th Century BCE – Part of the ancient Magadha Kingdom",
+    "3rd Century BCE – Barabar Caves developed during Emperor Ashoka's reign",
+    "1 August 1986 – Jehanabad district was created"
+  ],
+
+  "festivals": [
+    "Chhath Puja",
+    "Durga Puja",
+    "Makar Sankranti"
+  ],
+
+  "localFoods": [
+    "Litti Chokha",
+    "Khaja",
+    "Thekua",
+    "Tilkut"
+  ],
+
+  "famousMarkets": [
+    "Jehanabad Main Market",
+    "Kako Bazaar",
+    "Makhdumpur Market"
+  ],
+
+  "emergencyContacts": [
+    "Police – 112",
+    "Ambulance – 108",
+    "Women Helpline – 181"
+  ],
+
+  "officialWebsite": "https://jehanabad.nic.in",
+
+  "additionalInformation": [
+    "Jehanabad is known for the historic Barabar Caves located nearby.",
+    "Agriculture is the primary occupation of the district.",
+    "The district forms an important part of the Magadh region of Bihar.",
+    "Road connectivity has improved significantly in recent years."
+  ]
+}
+}

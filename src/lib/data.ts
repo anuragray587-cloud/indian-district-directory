@@ -16,6 +16,7 @@ import eastChamparanData from "@/data/districts/bihar/east-champaran.json";
 import gayaData from "@/data/districts/bihar/gaya.json";
 import gopalganjData from "@/data/districts/bihar/gopalganj.json";
 import jamuiData from "@/data/districts/bihar/jamui.json";
+import jehanabadData from "@/data/districts/bihar/jehanabad.json";
 
 // The JSON is the single source of truth. Casting once here means every
 // caller elsewhere in the app gets full type safety for free.
@@ -122,6 +123,9 @@ export function getDistrictData(
   }
   if (district === "jamui") {
     return jamuiData as DistrictData;
+  }
+  if (district === "jehanabad") {
+    return jehanabadData as DistrictData;
   }
 }
 
