@@ -39,7 +39,7 @@ const navItems = [
     Indian District Directory
   </span>
   <span className="hidden sm:block text-xs text-slate-500">
-    India's Complete District Information Portal
+    India&apos;s Complete District Information Portal
   </span>
 </div>
         </Link>

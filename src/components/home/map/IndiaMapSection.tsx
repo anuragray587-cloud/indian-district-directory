@@ -16,14 +16,14 @@ export function IndiaMapSection() {
         {/* Section Header */}
         <div className="mx-auto mb-16 max-w-4xl text-center">
         <span className="inline-flex items-center rounded-full border border-blue-200 bg-blue-50 px-5 py-2 text-sm font-semibold tracking-wide text-blue-700 shadow-sm">
-          🇮🇳 India's Interactive Explorer
+          🇮🇳 India&apos;s Interactive Explorer
           </span>
           <h2 className="mt-6 text-4xl font-extrabold leading-tight tracking-tight text-slate-900 md:text-6xl">
            Explore Every State &<br />
            Union Territory of India
           </h2>
           <p className="mx-auto mt-6 max-w-2xl text-lg leading-8 text-slate-600">
-           Navigate through India's states and union territories using the
+           Navigate through India&apos;s states and union territories using the
            interactive map. Instantly preview key information and explore
            detailed district-level data with a single click.
           </p>

@@ -21,15 +21,15 @@ export function FeaturedDistrictsSection() {
         {/* Header */}
         <div className="mx-auto max-w-3xl text-center">
           <span className="inline-flex items-center rounded-full border border-emerald-200 bg-emerald-50 px-4 py-2 text-sm font-semibold text-emerald-700">
-            ⭐ Today's Featured Districts
+            ⭐ Today&apos;s Featured Districts
           </span>
 
           <h2 className="mt-6 text-4xl font-bold tracking-tight text-slate-900 md:text-5xl">
-            Discover India's Districts
+            Discover India&apos;s Districts
           </h2>
 
           <p className="mt-6 text-lg leading-8 text-slate-600">
-            Explore detailed information about India's districts,
+            Explore detailed information about India&apos;s districts,
             refreshed daily and selected from across the country.
           </p>
         </div>

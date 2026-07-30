@@ -2,7 +2,7 @@ export function HeroContent() {
   return (
     <div className="max-w-2xl">
       <span className="inline-flex items-center rounded-full border border-green-200 bg-green-50 px-4 py-1.5 text-xs font-semibold text-green-700 shadow-sm">
-        🇮🇳 India's Most Trusted District Information Portal
+        🇮🇳 India&apos;s Most Trusted District Information Portal
       </span>
 
       <h1 className="mt-8 text-5xl font-extrabold leading-[0.92] tracking-tight text-slate-900 md:text-7xl">

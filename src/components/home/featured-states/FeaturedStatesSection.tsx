@@ -19,7 +19,9 @@ function getFeaturedStates<T>(items: T[], count: number): T[] {
   for (let i = shuffled.length - 1; i > 0; i--) {
     seed = (seed * 9301 + 49297) % 233280;
     const j = Math.floor((seed / 233280) * (i + 1));
-    [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+    const temp = shuffled[i]!;
+shuffled[i] = shuffled[j]!;
+shuffled[j] = temp;
   }
 
   // Which group of 4 today
@@ -43,16 +45,16 @@ const featuredStates = getFeaturedStates(states, 4);
         <div className="rounded-[36px] border border-slate-200 bg-white/20 p-5 shadow-2xl backdrop-blur-sm md:p-10">
         <div className="mx-auto max-w-3xl text-center">
           <span className="inline-flex items-center rounded-full border border-blue-200 bg-blue-50 px-4 py-2 text-sm font-semibold text-blue-700">
-            ⭐ Today's Featured States
+            ⭐ Today&apos;s Featured States
           </span>
 
           <h2 className="mt-6 text-4xl font-bold tracking-tight text-slate-900 md:text-5xl">
-            Browse India's States & Union Territories
+            Browse India&apos;s States & Union Territories
           </h2>
 
           <p className="mt-6 text-lg leading-8 text-slate-600">
-            Explore India's diverse States and Union Territories with detailed
-            district-level information. Start with today's featured selections
+            Explore India&apos;s diverse States and Union Territories with detailed
+            district-level information. Start with today&apos;s featured selections
             or browse the complete directory.
           </p>
         </div>
