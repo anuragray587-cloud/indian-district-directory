@@ -50,7 +50,7 @@ export function StateFAQ() {
         </h2>
 
         <p className="mx-auto mt-4 max-w-2xl text-slate-600">
-          Answers to the most common questions about India's States,
+          Answers to the most common questions about India&apos;s States,
           Union Territories and districts.
         </p>
       </div>

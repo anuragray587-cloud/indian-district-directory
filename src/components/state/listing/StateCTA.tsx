@@ -4,11 +4,11 @@ export function StateCTA() {
       <div className="overflow-hidden rounded-3xl bg-gradient-to-r from-blue-600 via-blue-700 to-indigo-700 px-8 py-14 text-center shadow-xl">
 
         <span className="inline-flex rounded-full bg-white/15 px-4 py-1 text-sm font-semibold text-white">
-          🇮🇳 India's Complete Directory
+          🇮🇳 India&apos;s Complete Directory
         </span>
 
         <h2 className="mt-6 text-3xl font-bold text-white md:text-5xl">
-          Ready to Explore India's Districts?
+          Ready to Explore India&apos;s Districts?
         </h2>
 
         <p className="mx-auto mt-5 max-w-2xl text-lg leading-8 text-blue-100">

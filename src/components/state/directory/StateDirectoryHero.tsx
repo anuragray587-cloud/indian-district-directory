@@ -23,7 +23,7 @@ export function StateDirectoryHero({
         </span>
 
         <h1 className="mt-6 text-4xl font-bold tracking-tight text-slate-900 md:text-5xl">
-          Explore India's States &amp; Union Territories
+          Explore India&apos;s States &amp; Union Territories
         </h1>
 
         <p className="mx-auto mt-5 max-w-[720px] text-lg leading-8 text-slate-600">

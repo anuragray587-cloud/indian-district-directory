@@ -30,7 +30,7 @@ export function StateStatistics() {
         </h2>
 
         <p className="mx-auto mt-4 max-w-2xl text-slate-600">
-          Quick facts about India's administrative divisions and geography.
+          Quick facts about India&apos;s administrative divisions and geography.
         </p>
       </div>
 
