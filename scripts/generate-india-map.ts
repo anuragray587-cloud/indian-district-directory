@@ -53,7 +53,7 @@ const projection = geoMercator().fitSize([800, 828], geojson as any);
 const pathGenerator = geoPath(projection);
 
 const paths = geojson.features
-  .map((feature) => {
+  .map((feature: any) => {
     const d = pathGenerator(feature as any);
 
     if (!d) return "";
