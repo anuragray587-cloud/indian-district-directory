@@ -1,6 +1,22 @@
-export function HeroSearch() {
+type HeroSearchProps = {
+  placeholder?: string;
+  buttonText?: string;
+  className?: string;
+  value?: string;
+  onChange?: (value: string) => void;
+  onSearch?: () => void;
+};
+
+export function HeroSearch({
+  placeholder,
+  buttonText,
+  className,
+  value = "",
+  onChange,
+  onSearch,
+}: HeroSearchProps) {
   return (
-    <div className="mt-8 flex flex-col gap-4 sm:flex-row sm:gap-3">
+    <div className={`mt-8 flex flex-col gap-2 sm:flex-row sm:gap-1.5 ${className}`}>
       <div className="relative flex-1">
         <svg
           xmlns="http://www.w3.org/2000/svg"
@@ -18,14 +34,24 @@ export function HeroSearch() {
         </svg>
 
         <input
-          type="text"
-          placeholder="Search any State, District, PIN Code or Capital..."
-          className="h-[60px] w-full rounded-2xl border border-slate-300 bg-white pl-14 pr-5 text-base shadow-md outline-none transition-all placeholder:text-slate-400 focus:border-blue-500 focus:ring-4 focus:ring-blue-100"
-        />
+  type="text"
+  value={value}
+  onChange={(e) => onChange?.(e.target.value)}
+  onKeyDown={(e) => {
+  if (e.key === "Enter") {
+    onSearch?.();
+  }
+}} 
+ placeholder={placeholder}
+  className="h-[56px] w-full rounded-2xl border border-slate-300 bg-white pl-14 pr-5 text-base text-slate-900 shadow-md outline-none transition-all placeholder:text-slate-500 focus:border-blue-500 focus:ring-4 focus:ring-blue-100"
+/>
       </div>
 
-      <button className="h-[60px] rounded-2xl bg-gradient-to-r from-blue-600 to-blue-700 px-10 font-semibold text-white shadow-xl transition-all duration-300 hover:-translate-y-1 hover:shadow-2xl active:scale-[0.98]">
-        Search
+      <button
+  onClick={onSearch}
+  className="h-[56px] rounded-2xl bg-gradient-to-r from-blue-600 to-blue-700 px-7 font-semibold text-white shadow-xl transition-all duration-300 hover:-translate-y-1 hover:shadow-2xl active:scale-[0.98]"
+>
+        {buttonText}
       </button>
     </div>
   );

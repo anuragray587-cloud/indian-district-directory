@@ -2,16 +2,19 @@
 
 import { useEffect, useRef } from "react";
 import { ReactSVG } from "react-svg";
-import { stateSlugMap } from "./stateSlugMap";
 
 type IndiaSvgProps = {
-  selectedSlug: string;
-  onSelectState: (slug: string) => void;
+  selectedSlug?: string;
+  onSelectState?: (slug: string) => void;
+  onHoverState?: (slug: string) => void;
+  className?: string;
 };
 
 export function IndiaSvg({
   selectedSlug,
   onSelectState,
+  onHoverState,
+  className,
 }: IndiaSvgProps) {
   const svgRef = useRef<SVGSVGElement | null>(null);
 
@@ -19,11 +22,15 @@ export function IndiaSvg({
   useEffect(() => {
     if (!svgRef.current) return;
 
-    const paths = svgRef.current.querySelectorAll<SVGPathElement>("path[name]");
+    const paths = svgRef.current.querySelectorAll<SVGPathElement>("path[id]");
 
     paths.forEach((path) => {
-      const stateName = path.getAttribute("name");
-      const slug = stateName ? stateSlugMap[stateName] : undefined;
+console.log(
+  "Effect:",
+  path.getAttribute("id"),
+  selectedSlug
+);
+const slug = path.getAttribute("id") ?? undefined;
 
       path.classList.remove("selected-state");
 
@@ -34,10 +41,12 @@ export function IndiaSvg({
   }, [selectedSlug]);
 
   return (
-    <div className="india-map flex h-full w-full items-center justify-center overflow-hidden">
+      <div
+  className={`india-map flex h-full w-full items-center justify-center overflow-hidden ${className ?? ""}`}
+>
       <ReactSVG
         src="/maps/india.svg"
-        className="w-full h-full [&>div]:flex [&>div]:h-full [&>div]:w-full [&>div]:items-center [&>div]:justify-center [&_svg]:h-[96%] [&_svg]:w-[96%]"
+        className="w-full h-full [&>div]:flex [&>div]:h-full [&>div]:w-full [&>div]:items-center [&>div]:justify-center [&_svg]:h-full [&_svg]:w-full [&_svg]:max-h-none"
         afterInjection={(svg) => {
           svgRef.current = svg;
 
@@ -48,30 +57,27 @@ export function IndiaSvg({
           );
 
           style.textContent = `
-            path[name]{
-  fill:#6f9c76;
-  cursor:pointer;
-  transition:fill .25s ease, filter .25s ease;
+path[id]{
+fill:#e2e8f0;
+cursor:pointer;
+transition:all .25s ease;
 }
 
-path[name].selected-state{
-  fill:#2563eb !important;
-  filter:none;
+path[id].selected-state{
+fill:#2563eb !important;
 }
 
-path[name]:hover:not(.selected-state){
-  fill:#3b82f6;
-  filter:none;
+path[id]:hover:not(.selected-state){
+fill:#60a5fa;
 }
           `;
 
           svg.prepend(style);
 
-          const paths = svg.querySelectorAll<SVGPathElement>("path[name]");
+          const paths = svg.querySelectorAll<SVGPathElement>("path[id]");
 
 paths.forEach((path) => {
-  const stateName = path.getAttribute("name");
-  const slug = stateName ? stateSlugMap[stateName] : undefined;
+const slug = path.getAttribute("id") ?? undefined;
 
   if (!slug) return;
 
@@ -80,15 +86,13 @@ paths.forEach((path) => {
     path.classList.add("selected-state");
   }
 
-  path.addEventListener("click", () => {
-    // Remove old selection
-    paths.forEach((p) => p.classList.remove("selected-state"));
-
-    // Highlight clicked state
-    path.classList.add("selected-state");
-
-    onSelectState(slug);
-  });
+path.addEventListener("mouseenter", () => {
+  onHoverState?.(slug);
+}); 
+path.addEventListener("click", () => {
+  console.log("Clicked:", slug);
+  onSelectState?.(slug);
+});
 });
         }}
       />
