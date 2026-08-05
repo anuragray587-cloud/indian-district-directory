@@ -1,4 +1,5 @@
 import rawData from "@/data/states.json";
+import districtIndex from "@/data/districts.json";
 import type { District, StateOrUT } from "@/types";
 import begusaraiData from "@/data/districts/bihar/begusarai.json"; 
 import samastipurData from "@/data/districts/bihar/samastipur.json";
@@ -68,6 +69,20 @@ export function getAllDistrictParams(): { state: string; district: string }[] {
 /** Every state/UT slug in the dataset, for generateStaticParams. */
 export function getAllRegionSlugs(): { state: string }[] {
   return regions.map((r) => ({ state: r.slug }));
+}
+export type DistrictIndex = {
+  state: string;
+  stateSlug: string;
+  name: string;
+  slug: string;
+};
+
+const districts = districtIndex as DistrictIndex[];
+
+export function getAllDistricts(): DistrictIndex[] {
+  return [...districts].sort((a, b) =>
+    a.name.localeCompare(b.name)
+  );
 }
 type DistrictData = Record<string, unknown>;
 
